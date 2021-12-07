@@ -30,17 +30,16 @@ def to_trading_periods(trading_time_config):
     return periods
 
 
-class InstrumentBook:
+class BaseInstrumentBook:
+    config_file_path = None
 
     def __init__(self):
-        config_file_path = Path(__file__).parent / 'data' / 'instruments.toml'
-        config = toml.load(config_file_path)
+        config = toml.load(self.config_file_path)
         self.instruments = config['instruments']
         expire_date = config['expire_date']
         now = datetime.now()
         if now.date() > expire_date:
             warnings.warn('the instruments config is expired...')
-
         # cache
         self.symbol_trading_periods = {}
         self.instrument_id_instruments = {}
@@ -75,3 +74,11 @@ class InstrumentBook:
             if p[0] <= marked_ts < p[1]:
                 return True
         return False
+
+
+class FuturesInstrumentBook(BaseInstrumentBook):
+    config_file_path = Path(__file__).parent / 'data' / 'futures.toml'
+
+
+class OptionsInstrumentBook(BaseInstrumentBook):
+    config_file_path = Path(__file__).parent / 'data' / 'options.toml'

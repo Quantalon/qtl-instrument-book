@@ -1,16 +1,31 @@
-from qtl_instrument_book import InstrumentBook
+from qtl_instrument_book import FuturesInstrumentBook
+from qtl_instrument_book import OptionsInstrumentBook
 
 
 def test():
-    instrument_book = InstrumentBook()
+    symbol = 'INE.sc2203'
+    futures_instrument_book = FuturesInstrumentBook()
 
-    i = instrument_book.get_instrument('INE.sc2203')
+    i = futures_instrument_book.get_instrument(symbol)
     print(i)
 
-    i = instrument_book.get_instrument_by_id('sc2203')
+    i = futures_instrument_book.get_instrument_by_id('sc2203')
     print(i)
 
-    instrument_book.is_trading_time()
+    r = futures_instrument_book.is_trading_time(symbol)
+    print(r)
+
+    symbol = 'CFFEX.IO2202-C-5000'
+    options_instrument_book = OptionsInstrumentBook()
+
+    i = options_instrument_book.get_instrument(symbol)
+    print(i)
+
+    i = options_instrument_book.get_instrument_by_id('IO2202-C-5000')
+    print(i)
+
+    r = options_instrument_book.is_trading_time(symbol)
+    print(r)
 
 
 if __name__ == '__main__':

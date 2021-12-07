@@ -1,5 +1,5 @@
-last_update_date = 2021-12-03
-expire_date = 2022-01-02
+last_update_date = 2021-12-07
+expire_date = 2022-01-06
 
 [instruments."INE.sc2203"]
 exchange_id = "INE"
@@ -9,7 +9,6 @@ price_decs = 1
 product_id = "sc"
 product_short_name = "原油"
 product_class = "FUTURES"
-symbol = "INE.sc2203"
 id = "sc2203"
 name = "原油2203"
 
@@ -21,7 +20,6 @@ price_decs = 1
 product_id = "sc"
 product_short_name = "原油"
 product_class = "FUTURES"
-symbol = "INE.sc2206"
 id = "sc2206"
 name = "原油2206"
 
@@ -33,7 +31,6 @@ price_decs = 1
 product_id = "sc"
 product_short_name = "原油"
 product_class = "FUTURES"
-symbol = "INE.sc2209"
 id = "sc2209"
 name = "原油2209"
 
@@ -45,7 +42,6 @@ price_decs = 1
 product_id = "sc"
 product_short_name = "原油"
 product_class = "FUTURES"
-symbol = "INE.sc2212"
 id = "sc2212"
 name = "原油2212"
 
@@ -57,7 +53,6 @@ price_decs = 0
 product_id = "bu"
 product_short_name = "沥青"
 product_class = "FUTURES"
-symbol = "SHFE.bu2112"
 id = "bu2112"
 name = "沥青2112"
 
@@ -69,7 +64,6 @@ price_decs = 1
 product_id = "sc"
 product_short_name = "原油"
 product_class = "FUTURES"
-symbol = "INE.sc2303"
 id = "sc2303"
 name = "原油2303"
 
@@ -81,7 +75,6 @@ price_decs = 0
 product_id = "bu"
 product_short_name = "沥青"
 product_class = "FUTURES"
-symbol = "SHFE.bu2203"
 id = "bu2203"
 name = "沥青2203"
 
@@ -93,7 +86,6 @@ price_decs = 1
 product_id = "sc"
 product_short_name = "原油"
 product_class = "FUTURES"
-symbol = "INE.sc2306"
 id = "sc2306"
 name = "原油2306"
 
@@ -105,7 +97,6 @@ price_decs = 0
 product_id = "bu"
 product_short_name = "沥青"
 product_class = "FUTURES"
-symbol = "SHFE.bu2206"
 id = "bu2206"
 name = "沥青2206"
 
@@ -117,7 +108,6 @@ price_decs = 1
 product_id = "sc"
 product_short_name = "原油"
 product_class = "FUTURES"
-symbol = "INE.sc2309"
 id = "sc2309"
 name = "原油2309"
 
@@ -129,7 +119,6 @@ price_decs = 0
 product_id = "bu"
 product_short_name = "沥青"
 product_class = "FUTURES"
-symbol = "SHFE.bu2209"
 id = "bu2209"
 name = "沥青2209"
 
@@ -141,7 +130,6 @@ price_decs = 2
 product_id = "au"
 product_short_name = "沪金"
 product_class = "FUTURES"
-symbol = "SHFE.au2112"
 id = "au2112"
 name = "沪金2112"
 
@@ -153,7 +141,6 @@ price_decs = 1
 product_id = "sc"
 product_short_name = "原油"
 product_class = "FUTURES"
-symbol = "INE.sc2312"
 id = "sc2312"
 name = "原油2312"
 
@@ -165,7 +152,6 @@ price_decs = 1
 product_id = "ZC"
 product_short_name = "郑煤"
 product_class = "FUTURES"
-symbol = "CZCE.ZC112"
 id = "ZC112"
 name = "郑煤2112"
 
@@ -177,7 +163,6 @@ price_decs = 0
 product_id = "AP"
 product_short_name = "苹果"
 product_class = "FUTURES"
-symbol = "CZCE.AP112"
 id = "AP112"
 name = "苹果2112"
 
@@ -189,7 +174,6 @@ price_decs = 0
 product_id = "CJ"
 product_short_name = "红枣"
 product_class = "FUTURES"
-symbol = "CZCE.CJ112"
 id = "CJ112"
 name = "红枣2112"
 
@@ -201,7 +185,6 @@ price_decs = 0
 product_id = "CY"
 product_short_name = "棉纱"
 product_class = "FUTURES"
-symbol = "CZCE.CY112"
 id = "CY112"
 name = "棉纱2112"
 
@@ -213,7 +196,6 @@ price_decs = 0
 product_id = "FG"
 product_short_name = "玻璃"
 product_class = "FUTURES"
-symbol = "CZCE.FG112"
 id = "FG112"
 name = "玻璃2112"
 
@@ -225,7 +207,6 @@ price_decs = 0
 product_id = "MA"
 product_short_name = "甲醇"
 product_class = "FUTURES"
-symbol = "CZCE.MA112"
 id = "MA112"
 name = "甲醇2112"
 
@@ -237,7 +218,6 @@ price_decs = 0
 product_id = "PF"
 product_short_name = "短纤"
 product_class = "FUTURES"
-symbol = "CZCE.PF112"
 id = "PF112"
 name = "短纤2112"
 
@@ -249,7 +229,6 @@ price_decs = 0
 product_id = "SA"
 product_short_name = "纯碱"
 product_class = "FUTURES"
-symbol = "CZCE.SA112"
 id = "SA112"
 name = "纯碱2112"
 
@@ -261,7 +240,6 @@ price_decs = 0
 product_id = "SF"
 product_short_name = "硅铁"
 product_class = "FUTURES"
-symbol = "CZCE.SF112"
 id = "SF112"
 name = "硅铁2112"
 
@@ -273,7 +251,6 @@ price_decs = 0
 product_id = "SM"
 product_short_name = "锰硅"
 product_class = "FUTURES"
-symbol = "CZCE.SM112"
 id = "SM112"
 name = "锰硅2112"
 
@@ -285,7 +262,6 @@ price_decs = 0
 product_id = "TA"
 product_short_name = "PTA"
 product_class = "FUTURES"
-symbol = "CZCE.TA112"
 id = "TA112"
 name = "PTA2112"
 
@@ -297,7 +273,6 @@ price_decs = 0
 product_id = "UR"
 product_short_name = "尿素"
 product_class = "FUTURES"
-symbol = "CZCE.UR112"
 id = "UR112"
 name = "尿素2112"
 
@@ -309,7 +284,6 @@ price_decs = 1
 product_id = "j"
 product_short_name = "焦炭"
 product_class = "FUTURES"
-symbol = "DCE.j2112"
 id = "j2112"
 name = "焦炭2112"
 
@@ -321,7 +295,6 @@ price_decs = 1
 product_id = "i"
 product_short_name = "铁矿"
 product_class = "FUTURES"
-symbol = "DCE.i2112"
 id = "i2112"
 name = "铁矿2112"
 
@@ -333,7 +306,6 @@ price_decs = 0
 product_id = "pp"
 product_short_name = "PP"
 product_class = "FUTURES"
-symbol = "DCE.pp2112"
 id = "pp2112"
 name = "PP2112"
 
@@ -345,7 +317,6 @@ price_decs = 0
 product_id = "b"
 product_short_name = "豆二"
 product_class = "FUTURES"
-symbol = "DCE.b2112"
 id = "b2112"
 name = "豆二2112"
 
@@ -357,7 +328,6 @@ price_decs = 2
 product_id = "bb"
 product_short_name = "胶板"
 product_class = "FUTURES"
-symbol = "DCE.bb2112"
 id = "bb2112"
 name = "胶板2112"
 
@@ -369,7 +339,6 @@ price_decs = 0
 product_id = "y"
 product_short_name = "豆油"
 product_class = "FUTURES"
-symbol = "DCE.y2112"
 id = "y2112"
 name = "豆油2112"
 
@@ -381,7 +350,6 @@ price_decs = 1
 product_id = "fb"
 product_short_name = "纤板"
 product_class = "FUTURES"
-symbol = "DCE.fb2112"
 id = "fb2112"
 name = "纤板2112"
 
@@ -393,7 +361,6 @@ price_decs = 0
 product_id = "v"
 product_short_name = "PVC"
 product_class = "FUTURES"
-symbol = "DCE.v2112"
 id = "v2112"
 name = "PVC2112"
 
@@ -405,7 +372,6 @@ price_decs = 0
 product_id = "rr"
 product_short_name = "粳米"
 product_class = "FUTURES"
-symbol = "DCE.rr2112"
 id = "rr2112"
 name = "粳米2112"
 
@@ -417,7 +383,6 @@ price_decs = 0
 product_id = "p"
 product_short_name = "棕榈"
 product_class = "FUTURES"
-symbol = "DCE.p2112"
 id = "p2112"
 name = "棕榈2112"
 
@@ -429,7 +394,6 @@ price_decs = 0
 product_id = "m"
 product_short_name = "豆粕"
 product_class = "FUTURES"
-symbol = "DCE.m2112"
 id = "m2112"
 name = "豆粕2112"
 
@@ -441,7 +405,6 @@ price_decs = 0
 product_id = "l"
 product_short_name = "塑料"
 product_class = "FUTURES"
-symbol = "DCE.l2112"
 id = "l2112"
 name = "塑料2112"
 
@@ -453,7 +416,6 @@ price_decs = 1
 product_id = "jm"
 product_short_name = "焦煤"
 product_class = "FUTURES"
-symbol = "DCE.jm2112"
 id = "jm2112"
 name = "焦煤2112"
 
@@ -465,7 +427,6 @@ price_decs = 0
 product_id = "bc"
 product_short_name = "国际铜"
 product_class = "FUTURES"
-symbol = "INE.bc2112"
 id = "bc2112"
 name = "国际铜2112"
 
@@ -477,7 +438,6 @@ price_decs = 0
 product_id = "nr"
 product_short_name = "20号胶"
 product_class = "FUTURES"
-symbol = "INE.nr2112"
 id = "nr2112"
 name = "20号胶2112"
 
@@ -489,7 +449,6 @@ price_decs = 0
 product_id = "ag"
 product_short_name = "沪银"
 product_class = "FUTURES"
-symbol = "SHFE.ag2112"
 id = "ag2112"
 name = "沪银2112"
 
@@ -501,7 +460,6 @@ price_decs = 0
 product_id = "al"
 product_short_name = "沪铝"
 product_class = "FUTURES"
-symbol = "SHFE.al2112"
 id = "al2112"
 name = "沪铝2112"
 
@@ -513,7 +471,6 @@ price_decs = 0
 product_id = "bu"
 product_short_name = "沥青"
 product_class = "FUTURES"
-symbol = "SHFE.bu2212"
 id = "bu2212"
 name = "沥青2212"
 
@@ -525,7 +482,6 @@ price_decs = 0
 product_id = "cu"
 product_short_name = "沪铜"
 product_class = "FUTURES"
-symbol = "SHFE.cu2112"
 id = "cu2112"
 name = "沪铜2112"
 
@@ -537,7 +493,6 @@ price_decs = 0
 product_id = "hc"
 product_short_name = "热卷"
 product_class = "FUTURES"
-symbol = "SHFE.hc2112"
 id = "hc2112"
 name = "热卷2112"
 
@@ -549,7 +504,6 @@ price_decs = 0
 product_id = "ni"
 product_short_name = "沪镍"
 product_class = "FUTURES"
-symbol = "SHFE.ni2112"
 id = "ni2112"
 name = "沪镍2112"
 
@@ -561,7 +515,6 @@ price_decs = 0
 product_id = "pb"
 product_short_name = "沪铅"
 product_class = "FUTURES"
-symbol = "SHFE.pb2112"
 id = "pb2112"
 name = "沪铅2112"
 
@@ -573,7 +526,6 @@ price_decs = 0
 product_id = "rb"
 product_short_name = "螺纹"
 product_class = "FUTURES"
-symbol = "SHFE.rb2112"
 id = "rb2112"
 name = "螺纹2112"
 
@@ -585,7 +537,6 @@ price_decs = 0
 product_id = "sn"
 product_short_name = "沪锡"
 product_class = "FUTURES"
-symbol = "SHFE.sn2112"
 id = "sn2112"
 name = "沪锡2112"
 
@@ -597,7 +548,6 @@ price_decs = 0
 product_id = "sp"
 product_short_name = "纸浆"
 product_class = "FUTURES"
-symbol = "SHFE.sp2112"
 id = "sp2112"
 name = "纸浆2112"
 
@@ -609,7 +559,6 @@ price_decs = 0
 product_id = "ss"
 product_short_name = "不锈钢"
 product_class = "FUTURES"
-symbol = "SHFE.ss2112"
 id = "ss2112"
 name = "不锈钢2112"
 
@@ -621,7 +570,6 @@ price_decs = 0
 product_id = "wr"
 product_short_name = "线材"
 product_class = "FUTURES"
-symbol = "SHFE.wr2112"
 id = "wr2112"
 name = "线材2112"
 
@@ -633,7 +581,6 @@ price_decs = 0
 product_id = "zn"
 product_short_name = "沪锌"
 product_class = "FUTURES"
-symbol = "SHFE.zn2112"
 id = "zn2112"
 name = "沪锌2112"
 
@@ -645,7 +592,6 @@ price_decs = 0
 product_id = "lu"
 product_short_name = "低硫燃料油"
 product_class = "FUTURES"
-symbol = "INE.lu2201"
 id = "lu2201"
 name = "低硫燃料油2201"
 
@@ -657,7 +603,6 @@ price_decs = 1
 product_id = "sc"
 product_short_name = "原油"
 product_class = "FUTURES"
-symbol = "INE.sc2201"
 id = "sc2201"
 name = "原油2201"
 
@@ -669,7 +614,6 @@ price_decs = 0
 product_id = "fu"
 product_short_name = "燃油"
 product_class = "FUTURES"
-symbol = "SHFE.fu2201"
 id = "fu2201"
 name = "燃油2201"
 
@@ -681,7 +625,6 @@ price_decs = 0
 product_id = "eg"
 product_short_name = "甘醇"
 product_class = "FUTURES"
-symbol = "DCE.eg2112"
 id = "eg2112"
 name = "甘醇2112"
 
@@ -693,7 +636,6 @@ price_decs = 0
 product_id = "eb"
 product_short_name = "苯乙烯"
 product_class = "FUTURES"
-symbol = "DCE.eb2112"
 id = "eb2112"
 name = "苯乙烯2112"
 
@@ -705,7 +647,6 @@ price_decs = 0
 product_id = "pg"
 product_short_name = "LPG"
 product_class = "FUTURES"
-symbol = "DCE.pg2112"
 id = "pg2112"
 name = "LPG2112"
 
@@ -717,7 +658,6 @@ price_decs = 0
 product_id = "jd"
 product_short_name = "鸡蛋"
 product_class = "FUTURES"
-symbol = "DCE.jd2112"
 id = "jd2112"
 name = "鸡蛋2112"
 
@@ -729,7 +669,6 @@ price_decs = 0
 product_id = "lh"
 product_short_name = "生猪"
 product_class = "FUTURES"
-symbol = "DCE.lh2201"
 id = "lh2201"
 name = "生猪2201"
 
@@ -741,7 +680,6 @@ price_decs = 1
 product_id = "ZC"
 product_short_name = "郑煤"
 product_class = "FUTURES"
-symbol = "CZCE.ZC201"
 id = "ZC201"
 name = "郑煤2201"
 
@@ -753,7 +691,6 @@ price_decs = 0
 product_id = "AP"
 product_short_name = "苹果"
 product_class = "FUTURES"
-symbol = "CZCE.AP201"
 id = "AP201"
 name = "苹果2201"
 
@@ -765,7 +702,6 @@ price_decs = 0
 product_id = "CF"
 product_short_name = "棉花"
 product_class = "FUTURES"
-symbol = "CZCE.CF201"
 id = "CF201"
 name = "棉花2201"
 
@@ -777,7 +713,6 @@ price_decs = 0
 product_id = "CJ"
 product_short_name = "红枣"
 product_class = "FUTURES"
-symbol = "CZCE.CJ201"
 id = "CJ201"
 name = "红枣2201"
 
@@ -789,7 +724,6 @@ price_decs = 0
 product_id = "CY"
 product_short_name = "棉纱"
 product_class = "FUTURES"
-symbol = "CZCE.CY201"
 id = "CY201"
 name = "棉纱2201"
 
@@ -801,7 +735,6 @@ price_decs = 0
 product_id = "FG"
 product_short_name = "玻璃"
 product_class = "FUTURES"
-symbol = "CZCE.FG201"
 id = "FG201"
 name = "玻璃2201"
 
@@ -813,7 +746,6 @@ price_decs = 0
 product_id = "JR"
 product_short_name = "粳稻"
 product_class = "FUTURES"
-symbol = "CZCE.JR201"
 id = "JR201"
 name = "粳稻2201"
 
@@ -825,7 +757,6 @@ price_decs = 0
 product_id = "LR"
 product_short_name = "晚稻"
 product_class = "FUTURES"
-symbol = "CZCE.LR201"
 id = "LR201"
 name = "晚稻2201"
 
@@ -837,7 +768,6 @@ price_decs = 0
 product_id = "MA"
 product_short_name = "甲醇"
 product_class = "FUTURES"
-symbol = "CZCE.MA201"
 id = "MA201"
 name = "甲醇2201"
 
@@ -849,7 +779,6 @@ price_decs = 0
 product_id = "OI"
 product_short_name = "菜油"
 product_class = "FUTURES"
-symbol = "CZCE.OI201"
 id = "OI201"
 name = "菜油2201"
 
@@ -861,7 +790,6 @@ price_decs = 0
 product_id = "PF"
 product_short_name = "短纤"
 product_class = "FUTURES"
-symbol = "CZCE.PF201"
 id = "PF201"
 name = "短纤2201"
 
@@ -873,7 +801,6 @@ price_decs = 0
 product_id = "PM"
 product_short_name = "普麦"
 product_class = "FUTURES"
-symbol = "CZCE.PM201"
 id = "PM201"
 name = "普麦2201"
 
@@ -885,7 +812,6 @@ price_decs = 0
 product_id = "RI"
 product_short_name = "早稻"
 product_class = "FUTURES"
-symbol = "CZCE.RI201"
 id = "RI201"
 name = "早稻2201"
 
@@ -897,7 +823,6 @@ price_decs = 0
 product_id = "RM"
 product_short_name = "菜粕"
 product_class = "FUTURES"
-symbol = "CZCE.RM201"
 id = "RM201"
 name = "菜粕2201"
 
@@ -909,7 +834,6 @@ price_decs = 0
 product_id = "SA"
 product_short_name = "纯碱"
 product_class = "FUTURES"
-symbol = "CZCE.SA201"
 id = "SA201"
 name = "纯碱2201"
 
@@ -921,7 +845,6 @@ price_decs = 0
 product_id = "SF"
 product_short_name = "硅铁"
 product_class = "FUTURES"
-symbol = "CZCE.SF201"
 id = "SF201"
 name = "硅铁2201"
 
@@ -933,7 +856,6 @@ price_decs = 0
 product_id = "SM"
 product_short_name = "锰硅"
 product_class = "FUTURES"
-symbol = "CZCE.SM201"
 id = "SM201"
 name = "锰硅2201"
 
@@ -945,7 +867,6 @@ price_decs = 0
 product_id = "SR"
 product_short_name = "白糖"
 product_class = "FUTURES"
-symbol = "CZCE.SR201"
 id = "SR201"
 name = "白糖2201"
 
@@ -957,7 +878,6 @@ price_decs = 0
 product_id = "TA"
 product_short_name = "PTA"
 product_class = "FUTURES"
-symbol = "CZCE.TA201"
 id = "TA201"
 name = "PTA2201"
 
@@ -969,7 +889,6 @@ price_decs = 0
 product_id = "UR"
 product_short_name = "尿素"
 product_class = "FUTURES"
-symbol = "CZCE.UR201"
 id = "UR201"
 name = "尿素2201"
 
@@ -981,7 +900,6 @@ price_decs = 0
 product_id = "WH"
 product_short_name = "强麦"
 product_class = "FUTURES"
-symbol = "CZCE.WH201"
 id = "WH201"
 name = "强麦2201"
 
@@ -993,7 +911,6 @@ price_decs = 0
 product_id = "bc"
 product_short_name = "国际铜"
 product_class = "FUTURES"
-symbol = "INE.bc2201"
 id = "bc2201"
 name = "国际铜2201"
 
@@ -1005,7 +922,6 @@ price_decs = 0
 product_id = "nr"
 product_short_name = "20号胶"
 product_class = "FUTURES"
-symbol = "INE.nr2201"
 id = "nr2201"
 name = "20号胶2201"
 
@@ -1017,7 +933,6 @@ price_decs = 1
 product_id = "j"
 product_short_name = "焦炭"
 product_class = "FUTURES"
-symbol = "DCE.j2201"
 id = "j2201"
 name = "焦炭2201"
 
@@ -1029,7 +944,6 @@ price_decs = 1
 product_id = "i"
 product_short_name = "铁矿"
 product_class = "FUTURES"
-symbol = "DCE.i2201"
 id = "i2201"
 name = "铁矿2201"
 
@@ -1041,7 +955,6 @@ price_decs = 1
 product_id = "fb"
 product_short_name = "纤板"
 product_class = "FUTURES"
-symbol = "DCE.fb2201"
 id = "fb2201"
 name = "纤板2201"
 
@@ -1053,7 +966,6 @@ price_decs = 0
 product_id = "pp"
 product_short_name = "PP"
 product_class = "FUTURES"
-symbol = "DCE.pp2201"
 id = "pp2201"
 name = "PP2201"
 
@@ -1065,7 +977,6 @@ price_decs = 0
 product_id = "b"
 product_short_name = "豆二"
 product_class = "FUTURES"
-symbol = "DCE.b2201"
 id = "b2201"
 name = "豆二2201"
 
@@ -1077,7 +988,6 @@ price_decs = 2
 product_id = "bb"
 product_short_name = "胶板"
 product_class = "FUTURES"
-symbol = "DCE.bb2201"
 id = "bb2201"
 name = "胶板2201"
 
@@ -1089,7 +999,6 @@ price_decs = 0
 product_id = "a"
 product_short_name = "豆一"
 product_class = "FUTURES"
-symbol = "DCE.a2201"
 id = "a2201"
 name = "豆一2201"
 
@@ -1101,7 +1010,6 @@ price_decs = 0
 product_id = "y"
 product_short_name = "豆油"
 product_class = "FUTURES"
-symbol = "DCE.y2201"
 id = "y2201"
 name = "豆油2201"
 
@@ -1113,7 +1021,6 @@ price_decs = 0
 product_id = "cs"
 product_short_name = "淀粉"
 product_class = "FUTURES"
-symbol = "DCE.cs2201"
 id = "cs2201"
 name = "淀粉2201"
 
@@ -1125,7 +1032,6 @@ price_decs = 0
 product_id = "c"
 product_short_name = "玉米"
 product_class = "FUTURES"
-symbol = "DCE.c2201"
 id = "c2201"
 name = "玉米2201"
 
@@ -1137,7 +1043,6 @@ price_decs = 0
 product_id = "v"
 product_short_name = "PVC"
 product_class = "FUTURES"
-symbol = "DCE.v2201"
 id = "v2201"
 name = "PVC2201"
 
@@ -1149,7 +1054,6 @@ price_decs = 0
 product_id = "rr"
 product_short_name = "粳米"
 product_class = "FUTURES"
-symbol = "DCE.rr2201"
 id = "rr2201"
 name = "粳米2201"
 
@@ -1161,7 +1065,6 @@ price_decs = 0
 product_id = "p"
 product_short_name = "棕榈"
 product_class = "FUTURES"
-symbol = "DCE.p2201"
 id = "p2201"
 name = "棕榈2201"
 
@@ -1173,7 +1076,6 @@ price_decs = 0
 product_id = "m"
 product_short_name = "豆粕"
 product_class = "FUTURES"
-symbol = "DCE.m2201"
 id = "m2201"
 name = "豆粕2201"
 
@@ -1185,7 +1087,6 @@ price_decs = 0
 product_id = "l"
 product_short_name = "塑料"
 product_class = "FUTURES"
-symbol = "DCE.l2201"
 id = "l2201"
 name = "塑料2201"
 
@@ -1197,7 +1098,6 @@ price_decs = 0
 product_id = "ag"
 product_short_name = "沪银"
 product_class = "FUTURES"
-symbol = "SHFE.ag2201"
 id = "ag2201"
 name = "沪银2201"
 
@@ -1209,7 +1109,6 @@ price_decs = 0
 product_id = "al"
 product_short_name = "沪铝"
 product_class = "FUTURES"
-symbol = "SHFE.al2201"
 id = "al2201"
 name = "沪铝2201"
 
@@ -1221,7 +1120,6 @@ price_decs = 2
 product_id = "au"
 product_short_name = "沪金"
 product_class = "FUTURES"
-symbol = "SHFE.au2202"
 id = "au2202"
 name = "沪金2202"
 
@@ -1233,7 +1131,6 @@ price_decs = 0
 product_id = "cu"
 product_short_name = "沪铜"
 product_class = "FUTURES"
-symbol = "SHFE.cu2201"
 id = "cu2201"
 name = "沪铜2201"
 
@@ -1245,7 +1142,6 @@ price_decs = 0
 product_id = "hc"
 product_short_name = "热卷"
 product_class = "FUTURES"
-symbol = "SHFE.hc2201"
 id = "hc2201"
 name = "热卷2201"
 
@@ -1257,7 +1153,6 @@ price_decs = 0
 product_id = "ni"
 product_short_name = "沪镍"
 product_class = "FUTURES"
-symbol = "SHFE.ni2201"
 id = "ni2201"
 name = "沪镍2201"
 
@@ -1269,7 +1164,6 @@ price_decs = 0
 product_id = "pb"
 product_short_name = "沪铅"
 product_class = "FUTURES"
-symbol = "SHFE.pb2201"
 id = "pb2201"
 name = "沪铅2201"
 
@@ -1281,7 +1175,6 @@ price_decs = 0
 product_id = "rb"
 product_short_name = "螺纹"
 product_class = "FUTURES"
-symbol = "SHFE.rb2201"
 id = "rb2201"
 name = "螺纹2201"
 
@@ -1293,7 +1186,6 @@ price_decs = 1
 product_id = "jm"
 product_short_name = "焦煤"
 product_class = "FUTURES"
-symbol = "DCE.jm2201"
 id = "jm2201"
 name = "焦煤2201"
 
@@ -1305,7 +1197,6 @@ price_decs = 0
 product_id = "ru"
 product_short_name = "橡胶"
 product_class = "FUTURES"
-symbol = "SHFE.ru2201"
 id = "ru2201"
 name = "橡胶2201"
 
@@ -1317,7 +1208,6 @@ price_decs = 0
 product_id = "sn"
 product_short_name = "沪锡"
 product_class = "FUTURES"
-symbol = "SHFE.sn2201"
 id = "sn2201"
 name = "沪锡2201"
 
@@ -1329,7 +1219,6 @@ price_decs = 0
 product_id = "sp"
 product_short_name = "纸浆"
 product_class = "FUTURES"
-symbol = "SHFE.sp2201"
 id = "sp2201"
 name = "纸浆2201"
 
@@ -1341,7 +1230,6 @@ price_decs = 0
 product_id = "ss"
 product_short_name = "不锈钢"
 product_class = "FUTURES"
-symbol = "SHFE.ss2201"
 id = "ss2201"
 name = "不锈钢2201"
 
@@ -1353,7 +1241,6 @@ price_decs = 0
 product_id = "wr"
 product_short_name = "线材"
 product_class = "FUTURES"
-symbol = "SHFE.wr2201"
 id = "wr2201"
 name = "线材2201"
 
@@ -1365,7 +1252,6 @@ price_decs = 0
 product_id = "zn"
 product_short_name = "沪锌"
 product_class = "FUTURES"
-symbol = "SHFE.zn2201"
 id = "zn2201"
 name = "沪锌2201"
 
@@ -1377,7 +1263,6 @@ price_decs = 0
 product_id = "eg"
 product_short_name = "甘醇"
 product_class = "FUTURES"
-symbol = "DCE.eg2201"
 id = "eg2201"
 name = "甘醇2201"
 
@@ -1389,7 +1274,6 @@ price_decs = 0
 product_id = "eb"
 product_short_name = "苯乙烯"
 product_class = "FUTURES"
-symbol = "DCE.eb2201"
 id = "eb2201"
 name = "苯乙烯2201"
 
@@ -1401,7 +1285,6 @@ price_decs = 0
 product_id = "pg"
 product_short_name = "LPG"
 product_class = "FUTURES"
-symbol = "DCE.pg2201"
 id = "pg2201"
 name = "LPG2201"
 
@@ -1413,7 +1296,6 @@ price_decs = 0
 product_id = "jd"
 product_short_name = "鸡蛋"
 product_class = "FUTURES"
-symbol = "DCE.jd2201"
 id = "jd2201"
 name = "鸡蛋2201"
 
@@ -1425,7 +1307,6 @@ price_decs = 0
 product_id = "lu"
 product_short_name = "低硫燃料油"
 product_class = "FUTURES"
-symbol = "INE.lu2202"
 id = "lu2202"
 name = "低硫燃料油2202"
 
@@ -1437,7 +1318,6 @@ price_decs = 1
 product_id = "sc"
 product_short_name = "原油"
 product_class = "FUTURES"
-symbol = "INE.sc2202"
 id = "sc2202"
 name = "原油2202"
 
@@ -1449,7 +1329,6 @@ price_decs = 0
 product_id = "PK"
 product_short_name = "花生仁"
 product_class = "FUTURES"
-symbol = "CZCE.PK112"
 id = "PK112"
 name = "花生仁2112"
 
@@ -1461,7 +1340,6 @@ price_decs = 0
 product_id = "PK"
 product_short_name = "花生仁"
 product_class = "FUTURES"
-symbol = "CZCE.PK201"
 id = "PK201"
 name = "花生仁2201"
 
@@ -1473,7 +1351,6 @@ price_decs = 0
 product_id = "fu"
 product_short_name = "燃油"
 product_class = "FUTURES"
-symbol = "SHFE.fu2202"
 id = "fu2202"
 name = "燃油2202"
 
@@ -1485,7 +1362,6 @@ price_decs = 0
 product_id = "bc"
 product_short_name = "国际铜"
 product_class = "FUTURES"
-symbol = "INE.bc2202"
 id = "bc2202"
 name = "国际铜2202"
 
@@ -1497,7 +1373,6 @@ price_decs = 0
 product_id = "nr"
 product_short_name = "20号胶"
 product_class = "FUTURES"
-symbol = "INE.nr2202"
 id = "nr2202"
 name = "20号胶2202"
 
@@ -1509,7 +1384,6 @@ price_decs = 1
 product_id = "ZC"
 product_short_name = "郑煤"
 product_class = "FUTURES"
-symbol = "CZCE.ZC202"
 id = "ZC202"
 name = "郑煤2202"
 
@@ -1521,7 +1395,6 @@ price_decs = 0
 product_id = "ag"
 product_short_name = "沪银"
 product_class = "FUTURES"
-symbol = "SHFE.ag2202"
 id = "ag2202"
 name = "沪银2202"
 
@@ -1533,7 +1406,6 @@ price_decs = 0
 product_id = "al"
 product_short_name = "沪铝"
 product_class = "FUTURES"
-symbol = "SHFE.al2202"
 id = "al2202"
 name = "沪铝2202"
 
@@ -1545,7 +1417,6 @@ price_decs = 0
 product_id = "cu"
 product_short_name = "沪铜"
 product_class = "FUTURES"
-symbol = "SHFE.cu2202"
 id = "cu2202"
 name = "沪铜2202"
 
@@ -1557,7 +1428,6 @@ price_decs = 0
 product_id = "hc"
 product_short_name = "热卷"
 product_class = "FUTURES"
-symbol = "SHFE.hc2202"
 id = "hc2202"
 name = "热卷2202"
 
@@ -1569,7 +1439,6 @@ price_decs = 0
 product_id = "ni"
 product_short_name = "沪镍"
 product_class = "FUTURES"
-symbol = "SHFE.ni2202"
 id = "ni2202"
 name = "沪镍2202"
 
@@ -1581,7 +1450,6 @@ price_decs = 0
 product_id = "pb"
 product_short_name = "沪铅"
 product_class = "FUTURES"
-symbol = "SHFE.pb2202"
 id = "pb2202"
 name = "沪铅2202"
 
@@ -1593,7 +1461,6 @@ price_decs = 0
 product_id = "rb"
 product_short_name = "螺纹"
 product_class = "FUTURES"
-symbol = "SHFE.rb2202"
 id = "rb2202"
 name = "螺纹2202"
 
@@ -1605,7 +1472,6 @@ price_decs = 0
 product_id = "sn"
 product_short_name = "沪锡"
 product_class = "FUTURES"
-symbol = "SHFE.sn2202"
 id = "sn2202"
 name = "沪锡2202"
 
@@ -1617,7 +1483,6 @@ price_decs = 0
 product_id = "sp"
 product_short_name = "纸浆"
 product_class = "FUTURES"
-symbol = "SHFE.sp2202"
 id = "sp2202"
 name = "纸浆2202"
 
@@ -1629,7 +1494,6 @@ price_decs = 0
 product_id = "ss"
 product_short_name = "不锈钢"
 product_class = "FUTURES"
-symbol = "SHFE.ss2202"
 id = "ss2202"
 name = "不锈钢2202"
 
@@ -1641,7 +1505,6 @@ price_decs = 0
 product_id = "wr"
 product_short_name = "线材"
 product_class = "FUTURES"
-symbol = "SHFE.wr2202"
 id = "wr2202"
 name = "线材2202"
 
@@ -1653,7 +1516,6 @@ price_decs = 0
 product_id = "zn"
 product_short_name = "沪锌"
 product_class = "FUTURES"
-symbol = "SHFE.zn2202"
 id = "zn2202"
 name = "沪锌2202"
 
@@ -1665,7 +1527,6 @@ price_decs = 0
 product_id = "CY"
 product_short_name = "棉纱"
 product_class = "FUTURES"
-symbol = "CZCE.CY202"
 id = "CY202"
 name = "棉纱2202"
 
@@ -1677,7 +1538,6 @@ price_decs = 0
 product_id = "FG"
 product_short_name = "玻璃"
 product_class = "FUTURES"
-symbol = "CZCE.FG202"
 id = "FG202"
 name = "玻璃2202"
 
@@ -1689,7 +1549,6 @@ price_decs = 0
 product_id = "MA"
 product_short_name = "甲醇"
 product_class = "FUTURES"
-symbol = "CZCE.MA202"
 id = "MA202"
 name = "甲醇2202"
 
@@ -1701,7 +1560,6 @@ price_decs = 0
 product_id = "PF"
 product_short_name = "短纤"
 product_class = "FUTURES"
-symbol = "CZCE.PF202"
 id = "PF202"
 name = "短纤2202"
 
@@ -1713,7 +1571,6 @@ price_decs = 0
 product_id = "SA"
 product_short_name = "纯碱"
 product_class = "FUTURES"
-symbol = "CZCE.SA202"
 id = "SA202"
 name = "纯碱2202"
 
@@ -1725,7 +1582,6 @@ price_decs = 0
 product_id = "SF"
 product_short_name = "硅铁"
 product_class = "FUTURES"
-symbol = "CZCE.SF202"
 id = "SF202"
 name = "硅铁2202"
 
@@ -1737,7 +1593,6 @@ price_decs = 0
 product_id = "SM"
 product_short_name = "锰硅"
 product_class = "FUTURES"
-symbol = "CZCE.SM202"
 id = "SM202"
 name = "锰硅2202"
 
@@ -1749,7 +1604,6 @@ price_decs = 0
 product_id = "TA"
 product_short_name = "PTA"
 product_class = "FUTURES"
-symbol = "CZCE.TA202"
 id = "TA202"
 name = "PTA2202"
 
@@ -1761,7 +1615,6 @@ price_decs = 0
 product_id = "UR"
 product_short_name = "尿素"
 product_class = "FUTURES"
-symbol = "CZCE.UR202"
 id = "UR202"
 name = "尿素2202"
 
@@ -1773,7 +1626,6 @@ price_decs = 1
 product_id = "j"
 product_short_name = "焦炭"
 product_class = "FUTURES"
-symbol = "DCE.j2202"
 id = "j2202"
 name = "焦炭2202"
 
@@ -1785,7 +1637,6 @@ price_decs = 1
 product_id = "i"
 product_short_name = "铁矿"
 product_class = "FUTURES"
-symbol = "DCE.i2202"
 id = "i2202"
 name = "铁矿2202"
 
@@ -1797,7 +1648,6 @@ price_decs = 0
 product_id = "pp"
 product_short_name = "PP"
 product_class = "FUTURES"
-symbol = "DCE.pp2202"
 id = "pp2202"
 name = "PP2202"
 
@@ -1809,7 +1659,6 @@ price_decs = 0
 product_id = "b"
 product_short_name = "豆二"
 product_class = "FUTURES"
-symbol = "DCE.b2202"
 id = "b2202"
 name = "豆二2202"
 
@@ -1821,7 +1670,6 @@ price_decs = 2
 product_id = "bb"
 product_short_name = "胶板"
 product_class = "FUTURES"
-symbol = "DCE.bb2202"
 id = "bb2202"
 name = "胶板2202"
 
@@ -1833,7 +1681,6 @@ price_decs = 1
 product_id = "fb"
 product_short_name = "纤板"
 product_class = "FUTURES"
-symbol = "DCE.fb2202"
 id = "fb2202"
 name = "纤板2202"
 
@@ -1845,7 +1692,6 @@ price_decs = 0
 product_id = "v"
 product_short_name = "PVC"
 product_class = "FUTURES"
-symbol = "DCE.v2202"
 id = "v2202"
 name = "PVC2202"
 
@@ -1857,7 +1703,6 @@ price_decs = 0
 product_id = "rr"
 product_short_name = "粳米"
 product_class = "FUTURES"
-symbol = "DCE.rr2202"
 id = "rr2202"
 name = "粳米2202"
 
@@ -1869,7 +1714,6 @@ price_decs = 0
 product_id = "p"
 product_short_name = "棕榈"
 product_class = "FUTURES"
-symbol = "DCE.p2202"
 id = "p2202"
 name = "棕榈2202"
 
@@ -1881,7 +1725,6 @@ price_decs = 0
 product_id = "l"
 product_short_name = "塑料"
 product_class = "FUTURES"
-symbol = "DCE.l2202"
 id = "l2202"
 name = "塑料2202"
 
@@ -1893,7 +1736,6 @@ price_decs = 1
 product_id = "jm"
 product_short_name = "焦煤"
 product_class = "FUTURES"
-symbol = "DCE.jm2202"
 id = "jm2202"
 name = "焦煤2202"
 
@@ -1905,7 +1747,6 @@ price_decs = 0
 product_id = "eg"
 product_short_name = "甘醇"
 product_class = "FUTURES"
-symbol = "DCE.eg2202"
 id = "eg2202"
 name = "甘醇2202"
 
@@ -1917,7 +1758,6 @@ price_decs = 0
 product_id = "eb"
 product_short_name = "苯乙烯"
 product_class = "FUTURES"
-symbol = "DCE.eb2202"
 id = "eb2202"
 name = "苯乙烯2202"
 
@@ -1929,7 +1769,6 @@ price_decs = 0
 product_id = "pg"
 product_short_name = "LPG"
 product_class = "FUTURES"
-symbol = "DCE.pg2202"
 id = "pg2202"
 name = "LPG2202"
 
@@ -1941,7 +1780,6 @@ price_decs = 0
 product_id = "jd"
 product_short_name = "鸡蛋"
 product_class = "FUTURES"
-symbol = "DCE.jd2202"
 id = "jd2202"
 name = "鸡蛋2202"
 
@@ -1953,7 +1791,6 @@ price_decs = 0
 product_id = "lu"
 product_short_name = "低硫燃料油"
 product_class = "FUTURES"
-symbol = "INE.lu2203"
 id = "lu2203"
 name = "低硫燃料油2203"
 
@@ -1965,7 +1802,6 @@ price_decs = 1
 product_id = "sc"
 product_short_name = "原油"
 product_class = "FUTURES"
-symbol = "INE.sc2403"
 id = "sc2403"
 name = "原油2403"
 
@@ -1977,7 +1813,6 @@ price_decs = 0
 product_id = "fu"
 product_short_name = "燃油"
 product_class = "FUTURES"
-symbol = "SHFE.fu2203"
 id = "fu2203"
 name = "燃油2203"
 
@@ -1989,7 +1824,6 @@ price_decs = 1
 product_id = "ZC"
 product_short_name = "郑煤"
 product_class = "FUTURES"
-symbol = "CZCE.ZC203"
 id = "ZC203"
 name = "郑煤2203"
 
@@ -2001,7 +1835,6 @@ price_decs = 0
 product_id = "AP"
 product_short_name = "苹果"
 product_class = "FUTURES"
-symbol = "CZCE.AP203"
 id = "AP203"
 name = "苹果2203"
 
@@ -2013,7 +1846,6 @@ price_decs = 0
 product_id = "CF"
 product_short_name = "棉花"
 product_class = "FUTURES"
-symbol = "CZCE.CF203"
 id = "CF203"
 name = "棉花2203"
 
@@ -2025,7 +1857,6 @@ price_decs = 0
 product_id = "CJ"
 product_short_name = "红枣"
 product_class = "FUTURES"
-symbol = "CZCE.CJ203"
 id = "CJ203"
 name = "红枣2203"
 
@@ -2037,7 +1868,6 @@ price_decs = 0
 product_id = "CY"
 product_short_name = "棉纱"
 product_class = "FUTURES"
-symbol = "CZCE.CY203"
 id = "CY203"
 name = "棉纱2203"
 
@@ -2049,7 +1879,6 @@ price_decs = 0
 product_id = "FG"
 product_short_name = "玻璃"
 product_class = "FUTURES"
-symbol = "CZCE.FG203"
 id = "FG203"
 name = "玻璃2203"
 
@@ -2061,7 +1890,6 @@ price_decs = 0
 product_id = "JR"
 product_short_name = "粳稻"
 product_class = "FUTURES"
-symbol = "CZCE.JR203"
 id = "JR203"
 name = "粳稻2203"
 
@@ -2073,7 +1901,6 @@ price_decs = 0
 product_id = "LR"
 product_short_name = "晚稻"
 product_class = "FUTURES"
-symbol = "CZCE.LR203"
 id = "LR203"
 name = "晚稻2203"
 
@@ -2085,7 +1912,6 @@ price_decs = 0
 product_id = "MA"
 product_short_name = "甲醇"
 product_class = "FUTURES"
-symbol = "CZCE.MA203"
 id = "MA203"
 name = "甲醇2203"
 
@@ -2097,7 +1923,6 @@ price_decs = 0
 product_id = "OI"
 product_short_name = "菜油"
 product_class = "FUTURES"
-symbol = "CZCE.OI203"
 id = "OI203"
 name = "菜油2203"
 
@@ -2109,7 +1934,6 @@ price_decs = 0
 product_id = "PF"
 product_short_name = "短纤"
 product_class = "FUTURES"
-symbol = "CZCE.PF203"
 id = "PF203"
 name = "短纤2203"
 
@@ -2121,7 +1945,6 @@ price_decs = 0
 product_id = "PK"
 product_short_name = "花生仁"
 product_class = "FUTURES"
-symbol = "CZCE.PK203"
 id = "PK203"
 name = "花生仁2203"
 
@@ -2133,7 +1956,6 @@ price_decs = 0
 product_id = "PM"
 product_short_name = "普麦"
 product_class = "FUTURES"
-symbol = "CZCE.PM203"
 id = "PM203"
 name = "普麦2203"
 
@@ -2145,7 +1967,6 @@ price_decs = 0
 product_id = "RI"
 product_short_name = "早稻"
 product_class = "FUTURES"
-symbol = "CZCE.RI203"
 id = "RI203"
 name = "早稻2203"
 
@@ -2157,7 +1978,6 @@ price_decs = 0
 product_id = "RM"
 product_short_name = "菜粕"
 product_class = "FUTURES"
-symbol = "CZCE.RM203"
 id = "RM203"
 name = "菜粕2203"
 
@@ -2169,7 +1989,6 @@ price_decs = 0
 product_id = "SA"
 product_short_name = "纯碱"
 product_class = "FUTURES"
-symbol = "CZCE.SA203"
 id = "SA203"
 name = "纯碱2203"
 
@@ -2181,7 +2000,6 @@ price_decs = 0
 product_id = "SF"
 product_short_name = "硅铁"
 product_class = "FUTURES"
-symbol = "CZCE.SF203"
 id = "SF203"
 name = "硅铁2203"
 
@@ -2193,7 +2011,6 @@ price_decs = 0
 product_id = "SM"
 product_short_name = "锰硅"
 product_class = "FUTURES"
-symbol = "CZCE.SM203"
 id = "SM203"
 name = "锰硅2203"
 
@@ -2205,7 +2022,6 @@ price_decs = 0
 product_id = "SR"
 product_short_name = "白糖"
 product_class = "FUTURES"
-symbol = "CZCE.SR203"
 id = "SR203"
 name = "白糖2203"
 
@@ -2217,7 +2033,6 @@ price_decs = 0
 product_id = "TA"
 product_short_name = "PTA"
 product_class = "FUTURES"
-symbol = "CZCE.TA203"
 id = "TA203"
 name = "PTA2203"
 
@@ -2229,7 +2044,6 @@ price_decs = 0
 product_id = "UR"
 product_short_name = "尿素"
 product_class = "FUTURES"
-symbol = "CZCE.UR203"
 id = "UR203"
 name = "尿素2203"
 
@@ -2241,7 +2055,6 @@ price_decs = 0
 product_id = "WH"
 product_short_name = "强麦"
 product_class = "FUTURES"
-symbol = "CZCE.WH203"
 id = "WH203"
 name = "强麦2203"
 
@@ -2253,7 +2066,6 @@ price_decs = 1
 product_id = "j"
 product_short_name = "焦炭"
 product_class = "FUTURES"
-symbol = "DCE.j2203"
 id = "j2203"
 name = "焦炭2203"
 
@@ -2265,7 +2077,6 @@ price_decs = 1
 product_id = "i"
 product_short_name = "铁矿"
 product_class = "FUTURES"
-symbol = "DCE.i2203"
 id = "i2203"
 name = "铁矿2203"
 
@@ -2277,7 +2088,6 @@ price_decs = 1
 product_id = "fb"
 product_short_name = "纤板"
 product_class = "FUTURES"
-symbol = "DCE.fb2203"
 id = "fb2203"
 name = "纤板2203"
 
@@ -2289,7 +2099,6 @@ price_decs = 0
 product_id = "cs"
 product_short_name = "淀粉"
 product_class = "FUTURES"
-symbol = "DCE.cs2203"
 id = "cs2203"
 name = "淀粉2203"
 
@@ -2301,7 +2110,6 @@ price_decs = 0
 product_id = "pp"
 product_short_name = "PP"
 product_class = "FUTURES"
-symbol = "DCE.pp2203"
 id = "pp2203"
 name = "PP2203"
 
@@ -2313,7 +2121,6 @@ price_decs = 2
 product_id = "bb"
 product_short_name = "胶板"
 product_class = "FUTURES"
-symbol = "DCE.bb2203"
 id = "bb2203"
 name = "胶板2203"
 
@@ -2325,7 +2132,6 @@ price_decs = 0
 product_id = "a"
 product_short_name = "豆一"
 product_class = "FUTURES"
-symbol = "DCE.a2203"
 id = "a2203"
 name = "豆一2203"
 
@@ -2337,7 +2143,6 @@ price_decs = 0
 product_id = "b"
 product_short_name = "豆二"
 product_class = "FUTURES"
-symbol = "DCE.b2203"
 id = "b2203"
 name = "豆二2203"
 
@@ -2349,7 +2154,6 @@ price_decs = 0
 product_id = "y"
 product_short_name = "豆油"
 product_class = "FUTURES"
-symbol = "DCE.y2203"
 id = "y2203"
 name = "豆油2203"
 
@@ -2361,7 +2165,6 @@ price_decs = 0
 product_id = "v"
 product_short_name = "PVC"
 product_class = "FUTURES"
-symbol = "DCE.v2203"
 id = "v2203"
 name = "PVC2203"
 
@@ -2373,7 +2176,6 @@ price_decs = 0
 product_id = "rr"
 product_short_name = "粳米"
 product_class = "FUTURES"
-symbol = "DCE.rr2203"
 id = "rr2203"
 name = "粳米2203"
 
@@ -2385,7 +2187,6 @@ price_decs = 0
 product_id = "c"
 product_short_name = "玉米"
 product_class = "FUTURES"
-symbol = "DCE.c2203"
 id = "c2203"
 name = "玉米2203"
 
@@ -2397,7 +2198,6 @@ price_decs = 0
 product_id = "p"
 product_short_name = "棕榈"
 product_class = "FUTURES"
-symbol = "DCE.p2203"
 id = "p2203"
 name = "棕榈2203"
 
@@ -2409,7 +2209,6 @@ price_decs = 0
 product_id = "m"
 product_short_name = "豆粕"
 product_class = "FUTURES"
-symbol = "DCE.m2203"
 id = "m2203"
 name = "豆粕2203"
 
@@ -2421,7 +2220,6 @@ price_decs = 0
 product_id = "l"
 product_short_name = "塑料"
 product_class = "FUTURES"
-symbol = "DCE.l2203"
 id = "l2203"
 name = "塑料2203"
 
@@ -2433,7 +2231,6 @@ price_decs = 1
 product_id = "jm"
 product_short_name = "焦煤"
 product_class = "FUTURES"
-symbol = "DCE.jm2203"
 id = "jm2203"
 name = "焦煤2203"
 
@@ -2445,7 +2242,6 @@ price_decs = 3
 product_id = "T"
 product_short_name = "债十"
 product_class = "FUTURES"
-symbol = "CFFEX.T2112"
 id = "T2112"
 name = "债十2112"
 
@@ -2457,7 +2253,6 @@ price_decs = 3
 product_id = "TF"
 product_short_name = "债五"
 product_class = "FUTURES"
-symbol = "CFFEX.TF2112"
 id = "TF2112"
 name = "债五2112"
 
@@ -2469,7 +2264,6 @@ price_decs = 3
 product_id = "TS"
 product_short_name = "债二"
 product_class = "FUTURES"
-symbol = "CFFEX.TS2112"
 id = "TS2112"
 name = "债二2112"
 
@@ -2481,7 +2275,6 @@ price_decs = 0
 product_id = "bc"
 product_short_name = "国际铜"
 product_class = "FUTURES"
-symbol = "INE.bc2203"
 id = "bc2203"
 name = "国际铜2203"
 
@@ -2493,7 +2286,6 @@ price_decs = 0
 product_id = "nr"
 product_short_name = "20号胶"
 product_class = "FUTURES"
-symbol = "INE.nr2203"
 id = "nr2203"
 name = "20号胶2203"
 
@@ -2505,7 +2297,6 @@ price_decs = 0
 product_id = "ag"
 product_short_name = "沪银"
 product_class = "FUTURES"
-symbol = "SHFE.ag2203"
 id = "ag2203"
 name = "沪银2203"
 
@@ -2517,7 +2308,6 @@ price_decs = 0
 product_id = "al"
 product_short_name = "沪铝"
 product_class = "FUTURES"
-symbol = "SHFE.al2203"
 id = "al2203"
 name = "沪铝2203"
 
@@ -2529,7 +2319,6 @@ price_decs = 2
 product_id = "au"
 product_short_name = "沪金"
 product_class = "FUTURES"
-symbol = "SHFE.au2204"
 id = "au2204"
 name = "沪金2204"
 
@@ -2541,7 +2330,6 @@ price_decs = 0
 product_id = "bu"
 product_short_name = "沥青"
 product_class = "FUTURES"
-symbol = "SHFE.bu2303"
 id = "bu2303"
 name = "沥青2303"
 
@@ -2553,7 +2341,6 @@ price_decs = 0
 product_id = "cu"
 product_short_name = "沪铜"
 product_class = "FUTURES"
-symbol = "SHFE.cu2203"
 id = "cu2203"
 name = "沪铜2203"
 
@@ -2565,7 +2352,6 @@ price_decs = 0
 product_id = "hc"
 product_short_name = "热卷"
 product_class = "FUTURES"
-symbol = "SHFE.hc2203"
 id = "hc2203"
 name = "热卷2203"
 
@@ -2577,7 +2363,6 @@ price_decs = 0
 product_id = "ni"
 product_short_name = "沪镍"
 product_class = "FUTURES"
-symbol = "SHFE.ni2203"
 id = "ni2203"
 name = "沪镍2203"
 
@@ -2589,7 +2374,6 @@ price_decs = 0
 product_id = "pb"
 product_short_name = "沪铅"
 product_class = "FUTURES"
-symbol = "SHFE.pb2203"
 id = "pb2203"
 name = "沪铅2203"
 
@@ -2601,7 +2385,6 @@ price_decs = 0
 product_id = "rb"
 product_short_name = "螺纹"
 product_class = "FUTURES"
-symbol = "SHFE.rb2203"
 id = "rb2203"
 name = "螺纹2203"
 
@@ -2613,7 +2396,6 @@ price_decs = 0
 product_id = "ru"
 product_short_name = "橡胶"
 product_class = "FUTURES"
-symbol = "SHFE.ru2203"
 id = "ru2203"
 name = "橡胶2203"
 
@@ -2625,7 +2407,6 @@ price_decs = 0
 product_id = "sn"
 product_short_name = "沪锡"
 product_class = "FUTURES"
-symbol = "SHFE.sn2203"
 id = "sn2203"
 name = "沪锡2203"
 
@@ -2637,7 +2418,6 @@ price_decs = 0
 product_id = "sp"
 product_short_name = "纸浆"
 product_class = "FUTURES"
-symbol = "SHFE.sp2203"
 id = "sp2203"
 name = "纸浆2203"
 
@@ -2649,7 +2429,6 @@ price_decs = 0
 product_id = "ss"
 product_short_name = "不锈钢"
 product_class = "FUTURES"
-symbol = "SHFE.ss2203"
 id = "ss2203"
 name = "不锈钢2203"
 
@@ -2661,7 +2440,6 @@ price_decs = 0
 product_id = "wr"
 product_short_name = "线材"
 product_class = "FUTURES"
-symbol = "SHFE.wr2203"
 id = "wr2203"
 name = "线材2203"
 
@@ -2673,7 +2451,6 @@ price_decs = 0
 product_id = "zn"
 product_short_name = "沪锌"
 product_class = "FUTURES"
-symbol = "SHFE.zn2203"
 id = "zn2203"
 name = "沪锌2203"
 
@@ -2685,7 +2462,6 @@ price_decs = 0
 product_id = "eg"
 product_short_name = "甘醇"
 product_class = "FUTURES"
-symbol = "DCE.eg2203"
 id = "eg2203"
 name = "甘醇2203"
 
@@ -2697,7 +2473,6 @@ price_decs = 0
 product_id = "eb"
 product_short_name = "苯乙烯"
 product_class = "FUTURES"
-symbol = "DCE.eb2203"
 id = "eb2203"
 name = "苯乙烯2203"
 
@@ -2709,7 +2484,6 @@ price_decs = 0
 product_id = "pg"
 product_short_name = "LPG"
 product_class = "FUTURES"
-symbol = "DCE.pg2203"
 id = "pg2203"
 name = "LPG2203"
 
@@ -2721,7 +2495,6 @@ price_decs = 0
 product_id = "lh"
 product_short_name = "生猪"
 product_class = "FUTURES"
-symbol = "DCE.lh2203"
 id = "lh2203"
 name = "生猪2203"
 
@@ -2733,7 +2506,6 @@ price_decs = 0
 product_id = "jd"
 product_short_name = "鸡蛋"
 product_class = "FUTURES"
-symbol = "DCE.jd2203"
 id = "jd2203"
 name = "鸡蛋2203"
 
@@ -2745,7 +2517,6 @@ price_decs = 0
 product_id = "lu"
 product_short_name = "低硫燃料油"
 product_class = "FUTURES"
-symbol = "INE.lu2204"
 id = "lu2204"
 name = "低硫燃料油2204"
 
@@ -2757,7 +2528,6 @@ price_decs = 1
 product_id = "sc"
 product_short_name = "原油"
 product_class = "FUTURES"
-symbol = "INE.sc2204"
 id = "sc2204"
 name = "原油2204"
 
@@ -2769,7 +2539,6 @@ price_decs = 0
 product_id = "fu"
 product_short_name = "燃油"
 product_class = "FUTURES"
-symbol = "SHFE.fu2204"
 id = "fu2204"
 name = "燃油2204"
 
@@ -2781,7 +2550,6 @@ price_decs = 1
 product_id = "ZC"
 product_short_name = "郑煤"
 product_class = "FUTURES"
-symbol = "CZCE.ZC204"
 id = "ZC204"
 name = "郑煤2204"
 
@@ -2793,7 +2561,6 @@ price_decs = 0
 product_id = "bc"
 product_short_name = "国际铜"
 product_class = "FUTURES"
-symbol = "INE.bc2204"
 id = "bc2204"
 name = "国际铜2204"
 
@@ -2805,7 +2572,6 @@ price_decs = 0
 product_id = "nr"
 product_short_name = "20号胶"
 product_class = "FUTURES"
-symbol = "INE.nr2204"
 id = "nr2204"
 name = "20号胶2204"
 
@@ -2817,7 +2583,6 @@ price_decs = 0
 product_id = "AP"
 product_short_name = "苹果"
 product_class = "FUTURES"
-symbol = "CZCE.AP204"
 id = "AP204"
 name = "苹果2204"
 
@@ -2829,7 +2594,6 @@ price_decs = 0
 product_id = "CY"
 product_short_name = "棉纱"
 product_class = "FUTURES"
-symbol = "CZCE.CY204"
 id = "CY204"
 name = "棉纱2204"
 
@@ -2841,7 +2605,6 @@ price_decs = 0
 product_id = "FG"
 product_short_name = "玻璃"
 product_class = "FUTURES"
-symbol = "CZCE.FG204"
 id = "FG204"
 name = "玻璃2204"
 
@@ -2853,7 +2616,6 @@ price_decs = 0
 product_id = "MA"
 product_short_name = "甲醇"
 product_class = "FUTURES"
-symbol = "CZCE.MA204"
 id = "MA204"
 name = "甲醇2204"
 
@@ -2865,7 +2627,6 @@ price_decs = 0
 product_id = "PF"
 product_short_name = "短纤"
 product_class = "FUTURES"
-symbol = "CZCE.PF204"
 id = "PF204"
 name = "短纤2204"
 
@@ -2877,7 +2638,6 @@ price_decs = 0
 product_id = "PK"
 product_short_name = "花生仁"
 product_class = "FUTURES"
-symbol = "CZCE.PK204"
 id = "PK204"
 name = "花生仁2204"
 
@@ -2889,7 +2649,6 @@ price_decs = 0
 product_id = "SA"
 product_short_name = "纯碱"
 product_class = "FUTURES"
-symbol = "CZCE.SA204"
 id = "SA204"
 name = "纯碱2204"
 
@@ -2901,7 +2660,6 @@ price_decs = 0
 product_id = "SF"
 product_short_name = "硅铁"
 product_class = "FUTURES"
-symbol = "CZCE.SF204"
 id = "SF204"
 name = "硅铁2204"
 
@@ -2913,7 +2671,6 @@ price_decs = 0
 product_id = "SM"
 product_short_name = "锰硅"
 product_class = "FUTURES"
-symbol = "CZCE.SM204"
 id = "SM204"
 name = "锰硅2204"
 
@@ -2925,7 +2682,6 @@ price_decs = 0
 product_id = "TA"
 product_short_name = "PTA"
 product_class = "FUTURES"
-symbol = "CZCE.TA204"
 id = "TA204"
 name = "PTA2204"
 
@@ -2937,7 +2693,6 @@ price_decs = 0
 product_id = "UR"
 product_short_name = "尿素"
 product_class = "FUTURES"
-symbol = "CZCE.UR204"
 id = "UR204"
 name = "尿素2204"
 
@@ -2949,7 +2704,6 @@ price_decs = 1
 product_id = "j"
 product_short_name = "焦炭"
 product_class = "FUTURES"
-symbol = "DCE.j2204"
 id = "j2204"
 name = "焦炭2204"
 
@@ -2961,7 +2715,6 @@ price_decs = 1
 product_id = "i"
 product_short_name = "铁矿"
 product_class = "FUTURES"
-symbol = "DCE.i2204"
 id = "i2204"
 name = "铁矿2204"
 
@@ -2973,7 +2726,6 @@ price_decs = 1
 product_id = "fb"
 product_short_name = "纤板"
 product_class = "FUTURES"
-symbol = "DCE.fb2204"
 id = "fb2204"
 name = "纤板2204"
 
@@ -2985,7 +2737,6 @@ price_decs = 0
 product_id = "pp"
 product_short_name = "PP"
 product_class = "FUTURES"
-symbol = "DCE.pp2204"
 id = "pp2204"
 name = "PP2204"
 
@@ -2997,7 +2748,6 @@ price_decs = 0
 product_id = "b"
 product_short_name = "豆二"
 product_class = "FUTURES"
-symbol = "DCE.b2204"
 id = "b2204"
 name = "豆二2204"
 
@@ -3009,7 +2759,6 @@ price_decs = 2
 product_id = "bb"
 product_short_name = "胶板"
 product_class = "FUTURES"
-symbol = "DCE.bb2204"
 id = "bb2204"
 name = "胶板2204"
 
@@ -3021,7 +2770,6 @@ price_decs = 0
 product_id = "ag"
 product_short_name = "沪银"
 product_class = "FUTURES"
-symbol = "SHFE.ag2204"
 id = "ag2204"
 name = "沪银2204"
 
@@ -3033,7 +2781,6 @@ price_decs = 0
 product_id = "al"
 product_short_name = "沪铝"
 product_class = "FUTURES"
-symbol = "SHFE.al2204"
 id = "al2204"
 name = "沪铝2204"
 
@@ -3045,7 +2792,6 @@ price_decs = 0
 product_id = "cu"
 product_short_name = "沪铜"
 product_class = "FUTURES"
-symbol = "SHFE.cu2204"
 id = "cu2204"
 name = "沪铜2204"
 
@@ -3057,7 +2803,6 @@ price_decs = 0
 product_id = "hc"
 product_short_name = "热卷"
 product_class = "FUTURES"
-symbol = "SHFE.hc2204"
 id = "hc2204"
 name = "热卷2204"
 
@@ -3069,7 +2814,6 @@ price_decs = 0
 product_id = "ni"
 product_short_name = "沪镍"
 product_class = "FUTURES"
-symbol = "SHFE.ni2204"
 id = "ni2204"
 name = "沪镍2204"
 
@@ -3081,7 +2825,6 @@ price_decs = 0
 product_id = "pb"
 product_short_name = "沪铅"
 product_class = "FUTURES"
-symbol = "SHFE.pb2204"
 id = "pb2204"
 name = "沪铅2204"
 
@@ -3093,7 +2836,6 @@ price_decs = 0
 product_id = "rb"
 product_short_name = "螺纹"
 product_class = "FUTURES"
-symbol = "SHFE.rb2204"
 id = "rb2204"
 name = "螺纹2204"
 
@@ -3105,7 +2847,6 @@ price_decs = 0
 product_id = "ru"
 product_short_name = "橡胶"
 product_class = "FUTURES"
-symbol = "SHFE.ru2204"
 id = "ru2204"
 name = "橡胶2204"
 
@@ -3117,7 +2858,6 @@ price_decs = 0
 product_id = "sn"
 product_short_name = "沪锡"
 product_class = "FUTURES"
-symbol = "SHFE.sn2204"
 id = "sn2204"
 name = "沪锡2204"
 
@@ -3129,7 +2869,6 @@ price_decs = 0
 product_id = "sp"
 product_short_name = "纸浆"
 product_class = "FUTURES"
-symbol = "SHFE.sp2204"
 id = "sp2204"
 name = "纸浆2204"
 
@@ -3141,7 +2880,6 @@ price_decs = 0
 product_id = "ss"
 product_short_name = "不锈钢"
 product_class = "FUTURES"
-symbol = "SHFE.ss2204"
 id = "ss2204"
 name = "不锈钢2204"
 
@@ -3153,7 +2891,6 @@ price_decs = 0
 product_id = "wr"
 product_short_name = "线材"
 product_class = "FUTURES"
-symbol = "SHFE.wr2204"
 id = "wr2204"
 name = "线材2204"
 
@@ -3165,7 +2902,6 @@ price_decs = 0
 product_id = "zn"
 product_short_name = "沪锌"
 product_class = "FUTURES"
-symbol = "SHFE.zn2204"
 id = "zn2204"
 name = "沪锌2204"
 
@@ -3177,7 +2913,6 @@ price_decs = 0
 product_id = "v"
 product_short_name = "PVC"
 product_class = "FUTURES"
-symbol = "DCE.v2204"
 id = "v2204"
 name = "PVC2204"
 
@@ -3189,7 +2924,6 @@ price_decs = 0
 product_id = "rr"
 product_short_name = "粳米"
 product_class = "FUTURES"
-symbol = "DCE.rr2204"
 id = "rr2204"
 name = "粳米2204"
 
@@ -3201,7 +2935,6 @@ price_decs = 0
 product_id = "p"
 product_short_name = "棕榈"
 product_class = "FUTURES"
-symbol = "DCE.p2204"
 id = "p2204"
 name = "棕榈2204"
 
@@ -3213,7 +2946,6 @@ price_decs = 0
 product_id = "l"
 product_short_name = "塑料"
 product_class = "FUTURES"
-symbol = "DCE.l2204"
 id = "l2204"
 name = "塑料2204"
 
@@ -3225,7 +2957,6 @@ price_decs = 1
 product_id = "jm"
 product_short_name = "焦煤"
 product_class = "FUTURES"
-symbol = "DCE.jm2204"
 id = "jm2204"
 name = "焦煤2204"
 
@@ -3237,7 +2968,6 @@ price_decs = 1
 product_id = "IC"
 product_short_name = "中证"
 product_class = "FUTURES"
-symbol = "CFFEX.IC2112"
 id = "IC2112"
 name = "中证2112"
 
@@ -3249,7 +2979,6 @@ price_decs = 1
 product_id = "IF"
 product_short_name = "沪深"
 product_class = "FUTURES"
-symbol = "CFFEX.IF2112"
 id = "IF2112"
 name = "沪深2112"
 
@@ -3261,7 +2990,6 @@ price_decs = 1
 product_id = "IH"
 product_short_name = "上证"
 product_class = "FUTURES"
-symbol = "CFFEX.IH2112"
 id = "IH2112"
 name = "上证2112"
 
@@ -3273,7 +3001,6 @@ price_decs = 0
 product_id = "eg"
 product_short_name = "甘醇"
 product_class = "FUTURES"
-symbol = "DCE.eg2204"
 id = "eg2204"
 name = "甘醇2204"
 
@@ -3285,7 +3012,6 @@ price_decs = 0
 product_id = "eb"
 product_short_name = "苯乙烯"
 product_class = "FUTURES"
-symbol = "DCE.eb2204"
 id = "eb2204"
 name = "苯乙烯2204"
 
@@ -3297,7 +3023,6 @@ price_decs = 0
 product_id = "pg"
 product_short_name = "LPG"
 product_class = "FUTURES"
-symbol = "DCE.pg2204"
 id = "pg2204"
 name = "LPG2204"
 
@@ -3309,7 +3034,6 @@ price_decs = 0
 product_id = "jd"
 product_short_name = "鸡蛋"
 product_class = "FUTURES"
-symbol = "DCE.jd2204"
 id = "jd2204"
 name = "鸡蛋2204"
 
@@ -3321,7 +3045,6 @@ price_decs = 0
 product_id = "lu"
 product_short_name = "低硫燃料油"
 product_class = "FUTURES"
-symbol = "INE.lu2205"
 id = "lu2205"
 name = "低硫燃料油2205"
 
@@ -3333,7 +3056,6 @@ price_decs = 1
 product_id = "sc"
 product_short_name = "原油"
 product_class = "FUTURES"
-symbol = "INE.sc2205"
 id = "sc2205"
 name = "原油2205"
 
@@ -3345,7 +3067,6 @@ price_decs = 0
 product_id = "fu"
 product_short_name = "燃油"
 product_class = "FUTURES"
-symbol = "SHFE.fu2205"
 id = "fu2205"
 name = "燃油2205"
 
@@ -3357,7 +3078,6 @@ price_decs = 1
 product_id = "ZC"
 product_short_name = "郑煤"
 product_class = "FUTURES"
-symbol = "CZCE.ZC205"
 id = "ZC205"
 name = "郑煤2205"
 
@@ -3369,7 +3089,6 @@ price_decs = 0
 product_id = "bc"
 product_short_name = "国际铜"
 product_class = "FUTURES"
-symbol = "INE.bc2205"
 id = "bc2205"
 name = "国际铜2205"
 
@@ -3381,7 +3100,6 @@ price_decs = 0
 product_id = "nr"
 product_short_name = "20号胶"
 product_class = "FUTURES"
-symbol = "INE.nr2205"
 id = "nr2205"
 name = "20号胶2205"
 
@@ -3393,7 +3111,6 @@ price_decs = 0
 product_id = "ag"
 product_short_name = "沪银"
 product_class = "FUTURES"
-symbol = "SHFE.ag2205"
 id = "ag2205"
 name = "沪银2205"
 
@@ -3405,7 +3122,6 @@ price_decs = 0
 product_id = "al"
 product_short_name = "沪铝"
 product_class = "FUTURES"
-symbol = "SHFE.al2205"
 id = "al2205"
 name = "沪铝2205"
 
@@ -3417,7 +3133,6 @@ price_decs = 2
 product_id = "au"
 product_short_name = "沪金"
 product_class = "FUTURES"
-symbol = "SHFE.au2206"
 id = "au2206"
 name = "沪金2206"
 
@@ -3429,7 +3144,6 @@ price_decs = 0
 product_id = "cu"
 product_short_name = "沪铜"
 product_class = "FUTURES"
-symbol = "SHFE.cu2205"
 id = "cu2205"
 name = "沪铜2205"
 
@@ -3441,7 +3155,6 @@ price_decs = 0
 product_id = "hc"
 product_short_name = "热卷"
 product_class = "FUTURES"
-symbol = "SHFE.hc2205"
 id = "hc2205"
 name = "热卷2205"
 
@@ -3453,7 +3166,6 @@ price_decs = 0
 product_id = "ni"
 product_short_name = "沪镍"
 product_class = "FUTURES"
-symbol = "SHFE.ni2205"
 id = "ni2205"
 name = "沪镍2205"
 
@@ -3465,7 +3177,6 @@ price_decs = 0
 product_id = "pb"
 product_short_name = "沪铅"
 product_class = "FUTURES"
-symbol = "SHFE.pb2205"
 id = "pb2205"
 name = "沪铅2205"
 
@@ -3477,7 +3188,6 @@ price_decs = 0
 product_id = "rb"
 product_short_name = "螺纹"
 product_class = "FUTURES"
-symbol = "SHFE.rb2205"
 id = "rb2205"
 name = "螺纹2205"
 
@@ -3489,7 +3199,6 @@ price_decs = 0
 product_id = "ru"
 product_short_name = "橡胶"
 product_class = "FUTURES"
-symbol = "SHFE.ru2205"
 id = "ru2205"
 name = "橡胶2205"
 
@@ -3501,7 +3210,6 @@ price_decs = 0
 product_id = "sn"
 product_short_name = "沪锡"
 product_class = "FUTURES"
-symbol = "SHFE.sn2205"
 id = "sn2205"
 name = "沪锡2205"
 
@@ -3513,7 +3221,6 @@ price_decs = 0
 product_id = "sp"
 product_short_name = "纸浆"
 product_class = "FUTURES"
-symbol = "SHFE.sp2205"
 id = "sp2205"
 name = "纸浆2205"
 
@@ -3525,7 +3232,6 @@ price_decs = 0
 product_id = "ss"
 product_short_name = "不锈钢"
 product_class = "FUTURES"
-symbol = "SHFE.ss2205"
 id = "ss2205"
 name = "不锈钢2205"
 
@@ -3537,7 +3243,6 @@ price_decs = 0
 product_id = "wr"
 product_short_name = "线材"
 product_class = "FUTURES"
-symbol = "SHFE.wr2205"
 id = "wr2205"
 name = "线材2205"
 
@@ -3549,7 +3254,6 @@ price_decs = 0
 product_id = "zn"
 product_short_name = "沪锌"
 product_class = "FUTURES"
-symbol = "SHFE.zn2205"
 id = "zn2205"
 name = "沪锌2205"
 
@@ -3561,7 +3265,6 @@ price_decs = 0
 product_id = "AP"
 product_short_name = "苹果"
 product_class = "FUTURES"
-symbol = "CZCE.AP205"
 id = "AP205"
 name = "苹果2205"
 
@@ -3573,7 +3276,6 @@ price_decs = 0
 product_id = "CF"
 product_short_name = "棉花"
 product_class = "FUTURES"
-symbol = "CZCE.CF205"
 id = "CF205"
 name = "棉花2205"
 
@@ -3585,7 +3287,6 @@ price_decs = 0
 product_id = "CJ"
 product_short_name = "红枣"
 product_class = "FUTURES"
-symbol = "CZCE.CJ205"
 id = "CJ205"
 name = "红枣2205"
 
@@ -3597,7 +3298,6 @@ price_decs = 0
 product_id = "CY"
 product_short_name = "棉纱"
 product_class = "FUTURES"
-symbol = "CZCE.CY205"
 id = "CY205"
 name = "棉纱2205"
 
@@ -3609,7 +3309,6 @@ price_decs = 0
 product_id = "FG"
 product_short_name = "玻璃"
 product_class = "FUTURES"
-symbol = "CZCE.FG205"
 id = "FG205"
 name = "玻璃2205"
 
@@ -3621,7 +3320,6 @@ price_decs = 0
 product_id = "JR"
 product_short_name = "粳稻"
 product_class = "FUTURES"
-symbol = "CZCE.JR205"
 id = "JR205"
 name = "粳稻2205"
 
@@ -3633,7 +3331,6 @@ price_decs = 0
 product_id = "LR"
 product_short_name = "晚稻"
 product_class = "FUTURES"
-symbol = "CZCE.LR205"
 id = "LR205"
 name = "晚稻2205"
 
@@ -3645,7 +3342,6 @@ price_decs = 0
 product_id = "MA"
 product_short_name = "甲醇"
 product_class = "FUTURES"
-symbol = "CZCE.MA205"
 id = "MA205"
 name = "甲醇2205"
 
@@ -3657,7 +3353,6 @@ price_decs = 0
 product_id = "OI"
 product_short_name = "菜油"
 product_class = "FUTURES"
-symbol = "CZCE.OI205"
 id = "OI205"
 name = "菜油2205"
 
@@ -3669,7 +3364,6 @@ price_decs = 0
 product_id = "PF"
 product_short_name = "短纤"
 product_class = "FUTURES"
-symbol = "CZCE.PF205"
 id = "PF205"
 name = "短纤2205"
 
@@ -3681,7 +3375,6 @@ price_decs = 0
 product_id = "PM"
 product_short_name = "普麦"
 product_class = "FUTURES"
-symbol = "CZCE.PM205"
 id = "PM205"
 name = "普麦2205"
 
@@ -3693,7 +3386,6 @@ price_decs = 0
 product_id = "RI"
 product_short_name = "早稻"
 product_class = "FUTURES"
-symbol = "CZCE.RI205"
 id = "RI205"
 name = "早稻2205"
 
@@ -3705,7 +3397,6 @@ price_decs = 0
 product_id = "RM"
 product_short_name = "菜粕"
 product_class = "FUTURES"
-symbol = "CZCE.RM205"
 id = "RM205"
 name = "菜粕2205"
 
@@ -3717,7 +3408,6 @@ price_decs = 0
 product_id = "SA"
 product_short_name = "纯碱"
 product_class = "FUTURES"
-symbol = "CZCE.SA205"
 id = "SA205"
 name = "纯碱2205"
 
@@ -3729,7 +3419,6 @@ price_decs = 0
 product_id = "SF"
 product_short_name = "硅铁"
 product_class = "FUTURES"
-symbol = "CZCE.SF205"
 id = "SF205"
 name = "硅铁2205"
 
@@ -3741,7 +3430,6 @@ price_decs = 0
 product_id = "SM"
 product_short_name = "锰硅"
 product_class = "FUTURES"
-symbol = "CZCE.SM205"
 id = "SM205"
 name = "锰硅2205"
 
@@ -3753,7 +3441,6 @@ price_decs = 0
 product_id = "SR"
 product_short_name = "白糖"
 product_class = "FUTURES"
-symbol = "CZCE.SR205"
 id = "SR205"
 name = "白糖2205"
 
@@ -3765,7 +3452,6 @@ price_decs = 0
 product_id = "TA"
 product_short_name = "PTA"
 product_class = "FUTURES"
-symbol = "CZCE.TA205"
 id = "TA205"
 name = "PTA2205"
 
@@ -3777,7 +3463,6 @@ price_decs = 0
 product_id = "UR"
 product_short_name = "尿素"
 product_class = "FUTURES"
-symbol = "CZCE.UR205"
 id = "UR205"
 name = "尿素2205"
 
@@ -3789,7 +3474,6 @@ price_decs = 0
 product_id = "WH"
 product_short_name = "强麦"
 product_class = "FUTURES"
-symbol = "CZCE.WH205"
 id = "WH205"
 name = "强麦2205"
 
@@ -3801,7 +3485,6 @@ price_decs = 1
 product_id = "j"
 product_short_name = "焦炭"
 product_class = "FUTURES"
-symbol = "DCE.j2205"
 id = "j2205"
 name = "焦炭2205"
 
@@ -3813,7 +3496,6 @@ price_decs = 1
 product_id = "i"
 product_short_name = "铁矿"
 product_class = "FUTURES"
-symbol = "DCE.i2205"
 id = "i2205"
 name = "铁矿2205"
 
@@ -3825,7 +3507,6 @@ price_decs = 1
 product_id = "fb"
 product_short_name = "纤板"
 product_class = "FUTURES"
-symbol = "DCE.fb2205"
 id = "fb2205"
 name = "纤板2205"
 
@@ -3837,7 +3518,6 @@ price_decs = 0
 product_id = "cs"
 product_short_name = "淀粉"
 product_class = "FUTURES"
-symbol = "DCE.cs2205"
 id = "cs2205"
 name = "淀粉2205"
 
@@ -3849,7 +3529,6 @@ price_decs = 0
 product_id = "pp"
 product_short_name = "PP"
 product_class = "FUTURES"
-symbol = "DCE.pp2205"
 id = "pp2205"
 name = "PP2205"
 
@@ -3861,7 +3540,6 @@ price_decs = 0
 product_id = "a"
 product_short_name = "豆一"
 product_class = "FUTURES"
-symbol = "DCE.a2205"
 id = "a2205"
 name = "豆一2205"
 
@@ -3873,7 +3551,6 @@ price_decs = 2
 product_id = "bb"
 product_short_name = "胶板"
 product_class = "FUTURES"
-symbol = "DCE.bb2205"
 id = "bb2205"
 name = "胶板2205"
 
@@ -3885,7 +3562,6 @@ price_decs = 0
 product_id = "b"
 product_short_name = "豆二"
 product_class = "FUTURES"
-symbol = "DCE.b2205"
 id = "b2205"
 name = "豆二2205"
 
@@ -3897,7 +3573,6 @@ price_decs = 0
 product_id = "c"
 product_short_name = "玉米"
 product_class = "FUTURES"
-symbol = "DCE.c2205"
 id = "c2205"
 name = "玉米2205"
 
@@ -3909,7 +3584,6 @@ price_decs = 0
 product_id = "y"
 product_short_name = "豆油"
 product_class = "FUTURES"
-symbol = "DCE.y2205"
 id = "y2205"
 name = "豆油2205"
 
@@ -3921,7 +3595,6 @@ price_decs = 0
 product_id = "v"
 product_short_name = "PVC"
 product_class = "FUTURES"
-symbol = "DCE.v2205"
 id = "v2205"
 name = "PVC2205"
 
@@ -3933,7 +3606,6 @@ price_decs = 0
 product_id = "rr"
 product_short_name = "粳米"
 product_class = "FUTURES"
-symbol = "DCE.rr2205"
 id = "rr2205"
 name = "粳米2205"
 
@@ -3945,7 +3617,6 @@ price_decs = 0
 product_id = "p"
 product_short_name = "棕榈"
 product_class = "FUTURES"
-symbol = "DCE.p2205"
 id = "p2205"
 name = "棕榈2205"
 
@@ -3957,7 +3628,6 @@ price_decs = 0
 product_id = "m"
 product_short_name = "豆粕"
 product_class = "FUTURES"
-symbol = "DCE.m2205"
 id = "m2205"
 name = "豆粕2205"
 
@@ -3969,7 +3639,6 @@ price_decs = 0
 product_id = "l"
 product_short_name = "塑料"
 product_class = "FUTURES"
-symbol = "DCE.l2205"
 id = "l2205"
 name = "塑料2205"
 
@@ -3981,7 +3650,6 @@ price_decs = 1
 product_id = "jm"
 product_short_name = "焦煤"
 product_class = "FUTURES"
-symbol = "DCE.jm2205"
 id = "jm2205"
 name = "焦煤2205"
 
@@ -3993,7 +3661,6 @@ price_decs = 0
 product_id = "eg"
 product_short_name = "甘醇"
 product_class = "FUTURES"
-symbol = "DCE.eg2205"
 id = "eg2205"
 name = "甘醇2205"
 
@@ -4005,7 +3672,6 @@ price_decs = 0
 product_id = "eb"
 product_short_name = "苯乙烯"
 product_class = "FUTURES"
-symbol = "DCE.eb2205"
 id = "eb2205"
 name = "苯乙烯2205"
 
@@ -4017,7 +3683,6 @@ price_decs = 0
 product_id = "pg"
 product_short_name = "LPG"
 product_class = "FUTURES"
-symbol = "DCE.pg2205"
 id = "pg2205"
 name = "LPG2205"
 
@@ -4029,7 +3694,6 @@ price_decs = 0
 product_id = "lh"
 product_short_name = "生猪"
 product_class = "FUTURES"
-symbol = "DCE.lh2205"
 id = "lh2205"
 name = "生猪2205"
 
@@ -4041,7 +3705,6 @@ price_decs = 0
 product_id = "jd"
 product_short_name = "鸡蛋"
 product_class = "FUTURES"
-symbol = "DCE.jd2205"
 id = "jd2205"
 name = "鸡蛋2205"
 
@@ -4053,7 +3716,6 @@ price_decs = 0
 product_id = "lu"
 product_short_name = "低硫燃料油"
 product_class = "FUTURES"
-symbol = "INE.lu2206"
 id = "lu2206"
 name = "低硫燃料油2206"
 
@@ -4065,7 +3727,6 @@ price_decs = 1
 product_id = "sc"
 product_short_name = "原油"
 product_class = "FUTURES"
-symbol = "INE.sc2406"
 id = "sc2406"
 name = "原油2406"
 
@@ -4077,7 +3738,6 @@ price_decs = 0
 product_id = "fu"
 product_short_name = "燃油"
 product_class = "FUTURES"
-symbol = "SHFE.fu2206"
 id = "fu2206"
 name = "燃油2206"
 
@@ -4089,7 +3749,6 @@ price_decs = 1
 product_id = "ZC"
 product_short_name = "郑煤"
 product_class = "FUTURES"
-symbol = "CZCE.ZC206"
 id = "ZC206"
 name = "郑煤2206"
 
@@ -4101,7 +3760,6 @@ price_decs = 3
 product_id = "T"
 product_short_name = "债十"
 product_class = "FUTURES"
-symbol = "CFFEX.T2203"
 id = "T2203"
 name = "债十2203"
 
@@ -4113,7 +3771,6 @@ price_decs = 3
 product_id = "TF"
 product_short_name = "债五"
 product_class = "FUTURES"
-symbol = "CFFEX.TF2203"
 id = "TF2203"
 name = "债五2203"
 
@@ -4125,7 +3782,6 @@ price_decs = 3
 product_id = "TS"
 product_short_name = "债二"
 product_class = "FUTURES"
-symbol = "CFFEX.TS2203"
 id = "TS2203"
 name = "债二2203"
 
@@ -4137,7 +3793,6 @@ price_decs = 0
 product_id = "CY"
 product_short_name = "棉纱"
 product_class = "FUTURES"
-symbol = "CZCE.CY206"
 id = "CY206"
 name = "棉纱2206"
 
@@ -4149,7 +3804,6 @@ price_decs = 0
 product_id = "FG"
 product_short_name = "玻璃"
 product_class = "FUTURES"
-symbol = "CZCE.FG206"
 id = "FG206"
 name = "玻璃2206"
 
@@ -4161,7 +3815,6 @@ price_decs = 0
 product_id = "MA"
 product_short_name = "甲醇"
 product_class = "FUTURES"
-symbol = "CZCE.MA206"
 id = "MA206"
 name = "甲醇2206"
 
@@ -4173,7 +3826,6 @@ price_decs = 0
 product_id = "PF"
 product_short_name = "短纤"
 product_class = "FUTURES"
-symbol = "CZCE.PF206"
 id = "PF206"
 name = "短纤2206"
 
@@ -4185,7 +3837,6 @@ price_decs = 0
 product_id = "SA"
 product_short_name = "纯碱"
 product_class = "FUTURES"
-symbol = "CZCE.SA206"
 id = "SA206"
 name = "纯碱2206"
 
@@ -4197,7 +3848,6 @@ price_decs = 0
 product_id = "SF"
 product_short_name = "硅铁"
 product_class = "FUTURES"
-symbol = "CZCE.SF206"
 id = "SF206"
 name = "硅铁2206"
 
@@ -4209,7 +3859,6 @@ price_decs = 0
 product_id = "SM"
 product_short_name = "锰硅"
 product_class = "FUTURES"
-symbol = "CZCE.SM206"
 id = "SM206"
 name = "锰硅2206"
 
@@ -4221,7 +3870,6 @@ price_decs = 0
 product_id = "TA"
 product_short_name = "PTA"
 product_class = "FUTURES"
-symbol = "CZCE.TA206"
 id = "TA206"
 name = "PTA2206"
 
@@ -4233,7 +3881,6 @@ price_decs = 0
 product_id = "UR"
 product_short_name = "尿素"
 product_class = "FUTURES"
-symbol = "CZCE.UR206"
 id = "UR206"
 name = "尿素2206"
 
@@ -4245,7 +3892,6 @@ price_decs = 0
 product_id = "bc"
 product_short_name = "国际铜"
 product_class = "FUTURES"
-symbol = "INE.bc2206"
 id = "bc2206"
 name = "国际铜2206"
 
@@ -4257,7 +3903,6 @@ price_decs = 0
 product_id = "nr"
 product_short_name = "20号胶"
 product_class = "FUTURES"
-symbol = "INE.nr2206"
 id = "nr2206"
 name = "20号胶2206"
 
@@ -4269,7 +3914,6 @@ price_decs = 1
 product_id = "j"
 product_short_name = "焦炭"
 product_class = "FUTURES"
-symbol = "DCE.j2206"
 id = "j2206"
 name = "焦炭2206"
 
@@ -4281,7 +3925,6 @@ price_decs = 1
 product_id = "i"
 product_short_name = "铁矿"
 product_class = "FUTURES"
-symbol = "DCE.i2206"
 id = "i2206"
 name = "铁矿2206"
 
@@ -4293,7 +3936,6 @@ price_decs = 1
 product_id = "fb"
 product_short_name = "纤板"
 product_class = "FUTURES"
-symbol = "DCE.fb2206"
 id = "fb2206"
 name = "纤板2206"
 
@@ -4305,7 +3947,6 @@ price_decs = 0
 product_id = "pp"
 product_short_name = "PP"
 product_class = "FUTURES"
-symbol = "DCE.pp2206"
 id = "pp2206"
 name = "PP2206"
 
@@ -4317,7 +3958,6 @@ price_decs = 0
 product_id = "b"
 product_short_name = "豆二"
 product_class = "FUTURES"
-symbol = "DCE.b2206"
 id = "b2206"
 name = "豆二2206"
 
@@ -4329,7 +3969,6 @@ price_decs = 2
 product_id = "bb"
 product_short_name = "胶板"
 product_class = "FUTURES"
-symbol = "DCE.bb2206"
 id = "bb2206"
 name = "胶板2206"
 
@@ -4341,7 +3980,6 @@ price_decs = 0
 product_id = "ag"
 product_short_name = "沪银"
 product_class = "FUTURES"
-symbol = "SHFE.ag2206"
 id = "ag2206"
 name = "沪银2206"
 
@@ -4353,7 +3991,6 @@ price_decs = 0
 product_id = "al"
 product_short_name = "沪铝"
 product_class = "FUTURES"
-symbol = "SHFE.al2206"
 id = "al2206"
 name = "沪铝2206"
 
@@ -4365,7 +4002,6 @@ price_decs = 0
 product_id = "bu"
 product_short_name = "沥青"
 product_class = "FUTURES"
-symbol = "SHFE.bu2306"
 id = "bu2306"
 name = "沥青2306"
 
@@ -4377,7 +4013,6 @@ price_decs = 0
 product_id = "cu"
 product_short_name = "沪铜"
 product_class = "FUTURES"
-symbol = "SHFE.cu2206"
 id = "cu2206"
 name = "沪铜2206"
 
@@ -4389,7 +4024,6 @@ price_decs = 0
 product_id = "hc"
 product_short_name = "热卷"
 product_class = "FUTURES"
-symbol = "SHFE.hc2206"
 id = "hc2206"
 name = "热卷2206"
 
@@ -4401,7 +4035,6 @@ price_decs = 0
 product_id = "ni"
 product_short_name = "沪镍"
 product_class = "FUTURES"
-symbol = "SHFE.ni2206"
 id = "ni2206"
 name = "沪镍2206"
 
@@ -4413,7 +4046,6 @@ price_decs = 0
 product_id = "pb"
 product_short_name = "沪铅"
 product_class = "FUTURES"
-symbol = "SHFE.pb2206"
 id = "pb2206"
 name = "沪铅2206"
 
@@ -4425,7 +4057,6 @@ price_decs = 0
 product_id = "rb"
 product_short_name = "螺纹"
 product_class = "FUTURES"
-symbol = "SHFE.rb2206"
 id = "rb2206"
 name = "螺纹2206"
 
@@ -4437,7 +4068,6 @@ price_decs = 0
 product_id = "ru"
 product_short_name = "橡胶"
 product_class = "FUTURES"
-symbol = "SHFE.ru2206"
 id = "ru2206"
 name = "橡胶2206"
 
@@ -4449,7 +4079,6 @@ price_decs = 0
 product_id = "sn"
 product_short_name = "沪锡"
 product_class = "FUTURES"
-symbol = "SHFE.sn2206"
 id = "sn2206"
 name = "沪锡2206"
 
@@ -4461,7 +4090,6 @@ price_decs = 0
 product_id = "sp"
 product_short_name = "纸浆"
 product_class = "FUTURES"
-symbol = "SHFE.sp2206"
 id = "sp2206"
 name = "纸浆2206"
 
@@ -4473,7 +4101,6 @@ price_decs = 0
 product_id = "ss"
 product_short_name = "不锈钢"
 product_class = "FUTURES"
-symbol = "SHFE.ss2206"
 id = "ss2206"
 name = "不锈钢2206"
 
@@ -4485,7 +4112,6 @@ price_decs = 0
 product_id = "wr"
 product_short_name = "线材"
 product_class = "FUTURES"
-symbol = "SHFE.wr2206"
 id = "wr2206"
 name = "线材2206"
 
@@ -4497,7 +4123,6 @@ price_decs = 0
 product_id = "zn"
 product_short_name = "沪锌"
 product_class = "FUTURES"
-symbol = "SHFE.zn2206"
 id = "zn2206"
 name = "沪锌2206"
 
@@ -4509,7 +4134,6 @@ price_decs = 0
 product_id = "v"
 product_short_name = "PVC"
 product_class = "FUTURES"
-symbol = "DCE.v2206"
 id = "v2206"
 name = "PVC2206"
 
@@ -4521,7 +4145,6 @@ price_decs = 0
 product_id = "rr"
 product_short_name = "粳米"
 product_class = "FUTURES"
-symbol = "DCE.rr2206"
 id = "rr2206"
 name = "粳米2206"
 
@@ -4533,7 +4156,6 @@ price_decs = 0
 product_id = "p"
 product_short_name = "棕榈"
 product_class = "FUTURES"
-symbol = "DCE.p2206"
 id = "p2206"
 name = "棕榈2206"
 
@@ -4545,7 +4167,6 @@ price_decs = 0
 product_id = "l"
 product_short_name = "塑料"
 product_class = "FUTURES"
-symbol = "DCE.l2206"
 id = "l2206"
 name = "塑料2206"
 
@@ -4557,7 +4178,6 @@ price_decs = 1
 product_id = "jm"
 product_short_name = "焦煤"
 product_class = "FUTURES"
-symbol = "DCE.jm2206"
 id = "jm2206"
 name = "焦煤2206"
 
@@ -4569,7 +4189,6 @@ price_decs = 0
 product_id = "eg"
 product_short_name = "甘醇"
 product_class = "FUTURES"
-symbol = "DCE.eg2206"
 id = "eg2206"
 name = "甘醇2206"
 
@@ -4581,7 +4200,6 @@ price_decs = 0
 product_id = "eb"
 product_short_name = "苯乙烯"
 product_class = "FUTURES"
-symbol = "DCE.eb2206"
 id = "eb2206"
 name = "苯乙烯2206"
 
@@ -4593,7 +4211,6 @@ price_decs = 0
 product_id = "jd"
 product_short_name = "鸡蛋"
 product_class = "FUTURES"
-symbol = "DCE.jd2206"
 id = "jd2206"
 name = "鸡蛋2206"
 
@@ -4605,7 +4222,6 @@ price_decs = 0
 product_id = "pg"
 product_short_name = "LPG"
 product_class = "FUTURES"
-symbol = "DCE.pg2206"
 id = "pg2206"
 name = "LPG2206"
 
@@ -4617,7 +4233,6 @@ price_decs = 0
 product_id = "lu"
 product_short_name = "低硫燃料油"
 product_class = "FUTURES"
-symbol = "INE.lu2207"
 id = "lu2207"
 name = "低硫燃料油2207"
 
@@ -4629,7 +4244,6 @@ price_decs = 1
 product_id = "sc"
 product_short_name = "原油"
 product_class = "FUTURES"
-symbol = "INE.sc2207"
 id = "sc2207"
 name = "原油2207"
 
@@ -4641,7 +4255,6 @@ price_decs = 0
 product_id = "fu"
 product_short_name = "燃油"
 product_class = "FUTURES"
-symbol = "SHFE.fu2207"
 id = "fu2207"
 name = "燃油2207"
 
@@ -4653,7 +4266,6 @@ price_decs = 1
 product_id = "ZC"
 product_short_name = "郑煤"
 product_class = "FUTURES"
-symbol = "CZCE.ZC207"
 id = "ZC207"
 name = "郑煤2207"
 
@@ -4665,7 +4277,6 @@ price_decs = 0
 product_id = "CF"
 product_short_name = "棉花"
 product_class = "FUTURES"
-symbol = "CZCE.CF207"
 id = "CF207"
 name = "棉花2207"
 
@@ -4677,7 +4288,6 @@ price_decs = 0
 product_id = "CJ"
 product_short_name = "红枣"
 product_class = "FUTURES"
-symbol = "CZCE.CJ207"
 id = "CJ207"
 name = "红枣2207"
 
@@ -4689,7 +4299,6 @@ price_decs = 0
 product_id = "CY"
 product_short_name = "棉纱"
 product_class = "FUTURES"
-symbol = "CZCE.CY207"
 id = "CY207"
 name = "棉纱2207"
 
@@ -4701,7 +4310,6 @@ price_decs = 0
 product_id = "FG"
 product_short_name = "玻璃"
 product_class = "FUTURES"
-symbol = "CZCE.FG207"
 id = "FG207"
 name = "玻璃2207"
 
@@ -4713,7 +4321,6 @@ price_decs = 0
 product_id = "JR"
 product_short_name = "粳稻"
 product_class = "FUTURES"
-symbol = "CZCE.JR207"
 id = "JR207"
 name = "粳稻2207"
 
@@ -4725,7 +4332,6 @@ price_decs = 0
 product_id = "LR"
 product_short_name = "晚稻"
 product_class = "FUTURES"
-symbol = "CZCE.LR207"
 id = "LR207"
 name = "晚稻2207"
 
@@ -4737,7 +4343,6 @@ price_decs = 0
 product_id = "MA"
 product_short_name = "甲醇"
 product_class = "FUTURES"
-symbol = "CZCE.MA207"
 id = "MA207"
 name = "甲醇2207"
 
@@ -4749,7 +4354,6 @@ price_decs = 0
 product_id = "OI"
 product_short_name = "菜油"
 product_class = "FUTURES"
-symbol = "CZCE.OI207"
 id = "OI207"
 name = "菜油2207"
 
@@ -4761,7 +4365,6 @@ price_decs = 0
 product_id = "PF"
 product_short_name = "短纤"
 product_class = "FUTURES"
-symbol = "CZCE.PF207"
 id = "PF207"
 name = "短纤2207"
 
@@ -4773,7 +4376,6 @@ price_decs = 0
 product_id = "PM"
 product_short_name = "普麦"
 product_class = "FUTURES"
-symbol = "CZCE.PM207"
 id = "PM207"
 name = "普麦2207"
 
@@ -4785,7 +4387,6 @@ price_decs = 0
 product_id = "RI"
 product_short_name = "早稻"
 product_class = "FUTURES"
-symbol = "CZCE.RI207"
 id = "RI207"
 name = "早稻2207"
 
@@ -4797,7 +4398,6 @@ price_decs = 0
 product_id = "RM"
 product_short_name = "菜粕"
 product_class = "FUTURES"
-symbol = "CZCE.RM207"
 id = "RM207"
 name = "菜粕2207"
 
@@ -4809,7 +4409,6 @@ price_decs = 0
 product_id = "RS"
 product_short_name = "菜籽"
 product_class = "FUTURES"
-symbol = "CZCE.RS207"
 id = "RS207"
 name = "菜籽2207"
 
@@ -4821,7 +4420,6 @@ price_decs = 0
 product_id = "SA"
 product_short_name = "纯碱"
 product_class = "FUTURES"
-symbol = "CZCE.SA207"
 id = "SA207"
 name = "纯碱2207"
 
@@ -4833,7 +4431,6 @@ price_decs = 0
 product_id = "SF"
 product_short_name = "硅铁"
 product_class = "FUTURES"
-symbol = "CZCE.SF207"
 id = "SF207"
 name = "硅铁2207"
 
@@ -4845,7 +4442,6 @@ price_decs = 0
 product_id = "SM"
 product_short_name = "锰硅"
 product_class = "FUTURES"
-symbol = "CZCE.SM207"
 id = "SM207"
 name = "锰硅2207"
 
@@ -4857,7 +4453,6 @@ price_decs = 0
 product_id = "SR"
 product_short_name = "白糖"
 product_class = "FUTURES"
-symbol = "CZCE.SR207"
 id = "SR207"
 name = "白糖2207"
 
@@ -4869,7 +4464,6 @@ price_decs = 0
 product_id = "TA"
 product_short_name = "PTA"
 product_class = "FUTURES"
-symbol = "CZCE.TA207"
 id = "TA207"
 name = "PTA2207"
 
@@ -4881,7 +4475,6 @@ price_decs = 0
 product_id = "UR"
 product_short_name = "尿素"
 product_class = "FUTURES"
-symbol = "CZCE.UR207"
 id = "UR207"
 name = "尿素2207"
 
@@ -4893,7 +4486,6 @@ price_decs = 0
 product_id = "WH"
 product_short_name = "强麦"
 product_class = "FUTURES"
-symbol = "CZCE.WH207"
 id = "WH207"
 name = "强麦2207"
 
@@ -4905,7 +4497,6 @@ price_decs = 1
 product_id = "j"
 product_short_name = "焦炭"
 product_class = "FUTURES"
-symbol = "DCE.j2207"
 id = "j2207"
 name = "焦炭2207"
 
@@ -4917,7 +4508,6 @@ price_decs = 1
 product_id = "i"
 product_short_name = "铁矿"
 product_class = "FUTURES"
-symbol = "DCE.i2207"
 id = "i2207"
 name = "铁矿2207"
 
@@ -4929,7 +4519,6 @@ price_decs = 1
 product_id = "fb"
 product_short_name = "纤板"
 product_class = "FUTURES"
-symbol = "DCE.fb2207"
 id = "fb2207"
 name = "纤板2207"
 
@@ -4941,7 +4530,6 @@ price_decs = 0
 product_id = "cs"
 product_short_name = "淀粉"
 product_class = "FUTURES"
-symbol = "DCE.cs2207"
 id = "cs2207"
 name = "淀粉2207"
 
@@ -4953,7 +4541,6 @@ price_decs = 0
 product_id = "c"
 product_short_name = "玉米"
 product_class = "FUTURES"
-symbol = "DCE.c2207"
 id = "c2207"
 name = "玉米2207"
 
@@ -4965,7 +4552,6 @@ price_decs = 2
 product_id = "bb"
 product_short_name = "胶板"
 product_class = "FUTURES"
-symbol = "DCE.bb2207"
 id = "bb2207"
 name = "胶板2207"
 
@@ -4977,7 +4563,6 @@ price_decs = 0
 product_id = "b"
 product_short_name = "豆二"
 product_class = "FUTURES"
-symbol = "DCE.b2207"
 id = "b2207"
 name = "豆二2207"
 
@@ -4989,7 +4574,6 @@ price_decs = 0
 product_id = "a"
 product_short_name = "豆一"
 product_class = "FUTURES"
-symbol = "DCE.a2207"
 id = "a2207"
 name = "豆一2207"
 
@@ -5001,7 +4585,6 @@ price_decs = 0
 product_id = "pp"
 product_short_name = "PP"
 product_class = "FUTURES"
-symbol = "DCE.pp2207"
 id = "pp2207"
 name = "PP2207"
 
@@ -5013,7 +4596,6 @@ price_decs = 0
 product_id = "y"
 product_short_name = "豆油"
 product_class = "FUTURES"
-symbol = "DCE.y2207"
 id = "y2207"
 name = "豆油2207"
 
@@ -5025,7 +4607,6 @@ price_decs = 0
 product_id = "v"
 product_short_name = "PVC"
 product_class = "FUTURES"
-symbol = "DCE.v2207"
 id = "v2207"
 name = "PVC2207"
 
@@ -5037,7 +4618,6 @@ price_decs = 0
 product_id = "rr"
 product_short_name = "粳米"
 product_class = "FUTURES"
-symbol = "DCE.rr2207"
 id = "rr2207"
 name = "粳米2207"
 
@@ -5049,7 +4629,6 @@ price_decs = 0
 product_id = "p"
 product_short_name = "棕榈"
 product_class = "FUTURES"
-symbol = "DCE.p2207"
 id = "p2207"
 name = "棕榈2207"
 
@@ -5061,7 +4640,6 @@ price_decs = 0
 product_id = "m"
 product_short_name = "豆粕"
 product_class = "FUTURES"
-symbol = "DCE.m2207"
 id = "m2207"
 name = "豆粕2207"
 
@@ -5073,7 +4651,6 @@ price_decs = 0
 product_id = "l"
 product_short_name = "塑料"
 product_class = "FUTURES"
-symbol = "DCE.l2207"
 id = "l2207"
 name = "塑料2207"
 
@@ -5085,7 +4662,6 @@ price_decs = 1
 product_id = "jm"
 product_short_name = "焦煤"
 product_class = "FUTURES"
-symbol = "DCE.jm2207"
 id = "jm2207"
 name = "焦煤2207"
 
@@ -5097,7 +4673,6 @@ price_decs = 0
 product_id = "bc"
 product_short_name = "国际铜"
 product_class = "FUTURES"
-symbol = "INE.bc2207"
 id = "bc2207"
 name = "国际铜2207"
 
@@ -5109,7 +4684,6 @@ price_decs = 0
 product_id = "nr"
 product_short_name = "20号胶"
 product_class = "FUTURES"
-symbol = "INE.nr2207"
 id = "nr2207"
 name = "20号胶2207"
 
@@ -5121,7 +4695,6 @@ price_decs = 0
 product_id = "ag"
 product_short_name = "沪银"
 product_class = "FUTURES"
-symbol = "SHFE.ag2207"
 id = "ag2207"
 name = "沪银2207"
 
@@ -5133,7 +4706,6 @@ price_decs = 0
 product_id = "al"
 product_short_name = "沪铝"
 product_class = "FUTURES"
-symbol = "SHFE.al2207"
 id = "al2207"
 name = "沪铝2207"
 
@@ -5145,7 +4717,6 @@ price_decs = 2
 product_id = "au"
 product_short_name = "沪金"
 product_class = "FUTURES"
-symbol = "SHFE.au2208"
 id = "au2208"
 name = "沪金2208"
 
@@ -5157,7 +4728,6 @@ price_decs = 0
 product_id = "bu"
 product_short_name = "沥青"
 product_class = "FUTURES"
-symbol = "SHFE.bu2201"
 id = "bu2201"
 name = "沥青2201"
 
@@ -5169,7 +4739,6 @@ price_decs = 0
 product_id = "cu"
 product_short_name = "沪铜"
 product_class = "FUTURES"
-symbol = "SHFE.cu2207"
 id = "cu2207"
 name = "沪铜2207"
 
@@ -5181,7 +4750,6 @@ price_decs = 0
 product_id = "hc"
 product_short_name = "热卷"
 product_class = "FUTURES"
-symbol = "SHFE.hc2207"
 id = "hc2207"
 name = "热卷2207"
 
@@ -5193,7 +4761,6 @@ price_decs = 0
 product_id = "ni"
 product_short_name = "沪镍"
 product_class = "FUTURES"
-symbol = "SHFE.ni2207"
 id = "ni2207"
 name = "沪镍2207"
 
@@ -5205,7 +4772,6 @@ price_decs = 0
 product_id = "pb"
 product_short_name = "沪铅"
 product_class = "FUTURES"
-symbol = "SHFE.pb2207"
 id = "pb2207"
 name = "沪铅2207"
 
@@ -5217,7 +4783,6 @@ price_decs = 0
 product_id = "rb"
 product_short_name = "螺纹"
 product_class = "FUTURES"
-symbol = "SHFE.rb2207"
 id = "rb2207"
 name = "螺纹2207"
 
@@ -5229,7 +4794,6 @@ price_decs = 0
 product_id = "ru"
 product_short_name = "橡胶"
 product_class = "FUTURES"
-symbol = "SHFE.ru2207"
 id = "ru2207"
 name = "橡胶2207"
 
@@ -5241,7 +4805,6 @@ price_decs = 0
 product_id = "sn"
 product_short_name = "沪锡"
 product_class = "FUTURES"
-symbol = "SHFE.sn2207"
 id = "sn2207"
 name = "沪锡2207"
 
@@ -5253,7 +4816,6 @@ price_decs = 0
 product_id = "sp"
 product_short_name = "纸浆"
 product_class = "FUTURES"
-symbol = "SHFE.sp2207"
 id = "sp2207"
 name = "纸浆2207"
 
@@ -5265,7 +4827,6 @@ price_decs = 0
 product_id = "ss"
 product_short_name = "不锈钢"
 product_class = "FUTURES"
-symbol = "SHFE.ss2207"
 id = "ss2207"
 name = "不锈钢2207"
 
@@ -5277,7 +4838,6 @@ price_decs = 0
 product_id = "wr"
 product_short_name = "线材"
 product_class = "FUTURES"
-symbol = "SHFE.wr2207"
 id = "wr2207"
 name = "线材2207"
 
@@ -5289,7 +4849,6 @@ price_decs = 0
 product_id = "zn"
 product_short_name = "沪锌"
 product_class = "FUTURES"
-symbol = "SHFE.zn2207"
 id = "zn2207"
 name = "沪锌2207"
 
@@ -5301,7 +4860,6 @@ price_decs = 1
 product_id = "IC"
 product_short_name = "中证"
 product_class = "FUTURES"
-symbol = "CFFEX.IC2203"
 id = "IC2203"
 name = "中证2203"
 
@@ -5313,7 +4871,6 @@ price_decs = 1
 product_id = "IF"
 product_short_name = "沪深"
 product_class = "FUTURES"
-symbol = "CFFEX.IF2203"
 id = "IF2203"
 name = "沪深2203"
 
@@ -5325,7 +4882,6 @@ price_decs = 1
 product_id = "IH"
 product_short_name = "上证"
 product_class = "FUTURES"
-symbol = "CFFEX.IH2203"
 id = "IH2203"
 name = "上证2203"
 
@@ -5337,7 +4893,6 @@ price_decs = 0
 product_id = "eg"
 product_short_name = "甘醇"
 product_class = "FUTURES"
-symbol = "DCE.eg2207"
 id = "eg2207"
 name = "甘醇2207"
 
@@ -5349,7 +4904,6 @@ price_decs = 0
 product_id = "eb"
 product_short_name = "苯乙烯"
 product_class = "FUTURES"
-symbol = "DCE.eb2207"
 id = "eb2207"
 name = "苯乙烯2207"
 
@@ -5361,7 +4915,6 @@ price_decs = 0
 product_id = "jd"
 product_short_name = "鸡蛋"
 product_class = "FUTURES"
-symbol = "DCE.jd2207"
 id = "jd2207"
 name = "鸡蛋2207"
 
@@ -5373,7 +4926,6 @@ price_decs = 0
 product_id = "pg"
 product_short_name = "LPG"
 product_class = "FUTURES"
-symbol = "DCE.pg2207"
 id = "pg2207"
 name = "LPG2207"
 
@@ -5385,7 +4937,6 @@ price_decs = 0
 product_id = "lh"
 product_short_name = "生猪"
 product_class = "FUTURES"
-symbol = "DCE.lh2207"
 id = "lh2207"
 name = "生猪2207"
 
@@ -5397,7 +4948,6 @@ price_decs = 0
 product_id = "lu"
 product_short_name = "低硫燃料油"
 product_class = "FUTURES"
-symbol = "INE.lu2208"
 id = "lu2208"
 name = "低硫燃料油2208"
 
@@ -5409,7 +4959,6 @@ price_decs = 1
 product_id = "sc"
 product_short_name = "原油"
 product_class = "FUTURES"
-symbol = "INE.sc2208"
 id = "sc2208"
 name = "原油2208"
 
@@ -5421,7 +4970,6 @@ price_decs = 0
 product_id = "fu"
 product_short_name = "燃油"
 product_class = "FUTURES"
-symbol = "SHFE.fu2208"
 id = "fu2208"
 name = "燃油2208"
 
@@ -5433,7 +4981,6 @@ price_decs = 1
 product_id = "ZC"
 product_short_name = "郑煤"
 product_class = "FUTURES"
-symbol = "CZCE.ZC208"
 id = "ZC208"
 name = "郑煤2208"
 
@@ -5445,7 +4992,6 @@ price_decs = 0
 product_id = "CY"
 product_short_name = "棉纱"
 product_class = "FUTURES"
-symbol = "CZCE.CY208"
 id = "CY208"
 name = "棉纱2208"
 
@@ -5457,7 +5003,6 @@ price_decs = 0
 product_id = "FG"
 product_short_name = "玻璃"
 product_class = "FUTURES"
-symbol = "CZCE.FG208"
 id = "FG208"
 name = "玻璃2208"
 
@@ -5469,7 +5014,6 @@ price_decs = 0
 product_id = "MA"
 product_short_name = "甲醇"
 product_class = "FUTURES"
-symbol = "CZCE.MA208"
 id = "MA208"
 name = "甲醇2208"
 
@@ -5481,7 +5025,6 @@ price_decs = 0
 product_id = "PF"
 product_short_name = "短纤"
 product_class = "FUTURES"
-symbol = "CZCE.PF208"
 id = "PF208"
 name = "短纤2208"
 
@@ -5493,7 +5036,6 @@ price_decs = 0
 product_id = "RM"
 product_short_name = "菜粕"
 product_class = "FUTURES"
-symbol = "CZCE.RM208"
 id = "RM208"
 name = "菜粕2208"
 
@@ -5505,7 +5047,6 @@ price_decs = 0
 product_id = "RS"
 product_short_name = "菜籽"
 product_class = "FUTURES"
-symbol = "CZCE.RS208"
 id = "RS208"
 name = "菜籽2208"
 
@@ -5517,7 +5058,6 @@ price_decs = 0
 product_id = "SA"
 product_short_name = "纯碱"
 product_class = "FUTURES"
-symbol = "CZCE.SA208"
 id = "SA208"
 name = "纯碱2208"
 
@@ -5529,7 +5069,6 @@ price_decs = 0
 product_id = "SF"
 product_short_name = "硅铁"
 product_class = "FUTURES"
-symbol = "CZCE.SF208"
 id = "SF208"
 name = "硅铁2208"
 
@@ -5541,7 +5080,6 @@ price_decs = 0
 product_id = "SM"
 product_short_name = "锰硅"
 product_class = "FUTURES"
-symbol = "CZCE.SM208"
 id = "SM208"
 name = "锰硅2208"
 
@@ -5553,7 +5091,6 @@ price_decs = 0
 product_id = "TA"
 product_short_name = "PTA"
 product_class = "FUTURES"
-symbol = "CZCE.TA208"
 id = "TA208"
 name = "PTA2208"
 
@@ -5565,7 +5102,6 @@ price_decs = 0
 product_id = "UR"
 product_short_name = "尿素"
 product_class = "FUTURES"
-symbol = "CZCE.UR208"
 id = "UR208"
 name = "尿素2208"
 
@@ -5577,7 +5113,6 @@ price_decs = 1
 product_id = "j"
 product_short_name = "焦炭"
 product_class = "FUTURES"
-symbol = "DCE.j2208"
 id = "j2208"
 name = "焦炭2208"
 
@@ -5589,7 +5124,6 @@ price_decs = 1
 product_id = "i"
 product_short_name = "铁矿"
 product_class = "FUTURES"
-symbol = "DCE.i2208"
 id = "i2208"
 name = "铁矿2208"
 
@@ -5601,7 +5135,6 @@ price_decs = 1
 product_id = "fb"
 product_short_name = "纤板"
 product_class = "FUTURES"
-symbol = "DCE.fb2208"
 id = "fb2208"
 name = "纤板2208"
 
@@ -5613,7 +5146,6 @@ price_decs = 2
 product_id = "bb"
 product_short_name = "胶板"
 product_class = "FUTURES"
-symbol = "DCE.bb2208"
 id = "bb2208"
 name = "胶板2208"
 
@@ -5625,7 +5157,6 @@ price_decs = 0
 product_id = "b"
 product_short_name = "豆二"
 product_class = "FUTURES"
-symbol = "DCE.b2208"
 id = "b2208"
 name = "豆二2208"
 
@@ -5637,7 +5168,6 @@ price_decs = 0
 product_id = "pp"
 product_short_name = "PP"
 product_class = "FUTURES"
-symbol = "DCE.pp2208"
 id = "pp2208"
 name = "PP2208"
 
@@ -5649,7 +5179,6 @@ price_decs = 0
 product_id = "y"
 product_short_name = "豆油"
 product_class = "FUTURES"
-symbol = "DCE.y2208"
 id = "y2208"
 name = "豆油2208"
 
@@ -5661,7 +5190,6 @@ price_decs = 0
 product_id = "v"
 product_short_name = "PVC"
 product_class = "FUTURES"
-symbol = "DCE.v2208"
 id = "v2208"
 name = "PVC2208"
 
@@ -5673,7 +5201,6 @@ price_decs = 0
 product_id = "rr"
 product_short_name = "粳米"
 product_class = "FUTURES"
-symbol = "DCE.rr2208"
 id = "rr2208"
 name = "粳米2208"
 
@@ -5685,7 +5212,6 @@ price_decs = 0
 product_id = "p"
 product_short_name = "棕榈"
 product_class = "FUTURES"
-symbol = "DCE.p2208"
 id = "p2208"
 name = "棕榈2208"
 
@@ -5697,7 +5223,6 @@ price_decs = 0
 product_id = "m"
 product_short_name = "豆粕"
 product_class = "FUTURES"
-symbol = "DCE.m2208"
 id = "m2208"
 name = "豆粕2208"
 
@@ -5709,7 +5234,6 @@ price_decs = 0
 product_id = "l"
 product_short_name = "塑料"
 product_class = "FUTURES"
-symbol = "DCE.l2208"
 id = "l2208"
 name = "塑料2208"
 
@@ -5721,7 +5245,6 @@ price_decs = 1
 product_id = "jm"
 product_short_name = "焦煤"
 product_class = "FUTURES"
-symbol = "DCE.jm2208"
 id = "jm2208"
 name = "焦煤2208"
 
@@ -5733,7 +5256,6 @@ price_decs = 0
 product_id = "bc"
 product_short_name = "国际铜"
 product_class = "FUTURES"
-symbol = "INE.bc2208"
 id = "bc2208"
 name = "国际铜2208"
 
@@ -5745,7 +5267,6 @@ price_decs = 0
 product_id = "nr"
 product_short_name = "20号胶"
 product_class = "FUTURES"
-symbol = "INE.nr2208"
 id = "nr2208"
 name = "20号胶2208"
 
@@ -5757,7 +5278,6 @@ price_decs = 0
 product_id = "ag"
 product_short_name = "沪银"
 product_class = "FUTURES"
-symbol = "SHFE.ag2208"
 id = "ag2208"
 name = "沪银2208"
 
@@ -5769,7 +5289,6 @@ price_decs = 0
 product_id = "al"
 product_short_name = "沪铝"
 product_class = "FUTURES"
-symbol = "SHFE.al2208"
 id = "al2208"
 name = "沪铝2208"
 
@@ -5781,7 +5300,6 @@ price_decs = 0
 product_id = "bu"
 product_short_name = "沥青"
 product_class = "FUTURES"
-symbol = "SHFE.bu2202"
 id = "bu2202"
 name = "沥青2202"
 
@@ -5793,7 +5311,6 @@ price_decs = 0
 product_id = "cu"
 product_short_name = "沪铜"
 product_class = "FUTURES"
-symbol = "SHFE.cu2208"
 id = "cu2208"
 name = "沪铜2208"
 
@@ -5805,7 +5322,6 @@ price_decs = 0
 product_id = "hc"
 product_short_name = "热卷"
 product_class = "FUTURES"
-symbol = "SHFE.hc2208"
 id = "hc2208"
 name = "热卷2208"
 
@@ -5817,7 +5333,6 @@ price_decs = 0
 product_id = "ni"
 product_short_name = "沪镍"
 product_class = "FUTURES"
-symbol = "SHFE.ni2208"
 id = "ni2208"
 name = "沪镍2208"
 
@@ -5829,7 +5344,6 @@ price_decs = 0
 product_id = "pb"
 product_short_name = "沪铅"
 product_class = "FUTURES"
-symbol = "SHFE.pb2208"
 id = "pb2208"
 name = "沪铅2208"
 
@@ -5841,7 +5355,6 @@ price_decs = 0
 product_id = "rb"
 product_short_name = "螺纹"
 product_class = "FUTURES"
-symbol = "SHFE.rb2208"
 id = "rb2208"
 name = "螺纹2208"
 
@@ -5853,7 +5366,6 @@ price_decs = 0
 product_id = "ru"
 product_short_name = "橡胶"
 product_class = "FUTURES"
-symbol = "SHFE.ru2208"
 id = "ru2208"
 name = "橡胶2208"
 
@@ -5865,7 +5377,6 @@ price_decs = 0
 product_id = "sn"
 product_short_name = "沪锡"
 product_class = "FUTURES"
-symbol = "SHFE.sn2208"
 id = "sn2208"
 name = "沪锡2208"
 
@@ -5877,7 +5388,6 @@ price_decs = 0
 product_id = "sp"
 product_short_name = "纸浆"
 product_class = "FUTURES"
-symbol = "SHFE.sp2208"
 id = "sp2208"
 name = "纸浆2208"
 
@@ -5889,7 +5399,6 @@ price_decs = 0
 product_id = "ss"
 product_short_name = "不锈钢"
 product_class = "FUTURES"
-symbol = "SHFE.ss2208"
 id = "ss2208"
 name = "不锈钢2208"
 
@@ -5901,7 +5410,6 @@ price_decs = 0
 product_id = "wr"
 product_short_name = "线材"
 product_class = "FUTURES"
-symbol = "SHFE.wr2208"
 id = "wr2208"
 name = "线材2208"
 
@@ -5913,7 +5421,6 @@ price_decs = 0
 product_id = "zn"
 product_short_name = "沪锌"
 product_class = "FUTURES"
-symbol = "SHFE.zn2208"
 id = "zn2208"
 name = "沪锌2208"
 
@@ -5925,7 +5432,6 @@ price_decs = 0
 product_id = "eg"
 product_short_name = "甘醇"
 product_class = "FUTURES"
-symbol = "DCE.eg2208"
 id = "eg2208"
 name = "甘醇2208"
 
@@ -5937,7 +5443,6 @@ price_decs = 0
 product_id = "eb"
 product_short_name = "苯乙烯"
 product_class = "FUTURES"
-symbol = "DCE.eb2208"
 id = "eb2208"
 name = "苯乙烯2208"
 
@@ -5949,7 +5454,6 @@ price_decs = 0
 product_id = "jd"
 product_short_name = "鸡蛋"
 product_class = "FUTURES"
-symbol = "DCE.jd2208"
 id = "jd2208"
 name = "鸡蛋2208"
 
@@ -5961,7 +5465,6 @@ price_decs = 0
 product_id = "pg"
 product_short_name = "LPG"
 product_class = "FUTURES"
-symbol = "DCE.pg2208"
 id = "pg2208"
 name = "LPG2208"
 
@@ -5973,7 +5476,6 @@ price_decs = 0
 product_id = "lu"
 product_short_name = "低硫燃料油"
 product_class = "FUTURES"
-symbol = "INE.lu2209"
 id = "lu2209"
 name = "低硫燃料油2209"
 
@@ -5985,7 +5487,6 @@ price_decs = 1
 product_id = "sc"
 product_short_name = "原油"
 product_class = "FUTURES"
-symbol = "INE.sc2409"
 id = "sc2409"
 name = "原油2409"
 
@@ -5997,7 +5498,6 @@ price_decs = 0
 product_id = "fu"
 product_short_name = "燃油"
 product_class = "FUTURES"
-symbol = "SHFE.fu2209"
 id = "fu2209"
 name = "燃油2209"
 
@@ -6009,7 +5509,6 @@ price_decs = 1
 product_id = "ZC"
 product_short_name = "郑煤"
 product_class = "FUTURES"
-symbol = "CZCE.ZC209"
 id = "ZC209"
 name = "郑煤2209"
 
@@ -6021,7 +5520,6 @@ price_decs = 3
 product_id = "T"
 product_short_name = "债十"
 product_class = "FUTURES"
-symbol = "CFFEX.T2206"
 id = "T2206"
 name = "债十2206"
 
@@ -6033,7 +5531,6 @@ price_decs = 3
 product_id = "TF"
 product_short_name = "债五"
 product_class = "FUTURES"
-symbol = "CFFEX.TF2206"
 id = "TF2206"
 name = "债五2206"
 
@@ -6045,7 +5542,6 @@ price_decs = 3
 product_id = "TS"
 product_short_name = "债二"
 product_class = "FUTURES"
-symbol = "CFFEX.TS2206"
 id = "TS2206"
 name = "债二2206"
 
@@ -6057,7 +5553,6 @@ price_decs = 0
 product_id = "CF"
 product_short_name = "棉花"
 product_class = "FUTURES"
-symbol = "CZCE.CF209"
 id = "CF209"
 name = "棉花2209"
 
@@ -6069,7 +5564,6 @@ price_decs = 0
 product_id = "CJ"
 product_short_name = "红枣"
 product_class = "FUTURES"
-symbol = "CZCE.CJ209"
 id = "CJ209"
 name = "红枣2209"
 
@@ -6081,7 +5575,6 @@ price_decs = 0
 product_id = "CY"
 product_short_name = "棉纱"
 product_class = "FUTURES"
-symbol = "CZCE.CY209"
 id = "CY209"
 name = "棉纱2209"
 
@@ -6093,7 +5586,6 @@ price_decs = 0
 product_id = "FG"
 product_short_name = "玻璃"
 product_class = "FUTURES"
-symbol = "CZCE.FG209"
 id = "FG209"
 name = "玻璃2209"
 
@@ -6105,7 +5597,6 @@ price_decs = 0
 product_id = "JR"
 product_short_name = "粳稻"
 product_class = "FUTURES"
-symbol = "CZCE.JR209"
 id = "JR209"
 name = "粳稻2209"
 
@@ -6117,7 +5608,6 @@ price_decs = 0
 product_id = "LR"
 product_short_name = "晚稻"
 product_class = "FUTURES"
-symbol = "CZCE.LR209"
 id = "LR209"
 name = "晚稻2209"
 
@@ -6129,7 +5619,6 @@ price_decs = 0
 product_id = "MA"
 product_short_name = "甲醇"
 product_class = "FUTURES"
-symbol = "CZCE.MA209"
 id = "MA209"
 name = "甲醇2209"
 
@@ -6141,7 +5630,6 @@ price_decs = 0
 product_id = "OI"
 product_short_name = "菜油"
 product_class = "FUTURES"
-symbol = "CZCE.OI209"
 id = "OI209"
 name = "菜油2209"
 
@@ -6153,7 +5641,6 @@ price_decs = 0
 product_id = "PF"
 product_short_name = "短纤"
 product_class = "FUTURES"
-symbol = "CZCE.PF209"
 id = "PF209"
 name = "短纤2209"
 
@@ -6165,7 +5652,6 @@ price_decs = 0
 product_id = "PM"
 product_short_name = "普麦"
 product_class = "FUTURES"
-symbol = "CZCE.PM209"
 id = "PM209"
 name = "普麦2209"
 
@@ -6177,7 +5663,6 @@ price_decs = 0
 product_id = "RI"
 product_short_name = "早稻"
 product_class = "FUTURES"
-symbol = "CZCE.RI209"
 id = "RI209"
 name = "早稻2209"
 
@@ -6189,7 +5674,6 @@ price_decs = 0
 product_id = "RM"
 product_short_name = "菜粕"
 product_class = "FUTURES"
-symbol = "CZCE.RM209"
 id = "RM209"
 name = "菜粕2209"
 
@@ -6201,7 +5685,6 @@ price_decs = 0
 product_id = "RS"
 product_short_name = "菜籽"
 product_class = "FUTURES"
-symbol = "CZCE.RS209"
 id = "RS209"
 name = "菜籽2209"
 
@@ -6213,7 +5696,6 @@ price_decs = 0
 product_id = "SA"
 product_short_name = "纯碱"
 product_class = "FUTURES"
-symbol = "CZCE.SA209"
 id = "SA209"
 name = "纯碱2209"
 
@@ -6225,7 +5707,6 @@ price_decs = 0
 product_id = "SF"
 product_short_name = "硅铁"
 product_class = "FUTURES"
-symbol = "CZCE.SF209"
 id = "SF209"
 name = "硅铁2209"
 
@@ -6237,7 +5718,6 @@ price_decs = 0
 product_id = "SM"
 product_short_name = "锰硅"
 product_class = "FUTURES"
-symbol = "CZCE.SM209"
 id = "SM209"
 name = "锰硅2209"
 
@@ -6249,7 +5729,6 @@ price_decs = 0
 product_id = "SR"
 product_short_name = "白糖"
 product_class = "FUTURES"
-symbol = "CZCE.SR209"
 id = "SR209"
 name = "白糖2209"
 
@@ -6261,7 +5740,6 @@ price_decs = 0
 product_id = "TA"
 product_short_name = "PTA"
 product_class = "FUTURES"
-symbol = "CZCE.TA209"
 id = "TA209"
 name = "PTA2209"
 
@@ -6273,7 +5751,6 @@ price_decs = 0
 product_id = "UR"
 product_short_name = "尿素"
 product_class = "FUTURES"
-symbol = "CZCE.UR209"
 id = "UR209"
 name = "尿素2209"
 
@@ -6285,7 +5762,6 @@ price_decs = 0
 product_id = "WH"
 product_short_name = "强麦"
 product_class = "FUTURES"
-symbol = "CZCE.WH209"
 id = "WH209"
 name = "强麦2209"
 
@@ -6297,7 +5773,6 @@ price_decs = 1
 product_id = "j"
 product_short_name = "焦炭"
 product_class = "FUTURES"
-symbol = "DCE.j2209"
 id = "j2209"
 name = "焦炭2209"
 
@@ -6309,7 +5784,6 @@ price_decs = 1
 product_id = "i"
 product_short_name = "铁矿"
 product_class = "FUTURES"
-symbol = "DCE.i2209"
 id = "i2209"
 name = "铁矿2209"
 
@@ -6321,7 +5795,6 @@ price_decs = 1
 product_id = "fb"
 product_short_name = "纤板"
 product_class = "FUTURES"
-symbol = "DCE.fb2209"
 id = "fb2209"
 name = "纤板2209"
 
@@ -6333,7 +5806,6 @@ price_decs = 0
 product_id = "cs"
 product_short_name = "淀粉"
 product_class = "FUTURES"
-symbol = "DCE.cs2209"
 id = "cs2209"
 name = "淀粉2209"
 
@@ -6345,7 +5817,6 @@ price_decs = 0
 product_id = "c"
 product_short_name = "玉米"
 product_class = "FUTURES"
-symbol = "DCE.c2209"
 id = "c2209"
 name = "玉米2209"
 
@@ -6357,7 +5828,6 @@ price_decs = 2
 product_id = "bb"
 product_short_name = "胶板"
 product_class = "FUTURES"
-symbol = "DCE.bb2209"
 id = "bb2209"
 name = "胶板2209"
 
@@ -6369,7 +5839,6 @@ price_decs = 0
 product_id = "b"
 product_short_name = "豆二"
 product_class = "FUTURES"
-symbol = "DCE.b2209"
 id = "b2209"
 name = "豆二2209"
 
@@ -6381,7 +5850,6 @@ price_decs = 0
 product_id = "a"
 product_short_name = "豆一"
 product_class = "FUTURES"
-symbol = "DCE.a2209"
 id = "a2209"
 name = "豆一2209"
 
@@ -6393,7 +5861,6 @@ price_decs = 1
 product_id = "jm"
 product_short_name = "焦煤"
 product_class = "FUTURES"
-symbol = "DCE.jm2209"
 id = "jm2209"
 name = "焦煤2209"
 
@@ -6405,7 +5872,6 @@ price_decs = 0
 product_id = "pp"
 product_short_name = "PP"
 product_class = "FUTURES"
-symbol = "DCE.pp2209"
 id = "pp2209"
 name = "PP2209"
 
@@ -6417,7 +5883,6 @@ price_decs = 0
 product_id = "y"
 product_short_name = "豆油"
 product_class = "FUTURES"
-symbol = "DCE.y2209"
 id = "y2209"
 name = "豆油2209"
 
@@ -6429,7 +5894,6 @@ price_decs = 0
 product_id = "v"
 product_short_name = "PVC"
 product_class = "FUTURES"
-symbol = "DCE.v2209"
 id = "v2209"
 name = "PVC2209"
 
@@ -6441,7 +5905,6 @@ price_decs = 0
 product_id = "rr"
 product_short_name = "粳米"
 product_class = "FUTURES"
-symbol = "DCE.rr2209"
 id = "rr2209"
 name = "粳米2209"
 
@@ -6453,7 +5916,6 @@ price_decs = 0
 product_id = "p"
 product_short_name = "棕榈"
 product_class = "FUTURES"
-symbol = "DCE.p2209"
 id = "p2209"
 name = "棕榈2209"
 
@@ -6465,7 +5927,6 @@ price_decs = 0
 product_id = "m"
 product_short_name = "豆粕"
 product_class = "FUTURES"
-symbol = "DCE.m2209"
 id = "m2209"
 name = "豆粕2209"
 
@@ -6477,7 +5938,6 @@ price_decs = 0
 product_id = "l"
 product_short_name = "塑料"
 product_class = "FUTURES"
-symbol = "DCE.l2209"
 id = "l2209"
 name = "塑料2209"
 
@@ -6489,7 +5949,6 @@ price_decs = 0
 product_id = "bc"
 product_short_name = "国际铜"
 product_class = "FUTURES"
-symbol = "INE.bc2209"
 id = "bc2209"
 name = "国际铜2209"
 
@@ -6501,7 +5960,6 @@ price_decs = 0
 product_id = "nr"
 product_short_name = "20号胶"
 product_class = "FUTURES"
-symbol = "INE.nr2209"
 id = "nr2209"
 name = "20号胶2209"
 
@@ -6513,7 +5971,6 @@ price_decs = 0
 product_id = "ag"
 product_short_name = "沪银"
 product_class = "FUTURES"
-symbol = "SHFE.ag2209"
 id = "ag2209"
 name = "沪银2209"
 
@@ -6525,7 +5982,6 @@ price_decs = 0
 product_id = "al"
 product_short_name = "沪铝"
 product_class = "FUTURES"
-symbol = "SHFE.al2209"
 id = "al2209"
 name = "沪铝2209"
 
@@ -6537,7 +5993,6 @@ price_decs = 2
 product_id = "au"
 product_short_name = "沪金"
 product_class = "FUTURES"
-symbol = "SHFE.au2210"
 id = "au2210"
 name = "沪金2210"
 
@@ -6549,7 +6004,6 @@ price_decs = 0
 product_id = "bu"
 product_short_name = "沥青"
 product_class = "FUTURES"
-symbol = "SHFE.bu2309"
 id = "bu2309"
 name = "沥青2309"
 
@@ -6561,7 +6015,6 @@ price_decs = 0
 product_id = "cu"
 product_short_name = "沪铜"
 product_class = "FUTURES"
-symbol = "SHFE.cu2209"
 id = "cu2209"
 name = "沪铜2209"
 
@@ -6573,7 +6026,6 @@ price_decs = 0
 product_id = "hc"
 product_short_name = "热卷"
 product_class = "FUTURES"
-symbol = "SHFE.hc2209"
 id = "hc2209"
 name = "热卷2209"
 
@@ -6585,7 +6037,6 @@ price_decs = 0
 product_id = "ni"
 product_short_name = "沪镍"
 product_class = "FUTURES"
-symbol = "SHFE.ni2209"
 id = "ni2209"
 name = "沪镍2209"
 
@@ -6597,7 +6048,6 @@ price_decs = 0
 product_id = "pb"
 product_short_name = "沪铅"
 product_class = "FUTURES"
-symbol = "SHFE.pb2209"
 id = "pb2209"
 name = "沪铅2209"
 
@@ -6609,7 +6059,6 @@ price_decs = 0
 product_id = "rb"
 product_short_name = "螺纹"
 product_class = "FUTURES"
-symbol = "SHFE.rb2209"
 id = "rb2209"
 name = "螺纹2209"
 
@@ -6621,7 +6070,6 @@ price_decs = 0
 product_id = "ru"
 product_short_name = "橡胶"
 product_class = "FUTURES"
-symbol = "SHFE.ru2209"
 id = "ru2209"
 name = "橡胶2209"
 
@@ -6633,7 +6081,6 @@ price_decs = 0
 product_id = "sn"
 product_short_name = "沪锡"
 product_class = "FUTURES"
-symbol = "SHFE.sn2209"
 id = "sn2209"
 name = "沪锡2209"
 
@@ -6645,7 +6092,6 @@ price_decs = 0
 product_id = "sp"
 product_short_name = "纸浆"
 product_class = "FUTURES"
-symbol = "SHFE.sp2209"
 id = "sp2209"
 name = "纸浆2209"
 
@@ -6657,7 +6103,6 @@ price_decs = 0
 product_id = "ss"
 product_short_name = "不锈钢"
 product_class = "FUTURES"
-symbol = "SHFE.ss2209"
 id = "ss2209"
 name = "不锈钢2209"
 
@@ -6669,7 +6114,6 @@ price_decs = 0
 product_id = "wr"
 product_short_name = "线材"
 product_class = "FUTURES"
-symbol = "SHFE.wr2209"
 id = "wr2209"
 name = "线材2209"
 
@@ -6681,7 +6125,6 @@ price_decs = 0
 product_id = "zn"
 product_short_name = "沪锌"
 product_class = "FUTURES"
-symbol = "SHFE.zn2209"
 id = "zn2209"
 name = "沪锌2209"
 
@@ -6693,7 +6136,6 @@ price_decs = 0
 product_id = "lu"
 product_short_name = "低硫燃料油"
 product_class = "FUTURES"
-symbol = "INE.lu2210"
 id = "lu2210"
 name = "低硫燃料油2210"
 
@@ -6705,7 +6147,6 @@ price_decs = 1
 product_id = "sc"
 product_short_name = "原油"
 product_class = "FUTURES"
-symbol = "INE.sc2210"
 id = "sc2210"
 name = "原油2210"
 
@@ -6717,7 +6158,6 @@ price_decs = 0
 product_id = "fu"
 product_short_name = "燃油"
 product_class = "FUTURES"
-symbol = "SHFE.fu2210"
 id = "fu2210"
 name = "燃油2210"
 
@@ -6729,7 +6169,6 @@ price_decs = 0
 product_id = "eg"
 product_short_name = "甘醇"
 product_class = "FUTURES"
-symbol = "DCE.eg2209"
 id = "eg2209"
 name = "甘醇2209"
 
@@ -6741,7 +6180,6 @@ price_decs = 0
 product_id = "eb"
 product_short_name = "苯乙烯"
 product_class = "FUTURES"
-symbol = "DCE.eb2209"
 id = "eb2209"
 name = "苯乙烯2209"
 
@@ -6753,7 +6191,6 @@ price_decs = 0
 product_id = "jd"
 product_short_name = "鸡蛋"
 product_class = "FUTURES"
-symbol = "DCE.jd2209"
 id = "jd2209"
 name = "鸡蛋2209"
 
@@ -6765,7 +6202,6 @@ price_decs = 0
 product_id = "lh"
 product_short_name = "生猪"
 product_class = "FUTURES"
-symbol = "DCE.lh2209"
 id = "lh2209"
 name = "生猪2209"
 
@@ -6777,7 +6213,6 @@ price_decs = 0
 product_id = "pg"
 product_short_name = "LPG"
 product_class = "FUTURES"
-symbol = "DCE.pg2209"
 id = "pg2209"
 name = "LPG2209"
 
@@ -6789,7 +6224,6 @@ price_decs = 1
 product_id = "ZC"
 product_short_name = "郑煤"
 product_class = "FUTURES"
-symbol = "CZCE.ZC210"
 id = "ZC210"
 name = "郑煤2210"
 
@@ -6801,7 +6235,6 @@ price_decs = 0
 product_id = "bc"
 product_short_name = "国际铜"
 product_class = "FUTURES"
-symbol = "INE.bc2210"
 id = "bc2210"
 name = "国际铜2210"
 
@@ -6813,7 +6246,6 @@ price_decs = 0
 product_id = "nr"
 product_short_name = "20号胶"
 product_class = "FUTURES"
-symbol = "INE.nr2210"
 id = "nr2210"
 name = "20号胶2210"
 
@@ -6825,7 +6257,6 @@ price_decs = 0
 product_id = "ag"
 product_short_name = "沪银"
 product_class = "FUTURES"
-symbol = "SHFE.ag2210"
 id = "ag2210"
 name = "沪银2210"
 
@@ -6837,7 +6268,6 @@ price_decs = 0
 product_id = "al"
 product_short_name = "沪铝"
 product_class = "FUTURES"
-symbol = "SHFE.al2210"
 id = "al2210"
 name = "沪铝2210"
 
@@ -6849,7 +6279,6 @@ price_decs = 2
 product_id = "au"
 product_short_name = "沪金"
 product_class = "FUTURES"
-symbol = "SHFE.au2201"
 id = "au2201"
 name = "沪金2201"
 
@@ -6861,7 +6290,6 @@ price_decs = 0
 product_id = "bu"
 product_short_name = "沥青"
 product_class = "FUTURES"
-symbol = "SHFE.bu2204"
 id = "bu2204"
 name = "沥青2204"
 
@@ -6873,7 +6301,6 @@ price_decs = 0
 product_id = "cu"
 product_short_name = "沪铜"
 product_class = "FUTURES"
-symbol = "SHFE.cu2210"
 id = "cu2210"
 name = "沪铜2210"
 
@@ -6885,7 +6312,6 @@ price_decs = 0
 product_id = "hc"
 product_short_name = "热卷"
 product_class = "FUTURES"
-symbol = "SHFE.hc2210"
 id = "hc2210"
 name = "热卷2210"
 
@@ -6897,7 +6323,6 @@ price_decs = 0
 product_id = "ni"
 product_short_name = "沪镍"
 product_class = "FUTURES"
-symbol = "SHFE.ni2210"
 id = "ni2210"
 name = "沪镍2210"
 
@@ -6909,7 +6334,6 @@ price_decs = 0
 product_id = "pb"
 product_short_name = "沪铅"
 product_class = "FUTURES"
-symbol = "SHFE.pb2210"
 id = "pb2210"
 name = "沪铅2210"
 
@@ -6921,7 +6345,6 @@ price_decs = 0
 product_id = "rb"
 product_short_name = "螺纹"
 product_class = "FUTURES"
-symbol = "SHFE.rb2210"
 id = "rb2210"
 name = "螺纹2210"
 
@@ -6933,7 +6356,6 @@ price_decs = 0
 product_id = "ru"
 product_short_name = "橡胶"
 product_class = "FUTURES"
-symbol = "SHFE.ru2210"
 id = "ru2210"
 name = "橡胶2210"
 
@@ -6945,7 +6367,6 @@ price_decs = 0
 product_id = "sn"
 product_short_name = "沪锡"
 product_class = "FUTURES"
-symbol = "SHFE.sn2210"
 id = "sn2210"
 name = "沪锡2210"
 
@@ -6957,7 +6378,6 @@ price_decs = 0
 product_id = "sp"
 product_short_name = "纸浆"
 product_class = "FUTURES"
-symbol = "SHFE.sp2210"
 id = "sp2210"
 name = "纸浆2210"
 
@@ -6969,7 +6389,6 @@ price_decs = 0
 product_id = "ss"
 product_short_name = "不锈钢"
 product_class = "FUTURES"
-symbol = "SHFE.ss2210"
 id = "ss2210"
 name = "不锈钢2210"
 
@@ -6981,7 +6400,6 @@ price_decs = 0
 product_id = "wr"
 product_short_name = "线材"
 product_class = "FUTURES"
-symbol = "SHFE.wr2210"
 id = "wr2210"
 name = "线材2210"
 
@@ -6993,7 +6411,6 @@ price_decs = 0
 product_id = "zn"
 product_short_name = "沪锌"
 product_class = "FUTURES"
-symbol = "SHFE.zn2210"
 id = "zn2210"
 name = "沪锌2210"
 
@@ -7005,7 +6422,6 @@ price_decs = 1
 product_id = "IC"
 product_short_name = "中证"
 product_class = "FUTURES"
-symbol = "CFFEX.IC2206"
 id = "IC2206"
 name = "中证2206"
 
@@ -7017,7 +6433,6 @@ price_decs = 1
 product_id = "IF"
 product_short_name = "沪深"
 product_class = "FUTURES"
-symbol = "CFFEX.IF2206"
 id = "IF2206"
 name = "沪深2206"
 
@@ -7029,7 +6444,6 @@ price_decs = 1
 product_id = "IH"
 product_short_name = "上证"
 product_class = "FUTURES"
-symbol = "CFFEX.IH2206"
 id = "IH2206"
 name = "上证2206"
 
@@ -7041,7 +6455,6 @@ price_decs = 0
 product_id = "AP"
 product_short_name = "苹果"
 product_class = "FUTURES"
-symbol = "CZCE.AP210"
 id = "AP210"
 name = "苹果2210"
 
@@ -7053,7 +6466,6 @@ price_decs = 0
 product_id = "CY"
 product_short_name = "棉纱"
 product_class = "FUTURES"
-symbol = "CZCE.CY210"
 id = "CY210"
 name = "棉纱2210"
 
@@ -7065,7 +6477,6 @@ price_decs = 0
 product_id = "FG"
 product_short_name = "玻璃"
 product_class = "FUTURES"
-symbol = "CZCE.FG210"
 id = "FG210"
 name = "玻璃2210"
 
@@ -7077,7 +6488,6 @@ price_decs = 0
 product_id = "MA"
 product_short_name = "甲醇"
 product_class = "FUTURES"
-symbol = "CZCE.MA210"
 id = "MA210"
 name = "甲醇2210"
 
@@ -7089,7 +6499,6 @@ price_decs = 0
 product_id = "PF"
 product_short_name = "短纤"
 product_class = "FUTURES"
-symbol = "CZCE.PF210"
 id = "PF210"
 name = "短纤2210"
 
@@ -7101,7 +6510,6 @@ price_decs = 0
 product_id = "PK"
 product_short_name = "花生仁"
 product_class = "FUTURES"
-symbol = "CZCE.PK210"
 id = "PK210"
 name = "花生仁2210"
 
@@ -7113,7 +6521,6 @@ price_decs = 0
 product_id = "SA"
 product_short_name = "纯碱"
 product_class = "FUTURES"
-symbol = "CZCE.SA210"
 id = "SA210"
 name = "纯碱2210"
 
@@ -7125,7 +6532,6 @@ price_decs = 0
 product_id = "SF"
 product_short_name = "硅铁"
 product_class = "FUTURES"
-symbol = "CZCE.SF210"
 id = "SF210"
 name = "硅铁2210"
 
@@ -7137,7 +6543,6 @@ price_decs = 0
 product_id = "SM"
 product_short_name = "锰硅"
 product_class = "FUTURES"
-symbol = "CZCE.SM210"
 id = "SM210"
 name = "锰硅2210"
 
@@ -7149,7 +6554,6 @@ price_decs = 0
 product_id = "TA"
 product_short_name = "PTA"
 product_class = "FUTURES"
-symbol = "CZCE.TA210"
 id = "TA210"
 name = "PTA2210"
 
@@ -7161,7 +6565,6 @@ price_decs = 0
 product_id = "UR"
 product_short_name = "尿素"
 product_class = "FUTURES"
-symbol = "CZCE.UR210"
 id = "UR210"
 name = "尿素2210"
 
@@ -7173,7 +6576,6 @@ price_decs = 1
 product_id = "j"
 product_short_name = "焦炭"
 product_class = "FUTURES"
-symbol = "DCE.j2210"
 id = "j2210"
 name = "焦炭2210"
 
@@ -7185,7 +6587,6 @@ price_decs = 1
 product_id = "i"
 product_short_name = "铁矿"
 product_class = "FUTURES"
-symbol = "DCE.i2210"
 id = "i2210"
 name = "铁矿2210"
 
@@ -7197,7 +6598,6 @@ price_decs = 1
 product_id = "fb"
 product_short_name = "纤板"
 product_class = "FUTURES"
-symbol = "DCE.fb2210"
 id = "fb2210"
 name = "纤板2210"
 
@@ -7209,7 +6609,6 @@ price_decs = 2
 product_id = "bb"
 product_short_name = "胶板"
 product_class = "FUTURES"
-symbol = "DCE.bb2210"
 id = "bb2210"
 name = "胶板2210"
 
@@ -7221,7 +6620,6 @@ price_decs = 0
 product_id = "b"
 product_short_name = "豆二"
 product_class = "FUTURES"
-symbol = "DCE.b2210"
 id = "b2210"
 name = "豆二2210"
 
@@ -7233,7 +6631,6 @@ price_decs = 1
 product_id = "jm"
 product_short_name = "焦煤"
 product_class = "FUTURES"
-symbol = "DCE.jm2210"
 id = "jm2210"
 name = "焦煤2210"
 
@@ -7245,7 +6642,6 @@ price_decs = 0
 product_id = "l"
 product_short_name = "塑料"
 product_class = "FUTURES"
-symbol = "DCE.l2210"
 id = "l2210"
 name = "塑料2210"
 
@@ -7257,7 +6653,6 @@ price_decs = 0
 product_id = "pp"
 product_short_name = "PP"
 product_class = "FUTURES"
-symbol = "DCE.pp2210"
 id = "pp2210"
 name = "PP2210"
 
@@ -7269,7 +6664,6 @@ price_decs = 0
 product_id = "rr"
 product_short_name = "粳米"
 product_class = "FUTURES"
-symbol = "DCE.rr2210"
 id = "rr2210"
 name = "粳米2210"
 
@@ -7281,7 +6675,6 @@ price_decs = 0
 product_id = "v"
 product_short_name = "PVC"
 product_class = "FUTURES"
-symbol = "DCE.v2210"
 id = "v2210"
 name = "PVC2210"
 
@@ -7293,7 +6686,6 @@ price_decs = 0
 product_id = "p"
 product_short_name = "棕榈"
 product_class = "FUTURES"
-symbol = "DCE.p2210"
 id = "p2210"
 name = "棕榈2210"
 
@@ -7305,7 +6697,6 @@ price_decs = 0
 product_id = "eg"
 product_short_name = "甘醇"
 product_class = "FUTURES"
-symbol = "DCE.eg2210"
 id = "eg2210"
 name = "甘醇2210"
 
@@ -7317,7 +6708,6 @@ price_decs = 0
 product_id = "eb"
 product_short_name = "苯乙烯"
 product_class = "FUTURES"
-symbol = "DCE.eb2210"
 id = "eb2210"
 name = "苯乙烯2210"
 
@@ -7329,7 +6719,6 @@ price_decs = 0
 product_id = "jd"
 product_short_name = "鸡蛋"
 product_class = "FUTURES"
-symbol = "DCE.jd2210"
 id = "jd2210"
 name = "鸡蛋2210"
 
@@ -7341,7 +6730,6 @@ price_decs = 0
 product_id = "pg"
 product_short_name = "LPG"
 product_class = "FUTURES"
-symbol = "DCE.pg2210"
 id = "pg2210"
 name = "LPG2210"
 
@@ -7353,7 +6741,6 @@ price_decs = 0
 product_id = "lu"
 product_short_name = "低硫燃料油"
 product_class = "FUTURES"
-symbol = "INE.lu2211"
 id = "lu2211"
 name = "低硫燃料油2211"
 
@@ -7365,7 +6752,6 @@ price_decs = 1
 product_id = "sc"
 product_short_name = "原油"
 product_class = "FUTURES"
-symbol = "INE.sc2211"
 id = "sc2211"
 name = "原油2211"
 
@@ -7377,7 +6763,6 @@ price_decs = 0
 product_id = "fu"
 product_short_name = "燃油"
 product_class = "FUTURES"
-symbol = "SHFE.fu2211"
 id = "fu2211"
 name = "燃油2211"
 
@@ -7389,7 +6774,6 @@ price_decs = 1
 product_id = "ZC"
 product_short_name = "郑煤"
 product_class = "FUTURES"
-symbol = "CZCE.ZC211"
 id = "ZC211"
 name = "郑煤2211"
 
@@ -7401,7 +6785,6 @@ price_decs = 0
 product_id = "AP"
 product_short_name = "苹果"
 product_class = "FUTURES"
-symbol = "CZCE.AP211"
 id = "AP211"
 name = "苹果2211"
 
@@ -7413,7 +6796,6 @@ price_decs = 0
 product_id = "CF"
 product_short_name = "棉花"
 product_class = "FUTURES"
-symbol = "CZCE.CF211"
 id = "CF211"
 name = "棉花2211"
 
@@ -7425,7 +6807,6 @@ price_decs = 0
 product_id = "CY"
 product_short_name = "棉纱"
 product_class = "FUTURES"
-symbol = "CZCE.CY211"
 id = "CY211"
 name = "棉纱2211"
 
@@ -7437,7 +6818,6 @@ price_decs = 0
 product_id = "FG"
 product_short_name = "玻璃"
 product_class = "FUTURES"
-symbol = "CZCE.FG211"
 id = "FG211"
 name = "玻璃2211"
 
@@ -7449,7 +6829,6 @@ price_decs = 0
 product_id = "JR"
 product_short_name = "粳稻"
 product_class = "FUTURES"
-symbol = "CZCE.JR211"
 id = "JR211"
 name = "粳稻2211"
 
@@ -7461,7 +6840,6 @@ price_decs = 0
 product_id = "LR"
 product_short_name = "晚稻"
 product_class = "FUTURES"
-symbol = "CZCE.LR211"
 id = "LR211"
 name = "晚稻2211"
 
@@ -7473,7 +6851,6 @@ price_decs = 0
 product_id = "MA"
 product_short_name = "甲醇"
 product_class = "FUTURES"
-symbol = "CZCE.MA211"
 id = "MA211"
 name = "甲醇2211"
 
@@ -7485,7 +6862,6 @@ price_decs = 0
 product_id = "OI"
 product_short_name = "菜油"
 product_class = "FUTURES"
-symbol = "CZCE.OI211"
 id = "OI211"
 name = "菜油2211"
 
@@ -7497,7 +6873,6 @@ price_decs = 0
 product_id = "PF"
 product_short_name = "短纤"
 product_class = "FUTURES"
-symbol = "CZCE.PF211"
 id = "PF211"
 name = "短纤2211"
 
@@ -7509,7 +6884,6 @@ price_decs = 0
 product_id = "PK"
 product_short_name = "花生仁"
 product_class = "FUTURES"
-symbol = "CZCE.PK211"
 id = "PK211"
 name = "花生仁2211"
 
@@ -7521,7 +6895,6 @@ price_decs = 0
 product_id = "PM"
 product_short_name = "普麦"
 product_class = "FUTURES"
-symbol = "CZCE.PM211"
 id = "PM211"
 name = "普麦2211"
 
@@ -7533,7 +6906,6 @@ price_decs = 0
 product_id = "RI"
 product_short_name = "早稻"
 product_class = "FUTURES"
-symbol = "CZCE.RI211"
 id = "RI211"
 name = "早稻2211"
 
@@ -7545,7 +6917,6 @@ price_decs = 0
 product_id = "RM"
 product_short_name = "菜粕"
 product_class = "FUTURES"
-symbol = "CZCE.RM211"
 id = "RM211"
 name = "菜粕2211"
 
@@ -7557,7 +6928,6 @@ price_decs = 0
 product_id = "RS"
 product_short_name = "菜籽"
 product_class = "FUTURES"
-symbol = "CZCE.RS211"
 id = "RS211"
 name = "菜籽2211"
 
@@ -7569,7 +6939,6 @@ price_decs = 0
 product_id = "SA"
 product_short_name = "纯碱"
 product_class = "FUTURES"
-symbol = "CZCE.SA211"
 id = "SA211"
 name = "纯碱2211"
 
@@ -7581,7 +6950,6 @@ price_decs = 0
 product_id = "SF"
 product_short_name = "硅铁"
 product_class = "FUTURES"
-symbol = "CZCE.SF211"
 id = "SF211"
 name = "硅铁2211"
 
@@ -7593,7 +6961,6 @@ price_decs = 0
 product_id = "SM"
 product_short_name = "锰硅"
 product_class = "FUTURES"
-symbol = "CZCE.SM211"
 id = "SM211"
 name = "锰硅2211"
 
@@ -7605,7 +6972,6 @@ price_decs = 0
 product_id = "SR"
 product_short_name = "白糖"
 product_class = "FUTURES"
-symbol = "CZCE.SR211"
 id = "SR211"
 name = "白糖2211"
 
@@ -7617,7 +6983,6 @@ price_decs = 0
 product_id = "TA"
 product_short_name = "PTA"
 product_class = "FUTURES"
-symbol = "CZCE.TA211"
 id = "TA211"
 name = "PTA2211"
 
@@ -7629,7 +6994,6 @@ price_decs = 0
 product_id = "UR"
 product_short_name = "尿素"
 product_class = "FUTURES"
-symbol = "CZCE.UR211"
 id = "UR211"
 name = "尿素2211"
 
@@ -7641,7 +7005,6 @@ price_decs = 0
 product_id = "WH"
 product_short_name = "强麦"
 product_class = "FUTURES"
-symbol = "CZCE.WH211"
 id = "WH211"
 name = "强麦2211"
 
@@ -7653,7 +7016,6 @@ price_decs = 1
 product_id = "j"
 product_short_name = "焦炭"
 product_class = "FUTURES"
-symbol = "DCE.j2211"
 id = "j2211"
 name = "焦炭2211"
 
@@ -7665,7 +7027,6 @@ price_decs = 1
 product_id = "i"
 product_short_name = "铁矿"
 product_class = "FUTURES"
-symbol = "DCE.i2211"
 id = "i2211"
 name = "铁矿2211"
 
@@ -7677,7 +7038,6 @@ price_decs = 1
 product_id = "fb"
 product_short_name = "纤板"
 product_class = "FUTURES"
-symbol = "DCE.fb2211"
 id = "fb2211"
 name = "纤板2211"
 
@@ -7689,7 +7049,6 @@ price_decs = 0
 product_id = "cs"
 product_short_name = "淀粉"
 product_class = "FUTURES"
-symbol = "DCE.cs2211"
 id = "cs2211"
 name = "淀粉2211"
 
@@ -7701,7 +7060,6 @@ price_decs = 0
 product_id = "c"
 product_short_name = "玉米"
 product_class = "FUTURES"
-symbol = "DCE.c2211"
 id = "c2211"
 name = "玉米2211"
 
@@ -7713,7 +7071,6 @@ price_decs = 2
 product_id = "bb"
 product_short_name = "胶板"
 product_class = "FUTURES"
-symbol = "DCE.bb2211"
 id = "bb2211"
 name = "胶板2211"
 
@@ -7725,7 +7082,6 @@ price_decs = 0
 product_id = "b"
 product_short_name = "豆二"
 product_class = "FUTURES"
-symbol = "DCE.b2211"
 id = "b2211"
 name = "豆二2211"
 
@@ -7737,7 +7093,6 @@ price_decs = 0
 product_id = "a"
 product_short_name = "豆一"
 product_class = "FUTURES"
-symbol = "DCE.a2211"
 id = "a2211"
 name = "豆一2211"
 
@@ -7749,7 +7104,6 @@ price_decs = 1
 product_id = "jm"
 product_short_name = "焦煤"
 product_class = "FUTURES"
-symbol = "DCE.jm2211"
 id = "jm2211"
 name = "焦煤2211"
 
@@ -7761,7 +7115,6 @@ price_decs = 0
 product_id = "l"
 product_short_name = "塑料"
 product_class = "FUTURES"
-symbol = "DCE.l2211"
 id = "l2211"
 name = "塑料2211"
 
@@ -7773,7 +7126,6 @@ price_decs = 0
 product_id = "pp"
 product_short_name = "PP"
 product_class = "FUTURES"
-symbol = "DCE.pp2211"
 id = "pp2211"
 name = "PP2211"
 
@@ -7785,7 +7137,6 @@ price_decs = 0
 product_id = "rr"
 product_short_name = "粳米"
 product_class = "FUTURES"
-symbol = "DCE.rr2211"
 id = "rr2211"
 name = "粳米2211"
 
@@ -7797,7 +7148,6 @@ price_decs = 0
 product_id = "v"
 product_short_name = "PVC"
 product_class = "FUTURES"
-symbol = "DCE.v2211"
 id = "v2211"
 name = "PVC2211"
 
@@ -7809,7 +7159,6 @@ price_decs = 0
 product_id = "y"
 product_short_name = "豆油"
 product_class = "FUTURES"
-symbol = "DCE.y2211"
 id = "y2211"
 name = "豆油2211"
 
@@ -7821,7 +7170,6 @@ price_decs = 0
 product_id = "p"
 product_short_name = "棕榈"
 product_class = "FUTURES"
-symbol = "DCE.p2211"
 id = "p2211"
 name = "棕榈2211"
 
@@ -7833,7 +7181,6 @@ price_decs = 0
 product_id = "m"
 product_short_name = "豆粕"
 product_class = "FUTURES"
-symbol = "DCE.m2211"
 id = "m2211"
 name = "豆粕2211"
 
@@ -7845,7 +7192,6 @@ price_decs = 0
 product_id = "bc"
 product_short_name = "国际铜"
 product_class = "FUTURES"
-symbol = "INE.bc2211"
 id = "bc2211"
 name = "国际铜2211"
 
@@ -7857,7 +7203,6 @@ price_decs = 0
 product_id = "nr"
 product_short_name = "20号胶"
 product_class = "FUTURES"
-symbol = "INE.nr2211"
 id = "nr2211"
 name = "20号胶2211"
 
@@ -7869,7 +7214,6 @@ price_decs = 0
 product_id = "ag"
 product_short_name = "沪银"
 product_class = "FUTURES"
-symbol = "SHFE.ag2211"
 id = "ag2211"
 name = "沪银2211"
 
@@ -7881,7 +7225,6 @@ price_decs = 0
 product_id = "al"
 product_short_name = "沪铝"
 product_class = "FUTURES"
-symbol = "SHFE.al2211"
 id = "al2211"
 name = "沪铝2211"
 
@@ -7893,7 +7236,6 @@ price_decs = 2
 product_id = "au"
 product_short_name = "沪金"
 product_class = "FUTURES"
-symbol = "SHFE.au2212"
 id = "au2212"
 name = "沪金2212"
 
@@ -7905,7 +7247,6 @@ price_decs = 0
 product_id = "bu"
 product_short_name = "沥青"
 product_class = "FUTURES"
-symbol = "SHFE.bu2205"
 id = "bu2205"
 name = "沥青2205"
 
@@ -7917,7 +7258,6 @@ price_decs = 0
 product_id = "cu"
 product_short_name = "沪铜"
 product_class = "FUTURES"
-symbol = "SHFE.cu2211"
 id = "cu2211"
 name = "沪铜2211"
 
@@ -7929,7 +7269,6 @@ price_decs = 0
 product_id = "hc"
 product_short_name = "热卷"
 product_class = "FUTURES"
-symbol = "SHFE.hc2211"
 id = "hc2211"
 name = "热卷2211"
 
@@ -7941,7 +7280,6 @@ price_decs = 0
 product_id = "ni"
 product_short_name = "沪镍"
 product_class = "FUTURES"
-symbol = "SHFE.ni2211"
 id = "ni2211"
 name = "沪镍2211"
 
@@ -7953,7 +7291,6 @@ price_decs = 0
 product_id = "pb"
 product_short_name = "沪铅"
 product_class = "FUTURES"
-symbol = "SHFE.pb2211"
 id = "pb2211"
 name = "沪铅2211"
 
@@ -7965,7 +7302,6 @@ price_decs = 0
 product_id = "rb"
 product_short_name = "螺纹"
 product_class = "FUTURES"
-symbol = "SHFE.rb2211"
 id = "rb2211"
 name = "螺纹2211"
 
@@ -7977,7 +7313,6 @@ price_decs = 0
 product_id = "ru"
 product_short_name = "橡胶"
 product_class = "FUTURES"
-symbol = "SHFE.ru2211"
 id = "ru2211"
 name = "橡胶2211"
 
@@ -7989,7 +7324,6 @@ price_decs = 0
 product_id = "sn"
 product_short_name = "沪锡"
 product_class = "FUTURES"
-symbol = "SHFE.sn2211"
 id = "sn2211"
 name = "沪锡2211"
 
@@ -8001,7 +7335,6 @@ price_decs = 0
 product_id = "sp"
 product_short_name = "纸浆"
 product_class = "FUTURES"
-symbol = "SHFE.sp2211"
 id = "sp2211"
 name = "纸浆2211"
 
@@ -8013,7 +7346,6 @@ price_decs = 0
 product_id = "ss"
 product_short_name = "不锈钢"
 product_class = "FUTURES"
-symbol = "SHFE.ss2211"
 id = "ss2211"
 name = "不锈钢2211"
 
@@ -8025,7 +7357,6 @@ price_decs = 0
 product_id = "wr"
 product_short_name = "线材"
 product_class = "FUTURES"
-symbol = "SHFE.wr2211"
 id = "wr2211"
 name = "线材2211"
 
@@ -8037,7 +7368,6 @@ price_decs = 0
 product_id = "zn"
 product_short_name = "沪锌"
 product_class = "FUTURES"
-symbol = "SHFE.zn2211"
 id = "zn2211"
 name = "沪锌2211"
 
@@ -8049,7 +7379,6 @@ price_decs = 1
 product_id = "IC"
 product_short_name = "中证"
 product_class = "FUTURES"
-symbol = "CFFEX.IC2201"
 id = "IC2201"
 name = "中证2201"
 
@@ -8061,7 +7390,6 @@ price_decs = 1
 product_id = "IF"
 product_short_name = "沪深"
 product_class = "FUTURES"
-symbol = "CFFEX.IF2201"
 id = "IF2201"
 name = "沪深2201"
 
@@ -8073,7 +7401,6 @@ price_decs = 1
 product_id = "IH"
 product_short_name = "上证"
 product_class = "FUTURES"
-symbol = "CFFEX.IH2201"
 id = "IH2201"
 name = "上证2201"
 
@@ -8085,7 +7412,6 @@ price_decs = 0
 product_id = "eg"
 product_short_name = "甘醇"
 product_class = "FUTURES"
-symbol = "DCE.eg2211"
 id = "eg2211"
 name = "甘醇2211"
 
@@ -8097,7 +7423,6 @@ price_decs = 0
 product_id = "eb"
 product_short_name = "苯乙烯"
 product_class = "FUTURES"
-symbol = "DCE.eb2211"
 id = "eb2211"
 name = "苯乙烯2211"
 
@@ -8109,7 +7434,6 @@ price_decs = 0
 product_id = "jd"
 product_short_name = "鸡蛋"
 product_class = "FUTURES"
-symbol = "DCE.jd2211"
 id = "jd2211"
 name = "鸡蛋2211"
 
@@ -8121,7 +7445,6 @@ price_decs = 0
 product_id = "lh"
 product_short_name = "生猪"
 product_class = "FUTURES"
-symbol = "DCE.lh2211"
 id = "lh2211"
 name = "生猪2211"
 
@@ -8133,7 +7456,6 @@ price_decs = 0
 product_id = "pg"
 product_short_name = "LPG"
 product_class = "FUTURES"
-symbol = "DCE.pg2211"
 id = "pg2211"
 name = "LPG2211"
 
@@ -8145,7 +7467,6 @@ price_decs = 0
 product_id = "lu"
 product_short_name = "低硫燃料油"
 product_class = "FUTURES"
-symbol = "INE.lu2212"
 id = "lu2212"
 name = "低硫燃料油2212"
 
@@ -8157,7 +7478,6 @@ price_decs = 1
 product_id = "sc"
 product_short_name = "原油"
 product_class = "FUTURES"
-symbol = "INE.sc2412"
 id = "sc2412"
 name = "原油2412"
 
@@ -8169,7 +7489,6 @@ price_decs = 0
 product_id = "fu"
 product_short_name = "燃油"
 product_class = "FUTURES"
-symbol = "SHFE.fu2212"
 id = "fu2212"
 name = "燃油2212"
 
