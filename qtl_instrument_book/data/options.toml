@@ -13,8 +13,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-C-4400"
 
@@ -30,8 +28,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-C-4500"
 
@@ -47,8 +43,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-C-4600"
 
@@ -64,8 +58,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-C-4700"
 
@@ -81,8 +73,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-C-4800"
 
@@ -98,8 +88,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-C-4900"
 
@@ -115,8 +103,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-C-5000"
 
@@ -132,8 +118,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-C-5200"
 
@@ -149,8 +133,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-C-5400"
 
@@ -166,8 +148,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-C-5600"
 
@@ -183,8 +163,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-P-4400"
 
@@ -200,8 +178,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-P-4500"
 
@@ -217,8 +193,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-P-4600"
 
@@ -234,8 +208,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-P-4700"
 
@@ -251,8 +223,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-P-4800"
 
@@ -268,8 +238,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-P-4900"
 
@@ -285,8 +253,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-P-5000"
 
@@ -302,8 +268,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-P-5200"
 
@@ -319,8 +283,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-P-5400"
 
@@ -336,8 +298,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-P-5600"
 
@@ -353,8 +313,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-C-5800"
 
@@ -370,8 +328,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-P-5800"
 
@@ -387,8 +343,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-C-6000"
 
@@ -404,8 +358,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-P-6000"
 
@@ -421,8 +373,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-C-6200"
 
@@ -438,8 +388,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-P-6200"
 
@@ -455,8 +403,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-C-6400"
 
@@ -472,8 +418,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-P-6400"
 
@@ -489,8 +433,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 3
 expire_datetime = 2022-03-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2203-C-4500"
 
@@ -506,8 +448,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 3
 expire_datetime = 2022-03-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2203-C-4600"
 
@@ -523,8 +463,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 3
 expire_datetime = 2022-03-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2203-C-4700"
 
@@ -540,8 +478,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 3
 expire_datetime = 2022-03-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2203-C-4800"
 
@@ -557,8 +493,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 3
 expire_datetime = 2022-03-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2203-C-4900"
 
@@ -574,8 +508,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 3
 expire_datetime = 2022-03-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2203-C-5000"
 
@@ -591,8 +523,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 3
 expire_datetime = 2022-03-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2203-C-5200"
 
@@ -608,8 +538,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 3
 expire_datetime = 2022-03-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2203-C-5400"
 
@@ -625,8 +553,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 3
 expire_datetime = 2022-03-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2203-C-5600"
 
@@ -642,8 +568,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 3
 expire_datetime = 2022-03-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2203-P-4500"
 
@@ -659,8 +583,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 3
 expire_datetime = 2022-03-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2203-P-4600"
 
@@ -676,8 +598,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 3
 expire_datetime = 2022-03-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2203-P-4700"
 
@@ -693,8 +613,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 3
 expire_datetime = 2022-03-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2203-P-4800"
 
@@ -710,8 +628,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 3
 expire_datetime = 2022-03-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2203-P-4900"
 
@@ -727,8 +643,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 3
 expire_datetime = 2022-03-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2203-P-5000"
 
@@ -744,8 +658,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 3
 expire_datetime = 2022-03-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2203-P-5200"
 
@@ -761,8 +673,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 3
 expire_datetime = 2022-03-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2203-P-5400"
 
@@ -778,8 +688,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 3
 expire_datetime = 2022-03-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2203-P-5600"
 
@@ -795,8 +703,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 3
 expire_datetime = 2022-03-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2203-C-4400"
 
@@ -812,8 +718,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 3
 expire_datetime = 2022-03-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2203-P-4400"
 
@@ -829,8 +733,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 3
 expire_datetime = 2022-03-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2203-C-5800"
 
@@ -846,8 +748,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 3
 expire_datetime = 2022-03-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2203-P-5800"
 
@@ -863,8 +763,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 3
 expire_datetime = 2022-03-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2203-C-6000"
 
@@ -880,8 +778,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 3
 expire_datetime = 2022-03-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2203-P-6000"
 
@@ -897,8 +793,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 6
 expire_datetime = 2022-06-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2206-C-4500"
 
@@ -914,8 +808,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 6
 expire_datetime = 2022-06-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2206-C-4600"
 
@@ -931,8 +823,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 6
 expire_datetime = 2022-06-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2206-C-4700"
 
@@ -948,8 +838,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 6
 expire_datetime = 2022-06-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2206-C-4800"
 
@@ -965,8 +853,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 6
 expire_datetime = 2022-06-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2206-C-4900"
 
@@ -982,8 +868,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 6
 expire_datetime = 2022-06-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2206-C-5000"
 
@@ -999,8 +883,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 6
 expire_datetime = 2022-06-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2206-C-5200"
 
@@ -1016,8 +898,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 6
 expire_datetime = 2022-06-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2206-C-5400"
 
@@ -1033,8 +913,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 6
 expire_datetime = 2022-06-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2206-C-5600"
 
@@ -1050,8 +928,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 6
 expire_datetime = 2022-06-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2206-C-5800"
 
@@ -1067,8 +943,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 6
 expire_datetime = 2022-06-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2206-P-4500"
 
@@ -1084,8 +958,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 6
 expire_datetime = 2022-06-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2206-P-4600"
 
@@ -1101,8 +973,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 6
 expire_datetime = 2022-06-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2206-P-4700"
 
@@ -1118,8 +988,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 6
 expire_datetime = 2022-06-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2206-P-4800"
 
@@ -1135,8 +1003,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 6
 expire_datetime = 2022-06-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2206-P-4900"
 
@@ -1152,8 +1018,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 6
 expire_datetime = 2022-06-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2206-P-5000"
 
@@ -1169,8 +1033,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 6
 expire_datetime = 2022-06-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2206-P-5200"
 
@@ -1186,8 +1048,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 6
 expire_datetime = 2022-06-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2206-P-5400"
 
@@ -1203,8 +1063,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 6
 expire_datetime = 2022-06-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2206-P-5600"
 
@@ -1220,8 +1078,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 6
 expire_datetime = 2022-06-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2206-P-5800"
 
@@ -1237,8 +1093,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 6
 expire_datetime = 2022-06-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2206-C-4400"
 
@@ -1254,8 +1108,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 6
 expire_datetime = 2022-06-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2206-P-4400"
 
@@ -1271,8 +1123,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-C-4200"
 
@@ -1288,8 +1138,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-C-4300"
 
@@ -1305,8 +1153,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-P-4200"
 
@@ -1322,8 +1168,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-P-4300"
 
@@ -1339,8 +1183,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 3
 expire_datetime = 2022-03-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2203-C-4200"
 
@@ -1356,8 +1198,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 3
 expire_datetime = 2022-03-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2203-C-4300"
 
@@ -1373,8 +1213,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 3
 expire_datetime = 2022-03-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2203-P-4200"
 
@@ -1390,8 +1228,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 3
 expire_datetime = 2022-03-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2203-P-4300"
 
@@ -1407,8 +1243,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 6
 expire_datetime = 2022-06-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2206-C-4200"
 
@@ -1424,8 +1258,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 6
 expire_datetime = 2022-06-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2206-C-4300"
 
@@ -1441,8 +1273,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 6
 expire_datetime = 2022-06-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2206-P-4200"
 
@@ -1458,8 +1288,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 6
 expire_datetime = 2022-06-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2206-P-4300"
 
@@ -1475,8 +1303,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-C-4350"
 
@@ -1492,8 +1318,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-C-4450"
 
@@ -1509,8 +1333,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-C-4550"
 
@@ -1526,8 +1348,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-C-4650"
 
@@ -1543,8 +1363,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-C-4750"
 
@@ -1560,8 +1378,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-C-4850"
 
@@ -1577,8 +1393,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-C-4950"
 
@@ -1594,8 +1408,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-C-5100"
 
@@ -1611,8 +1423,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-C-5300"
 
@@ -1628,8 +1438,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-P-4350"
 
@@ -1645,8 +1453,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-P-4450"
 
@@ -1662,8 +1468,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-P-4550"
 
@@ -1679,8 +1483,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-P-4650"
 
@@ -1696,8 +1498,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-P-4750"
 
@@ -1713,8 +1513,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-P-4850"
 
@@ -1730,8 +1528,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-P-4950"
 
@@ -1747,8 +1543,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-P-5100"
 
@@ -1764,8 +1558,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-P-5300"
 
@@ -1781,8 +1573,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 9
 expire_datetime = 2022-09-16T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2209-C-4300"
 
@@ -1798,8 +1588,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 9
 expire_datetime = 2022-09-16T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2209-C-4400"
 
@@ -1815,8 +1603,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 9
 expire_datetime = 2022-09-16T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2209-C-4500"
 
@@ -1832,8 +1618,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 9
 expire_datetime = 2022-09-16T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2209-C-4600"
 
@@ -1849,8 +1633,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 9
 expire_datetime = 2022-09-16T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2209-C-4700"
 
@@ -1866,8 +1648,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 9
 expire_datetime = 2022-09-16T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2209-C-4800"
 
@@ -1883,8 +1663,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 9
 expire_datetime = 2022-09-16T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2209-C-4900"
 
@@ -1900,8 +1678,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 9
 expire_datetime = 2022-09-16T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2209-C-5000"
 
@@ -1917,8 +1693,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 9
 expire_datetime = 2022-09-16T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2209-C-5200"
 
@@ -1934,8 +1708,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 9
 expire_datetime = 2022-09-16T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2209-C-5400"
 
@@ -1951,8 +1723,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 9
 expire_datetime = 2022-09-16T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2209-P-4300"
 
@@ -1968,8 +1738,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 9
 expire_datetime = 2022-09-16T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2209-P-4400"
 
@@ -1985,8 +1753,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 9
 expire_datetime = 2022-09-16T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2209-P-4500"
 
@@ -2002,8 +1768,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 9
 expire_datetime = 2022-09-16T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2209-P-4600"
 
@@ -2019,8 +1783,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 9
 expire_datetime = 2022-09-16T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2209-P-4700"
 
@@ -2036,8 +1798,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 9
 expire_datetime = 2022-09-16T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2209-P-4800"
 
@@ -2053,8 +1813,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 9
 expire_datetime = 2022-09-16T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2209-P-4900"
 
@@ -2070,8 +1828,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 9
 expire_datetime = 2022-09-16T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2209-P-5000"
 
@@ -2087,8 +1843,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 9
 expire_datetime = 2022-09-16T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2209-P-5200"
 
@@ -2104,8 +1858,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 9
 expire_datetime = 2022-09-16T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2209-P-5400"
 
@@ -2121,8 +1873,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-C-5500"
 
@@ -2138,8 +1888,6 @@ underlying_multiple = 1
 delivery_year = 2021
 delivery_month = 12
 expire_datetime = 2021-12-17T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2112-P-5500"
 
@@ -2155,8 +1903,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 9
 expire_datetime = 2022-09-16T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2209-C-5600"
 
@@ -2172,8 +1918,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 9
 expire_datetime = 2022-09-16T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2209-P-5600"
 
@@ -2189,8 +1933,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 1
 expire_datetime = 2022-01-21T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2201-C-4400"
 
@@ -2206,8 +1948,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 1
 expire_datetime = 2022-01-21T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2201-C-4450"
 
@@ -2223,8 +1963,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 1
 expire_datetime = 2022-01-21T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2201-C-4500"
 
@@ -2240,8 +1978,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 1
 expire_datetime = 2022-01-21T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2201-C-4550"
 
@@ -2257,8 +1993,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 1
 expire_datetime = 2022-01-21T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2201-C-4600"
 
@@ -2274,8 +2008,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 1
 expire_datetime = 2022-01-21T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2201-C-4650"
 
@@ -2291,8 +2023,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 1
 expire_datetime = 2022-01-21T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2201-C-4700"
 
@@ -2308,8 +2038,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 1
 expire_datetime = 2022-01-21T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2201-C-4750"
 
@@ -2325,8 +2053,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 1
 expire_datetime = 2022-01-21T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2201-C-4800"
 
@@ -2342,8 +2068,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 1
 expire_datetime = 2022-01-21T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2201-C-4850"
 
@@ -2359,8 +2083,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 1
 expire_datetime = 2022-01-21T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2201-C-4900"
 
@@ -2376,8 +2098,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 1
 expire_datetime = 2022-01-21T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2201-C-4950"
 
@@ -2393,8 +2113,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 1
 expire_datetime = 2022-01-21T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2201-C-5000"
 
@@ -2410,8 +2128,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 1
 expire_datetime = 2022-01-21T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2201-C-5100"
 
@@ -2427,8 +2143,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 1
 expire_datetime = 2022-01-21T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2201-C-5200"
 
@@ -2444,8 +2158,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 1
 expire_datetime = 2022-01-21T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2201-C-5300"
 
@@ -2461,8 +2173,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 1
 expire_datetime = 2022-01-21T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2201-C-5400"
 
@@ -2478,8 +2188,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 1
 expire_datetime = 2022-01-21T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2201-C-5500"
 
@@ -2495,8 +2203,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 1
 expire_datetime = 2022-01-21T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2201-P-4400"
 
@@ -2512,8 +2218,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 1
 expire_datetime = 2022-01-21T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2201-P-4450"
 
@@ -2529,8 +2233,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 1
 expire_datetime = 2022-01-21T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2201-P-4500"
 
@@ -2546,8 +2248,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 1
 expire_datetime = 2022-01-21T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2201-P-4550"
 
@@ -2563,8 +2263,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 1
 expire_datetime = 2022-01-21T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2201-P-4600"
 
@@ -2580,8 +2278,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 1
 expire_datetime = 2022-01-21T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2201-P-4650"
 
@@ -2597,8 +2293,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 1
 expire_datetime = 2022-01-21T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2201-P-4700"
 
@@ -2614,8 +2308,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 1
 expire_datetime = 2022-01-21T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2201-P-4750"
 
@@ -2631,8 +2323,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 1
 expire_datetime = 2022-01-21T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2201-P-4800"
 
@@ -2648,8 +2338,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 1
 expire_datetime = 2022-01-21T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2201-P-4850"
 
@@ -2665,8 +2353,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 1
 expire_datetime = 2022-01-21T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2201-P-4900"
 
@@ -2682,8 +2368,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 1
 expire_datetime = 2022-01-21T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2201-P-4950"
 
@@ -2699,8 +2383,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 1
 expire_datetime = 2022-01-21T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2201-P-5000"
 
@@ -2716,8 +2398,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 1
 expire_datetime = 2022-01-21T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2201-P-5100"
 
@@ -2733,8 +2413,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 1
 expire_datetime = 2022-01-21T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2201-P-5200"
 
@@ -2750,8 +2428,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 1
 expire_datetime = 2022-01-21T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2201-P-5300"
 
@@ -2767,8 +2443,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 1
 expire_datetime = 2022-01-21T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2201-P-5400"
 
@@ -2784,8 +2458,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 1
 expire_datetime = 2022-01-21T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2201-P-5500"
 
@@ -2801,8 +2473,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 1
 expire_datetime = 2022-01-21T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2201-C-4350"
 
@@ -2818,8 +2488,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 1
 expire_datetime = 2022-01-21T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2201-P-4350"
 
@@ -2835,8 +2503,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 1
 expire_datetime = 2022-01-21T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2201-C-4300"
 
@@ -2852,8 +2518,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 1
 expire_datetime = 2022-01-21T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2201-P-4300"
 
@@ -2869,8 +2533,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 2
 expire_datetime = 2022-02-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2202-C-4400"
 
@@ -2886,8 +2548,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 2
 expire_datetime = 2022-02-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2202-C-4450"
 
@@ -2903,8 +2563,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 2
 expire_datetime = 2022-02-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2202-C-4500"
 
@@ -2920,8 +2578,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 2
 expire_datetime = 2022-02-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2202-C-4550"
 
@@ -2937,8 +2593,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 2
 expire_datetime = 2022-02-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2202-C-4600"
 
@@ -2954,8 +2608,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 2
 expire_datetime = 2022-02-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2202-C-4650"
 
@@ -2971,8 +2623,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 2
 expire_datetime = 2022-02-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2202-C-4700"
 
@@ -2988,8 +2638,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 2
 expire_datetime = 2022-02-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2202-C-4750"
 
@@ -3005,8 +2653,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 2
 expire_datetime = 2022-02-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2202-C-4800"
 
@@ -3022,8 +2668,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 2
 expire_datetime = 2022-02-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2202-C-4850"
 
@@ -3039,8 +2683,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 2
 expire_datetime = 2022-02-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2202-C-4900"
 
@@ -3056,8 +2698,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 2
 expire_datetime = 2022-02-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2202-C-4950"
 
@@ -3073,8 +2713,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 2
 expire_datetime = 2022-02-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2202-C-5000"
 
@@ -3090,8 +2728,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 2
 expire_datetime = 2022-02-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2202-C-5100"
 
@@ -3107,8 +2743,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 2
 expire_datetime = 2022-02-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2202-C-5200"
 
@@ -3124,8 +2758,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 2
 expire_datetime = 2022-02-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2202-C-5300"
 
@@ -3141,8 +2773,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 2
 expire_datetime = 2022-02-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2202-C-5400"
 
@@ -3158,8 +2788,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 2
 expire_datetime = 2022-02-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2202-P-4400"
 
@@ -3175,8 +2803,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 2
 expire_datetime = 2022-02-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2202-P-4450"
 
@@ -3192,8 +2818,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 2
 expire_datetime = 2022-02-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2202-P-4500"
 
@@ -3209,8 +2833,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 2
 expire_datetime = 2022-02-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2202-P-4550"
 
@@ -3226,8 +2848,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 2
 expire_datetime = 2022-02-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2202-P-4600"
 
@@ -3243,8 +2863,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 2
 expire_datetime = 2022-02-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2202-P-4650"
 
@@ -3260,8 +2878,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 2
 expire_datetime = 2022-02-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2202-P-4700"
 
@@ -3277,8 +2893,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 2
 expire_datetime = 2022-02-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2202-P-4750"
 
@@ -3294,8 +2908,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 2
 expire_datetime = 2022-02-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2202-P-4800"
 
@@ -3311,8 +2923,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 2
 expire_datetime = 2022-02-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2202-P-4850"
 
@@ -3328,8 +2938,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 2
 expire_datetime = 2022-02-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2202-P-4900"
 
@@ -3345,8 +2953,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 2
 expire_datetime = 2022-02-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2202-P-4950"
 
@@ -3362,8 +2968,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 2
 expire_datetime = 2022-02-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2202-P-5000"
 
@@ -3379,8 +2983,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 2
 expire_datetime = 2022-02-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2202-P-5100"
 
@@ -3396,8 +2998,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 2
 expire_datetime = 2022-02-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2202-P-5200"
 
@@ -3413,8 +3013,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 2
 expire_datetime = 2022-02-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2202-P-5300"
 
@@ -3430,8 +3028,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 2
 expire_datetime = 2022-02-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2202-P-5400"
 
@@ -3447,8 +3043,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 2
 expire_datetime = 2022-02-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2202-C-5500"
 
@@ -3464,8 +3058,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 2
 expire_datetime = 2022-02-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2202-P-5500"
 
@@ -3481,8 +3073,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 2
 expire_datetime = 2022-02-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2202-C-4350"
 
@@ -3498,8 +3088,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 2
 expire_datetime = 2022-02-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2202-P-4350"
 
@@ -3515,8 +3103,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 2
 expire_datetime = 2022-02-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2202-C-4300"
 
@@ -3532,8 +3118,6 @@ underlying_multiple = 1
 delivery_year = 2022
 delivery_month = 2
 expire_datetime = 2022-02-18T15:00:00
-max_market_order_volume = 0
-max_limit_order_volume = 20
 product_class = "OPTION"
 id = "IO2202-P-4300"
 
