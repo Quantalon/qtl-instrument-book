@@ -8,7 +8,7 @@ long_description = here.joinpath('readme.md').read_text(encoding='utf-8')
 
 setup(
     name='qtl-instrument-book',
-    version='20211207',
+    version='20211208',
     description='Quantalon Instrument Book',
     long_description=long_description,
     long_description_content_type="text/markdown",
