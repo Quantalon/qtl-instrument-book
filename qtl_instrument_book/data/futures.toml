@@ -1,5 +1,5 @@
-last_update_date = 2021-12-07
-expire_date = 2022-01-06
+last_update_date = 2022-01-04
+expire_date = 2022-02-03
 
 [instruments."INE.sc2203"]
 exchange_id = "INE"
@@ -44,17 +44,6 @@ product_short_name = "原油"
 product_class = "FUTURES"
 id = "sc2212"
 name = "原油2212"
-
-[instruments."SHFE.bu2112"]
-exchange_id = "SHFE"
-volume_multiple = 10
-price_tick = 2
-price_decs = 0
-product_id = "bu"
-product_short_name = "沥青"
-product_class = "FUTURES"
-id = "bu2112"
-name = "沥青2112"
 
 [instruments."INE.sc2303"]
 exchange_id = "INE"
@@ -122,17 +111,6 @@ product_class = "FUTURES"
 id = "bu2209"
 name = "沥青2209"
 
-[instruments."SHFE.au2112"]
-exchange_id = "SHFE"
-volume_multiple = 1000
-price_tick = 0.02
-price_decs = 2
-product_id = "au"
-product_short_name = "沪金"
-product_class = "FUTURES"
-id = "au2112"
-name = "沪金2112"
-
 [instruments."INE.sc2312"]
 exchange_id = "INE"
 volume_multiple = 1000
@@ -144,325 +122,6 @@ product_class = "FUTURES"
 id = "sc2312"
 name = "原油2312"
 
-[instruments."CZCE.ZC112"]
-exchange_id = "CZCE"
-volume_multiple = 100
-price_tick = 0.2
-price_decs = 1
-product_id = "ZC"
-product_short_name = "郑煤"
-product_class = "FUTURES"
-id = "ZC112"
-name = "郑煤2112"
-
-[instruments."CZCE.AP112"]
-exchange_id = "CZCE"
-volume_multiple = 10
-price_tick = 1
-price_decs = 0
-product_id = "AP"
-product_short_name = "苹果"
-product_class = "FUTURES"
-id = "AP112"
-name = "苹果2112"
-
-[instruments."CZCE.CJ112"]
-exchange_id = "CZCE"
-volume_multiple = 5
-price_tick = 5
-price_decs = 0
-product_id = "CJ"
-product_short_name = "红枣"
-product_class = "FUTURES"
-id = "CJ112"
-name = "红枣2112"
-
-[instruments."CZCE.CY112"]
-exchange_id = "CZCE"
-volume_multiple = 5
-price_tick = 5
-price_decs = 0
-product_id = "CY"
-product_short_name = "棉纱"
-product_class = "FUTURES"
-id = "CY112"
-name = "棉纱2112"
-
-[instruments."CZCE.FG112"]
-exchange_id = "CZCE"
-volume_multiple = 20
-price_tick = 1
-price_decs = 0
-product_id = "FG"
-product_short_name = "玻璃"
-product_class = "FUTURES"
-id = "FG112"
-name = "玻璃2112"
-
-[instruments."CZCE.MA112"]
-exchange_id = "CZCE"
-volume_multiple = 10
-price_tick = 1
-price_decs = 0
-product_id = "MA"
-product_short_name = "甲醇"
-product_class = "FUTURES"
-id = "MA112"
-name = "甲醇2112"
-
-[instruments."CZCE.PF112"]
-exchange_id = "CZCE"
-volume_multiple = 5
-price_tick = 2
-price_decs = 0
-product_id = "PF"
-product_short_name = "短纤"
-product_class = "FUTURES"
-id = "PF112"
-name = "短纤2112"
-
-[instruments."CZCE.SA112"]
-exchange_id = "CZCE"
-volume_multiple = 20
-price_tick = 1
-price_decs = 0
-product_id = "SA"
-product_short_name = "纯碱"
-product_class = "FUTURES"
-id = "SA112"
-name = "纯碱2112"
-
-[instruments."CZCE.SF112"]
-exchange_id = "CZCE"
-volume_multiple = 5
-price_tick = 2
-price_decs = 0
-product_id = "SF"
-product_short_name = "硅铁"
-product_class = "FUTURES"
-id = "SF112"
-name = "硅铁2112"
-
-[instruments."CZCE.SM112"]
-exchange_id = "CZCE"
-volume_multiple = 5
-price_tick = 2
-price_decs = 0
-product_id = "SM"
-product_short_name = "锰硅"
-product_class = "FUTURES"
-id = "SM112"
-name = "锰硅2112"
-
-[instruments."CZCE.TA112"]
-exchange_id = "CZCE"
-volume_multiple = 5
-price_tick = 2
-price_decs = 0
-product_id = "TA"
-product_short_name = "PTA"
-product_class = "FUTURES"
-id = "TA112"
-name = "PTA2112"
-
-[instruments."CZCE.UR112"]
-exchange_id = "CZCE"
-volume_multiple = 20
-price_tick = 1
-price_decs = 0
-product_id = "UR"
-product_short_name = "尿素"
-product_class = "FUTURES"
-id = "UR112"
-name = "尿素2112"
-
-[instruments."DCE.j2112"]
-exchange_id = "DCE"
-volume_multiple = 100
-price_tick = 0.5
-price_decs = 1
-product_id = "j"
-product_short_name = "焦炭"
-product_class = "FUTURES"
-id = "j2112"
-name = "焦炭2112"
-
-[instruments."DCE.i2112"]
-exchange_id = "DCE"
-volume_multiple = 100
-price_tick = 0.5
-price_decs = 1
-product_id = "i"
-product_short_name = "铁矿"
-product_class = "FUTURES"
-id = "i2112"
-name = "铁矿2112"
-
-[instruments."DCE.pp2112"]
-exchange_id = "DCE"
-volume_multiple = 5
-price_tick = 1
-price_decs = 0
-product_id = "pp"
-product_short_name = "PP"
-product_class = "FUTURES"
-id = "pp2112"
-name = "PP2112"
-
-[instruments."DCE.b2112"]
-exchange_id = "DCE"
-volume_multiple = 10
-price_tick = 1
-price_decs = 0
-product_id = "b"
-product_short_name = "豆二"
-product_class = "FUTURES"
-id = "b2112"
-name = "豆二2112"
-
-[instruments."DCE.bb2112"]
-exchange_id = "DCE"
-volume_multiple = 500
-price_tick = 0.05
-price_decs = 2
-product_id = "bb"
-product_short_name = "胶板"
-product_class = "FUTURES"
-id = "bb2112"
-name = "胶板2112"
-
-[instruments."DCE.y2112"]
-exchange_id = "DCE"
-volume_multiple = 10
-price_tick = 2
-price_decs = 0
-product_id = "y"
-product_short_name = "豆油"
-product_class = "FUTURES"
-id = "y2112"
-name = "豆油2112"
-
-[instruments."DCE.fb2112"]
-exchange_id = "DCE"
-volume_multiple = 10
-price_tick = 0.5
-price_decs = 1
-product_id = "fb"
-product_short_name = "纤板"
-product_class = "FUTURES"
-id = "fb2112"
-name = "纤板2112"
-
-[instruments."DCE.v2112"]
-exchange_id = "DCE"
-volume_multiple = 5
-price_tick = 1
-price_decs = 0
-product_id = "v"
-product_short_name = "PVC"
-product_class = "FUTURES"
-id = "v2112"
-name = "PVC2112"
-
-[instruments."DCE.rr2112"]
-exchange_id = "DCE"
-volume_multiple = 10
-price_tick = 1
-price_decs = 0
-product_id = "rr"
-product_short_name = "粳米"
-product_class = "FUTURES"
-id = "rr2112"
-name = "粳米2112"
-
-[instruments."DCE.p2112"]
-exchange_id = "DCE"
-volume_multiple = 10
-price_tick = 2
-price_decs = 0
-product_id = "p"
-product_short_name = "棕榈"
-product_class = "FUTURES"
-id = "p2112"
-name = "棕榈2112"
-
-[instruments."DCE.m2112"]
-exchange_id = "DCE"
-volume_multiple = 10
-price_tick = 1
-price_decs = 0
-product_id = "m"
-product_short_name = "豆粕"
-product_class = "FUTURES"
-id = "m2112"
-name = "豆粕2112"
-
-[instruments."DCE.l2112"]
-exchange_id = "DCE"
-volume_multiple = 5
-price_tick = 1
-price_decs = 0
-product_id = "l"
-product_short_name = "塑料"
-product_class = "FUTURES"
-id = "l2112"
-name = "塑料2112"
-
-[instruments."DCE.jm2112"]
-exchange_id = "DCE"
-volume_multiple = 60
-price_tick = 0.5
-price_decs = 1
-product_id = "jm"
-product_short_name = "焦煤"
-product_class = "FUTURES"
-id = "jm2112"
-name = "焦煤2112"
-
-[instruments."INE.bc2112"]
-exchange_id = "INE"
-volume_multiple = 5
-price_tick = 10
-price_decs = 0
-product_id = "bc"
-product_short_name = "国际铜"
-product_class = "FUTURES"
-id = "bc2112"
-name = "国际铜2112"
-
-[instruments."INE.nr2112"]
-exchange_id = "INE"
-volume_multiple = 10
-price_tick = 5
-price_decs = 0
-product_id = "nr"
-product_short_name = "20号胶"
-product_class = "FUTURES"
-id = "nr2112"
-name = "20号胶2112"
-
-[instruments."SHFE.ag2112"]
-exchange_id = "SHFE"
-volume_multiple = 15
-price_tick = 1
-price_decs = 0
-product_id = "ag"
-product_short_name = "沪银"
-product_class = "FUTURES"
-id = "ag2112"
-name = "沪银2112"
-
-[instruments."SHFE.al2112"]
-exchange_id = "SHFE"
-volume_multiple = 5
-price_tick = 5
-price_decs = 0
-product_id = "al"
-product_short_name = "沪铝"
-product_class = "FUTURES"
-id = "al2112"
-name = "沪铝2112"
-
 [instruments."SHFE.bu2212"]
 exchange_id = "SHFE"
 volume_multiple = 10
@@ -473,193 +132,6 @@ product_short_name = "沥青"
 product_class = "FUTURES"
 id = "bu2212"
 name = "沥青2212"
-
-[instruments."SHFE.cu2112"]
-exchange_id = "SHFE"
-volume_multiple = 5
-price_tick = 10
-price_decs = 0
-product_id = "cu"
-product_short_name = "沪铜"
-product_class = "FUTURES"
-id = "cu2112"
-name = "沪铜2112"
-
-[instruments."SHFE.hc2112"]
-exchange_id = "SHFE"
-volume_multiple = 10
-price_tick = 1
-price_decs = 0
-product_id = "hc"
-product_short_name = "热卷"
-product_class = "FUTURES"
-id = "hc2112"
-name = "热卷2112"
-
-[instruments."SHFE.ni2112"]
-exchange_id = "SHFE"
-volume_multiple = 1
-price_tick = 10
-price_decs = 0
-product_id = "ni"
-product_short_name = "沪镍"
-product_class = "FUTURES"
-id = "ni2112"
-name = "沪镍2112"
-
-[instruments."SHFE.pb2112"]
-exchange_id = "SHFE"
-volume_multiple = 5
-price_tick = 5
-price_decs = 0
-product_id = "pb"
-product_short_name = "沪铅"
-product_class = "FUTURES"
-id = "pb2112"
-name = "沪铅2112"
-
-[instruments."SHFE.rb2112"]
-exchange_id = "SHFE"
-volume_multiple = 10
-price_tick = 1
-price_decs = 0
-product_id = "rb"
-product_short_name = "螺纹"
-product_class = "FUTURES"
-id = "rb2112"
-name = "螺纹2112"
-
-[instruments."SHFE.sn2112"]
-exchange_id = "SHFE"
-volume_multiple = 1
-price_tick = 10
-price_decs = 0
-product_id = "sn"
-product_short_name = "沪锡"
-product_class = "FUTURES"
-id = "sn2112"
-name = "沪锡2112"
-
-[instruments."SHFE.sp2112"]
-exchange_id = "SHFE"
-volume_multiple = 10
-price_tick = 2
-price_decs = 0
-product_id = "sp"
-product_short_name = "纸浆"
-product_class = "FUTURES"
-id = "sp2112"
-name = "纸浆2112"
-
-[instruments."SHFE.ss2112"]
-exchange_id = "SHFE"
-volume_multiple = 5
-price_tick = 5
-price_decs = 0
-product_id = "ss"
-product_short_name = "不锈钢"
-product_class = "FUTURES"
-id = "ss2112"
-name = "不锈钢2112"
-
-[instruments."SHFE.wr2112"]
-exchange_id = "SHFE"
-volume_multiple = 10
-price_tick = 1
-price_decs = 0
-product_id = "wr"
-product_short_name = "线材"
-product_class = "FUTURES"
-id = "wr2112"
-name = "线材2112"
-
-[instruments."SHFE.zn2112"]
-exchange_id = "SHFE"
-volume_multiple = 5
-price_tick = 5
-price_decs = 0
-product_id = "zn"
-product_short_name = "沪锌"
-product_class = "FUTURES"
-id = "zn2112"
-name = "沪锌2112"
-
-[instruments."INE.lu2201"]
-exchange_id = "INE"
-volume_multiple = 10
-price_tick = 1
-price_decs = 0
-product_id = "lu"
-product_short_name = "低硫燃料油"
-product_class = "FUTURES"
-id = "lu2201"
-name = "低硫燃料油2201"
-
-[instruments."INE.sc2201"]
-exchange_id = "INE"
-volume_multiple = 1000
-price_tick = 0.1
-price_decs = 1
-product_id = "sc"
-product_short_name = "原油"
-product_class = "FUTURES"
-id = "sc2201"
-name = "原油2201"
-
-[instruments."SHFE.fu2201"]
-exchange_id = "SHFE"
-volume_multiple = 10
-price_tick = 1
-price_decs = 0
-product_id = "fu"
-product_short_name = "燃油"
-product_class = "FUTURES"
-id = "fu2201"
-name = "燃油2201"
-
-[instruments."DCE.eg2112"]
-exchange_id = "DCE"
-volume_multiple = 10
-price_tick = 1
-price_decs = 0
-product_id = "eg"
-product_short_name = "甘醇"
-product_class = "FUTURES"
-id = "eg2112"
-name = "甘醇2112"
-
-[instruments."DCE.eb2112"]
-exchange_id = "DCE"
-volume_multiple = 5
-price_tick = 1
-price_decs = 0
-product_id = "eb"
-product_short_name = "苯乙烯"
-product_class = "FUTURES"
-id = "eb2112"
-name = "苯乙烯2112"
-
-[instruments."DCE.pg2112"]
-exchange_id = "DCE"
-volume_multiple = 20
-price_tick = 1
-price_decs = 0
-product_id = "pg"
-product_short_name = "LPG"
-product_class = "FUTURES"
-id = "pg2112"
-name = "LPG2112"
-
-[instruments."DCE.jd2112"]
-exchange_id = "DCE"
-volume_multiple = 10
-price_tick = 1
-price_decs = 0
-product_id = "jd"
-product_short_name = "鸡蛋"
-product_class = "FUTURES"
-id = "jd2112"
-name = "鸡蛋2112"
 
 [instruments."DCE.lh2201"]
 exchange_id = "DCE"
@@ -1320,17 +792,6 @@ product_short_name = "原油"
 product_class = "FUTURES"
 id = "sc2202"
 name = "原油2202"
-
-[instruments."CZCE.PK112"]
-exchange_id = "CZCE"
-volume_multiple = 5
-price_tick = 2
-price_decs = 0
-product_id = "PK"
-product_short_name = "花生仁"
-product_class = "FUTURES"
-id = "PK112"
-name = "花生仁2112"
 
 [instruments."CZCE.PK201"]
 exchange_id = "CZCE"
@@ -2234,39 +1695,6 @@ product_class = "FUTURES"
 id = "jm2203"
 name = "焦煤2203"
 
-[instruments."CFFEX.T2112"]
-exchange_id = "CFFEX"
-volume_multiple = 10000
-price_tick = 0.005
-price_decs = 3
-product_id = "T"
-product_short_name = "债十"
-product_class = "FUTURES"
-id = "T2112"
-name = "债十2112"
-
-[instruments."CFFEX.TF2112"]
-exchange_id = "CFFEX"
-volume_multiple = 10000
-price_tick = 0.005
-price_decs = 3
-product_id = "TF"
-product_short_name = "债五"
-product_class = "FUTURES"
-id = "TF2112"
-name = "债五2112"
-
-[instruments."CFFEX.TS2112"]
-exchange_id = "CFFEX"
-volume_multiple = 20000
-price_tick = 0.005
-price_decs = 3
-product_id = "TS"
-product_short_name = "债二"
-product_class = "FUTURES"
-id = "TS2112"
-name = "债二2112"
-
 [instruments."INE.bc2203"]
 exchange_id = "INE"
 volume_multiple = 5
@@ -2959,39 +2387,6 @@ product_short_name = "焦煤"
 product_class = "FUTURES"
 id = "jm2204"
 name = "焦煤2204"
-
-[instruments."CFFEX.IC2112"]
-exchange_id = "CFFEX"
-volume_multiple = 200
-price_tick = 0.2
-price_decs = 1
-product_id = "IC"
-product_short_name = "中证"
-product_class = "FUTURES"
-id = "IC2112"
-name = "中证2112"
-
-[instruments."CFFEX.IF2112"]
-exchange_id = "CFFEX"
-volume_multiple = 300
-price_tick = 0.2
-price_decs = 1
-product_id = "IF"
-product_short_name = "沪深"
-product_class = "FUTURES"
-id = "IF2112"
-name = "沪深2112"
-
-[instruments."CFFEX.IH2112"]
-exchange_id = "CFFEX"
-volume_multiple = 300
-price_tick = 0.2
-price_decs = 1
-product_id = "IH"
-product_short_name = "上证"
-product_class = "FUTURES"
-id = "IH2112"
-name = "上证2112"
 
 [instruments."DCE.eg2204"]
 exchange_id = "DCE"
@@ -7492,261 +6887,683 @@ product_class = "FUTURES"
 id = "fu2212"
 name = "燃油2212"
 
+[instruments."CZCE.ZC212"]
+exchange_id = "CZCE"
+volume_multiple = 100
+price_tick = 0.2
+price_decs = 1
+product_id = "ZC"
+product_short_name = "郑煤"
+product_class = "FUTURES"
+id = "ZC212"
+name = "郑煤2212"
+
+[instruments."CFFEX.T2209"]
+exchange_id = "CFFEX"
+volume_multiple = 10000
+price_tick = 0.005
+price_decs = 3
+product_id = "T"
+product_short_name = "债十"
+product_class = "FUTURES"
+id = "T2209"
+name = "债十2209"
+
+[instruments."CFFEX.TF2209"]
+exchange_id = "CFFEX"
+volume_multiple = 10000
+price_tick = 0.005
+price_decs = 3
+product_id = "TF"
+product_short_name = "债五"
+product_class = "FUTURES"
+id = "TF2209"
+name = "债五2209"
+
+[instruments."CFFEX.TS2209"]
+exchange_id = "CFFEX"
+volume_multiple = 20000
+price_tick = 0.005
+price_decs = 3
+product_id = "TS"
+product_short_name = "债二"
+product_class = "FUTURES"
+id = "TS2209"
+name = "债二2209"
+
+[instruments."CZCE.AP212"]
+exchange_id = "CZCE"
+volume_multiple = 10
+price_tick = 1
+price_decs = 0
+product_id = "AP"
+product_short_name = "苹果"
+product_class = "FUTURES"
+id = "AP212"
+name = "苹果2212"
+
+[instruments."CZCE.CJ212"]
+exchange_id = "CZCE"
+volume_multiple = 5
+price_tick = 5
+price_decs = 0
+product_id = "CJ"
+product_short_name = "红枣"
+product_class = "FUTURES"
+id = "CJ212"
+name = "红枣2212"
+
+[instruments."CZCE.CY212"]
+exchange_id = "CZCE"
+volume_multiple = 5
+price_tick = 5
+price_decs = 0
+product_id = "CY"
+product_short_name = "棉纱"
+product_class = "FUTURES"
+id = "CY212"
+name = "棉纱2212"
+
+[instruments."CZCE.FG212"]
+exchange_id = "CZCE"
+volume_multiple = 20
+price_tick = 1
+price_decs = 0
+product_id = "FG"
+product_short_name = "玻璃"
+product_class = "FUTURES"
+id = "FG212"
+name = "玻璃2212"
+
+[instruments."CZCE.MA212"]
+exchange_id = "CZCE"
+volume_multiple = 10
+price_tick = 1
+price_decs = 0
+product_id = "MA"
+product_short_name = "甲醇"
+product_class = "FUTURES"
+id = "MA212"
+name = "甲醇2212"
+
+[instruments."CZCE.PF212"]
+exchange_id = "CZCE"
+volume_multiple = 5
+price_tick = 2
+price_decs = 0
+product_id = "PF"
+product_short_name = "短纤"
+product_class = "FUTURES"
+id = "PF212"
+name = "短纤2212"
+
+[instruments."CZCE.PK212"]
+exchange_id = "CZCE"
+volume_multiple = 5
+price_tick = 2
+price_decs = 0
+product_id = "PK"
+product_short_name = "花生仁"
+product_class = "FUTURES"
+id = "PK212"
+name = "花生仁2212"
+
+[instruments."CZCE.SA212"]
+exchange_id = "CZCE"
+volume_multiple = 20
+price_tick = 1
+price_decs = 0
+product_id = "SA"
+product_short_name = "纯碱"
+product_class = "FUTURES"
+id = "SA212"
+name = "纯碱2212"
+
+[instruments."CZCE.SF212"]
+exchange_id = "CZCE"
+volume_multiple = 5
+price_tick = 2
+price_decs = 0
+product_id = "SF"
+product_short_name = "硅铁"
+product_class = "FUTURES"
+id = "SF212"
+name = "硅铁2212"
+
+[instruments."CZCE.SM212"]
+exchange_id = "CZCE"
+volume_multiple = 5
+price_tick = 2
+price_decs = 0
+product_id = "SM"
+product_short_name = "锰硅"
+product_class = "FUTURES"
+id = "SM212"
+name = "锰硅2212"
+
+[instruments."CZCE.TA212"]
+exchange_id = "CZCE"
+volume_multiple = 5
+price_tick = 2
+price_decs = 0
+product_id = "TA"
+product_short_name = "PTA"
+product_class = "FUTURES"
+id = "TA212"
+name = "PTA2212"
+
+[instruments."CZCE.UR212"]
+exchange_id = "CZCE"
+volume_multiple = 20
+price_tick = 1
+price_decs = 0
+product_id = "UR"
+product_short_name = "尿素"
+product_class = "FUTURES"
+id = "UR212"
+name = "尿素2212"
+
+[instruments."DCE.j2212"]
+exchange_id = "DCE"
+volume_multiple = 100
+price_tick = 0.5
+price_decs = 1
+product_id = "j"
+product_short_name = "焦炭"
+product_class = "FUTURES"
+id = "j2212"
+name = "焦炭2212"
+
+[instruments."DCE.i2212"]
+exchange_id = "DCE"
+volume_multiple = 100
+price_tick = 0.5
+price_decs = 1
+product_id = "i"
+product_short_name = "铁矿"
+product_class = "FUTURES"
+id = "i2212"
+name = "铁矿2212"
+
+[instruments."DCE.fb2212"]
+exchange_id = "DCE"
+volume_multiple = 10
+price_tick = 0.5
+price_decs = 1
+product_id = "fb"
+product_short_name = "纤板"
+product_class = "FUTURES"
+id = "fb2212"
+name = "纤板2212"
+
+[instruments."DCE.bb2212"]
+exchange_id = "DCE"
+volume_multiple = 500
+price_tick = 0.05
+price_decs = 2
+product_id = "bb"
+product_short_name = "胶板"
+product_class = "FUTURES"
+id = "bb2212"
+name = "胶板2212"
+
+[instruments."DCE.b2212"]
+exchange_id = "DCE"
+volume_multiple = 10
+price_tick = 1
+price_decs = 0
+product_id = "b"
+product_short_name = "豆二"
+product_class = "FUTURES"
+id = "b2212"
+name = "豆二2212"
+
+[instruments."DCE.jm2212"]
+exchange_id = "DCE"
+volume_multiple = 60
+price_tick = 0.5
+price_decs = 1
+product_id = "jm"
+product_short_name = "焦煤"
+product_class = "FUTURES"
+id = "jm2212"
+name = "焦煤2212"
+
+[instruments."DCE.l2212"]
+exchange_id = "DCE"
+volume_multiple = 5
+price_tick = 1
+price_decs = 0
+product_id = "l"
+product_short_name = "塑料"
+product_class = "FUTURES"
+id = "l2212"
+name = "塑料2212"
+
+[instruments."DCE.pp2212"]
+exchange_id = "DCE"
+volume_multiple = 5
+price_tick = 1
+price_decs = 0
+product_id = "pp"
+product_short_name = "PP"
+product_class = "FUTURES"
+id = "pp2212"
+name = "PP2212"
+
+[instruments."DCE.rr2212"]
+exchange_id = "DCE"
+volume_multiple = 10
+price_tick = 1
+price_decs = 0
+product_id = "rr"
+product_short_name = "粳米"
+product_class = "FUTURES"
+id = "rr2212"
+name = "粳米2212"
+
+[instruments."DCE.v2212"]
+exchange_id = "DCE"
+volume_multiple = 5
+price_tick = 1
+price_decs = 0
+product_id = "v"
+product_short_name = "PVC"
+product_class = "FUTURES"
+id = "v2212"
+name = "PVC2212"
+
+[instruments."DCE.y2212"]
+exchange_id = "DCE"
+volume_multiple = 10
+price_tick = 2
+price_decs = 0
+product_id = "y"
+product_short_name = "豆油"
+product_class = "FUTURES"
+id = "y2212"
+name = "豆油2212"
+
+[instruments."DCE.p2212"]
+exchange_id = "DCE"
+volume_multiple = 10
+price_tick = 2
+price_decs = 0
+product_id = "p"
+product_short_name = "棕榈"
+product_class = "FUTURES"
+id = "p2212"
+name = "棕榈2212"
+
+[instruments."DCE.m2212"]
+exchange_id = "DCE"
+volume_multiple = 10
+price_tick = 1
+price_decs = 0
+product_id = "m"
+product_short_name = "豆粕"
+product_class = "FUTURES"
+id = "m2212"
+name = "豆粕2212"
+
+[instruments."INE.bc2212"]
+exchange_id = "INE"
+volume_multiple = 5
+price_tick = 10
+price_decs = 0
+product_id = "bc"
+product_short_name = "国际铜"
+product_class = "FUTURES"
+id = "bc2212"
+name = "国际铜2212"
+
+[instruments."INE.nr2212"]
+exchange_id = "INE"
+volume_multiple = 10
+price_tick = 5
+price_decs = 0
+product_id = "nr"
+product_short_name = "20号胶"
+product_class = "FUTURES"
+id = "nr2212"
+name = "20号胶2212"
+
+[instruments."SHFE.ag2212"]
+exchange_id = "SHFE"
+volume_multiple = 15
+price_tick = 1
+price_decs = 0
+product_id = "ag"
+product_short_name = "沪银"
+product_class = "FUTURES"
+id = "ag2212"
+name = "沪银2212"
+
+[instruments."SHFE.al2212"]
+exchange_id = "SHFE"
+volume_multiple = 5
+price_tick = 5
+price_decs = 0
+product_id = "al"
+product_short_name = "沪铝"
+product_class = "FUTURES"
+id = "al2212"
+name = "沪铝2212"
+
+[instruments."SHFE.au2203"]
+exchange_id = "SHFE"
+volume_multiple = 1000
+price_tick = 0.02
+price_decs = 2
+product_id = "au"
+product_short_name = "沪金"
+product_class = "FUTURES"
+id = "au2203"
+name = "沪金2203"
+
+[instruments."SHFE.bu2312"]
+exchange_id = "SHFE"
+volume_multiple = 10
+price_tick = 2
+price_decs = 0
+product_id = "bu"
+product_short_name = "沥青"
+product_class = "FUTURES"
+id = "bu2312"
+name = "沥青2312"
+
+[instruments."SHFE.cu2212"]
+exchange_id = "SHFE"
+volume_multiple = 5
+price_tick = 10
+price_decs = 0
+product_id = "cu"
+product_short_name = "沪铜"
+product_class = "FUTURES"
+id = "cu2212"
+name = "沪铜2212"
+
+[instruments."SHFE.hc2212"]
+exchange_id = "SHFE"
+volume_multiple = 10
+price_tick = 1
+price_decs = 0
+product_id = "hc"
+product_short_name = "热卷"
+product_class = "FUTURES"
+id = "hc2212"
+name = "热卷2212"
+
+[instruments."SHFE.ni2212"]
+exchange_id = "SHFE"
+volume_multiple = 1
+price_tick = 10
+price_decs = 0
+product_id = "ni"
+product_short_name = "沪镍"
+product_class = "FUTURES"
+id = "ni2212"
+name = "沪镍2212"
+
+[instruments."SHFE.pb2212"]
+exchange_id = "SHFE"
+volume_multiple = 5
+price_tick = 5
+price_decs = 0
+product_id = "pb"
+product_short_name = "沪铅"
+product_class = "FUTURES"
+id = "pb2212"
+name = "沪铅2212"
+
+[instruments."SHFE.rb2212"]
+exchange_id = "SHFE"
+volume_multiple = 10
+price_tick = 1
+price_decs = 0
+product_id = "rb"
+product_short_name = "螺纹"
+product_class = "FUTURES"
+id = "rb2212"
+name = "螺纹2212"
+
+[instruments."SHFE.sn2212"]
+exchange_id = "SHFE"
+volume_multiple = 1
+price_tick = 10
+price_decs = 0
+product_id = "sn"
+product_short_name = "沪锡"
+product_class = "FUTURES"
+id = "sn2212"
+name = "沪锡2212"
+
+[instruments."SHFE.sp2212"]
+exchange_id = "SHFE"
+volume_multiple = 10
+price_tick = 2
+price_decs = 0
+product_id = "sp"
+product_short_name = "纸浆"
+product_class = "FUTURES"
+id = "sp2212"
+name = "纸浆2212"
+
+[instruments."SHFE.ss2212"]
+exchange_id = "SHFE"
+volume_multiple = 5
+price_tick = 5
+price_decs = 0
+product_id = "ss"
+product_short_name = "不锈钢"
+product_class = "FUTURES"
+id = "ss2212"
+name = "不锈钢2212"
+
+[instruments."SHFE.wr2212"]
+exchange_id = "SHFE"
+volume_multiple = 10
+price_tick = 1
+price_decs = 0
+product_id = "wr"
+product_short_name = "线材"
+product_class = "FUTURES"
+id = "wr2212"
+name = "线材2212"
+
+[instruments."SHFE.zn2212"]
+exchange_id = "SHFE"
+volume_multiple = 5
+price_tick = 5
+price_decs = 0
+product_id = "zn"
+product_short_name = "沪锌"
+product_class = "FUTURES"
+id = "zn2212"
+name = "沪锌2212"
+
+[instruments."CFFEX.IC2202"]
+exchange_id = "CFFEX"
+volume_multiple = 200
+price_tick = 0.2
+price_decs = 1
+product_id = "IC"
+product_short_name = "中证"
+product_class = "FUTURES"
+id = "IC2202"
+name = "中证2202"
+
+[instruments."CFFEX.IF2202"]
+exchange_id = "CFFEX"
+volume_multiple = 300
+price_tick = 0.2
+price_decs = 1
+product_id = "IF"
+product_short_name = "沪深"
+product_class = "FUTURES"
+id = "IF2202"
+name = "沪深2202"
+
+[instruments."CFFEX.IH2202"]
+exchange_id = "CFFEX"
+volume_multiple = 300
+price_tick = 0.2
+price_decs = 1
+product_id = "IH"
+product_short_name = "上证"
+product_class = "FUTURES"
+id = "IH2202"
+name = "上证2202"
+
+[instruments."INE.lu2301"]
+exchange_id = "INE"
+volume_multiple = 10
+price_tick = 1
+price_decs = 0
+product_id = "lu"
+product_short_name = "低硫燃料油"
+product_class = "FUTURES"
+id = "lu2301"
+name = "低硫燃料油2301"
+
+[instruments."INE.sc2301"]
+exchange_id = "INE"
+volume_multiple = 1000
+price_tick = 0.1
+price_decs = 1
+product_id = "sc"
+product_short_name = "原油"
+product_class = "FUTURES"
+id = "sc2301"
+name = "原油2301"
+
+[instruments."SHFE.fu2301"]
+exchange_id = "SHFE"
+volume_multiple = 10
+price_tick = 1
+price_decs = 0
+product_id = "fu"
+product_short_name = "燃油"
+product_class = "FUTURES"
+id = "fu2301"
+name = "燃油2301"
+
+[instruments."DCE.eg2212"]
+exchange_id = "DCE"
+volume_multiple = 10
+price_tick = 1
+price_decs = 0
+product_id = "eg"
+product_short_name = "甘醇"
+product_class = "FUTURES"
+id = "eg2212"
+name = "甘醇2212"
+
+[instruments."DCE.eb2212"]
+exchange_id = "DCE"
+volume_multiple = 5
+price_tick = 1
+price_decs = 0
+product_id = "eb"
+product_short_name = "苯乙烯"
+product_class = "FUTURES"
+id = "eb2212"
+name = "苯乙烯2212"
+
+[instruments."DCE.jd2212"]
+exchange_id = "DCE"
+volume_multiple = 10
+price_tick = 1
+price_decs = 0
+product_id = "jd"
+product_short_name = "鸡蛋"
+product_class = "FUTURES"
+id = "jd2212"
+name = "鸡蛋2212"
+
+[instruments."DCE.pg2212"]
+exchange_id = "DCE"
+volume_multiple = 20
+price_tick = 1
+price_decs = 0
+product_id = "pg"
+product_short_name = "LPG"
+product_class = "FUTURES"
+id = "pg2212"
+name = "LPG2212"
+
 [instruments."INE.sc2203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
+night = []
 
 [instruments."INE.sc2206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
+night = []
 
 [instruments."INE.sc2209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
+night = []
 
 [instruments."INE.sc2212".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
-
-[instruments."SHFE.bu2112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."INE.sc2303".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
+night = []
 
 [instruments."SHFE.bu2203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."INE.sc2306".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
+night = []
 
 [instruments."SHFE.bu2206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."INE.sc2309".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
+night = []
 
 [instruments."SHFE.bu2209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."SHFE.au2112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
+night = []
 
 [instruments."INE.sc2312".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
-
-[instruments."CZCE.ZC112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."CZCE.AP112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-
-[instruments."CZCE.CJ112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-
-[instruments."CZCE.CY112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."CZCE.FG112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."CZCE.MA112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."CZCE.PF112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."CZCE.SA112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."CZCE.SF112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-
-[instruments."CZCE.SM112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-
-[instruments."CZCE.TA112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."CZCE.UR112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-
-[instruments."DCE.j2112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."DCE.i2112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."DCE.pp2112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."DCE.b2112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."DCE.bb2112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-
-[instruments."DCE.y2112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."DCE.fb2112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-
-[instruments."DCE.v2112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."DCE.rr2112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."DCE.p2112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."DCE.m2112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."DCE.l2112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."DCE.jm2112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."INE.bc2112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
-
-[instruments."INE.nr2112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."SHFE.ag2112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
-
-[instruments."SHFE.al2112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.bu2212".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."SHFE.cu2112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
-
-[instruments."SHFE.hc2112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."SHFE.ni2112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
-
-[instruments."SHFE.pb2112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
-
-[instruments."SHFE.rb2112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."SHFE.sn2112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
-
-[instruments."SHFE.sp2112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."SHFE.ss2112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
-
-[instruments."SHFE.wr2112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-
-[instruments."SHFE.zn2112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
-
-[instruments."INE.lu2201".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."INE.sc2201".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
-
-[instruments."SHFE.fu2201".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."DCE.eg2112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."DCE.eb2112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."DCE.pg2112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."DCE.jd2112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = []
 
 [instruments."DCE.lh2201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."CZCE.ZC201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.AP201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."CZCE.CF201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.CJ201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."CZCE.CY201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.FG201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.JR201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
@@ -7756,15 +7573,15 @@ day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "1
 
 [instruments."CZCE.MA201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.OI201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.PF201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.PM201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
@@ -7774,11 +7591,11 @@ day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "1
 
 [instruments."CZCE.RM201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.SA201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.SF201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
@@ -7788,11 +7605,11 @@ day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "1
 
 [instruments."CZCE.SR201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.TA201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.UR201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
@@ -7802,240 +7619,237 @@ day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "1
 
 [instruments."INE.bc2201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."INE.nr2201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.j2201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.i2201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.fb2201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."DCE.pp2201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.b2201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.bb2201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."DCE.a2201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.y2201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.cs2201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.c2201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.v2201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.rr2201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.p2201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.m2201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.l2201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.ag2201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
+night = []
 
 [instruments."SHFE.al2201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.au2202".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
+night = []
 
 [instruments."SHFE.cu2201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.hc2201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.ni2201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.pb2201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.rb2201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.jm2201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.ru2201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.sn2201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.sp2201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.ss2201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.wr2201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."SHFE.zn2201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."DCE.eg2201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.eb2201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.pg2201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.jd2201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."INE.lu2202".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."INE.sc2202".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
-
-[instruments."CZCE.PK112".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = []
 
 [instruments."CZCE.PK201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."SHFE.fu2202".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."INE.bc2202".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."INE.nr2202".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.ZC202".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.ag2202".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
+night = []
 
 [instruments."SHFE.al2202".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.cu2202".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.hc2202".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.ni2202".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.pb2202".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.rb2202".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.sn2202".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.sp2202".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.ss2202".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.wr2202".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."SHFE.zn2202".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."CZCE.CY202".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.FG202".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.MA202".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.PF202".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.SA202".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.SF202".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
@@ -8045,26 +7859,26 @@ day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "1
 
 [instruments."CZCE.TA202".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.UR202".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."DCE.j2202".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.i2202".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.pp2202".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.b2202".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.bb2202".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
@@ -8074,72 +7888,72 @@ day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "1
 
 [instruments."DCE.v2202".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.rr2202".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.p2202".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.l2202".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.jm2202".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.eg2202".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.eb2202".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.pg2202".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.jd2202".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."INE.lu2203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."INE.sc2403".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
+night = []
 
 [instruments."SHFE.fu2203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.ZC203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.AP203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."CZCE.CF203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.CJ203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."CZCE.CY203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.FG203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.JR203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
@@ -8149,15 +7963,15 @@ day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "1
 
 [instruments."CZCE.MA203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.OI203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.PF203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.PK203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
@@ -8170,11 +7984,11 @@ day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "1
 
 [instruments."CZCE.RM203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.SA203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.SF203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
@@ -8184,11 +7998,11 @@ day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "1
 
 [instruments."CZCE.SR203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.TA203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.UR203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
@@ -8198,153 +8012,144 @@ day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "1
 
 [instruments."DCE.j2203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.i2203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.fb2203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."DCE.cs2203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.pp2203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.bb2203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."DCE.a2203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.b2203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.y2203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.v2203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.rr2203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.c2203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.p2203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.m2203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.l2203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.jm2203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."CFFEX.T2112".trading_time]
-day = [ [ "09:30:00", "11:30:00",], [ "13:00:00", "15:15:00",],]
-
-[instruments."CFFEX.TF2112".trading_time]
-day = [ [ "09:30:00", "11:30:00",], [ "13:00:00", "15:15:00",],]
-
-[instruments."CFFEX.TS2112".trading_time]
-day = [ [ "09:30:00", "11:30:00",], [ "13:00:00", "15:15:00",],]
+night = []
 
 [instruments."INE.bc2203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."INE.nr2203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.ag2203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
+night = []
 
 [instruments."SHFE.al2203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.au2204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
+night = []
 
 [instruments."SHFE.bu2303".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.cu2203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.hc2203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.ni2203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.pb2203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.rb2203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.ru2203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.sn2203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.sp2203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.ss2203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.wr2203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."SHFE.zn2203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."DCE.eg2203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.eb2203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.pg2203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.lh2203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
@@ -8354,53 +8159,53 @@ day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "1
 
 [instruments."INE.lu2204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."INE.sc2204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
+night = []
 
 [instruments."SHFE.fu2204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.ZC204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."INE.bc2204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."INE.nr2204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.AP204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."CZCE.CY204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.FG204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.MA204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.PF204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.PK204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."CZCE.SA204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.SF204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
@@ -8410,224 +8215,215 @@ day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "1
 
 [instruments."CZCE.TA204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.UR204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."DCE.j2204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.i2204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.fb2204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."DCE.pp2204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.b2204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.bb2204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."SHFE.ag2204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
+night = []
 
 [instruments."SHFE.al2204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.cu2204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.hc2204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.ni2204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.pb2204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.rb2204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.ru2204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.sn2204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.sp2204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.ss2204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.wr2204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."SHFE.zn2204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."DCE.v2204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.rr2204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.p2204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.l2204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.jm2204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."CFFEX.IC2112".trading_time]
-day = [ [ "09:30:00", "11:30:00",], [ "13:00:00", "15:00:00",],]
-
-[instruments."CFFEX.IF2112".trading_time]
-day = [ [ "09:30:00", "11:30:00",], [ "13:00:00", "15:00:00",],]
-
-[instruments."CFFEX.IH2112".trading_time]
-day = [ [ "09:30:00", "11:30:00",], [ "13:00:00", "15:00:00",],]
+night = []
 
 [instruments."DCE.eg2204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.eb2204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.pg2204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.jd2204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."INE.lu2205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."INE.sc2205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
+night = []
 
 [instruments."SHFE.fu2205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.ZC205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."INE.bc2205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."INE.nr2205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.ag2205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
+night = []
 
 [instruments."SHFE.al2205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.au2206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
+night = []
 
 [instruments."SHFE.cu2205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.hc2205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.ni2205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.pb2205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.rb2205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.ru2205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.sn2205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.sp2205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.ss2205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.wr2205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."SHFE.zn2205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."CZCE.AP205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."CZCE.CF205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.CJ205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."CZCE.CY205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.FG205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.JR205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
@@ -8637,15 +8433,15 @@ day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "1
 
 [instruments."CZCE.MA205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.OI205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.PF205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.PM205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
@@ -8655,11 +8451,11 @@ day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "1
 
 [instruments."CZCE.RM205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.SA205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.SF205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
@@ -8669,11 +8465,11 @@ day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "1
 
 [instruments."CZCE.SR205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.TA205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.UR205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
@@ -8683,77 +8479,77 @@ day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "1
 
 [instruments."DCE.j2205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.i2205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.fb2205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."DCE.cs2205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.pp2205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.a2205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.bb2205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."DCE.b2205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.c2205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.y2205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.v2205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.rr2205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.p2205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.m2205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.l2205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.jm2205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.eg2205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.eb2205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.pg2205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.lh2205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
@@ -8763,19 +8559,19 @@ day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "1
 
 [instruments."INE.lu2206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."INE.sc2406".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
+night = []
 
 [instruments."SHFE.fu2206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.ZC206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CFFEX.T2203".trading_time]
 day = [ [ "09:30:00", "11:30:00",], [ "13:00:00", "15:15:00",],]
@@ -8788,23 +8584,23 @@ day = [ [ "09:30:00", "11:30:00",], [ "13:00:00", "15:15:00",],]
 
 [instruments."CZCE.CY206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.FG206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.MA206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.PF206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.SA206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.SF206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
@@ -8814,161 +8610,161 @@ day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "1
 
 [instruments."CZCE.TA206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.UR206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."INE.bc2206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."INE.nr2206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.j2206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.i2206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.fb2206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."DCE.pp2206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.b2206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.bb2206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."SHFE.ag2206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
+night = []
 
 [instruments."SHFE.al2206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.bu2306".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.cu2206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.hc2206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.ni2206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.pb2206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.rb2206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.ru2206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.sn2206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.sp2206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.ss2206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.wr2206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."SHFE.zn2206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."DCE.v2206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.rr2206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.p2206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.l2206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.jm2206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.eg2206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.eb2206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.jd2206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."DCE.pg2206".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."INE.lu2207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."INE.sc2207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
+night = []
 
 [instruments."SHFE.fu2207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.ZC207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.CF207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.CJ207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."CZCE.CY207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.FG207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.JR207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
@@ -8978,15 +8774,15 @@ day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "1
 
 [instruments."CZCE.MA207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.OI207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.PF207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.PM207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
@@ -8996,14 +8792,14 @@ day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "1
 
 [instruments."CZCE.RM207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.RS207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."CZCE.SA207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.SF207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
@@ -9013,11 +8809,11 @@ day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "1
 
 [instruments."CZCE.SR207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.TA207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.UR207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
@@ -9027,132 +8823,132 @@ day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "1
 
 [instruments."DCE.j2207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.i2207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.fb2207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."DCE.cs2207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.c2207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.bb2207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."DCE.b2207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.a2207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.pp2207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.y2207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.v2207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.rr2207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.p2207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.m2207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.l2207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.jm2207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."INE.bc2207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."INE.nr2207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.ag2207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
+night = []
 
 [instruments."SHFE.al2207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.au2208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
+night = []
 
 [instruments."SHFE.bu2201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.cu2207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.hc2207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.ni2207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.pb2207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.rb2207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.ru2207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.sn2207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.sp2207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.ss2207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.wr2207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."SHFE.zn2207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."CFFEX.IC2203".trading_time]
 day = [ [ "09:30:00", "11:30:00",], [ "13:00:00", "15:00:00",],]
@@ -9165,64 +8961,64 @@ day = [ [ "09:30:00", "11:30:00",], [ "13:00:00", "15:00:00",],]
 
 [instruments."DCE.eg2207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.eb2207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.jd2207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."DCE.pg2207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.lh2207".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."INE.lu2208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."INE.sc2208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
+night = []
 
 [instruments."SHFE.fu2208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.ZC208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.CY208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.FG208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.MA208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.PF208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.RM208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.RS208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."CZCE.SA208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.SF208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
@@ -9232,18 +9028,18 @@ day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "1
 
 [instruments."CZCE.TA208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.UR208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."DCE.j2208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.i2208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.fb2208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
@@ -9253,133 +9049,133 @@ day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "1
 
 [instruments."DCE.b2208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.pp2208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.y2208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.v2208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.rr2208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.p2208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.m2208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.l2208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.jm2208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."INE.bc2208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."INE.nr2208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.ag2208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
+night = []
 
 [instruments."SHFE.al2208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.bu2202".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.cu2208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.hc2208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.ni2208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.pb2208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.rb2208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.ru2208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.sn2208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.sp2208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.ss2208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.wr2208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."SHFE.zn2208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."DCE.eg2208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.eb2208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.jd2208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."DCE.pg2208".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."INE.lu2209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."INE.sc2409".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
+night = []
 
 [instruments."SHFE.fu2209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.ZC209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CFFEX.T2206".trading_time]
 day = [ [ "09:30:00", "11:30:00",], [ "13:00:00", "15:15:00",],]
@@ -9392,18 +9188,18 @@ day = [ [ "09:30:00", "11:30:00",], [ "13:00:00", "15:15:00",],]
 
 [instruments."CZCE.CF209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.CJ209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."CZCE.CY209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.FG209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.JR209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
@@ -9413,15 +9209,15 @@ day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "1
 
 [instruments."CZCE.MA209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.OI209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.PF209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.PM209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
@@ -9431,14 +9227,14 @@ day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "1
 
 [instruments."CZCE.RM209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.RS209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."CZCE.SA209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.SF209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
@@ -9448,11 +9244,11 @@ day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "1
 
 [instruments."CZCE.SR209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.TA209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.UR209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
@@ -9462,152 +9258,152 @@ day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "1
 
 [instruments."DCE.j2209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.i2209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.fb2209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."DCE.cs2209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.c2209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.bb2209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."DCE.b2209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.a2209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.jm2209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.pp2209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.y2209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.v2209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.rr2209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.p2209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.m2209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.l2209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."INE.bc2209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."INE.nr2209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.ag2209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
+night = []
 
 [instruments."SHFE.al2209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.au2210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
+night = []
 
 [instruments."SHFE.bu2309".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.cu2209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.hc2209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.ni2209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.pb2209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.rb2209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.ru2209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.sn2209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.sp2209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.ss2209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.wr2209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."SHFE.zn2209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."INE.lu2210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."INE.sc2210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
+night = []
 
 [instruments."SHFE.fu2210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.eg2209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.eb2209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.jd2209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
@@ -9617,78 +9413,78 @@ day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "1
 
 [instruments."DCE.pg2209".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.ZC210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."INE.bc2210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."INE.nr2210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.ag2210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
+night = []
 
 [instruments."SHFE.al2210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.au2201".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
+night = []
 
 [instruments."SHFE.bu2204".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.cu2210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.hc2210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.ni2210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.pb2210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.rb2210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.ru2210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.sn2210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.sp2210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.ss2210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.wr2210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."SHFE.zn2210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."CFFEX.IC2206".trading_time]
 day = [ [ "09:30:00", "11:30:00",], [ "13:00:00", "15:00:00",],]
@@ -9704,26 +9500,26 @@ day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "1
 
 [instruments."CZCE.CY210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.FG210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.MA210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.PF210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.PK210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."CZCE.SA210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.SF210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
@@ -9733,18 +9529,18 @@ day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "1
 
 [instruments."CZCE.TA210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.UR210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."DCE.j2210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.i2210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.fb2210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
@@ -9754,77 +9550,77 @@ day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "1
 
 [instruments."DCE.b2210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.jm2210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.l2210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.pp2210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.rr2210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.v2210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.p2210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.eg2210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.eb2210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.jd2210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."DCE.pg2210".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."INE.lu2211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."INE.sc2211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
+night = []
 
 [instruments."SHFE.fu2211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.ZC211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.AP211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."CZCE.CF211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.CY211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.FG211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.JR211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
@@ -9834,15 +9630,15 @@ day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "1
 
 [instruments."CZCE.MA211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.OI211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.PF211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.PK211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
@@ -9855,14 +9651,14 @@ day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "1
 
 [instruments."CZCE.RM211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.RS211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."CZCE.SA211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.SF211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
@@ -9872,11 +9668,11 @@ day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "1
 
 [instruments."CZCE.SR211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.TA211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."CZCE.UR211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
@@ -9886,132 +9682,132 @@ day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "1
 
 [instruments."DCE.j2211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.i2211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.fb2211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."DCE.cs2211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.c2211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.bb2211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."DCE.b2211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.a2211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.jm2211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.l2211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.pp2211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.rr2211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.v2211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.y2211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.p2211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.m2211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."INE.bc2211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."INE.nr2211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.ag2211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
+night = []
 
 [instruments."SHFE.al2211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.au2212".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
+night = []
 
 [instruments."SHFE.bu2205".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.cu2211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.hc2211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.ni2211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.pb2211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.rb2211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.ru2211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.sn2211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.sp2211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."SHFE.ss2211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."SHFE.wr2211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."SHFE.zn2211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
+night = []
 
 [instruments."CFFEX.IC2201".trading_time]
 day = [ [ "09:30:00", "11:30:00",], [ "13:00:00", "15:00:00",],]
@@ -10024,11 +9820,11 @@ day = [ [ "09:30:00", "11:30:00",], [ "13:00:00", "15:00:00",],]
 
 [instruments."DCE.eg2211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.eb2211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."DCE.jd2211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
@@ -10038,16 +9834,220 @@ day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "1
 
 [instruments."DCE.pg2211".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."INE.lu2212".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
 
 [instruments."INE.sc2412".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
+night = []
 
 [instruments."SHFE.fu2212".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
+night = []
+
+[instruments."CZCE.ZC212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = []
+
+[instruments."CFFEX.T2209".trading_time]
+day = [ [ "09:30:00", "11:30:00",], [ "13:00:00", "15:15:00",],]
+
+[instruments."CFFEX.TF2209".trading_time]
+day = [ [ "09:30:00", "11:30:00",], [ "13:00:00", "15:15:00",],]
+
+[instruments."CFFEX.TS2209".trading_time]
+day = [ [ "09:30:00", "11:30:00",], [ "13:00:00", "15:15:00",],]
+
+[instruments."CZCE.AP212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+
+[instruments."CZCE.CJ212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+
+[instruments."CZCE.CY212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = []
+
+[instruments."CZCE.FG212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = []
+
+[instruments."CZCE.MA212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = []
+
+[instruments."CZCE.PF212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = []
+
+[instruments."CZCE.PK212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+
+[instruments."CZCE.SA212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = []
+
+[instruments."CZCE.SF212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+
+[instruments."CZCE.SM212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+
+[instruments."CZCE.TA212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = []
+
+[instruments."CZCE.UR212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+
+[instruments."DCE.j2212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = []
+
+[instruments."DCE.i2212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = []
+
+[instruments."DCE.fb2212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+
+[instruments."DCE.bb2212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+
+[instruments."DCE.b2212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = []
+
+[instruments."DCE.jm2212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = []
+
+[instruments."DCE.l2212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = []
+
+[instruments."DCE.pp2212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = []
+
+[instruments."DCE.rr2212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = []
+
+[instruments."DCE.v2212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = []
+
+[instruments."DCE.y2212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = []
+
+[instruments."DCE.p2212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = []
+
+[instruments."DCE.m2212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = []
+
+[instruments."INE.bc2212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = []
+
+[instruments."INE.nr2212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = []
+
+[instruments."SHFE.ag2212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = []
+
+[instruments."SHFE.al2212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = []
+
+[instruments."SHFE.au2203".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = []
+
+[instruments."SHFE.bu2312".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = []
+
+[instruments."SHFE.cu2212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = []
+
+[instruments."SHFE.hc2212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = []
+
+[instruments."SHFE.ni2212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = []
+
+[instruments."SHFE.pb2212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = []
+
+[instruments."SHFE.rb2212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = []
+
+[instruments."SHFE.sn2212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = []
+
+[instruments."SHFE.sp2212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = []
+
+[instruments."SHFE.ss2212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = []
+
+[instruments."SHFE.wr2212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+
+[instruments."SHFE.zn2212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = []
+
+[instruments."CFFEX.IC2202".trading_time]
+day = [ [ "09:30:00", "11:30:00",], [ "13:00:00", "15:00:00",],]
+
+[instruments."CFFEX.IF2202".trading_time]
+day = [ [ "09:30:00", "11:30:00",], [ "13:00:00", "15:00:00",],]
+
+[instruments."CFFEX.IH2202".trading_time]
+day = [ [ "09:30:00", "11:30:00",], [ "13:00:00", "15:00:00",],]
+
+[instruments."INE.lu2301".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = []
+
+[instruments."INE.sc2301".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = []
+
+[instruments."SHFE.fu2301".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = []
+
+[instruments."DCE.eg2212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = []
+
+[instruments."DCE.eb2212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = []
+
+[instruments."DCE.jd2212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+
+[instruments."DCE.pg2212".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = []
