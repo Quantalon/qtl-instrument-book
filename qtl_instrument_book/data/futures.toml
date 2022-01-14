@@ -1,5 +1,5 @@
-last_update_date = 2022-01-13
-expire_date = 2022-02-12
+last_update_date = 2022-01-14
+expire_date = 2022-02-13
 
 [instruments."INE.sc2203"]
 exchange_id = "INE"
@@ -11,6 +11,10 @@ product_short_name = "原油"
 product_class = "FUTURES"
 id = "sc2203"
 name = "原油2203"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."INE.sc2206"]
 exchange_id = "INE"
@@ -22,6 +26,10 @@ product_short_name = "原油"
 product_class = "FUTURES"
 id = "sc2206"
 name = "原油2206"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."INE.sc2209"]
 exchange_id = "INE"
@@ -33,6 +41,10 @@ product_short_name = "原油"
 product_class = "FUTURES"
 id = "sc2209"
 name = "原油2209"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."INE.sc2212"]
 exchange_id = "INE"
@@ -44,6 +56,10 @@ product_short_name = "原油"
 product_class = "FUTURES"
 id = "sc2212"
 name = "原油2212"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."INE.sc2303"]
 exchange_id = "INE"
@@ -55,6 +71,10 @@ product_short_name = "原油"
 product_class = "FUTURES"
 id = "sc2303"
 name = "原油2303"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.bu2203"]
 exchange_id = "SHFE"
@@ -66,6 +86,10 @@ product_short_name = "沥青"
 product_class = "FUTURES"
 id = "bu2203"
 name = "沥青2203"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."INE.sc2306"]
 exchange_id = "INE"
@@ -77,6 +101,10 @@ product_short_name = "原油"
 product_class = "FUTURES"
 id = "sc2306"
 name = "原油2306"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.bu2206"]
 exchange_id = "SHFE"
@@ -88,6 +116,10 @@ product_short_name = "沥青"
 product_class = "FUTURES"
 id = "bu2206"
 name = "沥青2206"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."INE.sc2309"]
 exchange_id = "INE"
@@ -99,6 +131,10 @@ product_short_name = "原油"
 product_class = "FUTURES"
 id = "sc2309"
 name = "原油2309"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.bu2209"]
 exchange_id = "SHFE"
@@ -110,6 +146,10 @@ product_short_name = "沥青"
 product_class = "FUTURES"
 id = "bu2209"
 name = "沥青2209"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."INE.sc2312"]
 exchange_id = "INE"
@@ -121,6 +161,10 @@ product_short_name = "原油"
 product_class = "FUTURES"
 id = "sc2312"
 name = "原油2312"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.bu2212"]
 exchange_id = "SHFE"
@@ -132,6 +176,10 @@ product_short_name = "沥青"
 product_class = "FUTURES"
 id = "bu2212"
 name = "沥青2212"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."DCE.lh2201"]
 exchange_id = "DCE"
@@ -143,6 +191,10 @@ product_short_name = "生猪"
 product_class = "FUTURES"
 id = "lh2201"
 name = "生猪2201"
+open_max_order_volume = 50
+open_min_order_volume = 1
+close_max_order_volume = 50
+close_min_order_volume = 1
 
 [instruments."CZCE.AP201"]
 exchange_id = "CZCE"
@@ -154,6 +206,10 @@ product_short_name = "苹果"
 product_class = "FUTURES"
 id = "AP201"
 name = "苹果2201"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.CF201"]
 exchange_id = "CZCE"
@@ -165,6 +221,10 @@ product_short_name = "棉花"
 product_class = "FUTURES"
 id = "CF201"
 name = "棉花2201"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.CJ201"]
 exchange_id = "CZCE"
@@ -176,6 +236,10 @@ product_short_name = "红枣"
 product_class = "FUTURES"
 id = "CJ201"
 name = "红枣2201"
+open_max_order_volume = 100
+open_min_order_volume = 4
+close_max_order_volume = 100
+close_min_order_volume = 1
 
 [instruments."CZCE.CY201"]
 exchange_id = "CZCE"
@@ -187,6 +251,10 @@ product_short_name = "棉纱"
 product_class = "FUTURES"
 id = "CY201"
 name = "棉纱2201"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.FG201"]
 exchange_id = "CZCE"
@@ -198,6 +266,10 @@ product_short_name = "玻璃"
 product_class = "FUTURES"
 id = "FG201"
 name = "玻璃2201"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.JR201"]
 exchange_id = "CZCE"
@@ -209,6 +281,10 @@ product_short_name = "粳稻"
 product_class = "FUTURES"
 id = "JR201"
 name = "粳稻2201"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.LR201"]
 exchange_id = "CZCE"
@@ -220,6 +296,10 @@ product_short_name = "晚稻"
 product_class = "FUTURES"
 id = "LR201"
 name = "晚稻2201"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.MA201"]
 exchange_id = "CZCE"
@@ -231,6 +311,10 @@ product_short_name = "甲醇"
 product_class = "FUTURES"
 id = "MA201"
 name = "甲醇2201"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.OI201"]
 exchange_id = "CZCE"
@@ -242,6 +326,10 @@ product_short_name = "菜油"
 product_class = "FUTURES"
 id = "OI201"
 name = "菜油2201"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.PF201"]
 exchange_id = "CZCE"
@@ -253,6 +341,10 @@ product_short_name = "短纤"
 product_class = "FUTURES"
 id = "PF201"
 name = "短纤2201"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.PM201"]
 exchange_id = "CZCE"
@@ -264,6 +356,10 @@ product_short_name = "普麦"
 product_class = "FUTURES"
 id = "PM201"
 name = "普麦2201"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.RI201"]
 exchange_id = "CZCE"
@@ -275,6 +371,10 @@ product_short_name = "早稻"
 product_class = "FUTURES"
 id = "RI201"
 name = "早稻2201"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.RM201"]
 exchange_id = "CZCE"
@@ -286,6 +386,10 @@ product_short_name = "菜粕"
 product_class = "FUTURES"
 id = "RM201"
 name = "菜粕2201"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.SA201"]
 exchange_id = "CZCE"
@@ -297,6 +401,10 @@ product_short_name = "纯碱"
 product_class = "FUTURES"
 id = "SA201"
 name = "纯碱2201"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.SF201"]
 exchange_id = "CZCE"
@@ -308,6 +416,10 @@ product_short_name = "硅铁"
 product_class = "FUTURES"
 id = "SF201"
 name = "硅铁2201"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.SM201"]
 exchange_id = "CZCE"
@@ -319,6 +431,10 @@ product_short_name = "锰硅"
 product_class = "FUTURES"
 id = "SM201"
 name = "锰硅2201"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.SR201"]
 exchange_id = "CZCE"
@@ -330,6 +446,10 @@ product_short_name = "白糖"
 product_class = "FUTURES"
 id = "SR201"
 name = "白糖2201"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.TA201"]
 exchange_id = "CZCE"
@@ -341,6 +461,10 @@ product_short_name = "PTA"
 product_class = "FUTURES"
 id = "TA201"
 name = "PTA2201"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.UR201"]
 exchange_id = "CZCE"
@@ -352,6 +476,10 @@ product_short_name = "尿素"
 product_class = "FUTURES"
 id = "UR201"
 name = "尿素2201"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.WH201"]
 exchange_id = "CZCE"
@@ -363,6 +491,10 @@ product_short_name = "强麦"
 product_class = "FUTURES"
 id = "WH201"
 name = "强麦2201"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."INE.bc2201"]
 exchange_id = "INE"
@@ -374,6 +506,10 @@ product_short_name = "国际铜"
 product_class = "FUTURES"
 id = "bc2201"
 name = "国际铜2201"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."INE.nr2201"]
 exchange_id = "INE"
@@ -385,6 +521,10 @@ product_short_name = "20号胶"
 product_class = "FUTURES"
 id = "nr2201"
 name = "20号胶2201"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."DCE.j2201"]
 exchange_id = "DCE"
@@ -396,6 +536,10 @@ product_short_name = "焦炭"
 product_class = "FUTURES"
 id = "j2201"
 name = "焦炭2201"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."DCE.i2201"]
 exchange_id = "DCE"
@@ -407,6 +551,10 @@ product_short_name = "铁矿"
 product_class = "FUTURES"
 id = "i2201"
 name = "铁矿2201"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.fb2201"]
 exchange_id = "DCE"
@@ -418,6 +566,10 @@ product_short_name = "纤板"
 product_class = "FUTURES"
 id = "fb2201"
 name = "纤板2201"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.pp2201"]
 exchange_id = "DCE"
@@ -429,6 +581,10 @@ product_short_name = "PP"
 product_class = "FUTURES"
 id = "pp2201"
 name = "PP2201"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.b2201"]
 exchange_id = "DCE"
@@ -440,6 +596,10 @@ product_short_name = "豆二"
 product_class = "FUTURES"
 id = "b2201"
 name = "豆二2201"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.bb2201"]
 exchange_id = "DCE"
@@ -451,6 +611,10 @@ product_short_name = "胶板"
 product_class = "FUTURES"
 id = "bb2201"
 name = "胶板2201"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.a2201"]
 exchange_id = "DCE"
@@ -462,6 +626,10 @@ product_short_name = "豆一"
 product_class = "FUTURES"
 id = "a2201"
 name = "豆一2201"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.y2201"]
 exchange_id = "DCE"
@@ -473,6 +641,10 @@ product_short_name = "豆油"
 product_class = "FUTURES"
 id = "y2201"
 name = "豆油2201"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.cs2201"]
 exchange_id = "DCE"
@@ -484,6 +656,10 @@ product_short_name = "淀粉"
 product_class = "FUTURES"
 id = "cs2201"
 name = "淀粉2201"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.c2201"]
 exchange_id = "DCE"
@@ -495,6 +671,10 @@ product_short_name = "玉米"
 product_class = "FUTURES"
 id = "c2201"
 name = "玉米2201"
+open_max_order_volume = 2000
+open_min_order_volume = 1
+close_max_order_volume = 2000
+close_min_order_volume = 1
 
 [instruments."DCE.v2201"]
 exchange_id = "DCE"
@@ -506,6 +686,10 @@ product_short_name = "PVC"
 product_class = "FUTURES"
 id = "v2201"
 name = "PVC2201"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.rr2201"]
 exchange_id = "DCE"
@@ -517,6 +701,10 @@ product_short_name = "粳米"
 product_class = "FUTURES"
 id = "rr2201"
 name = "粳米2201"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.p2201"]
 exchange_id = "DCE"
@@ -528,6 +716,10 @@ product_short_name = "棕榈"
 product_class = "FUTURES"
 id = "p2201"
 name = "棕榈2201"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.m2201"]
 exchange_id = "DCE"
@@ -539,6 +731,10 @@ product_short_name = "豆粕"
 product_class = "FUTURES"
 id = "m2201"
 name = "豆粕2201"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.l2201"]
 exchange_id = "DCE"
@@ -550,6 +746,10 @@ product_short_name = "塑料"
 product_class = "FUTURES"
 id = "l2201"
 name = "塑料2201"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."SHFE.ag2201"]
 exchange_id = "SHFE"
@@ -561,6 +761,10 @@ product_short_name = "沪银"
 product_class = "FUTURES"
 id = "ag2201"
 name = "沪银2201"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.al2201"]
 exchange_id = "SHFE"
@@ -572,6 +776,10 @@ product_short_name = "沪铝"
 product_class = "FUTURES"
 id = "al2201"
 name = "沪铝2201"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.au2202"]
 exchange_id = "SHFE"
@@ -583,6 +791,10 @@ product_short_name = "沪金"
 product_class = "FUTURES"
 id = "au2202"
 name = "沪金2202"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.cu2201"]
 exchange_id = "SHFE"
@@ -594,6 +806,10 @@ product_short_name = "沪铜"
 product_class = "FUTURES"
 id = "cu2201"
 name = "沪铜2201"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.hc2201"]
 exchange_id = "SHFE"
@@ -605,6 +821,10 @@ product_short_name = "热卷"
 product_class = "FUTURES"
 id = "hc2201"
 name = "热卷2201"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.ni2201"]
 exchange_id = "SHFE"
@@ -616,6 +836,10 @@ product_short_name = "沪镍"
 product_class = "FUTURES"
 id = "ni2201"
 name = "沪镍2201"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.pb2201"]
 exchange_id = "SHFE"
@@ -627,6 +851,10 @@ product_short_name = "沪铅"
 product_class = "FUTURES"
 id = "pb2201"
 name = "沪铅2201"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.rb2201"]
 exchange_id = "SHFE"
@@ -638,6 +866,10 @@ product_short_name = "螺纹"
 product_class = "FUTURES"
 id = "rb2201"
 name = "螺纹2201"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."DCE.jm2201"]
 exchange_id = "DCE"
@@ -649,6 +881,10 @@ product_short_name = "焦煤"
 product_class = "FUTURES"
 id = "jm2201"
 name = "焦煤2201"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."SHFE.ru2201"]
 exchange_id = "SHFE"
@@ -660,6 +896,10 @@ product_short_name = "橡胶"
 product_class = "FUTURES"
 id = "ru2201"
 name = "橡胶2201"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.sn2201"]
 exchange_id = "SHFE"
@@ -671,6 +911,10 @@ product_short_name = "沪锡"
 product_class = "FUTURES"
 id = "sn2201"
 name = "沪锡2201"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.sp2201"]
 exchange_id = "SHFE"
@@ -682,6 +926,10 @@ product_short_name = "纸浆"
 product_class = "FUTURES"
 id = "sp2201"
 name = "纸浆2201"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.ss2201"]
 exchange_id = "SHFE"
@@ -693,6 +941,10 @@ product_short_name = "不锈钢"
 product_class = "FUTURES"
 id = "ss2201"
 name = "不锈钢2201"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.wr2201"]
 exchange_id = "SHFE"
@@ -704,6 +956,10 @@ product_short_name = "线材"
 product_class = "FUTURES"
 id = "wr2201"
 name = "线材2201"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.zn2201"]
 exchange_id = "SHFE"
@@ -715,6 +971,10 @@ product_short_name = "沪锌"
 product_class = "FUTURES"
 id = "zn2201"
 name = "沪锌2201"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."DCE.eg2201"]
 exchange_id = "DCE"
@@ -726,6 +986,10 @@ product_short_name = "甘醇"
 product_class = "FUTURES"
 id = "eg2201"
 name = "甘醇2201"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.eb2201"]
 exchange_id = "DCE"
@@ -737,6 +1001,10 @@ product_short_name = "苯乙烯"
 product_class = "FUTURES"
 id = "eb2201"
 name = "苯乙烯2201"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.pg2201"]
 exchange_id = "DCE"
@@ -748,6 +1016,10 @@ product_short_name = "LPG"
 product_class = "FUTURES"
 id = "pg2201"
 name = "LPG2201"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.jd2201"]
 exchange_id = "DCE"
@@ -759,6 +1031,10 @@ product_short_name = "鸡蛋"
 product_class = "FUTURES"
 id = "jd2201"
 name = "鸡蛋2201"
+open_max_order_volume = 300
+open_min_order_volume = 1
+close_max_order_volume = 300
+close_min_order_volume = 1
 
 [instruments."INE.lu2202"]
 exchange_id = "INE"
@@ -770,6 +1046,10 @@ product_short_name = "低硫燃料油"
 product_class = "FUTURES"
 id = "lu2202"
 name = "低硫燃料油2202"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."INE.sc2202"]
 exchange_id = "INE"
@@ -781,6 +1061,10 @@ product_short_name = "原油"
 product_class = "FUTURES"
 id = "sc2202"
 name = "原油2202"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."CZCE.PK201"]
 exchange_id = "CZCE"
@@ -792,6 +1076,10 @@ product_short_name = "花生仁"
 product_class = "FUTURES"
 id = "PK201"
 name = "花生仁2201"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."SHFE.fu2202"]
 exchange_id = "SHFE"
@@ -803,6 +1091,10 @@ product_short_name = "燃油"
 product_class = "FUTURES"
 id = "fu2202"
 name = "燃油2202"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."INE.bc2202"]
 exchange_id = "INE"
@@ -814,6 +1106,10 @@ product_short_name = "国际铜"
 product_class = "FUTURES"
 id = "bc2202"
 name = "国际铜2202"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."INE.nr2202"]
 exchange_id = "INE"
@@ -825,6 +1121,10 @@ product_short_name = "20号胶"
 product_class = "FUTURES"
 id = "nr2202"
 name = "20号胶2202"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."CZCE.ZC202"]
 exchange_id = "CZCE"
@@ -836,6 +1136,10 @@ product_short_name = "郑煤"
 product_class = "FUTURES"
 id = "ZC202"
 name = "郑煤2202"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."SHFE.ag2202"]
 exchange_id = "SHFE"
@@ -847,6 +1151,10 @@ product_short_name = "沪银"
 product_class = "FUTURES"
 id = "ag2202"
 name = "沪银2202"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.al2202"]
 exchange_id = "SHFE"
@@ -858,6 +1166,10 @@ product_short_name = "沪铝"
 product_class = "FUTURES"
 id = "al2202"
 name = "沪铝2202"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.cu2202"]
 exchange_id = "SHFE"
@@ -869,6 +1181,10 @@ product_short_name = "沪铜"
 product_class = "FUTURES"
 id = "cu2202"
 name = "沪铜2202"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.hc2202"]
 exchange_id = "SHFE"
@@ -880,6 +1196,10 @@ product_short_name = "热卷"
 product_class = "FUTURES"
 id = "hc2202"
 name = "热卷2202"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.ni2202"]
 exchange_id = "SHFE"
@@ -891,6 +1211,10 @@ product_short_name = "沪镍"
 product_class = "FUTURES"
 id = "ni2202"
 name = "沪镍2202"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.pb2202"]
 exchange_id = "SHFE"
@@ -902,6 +1226,10 @@ product_short_name = "沪铅"
 product_class = "FUTURES"
 id = "pb2202"
 name = "沪铅2202"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.rb2202"]
 exchange_id = "SHFE"
@@ -913,6 +1241,10 @@ product_short_name = "螺纹"
 product_class = "FUTURES"
 id = "rb2202"
 name = "螺纹2202"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.sn2202"]
 exchange_id = "SHFE"
@@ -924,6 +1256,10 @@ product_short_name = "沪锡"
 product_class = "FUTURES"
 id = "sn2202"
 name = "沪锡2202"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.sp2202"]
 exchange_id = "SHFE"
@@ -935,6 +1271,10 @@ product_short_name = "纸浆"
 product_class = "FUTURES"
 id = "sp2202"
 name = "纸浆2202"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.ss2202"]
 exchange_id = "SHFE"
@@ -946,6 +1286,10 @@ product_short_name = "不锈钢"
 product_class = "FUTURES"
 id = "ss2202"
 name = "不锈钢2202"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.wr2202"]
 exchange_id = "SHFE"
@@ -957,6 +1301,10 @@ product_short_name = "线材"
 product_class = "FUTURES"
 id = "wr2202"
 name = "线材2202"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.zn2202"]
 exchange_id = "SHFE"
@@ -968,6 +1316,10 @@ product_short_name = "沪锌"
 product_class = "FUTURES"
 id = "zn2202"
 name = "沪锌2202"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."CZCE.CY202"]
 exchange_id = "CZCE"
@@ -979,6 +1331,10 @@ product_short_name = "棉纱"
 product_class = "FUTURES"
 id = "CY202"
 name = "棉纱2202"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.FG202"]
 exchange_id = "CZCE"
@@ -990,6 +1346,10 @@ product_short_name = "玻璃"
 product_class = "FUTURES"
 id = "FG202"
 name = "玻璃2202"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.MA202"]
 exchange_id = "CZCE"
@@ -1001,6 +1361,10 @@ product_short_name = "甲醇"
 product_class = "FUTURES"
 id = "MA202"
 name = "甲醇2202"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.PF202"]
 exchange_id = "CZCE"
@@ -1012,6 +1376,10 @@ product_short_name = "短纤"
 product_class = "FUTURES"
 id = "PF202"
 name = "短纤2202"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.SA202"]
 exchange_id = "CZCE"
@@ -1023,6 +1391,10 @@ product_short_name = "纯碱"
 product_class = "FUTURES"
 id = "SA202"
 name = "纯碱2202"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.SF202"]
 exchange_id = "CZCE"
@@ -1034,6 +1406,10 @@ product_short_name = "硅铁"
 product_class = "FUTURES"
 id = "SF202"
 name = "硅铁2202"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.SM202"]
 exchange_id = "CZCE"
@@ -1045,6 +1421,10 @@ product_short_name = "锰硅"
 product_class = "FUTURES"
 id = "SM202"
 name = "锰硅2202"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.TA202"]
 exchange_id = "CZCE"
@@ -1056,6 +1436,10 @@ product_short_name = "PTA"
 product_class = "FUTURES"
 id = "TA202"
 name = "PTA2202"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.UR202"]
 exchange_id = "CZCE"
@@ -1067,6 +1451,10 @@ product_short_name = "尿素"
 product_class = "FUTURES"
 id = "UR202"
 name = "尿素2202"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.j2202"]
 exchange_id = "DCE"
@@ -1078,6 +1466,10 @@ product_short_name = "焦炭"
 product_class = "FUTURES"
 id = "j2202"
 name = "焦炭2202"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."DCE.i2202"]
 exchange_id = "DCE"
@@ -1089,6 +1481,10 @@ product_short_name = "铁矿"
 product_class = "FUTURES"
 id = "i2202"
 name = "铁矿2202"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.pp2202"]
 exchange_id = "DCE"
@@ -1100,6 +1496,10 @@ product_short_name = "PP"
 product_class = "FUTURES"
 id = "pp2202"
 name = "PP2202"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.b2202"]
 exchange_id = "DCE"
@@ -1111,6 +1511,10 @@ product_short_name = "豆二"
 product_class = "FUTURES"
 id = "b2202"
 name = "豆二2202"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.bb2202"]
 exchange_id = "DCE"
@@ -1122,6 +1526,10 @@ product_short_name = "胶板"
 product_class = "FUTURES"
 id = "bb2202"
 name = "胶板2202"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.fb2202"]
 exchange_id = "DCE"
@@ -1133,6 +1541,10 @@ product_short_name = "纤板"
 product_class = "FUTURES"
 id = "fb2202"
 name = "纤板2202"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.v2202"]
 exchange_id = "DCE"
@@ -1144,6 +1556,10 @@ product_short_name = "PVC"
 product_class = "FUTURES"
 id = "v2202"
 name = "PVC2202"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.rr2202"]
 exchange_id = "DCE"
@@ -1155,6 +1571,10 @@ product_short_name = "粳米"
 product_class = "FUTURES"
 id = "rr2202"
 name = "粳米2202"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.p2202"]
 exchange_id = "DCE"
@@ -1166,6 +1586,10 @@ product_short_name = "棕榈"
 product_class = "FUTURES"
 id = "p2202"
 name = "棕榈2202"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.l2202"]
 exchange_id = "DCE"
@@ -1177,6 +1601,10 @@ product_short_name = "塑料"
 product_class = "FUTURES"
 id = "l2202"
 name = "塑料2202"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.jm2202"]
 exchange_id = "DCE"
@@ -1188,6 +1616,10 @@ product_short_name = "焦煤"
 product_class = "FUTURES"
 id = "jm2202"
 name = "焦煤2202"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.eg2202"]
 exchange_id = "DCE"
@@ -1199,6 +1631,10 @@ product_short_name = "甘醇"
 product_class = "FUTURES"
 id = "eg2202"
 name = "甘醇2202"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.eb2202"]
 exchange_id = "DCE"
@@ -1210,6 +1646,10 @@ product_short_name = "苯乙烯"
 product_class = "FUTURES"
 id = "eb2202"
 name = "苯乙烯2202"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.pg2202"]
 exchange_id = "DCE"
@@ -1221,6 +1661,10 @@ product_short_name = "LPG"
 product_class = "FUTURES"
 id = "pg2202"
 name = "LPG2202"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.jd2202"]
 exchange_id = "DCE"
@@ -1232,6 +1676,10 @@ product_short_name = "鸡蛋"
 product_class = "FUTURES"
 id = "jd2202"
 name = "鸡蛋2202"
+open_max_order_volume = 300
+open_min_order_volume = 1
+close_max_order_volume = 300
+close_min_order_volume = 1
 
 [instruments."INE.lu2203"]
 exchange_id = "INE"
@@ -1243,6 +1691,10 @@ product_short_name = "低硫燃料油"
 product_class = "FUTURES"
 id = "lu2203"
 name = "低硫燃料油2203"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."INE.sc2403"]
 exchange_id = "INE"
@@ -1254,6 +1706,10 @@ product_short_name = "原油"
 product_class = "FUTURES"
 id = "sc2403"
 name = "原油2403"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.fu2203"]
 exchange_id = "SHFE"
@@ -1265,6 +1721,10 @@ product_short_name = "燃油"
 product_class = "FUTURES"
 id = "fu2203"
 name = "燃油2203"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."CZCE.ZC203"]
 exchange_id = "CZCE"
@@ -1276,6 +1736,10 @@ product_short_name = "郑煤"
 product_class = "FUTURES"
 id = "ZC203"
 name = "郑煤2203"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.AP203"]
 exchange_id = "CZCE"
@@ -1287,6 +1751,10 @@ product_short_name = "苹果"
 product_class = "FUTURES"
 id = "AP203"
 name = "苹果2203"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.CF203"]
 exchange_id = "CZCE"
@@ -1298,6 +1766,10 @@ product_short_name = "棉花"
 product_class = "FUTURES"
 id = "CF203"
 name = "棉花2203"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.CJ203"]
 exchange_id = "CZCE"
@@ -1309,6 +1781,10 @@ product_short_name = "红枣"
 product_class = "FUTURES"
 id = "CJ203"
 name = "红枣2203"
+open_max_order_volume = 100
+open_min_order_volume = 4
+close_max_order_volume = 100
+close_min_order_volume = 1
 
 [instruments."CZCE.CY203"]
 exchange_id = "CZCE"
@@ -1320,6 +1796,10 @@ product_short_name = "棉纱"
 product_class = "FUTURES"
 id = "CY203"
 name = "棉纱2203"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.FG203"]
 exchange_id = "CZCE"
@@ -1331,6 +1811,10 @@ product_short_name = "玻璃"
 product_class = "FUTURES"
 id = "FG203"
 name = "玻璃2203"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.JR203"]
 exchange_id = "CZCE"
@@ -1342,6 +1826,10 @@ product_short_name = "粳稻"
 product_class = "FUTURES"
 id = "JR203"
 name = "粳稻2203"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.LR203"]
 exchange_id = "CZCE"
@@ -1353,6 +1841,10 @@ product_short_name = "晚稻"
 product_class = "FUTURES"
 id = "LR203"
 name = "晚稻2203"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.MA203"]
 exchange_id = "CZCE"
@@ -1364,6 +1856,10 @@ product_short_name = "甲醇"
 product_class = "FUTURES"
 id = "MA203"
 name = "甲醇2203"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.OI203"]
 exchange_id = "CZCE"
@@ -1375,6 +1871,10 @@ product_short_name = "菜油"
 product_class = "FUTURES"
 id = "OI203"
 name = "菜油2203"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.PF203"]
 exchange_id = "CZCE"
@@ -1386,6 +1886,10 @@ product_short_name = "短纤"
 product_class = "FUTURES"
 id = "PF203"
 name = "短纤2203"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.PK203"]
 exchange_id = "CZCE"
@@ -1397,6 +1901,10 @@ product_short_name = "花生仁"
 product_class = "FUTURES"
 id = "PK203"
 name = "花生仁2203"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.PM203"]
 exchange_id = "CZCE"
@@ -1408,6 +1916,10 @@ product_short_name = "普麦"
 product_class = "FUTURES"
 id = "PM203"
 name = "普麦2203"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.RI203"]
 exchange_id = "CZCE"
@@ -1419,6 +1931,10 @@ product_short_name = "早稻"
 product_class = "FUTURES"
 id = "RI203"
 name = "早稻2203"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.RM203"]
 exchange_id = "CZCE"
@@ -1430,6 +1946,10 @@ product_short_name = "菜粕"
 product_class = "FUTURES"
 id = "RM203"
 name = "菜粕2203"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.SA203"]
 exchange_id = "CZCE"
@@ -1441,6 +1961,10 @@ product_short_name = "纯碱"
 product_class = "FUTURES"
 id = "SA203"
 name = "纯碱2203"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.SF203"]
 exchange_id = "CZCE"
@@ -1452,6 +1976,10 @@ product_short_name = "硅铁"
 product_class = "FUTURES"
 id = "SF203"
 name = "硅铁2203"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.SM203"]
 exchange_id = "CZCE"
@@ -1463,6 +1991,10 @@ product_short_name = "锰硅"
 product_class = "FUTURES"
 id = "SM203"
 name = "锰硅2203"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.SR203"]
 exchange_id = "CZCE"
@@ -1474,6 +2006,10 @@ product_short_name = "白糖"
 product_class = "FUTURES"
 id = "SR203"
 name = "白糖2203"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.TA203"]
 exchange_id = "CZCE"
@@ -1485,6 +2021,10 @@ product_short_name = "PTA"
 product_class = "FUTURES"
 id = "TA203"
 name = "PTA2203"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.UR203"]
 exchange_id = "CZCE"
@@ -1496,6 +2036,10 @@ product_short_name = "尿素"
 product_class = "FUTURES"
 id = "UR203"
 name = "尿素2203"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.WH203"]
 exchange_id = "CZCE"
@@ -1507,6 +2051,10 @@ product_short_name = "强麦"
 product_class = "FUTURES"
 id = "WH203"
 name = "强麦2203"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.j2203"]
 exchange_id = "DCE"
@@ -1518,6 +2066,10 @@ product_short_name = "焦炭"
 product_class = "FUTURES"
 id = "j2203"
 name = "焦炭2203"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."DCE.i2203"]
 exchange_id = "DCE"
@@ -1529,6 +2081,10 @@ product_short_name = "铁矿"
 product_class = "FUTURES"
 id = "i2203"
 name = "铁矿2203"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.fb2203"]
 exchange_id = "DCE"
@@ -1540,6 +2096,10 @@ product_short_name = "纤板"
 product_class = "FUTURES"
 id = "fb2203"
 name = "纤板2203"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.cs2203"]
 exchange_id = "DCE"
@@ -1551,6 +2111,10 @@ product_short_name = "淀粉"
 product_class = "FUTURES"
 id = "cs2203"
 name = "淀粉2203"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.pp2203"]
 exchange_id = "DCE"
@@ -1562,6 +2126,10 @@ product_short_name = "PP"
 product_class = "FUTURES"
 id = "pp2203"
 name = "PP2203"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.bb2203"]
 exchange_id = "DCE"
@@ -1573,6 +2141,10 @@ product_short_name = "胶板"
 product_class = "FUTURES"
 id = "bb2203"
 name = "胶板2203"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.a2203"]
 exchange_id = "DCE"
@@ -1584,6 +2156,10 @@ product_short_name = "豆一"
 product_class = "FUTURES"
 id = "a2203"
 name = "豆一2203"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.b2203"]
 exchange_id = "DCE"
@@ -1595,6 +2171,10 @@ product_short_name = "豆二"
 product_class = "FUTURES"
 id = "b2203"
 name = "豆二2203"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.y2203"]
 exchange_id = "DCE"
@@ -1606,6 +2186,10 @@ product_short_name = "豆油"
 product_class = "FUTURES"
 id = "y2203"
 name = "豆油2203"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.v2203"]
 exchange_id = "DCE"
@@ -1617,6 +2201,10 @@ product_short_name = "PVC"
 product_class = "FUTURES"
 id = "v2203"
 name = "PVC2203"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.rr2203"]
 exchange_id = "DCE"
@@ -1628,6 +2216,10 @@ product_short_name = "粳米"
 product_class = "FUTURES"
 id = "rr2203"
 name = "粳米2203"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.c2203"]
 exchange_id = "DCE"
@@ -1639,6 +2231,10 @@ product_short_name = "玉米"
 product_class = "FUTURES"
 id = "c2203"
 name = "玉米2203"
+open_max_order_volume = 2000
+open_min_order_volume = 1
+close_max_order_volume = 2000
+close_min_order_volume = 1
 
 [instruments."DCE.p2203"]
 exchange_id = "DCE"
@@ -1650,6 +2246,10 @@ product_short_name = "棕榈"
 product_class = "FUTURES"
 id = "p2203"
 name = "棕榈2203"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.m2203"]
 exchange_id = "DCE"
@@ -1661,6 +2261,10 @@ product_short_name = "豆粕"
 product_class = "FUTURES"
 id = "m2203"
 name = "豆粕2203"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.l2203"]
 exchange_id = "DCE"
@@ -1672,6 +2276,10 @@ product_short_name = "塑料"
 product_class = "FUTURES"
 id = "l2203"
 name = "塑料2203"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.jm2203"]
 exchange_id = "DCE"
@@ -1683,6 +2291,10 @@ product_short_name = "焦煤"
 product_class = "FUTURES"
 id = "jm2203"
 name = "焦煤2203"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."INE.bc2203"]
 exchange_id = "INE"
@@ -1694,6 +2306,10 @@ product_short_name = "国际铜"
 product_class = "FUTURES"
 id = "bc2203"
 name = "国际铜2203"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."INE.nr2203"]
 exchange_id = "INE"
@@ -1705,6 +2321,10 @@ product_short_name = "20号胶"
 product_class = "FUTURES"
 id = "nr2203"
 name = "20号胶2203"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.ag2203"]
 exchange_id = "SHFE"
@@ -1716,6 +2336,10 @@ product_short_name = "沪银"
 product_class = "FUTURES"
 id = "ag2203"
 name = "沪银2203"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.al2203"]
 exchange_id = "SHFE"
@@ -1727,6 +2351,10 @@ product_short_name = "沪铝"
 product_class = "FUTURES"
 id = "al2203"
 name = "沪铝2203"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.au2204"]
 exchange_id = "SHFE"
@@ -1738,6 +2366,10 @@ product_short_name = "沪金"
 product_class = "FUTURES"
 id = "au2204"
 name = "沪金2204"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.bu2303"]
 exchange_id = "SHFE"
@@ -1749,6 +2381,10 @@ product_short_name = "沥青"
 product_class = "FUTURES"
 id = "bu2303"
 name = "沥青2303"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.cu2203"]
 exchange_id = "SHFE"
@@ -1760,6 +2396,10 @@ product_short_name = "沪铜"
 product_class = "FUTURES"
 id = "cu2203"
 name = "沪铜2203"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.hc2203"]
 exchange_id = "SHFE"
@@ -1771,6 +2411,10 @@ product_short_name = "热卷"
 product_class = "FUTURES"
 id = "hc2203"
 name = "热卷2203"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.ni2203"]
 exchange_id = "SHFE"
@@ -1782,6 +2426,10 @@ product_short_name = "沪镍"
 product_class = "FUTURES"
 id = "ni2203"
 name = "沪镍2203"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.pb2203"]
 exchange_id = "SHFE"
@@ -1793,6 +2441,10 @@ product_short_name = "沪铅"
 product_class = "FUTURES"
 id = "pb2203"
 name = "沪铅2203"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.rb2203"]
 exchange_id = "SHFE"
@@ -1804,6 +2456,10 @@ product_short_name = "螺纹"
 product_class = "FUTURES"
 id = "rb2203"
 name = "螺纹2203"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.ru2203"]
 exchange_id = "SHFE"
@@ -1815,6 +2471,10 @@ product_short_name = "橡胶"
 product_class = "FUTURES"
 id = "ru2203"
 name = "橡胶2203"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.sn2203"]
 exchange_id = "SHFE"
@@ -1826,6 +2486,10 @@ product_short_name = "沪锡"
 product_class = "FUTURES"
 id = "sn2203"
 name = "沪锡2203"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.sp2203"]
 exchange_id = "SHFE"
@@ -1837,6 +2501,10 @@ product_short_name = "纸浆"
 product_class = "FUTURES"
 id = "sp2203"
 name = "纸浆2203"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.ss2203"]
 exchange_id = "SHFE"
@@ -1848,6 +2516,10 @@ product_short_name = "不锈钢"
 product_class = "FUTURES"
 id = "ss2203"
 name = "不锈钢2203"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.wr2203"]
 exchange_id = "SHFE"
@@ -1859,6 +2531,10 @@ product_short_name = "线材"
 product_class = "FUTURES"
 id = "wr2203"
 name = "线材2203"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.zn2203"]
 exchange_id = "SHFE"
@@ -1870,6 +2546,10 @@ product_short_name = "沪锌"
 product_class = "FUTURES"
 id = "zn2203"
 name = "沪锌2203"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."DCE.eg2203"]
 exchange_id = "DCE"
@@ -1881,6 +2561,10 @@ product_short_name = "甘醇"
 product_class = "FUTURES"
 id = "eg2203"
 name = "甘醇2203"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.eb2203"]
 exchange_id = "DCE"
@@ -1892,6 +2576,10 @@ product_short_name = "苯乙烯"
 product_class = "FUTURES"
 id = "eb2203"
 name = "苯乙烯2203"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.pg2203"]
 exchange_id = "DCE"
@@ -1903,6 +2591,10 @@ product_short_name = "LPG"
 product_class = "FUTURES"
 id = "pg2203"
 name = "LPG2203"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.lh2203"]
 exchange_id = "DCE"
@@ -1914,6 +2606,10 @@ product_short_name = "生猪"
 product_class = "FUTURES"
 id = "lh2203"
 name = "生猪2203"
+open_max_order_volume = 50
+open_min_order_volume = 1
+close_max_order_volume = 50
+close_min_order_volume = 1
 
 [instruments."DCE.jd2203"]
 exchange_id = "DCE"
@@ -1925,6 +2621,10 @@ product_short_name = "鸡蛋"
 product_class = "FUTURES"
 id = "jd2203"
 name = "鸡蛋2203"
+open_max_order_volume = 300
+open_min_order_volume = 1
+close_max_order_volume = 300
+close_min_order_volume = 1
 
 [instruments."INE.lu2204"]
 exchange_id = "INE"
@@ -1936,6 +2636,10 @@ product_short_name = "低硫燃料油"
 product_class = "FUTURES"
 id = "lu2204"
 name = "低硫燃料油2204"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."INE.sc2204"]
 exchange_id = "INE"
@@ -1947,6 +2651,10 @@ product_short_name = "原油"
 product_class = "FUTURES"
 id = "sc2204"
 name = "原油2204"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.fu2204"]
 exchange_id = "SHFE"
@@ -1958,6 +2666,10 @@ product_short_name = "燃油"
 product_class = "FUTURES"
 id = "fu2204"
 name = "燃油2204"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."CZCE.ZC204"]
 exchange_id = "CZCE"
@@ -1969,6 +2681,10 @@ product_short_name = "郑煤"
 product_class = "FUTURES"
 id = "ZC204"
 name = "郑煤2204"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."INE.bc2204"]
 exchange_id = "INE"
@@ -1980,6 +2696,10 @@ product_short_name = "国际铜"
 product_class = "FUTURES"
 id = "bc2204"
 name = "国际铜2204"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."INE.nr2204"]
 exchange_id = "INE"
@@ -1991,6 +2711,10 @@ product_short_name = "20号胶"
 product_class = "FUTURES"
 id = "nr2204"
 name = "20号胶2204"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."CZCE.AP204"]
 exchange_id = "CZCE"
@@ -2002,6 +2726,10 @@ product_short_name = "苹果"
 product_class = "FUTURES"
 id = "AP204"
 name = "苹果2204"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.CY204"]
 exchange_id = "CZCE"
@@ -2013,6 +2741,10 @@ product_short_name = "棉纱"
 product_class = "FUTURES"
 id = "CY204"
 name = "棉纱2204"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.FG204"]
 exchange_id = "CZCE"
@@ -2024,6 +2756,10 @@ product_short_name = "玻璃"
 product_class = "FUTURES"
 id = "FG204"
 name = "玻璃2204"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.MA204"]
 exchange_id = "CZCE"
@@ -2035,6 +2771,10 @@ product_short_name = "甲醇"
 product_class = "FUTURES"
 id = "MA204"
 name = "甲醇2204"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.PF204"]
 exchange_id = "CZCE"
@@ -2046,6 +2786,10 @@ product_short_name = "短纤"
 product_class = "FUTURES"
 id = "PF204"
 name = "短纤2204"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.PK204"]
 exchange_id = "CZCE"
@@ -2057,6 +2801,10 @@ product_short_name = "花生仁"
 product_class = "FUTURES"
 id = "PK204"
 name = "花生仁2204"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.SA204"]
 exchange_id = "CZCE"
@@ -2068,6 +2816,10 @@ product_short_name = "纯碱"
 product_class = "FUTURES"
 id = "SA204"
 name = "纯碱2204"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.SF204"]
 exchange_id = "CZCE"
@@ -2079,6 +2831,10 @@ product_short_name = "硅铁"
 product_class = "FUTURES"
 id = "SF204"
 name = "硅铁2204"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.SM204"]
 exchange_id = "CZCE"
@@ -2090,6 +2846,10 @@ product_short_name = "锰硅"
 product_class = "FUTURES"
 id = "SM204"
 name = "锰硅2204"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.TA204"]
 exchange_id = "CZCE"
@@ -2101,6 +2861,10 @@ product_short_name = "PTA"
 product_class = "FUTURES"
 id = "TA204"
 name = "PTA2204"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.UR204"]
 exchange_id = "CZCE"
@@ -2112,6 +2876,10 @@ product_short_name = "尿素"
 product_class = "FUTURES"
 id = "UR204"
 name = "尿素2204"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.j2204"]
 exchange_id = "DCE"
@@ -2123,6 +2891,10 @@ product_short_name = "焦炭"
 product_class = "FUTURES"
 id = "j2204"
 name = "焦炭2204"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."DCE.i2204"]
 exchange_id = "DCE"
@@ -2134,6 +2906,10 @@ product_short_name = "铁矿"
 product_class = "FUTURES"
 id = "i2204"
 name = "铁矿2204"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.fb2204"]
 exchange_id = "DCE"
@@ -2145,6 +2921,10 @@ product_short_name = "纤板"
 product_class = "FUTURES"
 id = "fb2204"
 name = "纤板2204"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.pp2204"]
 exchange_id = "DCE"
@@ -2156,6 +2936,10 @@ product_short_name = "PP"
 product_class = "FUTURES"
 id = "pp2204"
 name = "PP2204"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.b2204"]
 exchange_id = "DCE"
@@ -2167,6 +2951,10 @@ product_short_name = "豆二"
 product_class = "FUTURES"
 id = "b2204"
 name = "豆二2204"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.bb2204"]
 exchange_id = "DCE"
@@ -2178,6 +2966,10 @@ product_short_name = "胶板"
 product_class = "FUTURES"
 id = "bb2204"
 name = "胶板2204"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."SHFE.ag2204"]
 exchange_id = "SHFE"
@@ -2189,6 +2981,10 @@ product_short_name = "沪银"
 product_class = "FUTURES"
 id = "ag2204"
 name = "沪银2204"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.al2204"]
 exchange_id = "SHFE"
@@ -2200,6 +2996,10 @@ product_short_name = "沪铝"
 product_class = "FUTURES"
 id = "al2204"
 name = "沪铝2204"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.cu2204"]
 exchange_id = "SHFE"
@@ -2211,6 +3011,10 @@ product_short_name = "沪铜"
 product_class = "FUTURES"
 id = "cu2204"
 name = "沪铜2204"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.hc2204"]
 exchange_id = "SHFE"
@@ -2222,6 +3026,10 @@ product_short_name = "热卷"
 product_class = "FUTURES"
 id = "hc2204"
 name = "热卷2204"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.ni2204"]
 exchange_id = "SHFE"
@@ -2233,6 +3041,10 @@ product_short_name = "沪镍"
 product_class = "FUTURES"
 id = "ni2204"
 name = "沪镍2204"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.pb2204"]
 exchange_id = "SHFE"
@@ -2244,6 +3056,10 @@ product_short_name = "沪铅"
 product_class = "FUTURES"
 id = "pb2204"
 name = "沪铅2204"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.rb2204"]
 exchange_id = "SHFE"
@@ -2255,6 +3071,10 @@ product_short_name = "螺纹"
 product_class = "FUTURES"
 id = "rb2204"
 name = "螺纹2204"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.ru2204"]
 exchange_id = "SHFE"
@@ -2266,6 +3086,10 @@ product_short_name = "橡胶"
 product_class = "FUTURES"
 id = "ru2204"
 name = "橡胶2204"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.sn2204"]
 exchange_id = "SHFE"
@@ -2277,6 +3101,10 @@ product_short_name = "沪锡"
 product_class = "FUTURES"
 id = "sn2204"
 name = "沪锡2204"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.sp2204"]
 exchange_id = "SHFE"
@@ -2288,6 +3116,10 @@ product_short_name = "纸浆"
 product_class = "FUTURES"
 id = "sp2204"
 name = "纸浆2204"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.ss2204"]
 exchange_id = "SHFE"
@@ -2299,6 +3131,10 @@ product_short_name = "不锈钢"
 product_class = "FUTURES"
 id = "ss2204"
 name = "不锈钢2204"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.wr2204"]
 exchange_id = "SHFE"
@@ -2310,6 +3146,10 @@ product_short_name = "线材"
 product_class = "FUTURES"
 id = "wr2204"
 name = "线材2204"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.zn2204"]
 exchange_id = "SHFE"
@@ -2321,6 +3161,10 @@ product_short_name = "沪锌"
 product_class = "FUTURES"
 id = "zn2204"
 name = "沪锌2204"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."DCE.v2204"]
 exchange_id = "DCE"
@@ -2332,6 +3176,10 @@ product_short_name = "PVC"
 product_class = "FUTURES"
 id = "v2204"
 name = "PVC2204"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.rr2204"]
 exchange_id = "DCE"
@@ -2343,6 +3191,10 @@ product_short_name = "粳米"
 product_class = "FUTURES"
 id = "rr2204"
 name = "粳米2204"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.p2204"]
 exchange_id = "DCE"
@@ -2354,6 +3206,10 @@ product_short_name = "棕榈"
 product_class = "FUTURES"
 id = "p2204"
 name = "棕榈2204"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.l2204"]
 exchange_id = "DCE"
@@ -2365,6 +3221,10 @@ product_short_name = "塑料"
 product_class = "FUTURES"
 id = "l2204"
 name = "塑料2204"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.jm2204"]
 exchange_id = "DCE"
@@ -2376,6 +3236,10 @@ product_short_name = "焦煤"
 product_class = "FUTURES"
 id = "jm2204"
 name = "焦煤2204"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.eg2204"]
 exchange_id = "DCE"
@@ -2387,6 +3251,10 @@ product_short_name = "甘醇"
 product_class = "FUTURES"
 id = "eg2204"
 name = "甘醇2204"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.eb2204"]
 exchange_id = "DCE"
@@ -2398,6 +3266,10 @@ product_short_name = "苯乙烯"
 product_class = "FUTURES"
 id = "eb2204"
 name = "苯乙烯2204"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.pg2204"]
 exchange_id = "DCE"
@@ -2409,6 +3281,10 @@ product_short_name = "LPG"
 product_class = "FUTURES"
 id = "pg2204"
 name = "LPG2204"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.jd2204"]
 exchange_id = "DCE"
@@ -2420,6 +3296,10 @@ product_short_name = "鸡蛋"
 product_class = "FUTURES"
 id = "jd2204"
 name = "鸡蛋2204"
+open_max_order_volume = 300
+open_min_order_volume = 1
+close_max_order_volume = 300
+close_min_order_volume = 1
 
 [instruments."INE.lu2205"]
 exchange_id = "INE"
@@ -2431,6 +3311,10 @@ product_short_name = "低硫燃料油"
 product_class = "FUTURES"
 id = "lu2205"
 name = "低硫燃料油2205"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."INE.sc2205"]
 exchange_id = "INE"
@@ -2442,6 +3326,10 @@ product_short_name = "原油"
 product_class = "FUTURES"
 id = "sc2205"
 name = "原油2205"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.fu2205"]
 exchange_id = "SHFE"
@@ -2453,6 +3341,10 @@ product_short_name = "燃油"
 product_class = "FUTURES"
 id = "fu2205"
 name = "燃油2205"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."CZCE.ZC205"]
 exchange_id = "CZCE"
@@ -2464,6 +3356,10 @@ product_short_name = "郑煤"
 product_class = "FUTURES"
 id = "ZC205"
 name = "郑煤2205"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."INE.bc2205"]
 exchange_id = "INE"
@@ -2475,6 +3371,10 @@ product_short_name = "国际铜"
 product_class = "FUTURES"
 id = "bc2205"
 name = "国际铜2205"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."INE.nr2205"]
 exchange_id = "INE"
@@ -2486,6 +3386,10 @@ product_short_name = "20号胶"
 product_class = "FUTURES"
 id = "nr2205"
 name = "20号胶2205"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.ag2205"]
 exchange_id = "SHFE"
@@ -2497,6 +3401,10 @@ product_short_name = "沪银"
 product_class = "FUTURES"
 id = "ag2205"
 name = "沪银2205"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.al2205"]
 exchange_id = "SHFE"
@@ -2508,6 +3416,10 @@ product_short_name = "沪铝"
 product_class = "FUTURES"
 id = "al2205"
 name = "沪铝2205"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.au2206"]
 exchange_id = "SHFE"
@@ -2519,6 +3431,10 @@ product_short_name = "沪金"
 product_class = "FUTURES"
 id = "au2206"
 name = "沪金2206"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.cu2205"]
 exchange_id = "SHFE"
@@ -2530,6 +3446,10 @@ product_short_name = "沪铜"
 product_class = "FUTURES"
 id = "cu2205"
 name = "沪铜2205"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.hc2205"]
 exchange_id = "SHFE"
@@ -2541,6 +3461,10 @@ product_short_name = "热卷"
 product_class = "FUTURES"
 id = "hc2205"
 name = "热卷2205"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.ni2205"]
 exchange_id = "SHFE"
@@ -2552,6 +3476,10 @@ product_short_name = "沪镍"
 product_class = "FUTURES"
 id = "ni2205"
 name = "沪镍2205"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.pb2205"]
 exchange_id = "SHFE"
@@ -2563,6 +3491,10 @@ product_short_name = "沪铅"
 product_class = "FUTURES"
 id = "pb2205"
 name = "沪铅2205"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.rb2205"]
 exchange_id = "SHFE"
@@ -2574,6 +3506,10 @@ product_short_name = "螺纹"
 product_class = "FUTURES"
 id = "rb2205"
 name = "螺纹2205"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.ru2205"]
 exchange_id = "SHFE"
@@ -2585,6 +3521,10 @@ product_short_name = "橡胶"
 product_class = "FUTURES"
 id = "ru2205"
 name = "橡胶2205"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.sn2205"]
 exchange_id = "SHFE"
@@ -2596,6 +3536,10 @@ product_short_name = "沪锡"
 product_class = "FUTURES"
 id = "sn2205"
 name = "沪锡2205"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.sp2205"]
 exchange_id = "SHFE"
@@ -2607,6 +3551,10 @@ product_short_name = "纸浆"
 product_class = "FUTURES"
 id = "sp2205"
 name = "纸浆2205"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.ss2205"]
 exchange_id = "SHFE"
@@ -2618,6 +3566,10 @@ product_short_name = "不锈钢"
 product_class = "FUTURES"
 id = "ss2205"
 name = "不锈钢2205"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.wr2205"]
 exchange_id = "SHFE"
@@ -2629,6 +3581,10 @@ product_short_name = "线材"
 product_class = "FUTURES"
 id = "wr2205"
 name = "线材2205"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.zn2205"]
 exchange_id = "SHFE"
@@ -2640,6 +3596,10 @@ product_short_name = "沪锌"
 product_class = "FUTURES"
 id = "zn2205"
 name = "沪锌2205"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."CZCE.AP205"]
 exchange_id = "CZCE"
@@ -2651,6 +3611,10 @@ product_short_name = "苹果"
 product_class = "FUTURES"
 id = "AP205"
 name = "苹果2205"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.CF205"]
 exchange_id = "CZCE"
@@ -2662,6 +3626,10 @@ product_short_name = "棉花"
 product_class = "FUTURES"
 id = "CF205"
 name = "棉花2205"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.CJ205"]
 exchange_id = "CZCE"
@@ -2673,6 +3641,10 @@ product_short_name = "红枣"
 product_class = "FUTURES"
 id = "CJ205"
 name = "红枣2205"
+open_max_order_volume = 100
+open_min_order_volume = 4
+close_max_order_volume = 100
+close_min_order_volume = 1
 
 [instruments."CZCE.CY205"]
 exchange_id = "CZCE"
@@ -2684,6 +3656,10 @@ product_short_name = "棉纱"
 product_class = "FUTURES"
 id = "CY205"
 name = "棉纱2205"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.FG205"]
 exchange_id = "CZCE"
@@ -2695,6 +3671,10 @@ product_short_name = "玻璃"
 product_class = "FUTURES"
 id = "FG205"
 name = "玻璃2205"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.JR205"]
 exchange_id = "CZCE"
@@ -2706,6 +3686,10 @@ product_short_name = "粳稻"
 product_class = "FUTURES"
 id = "JR205"
 name = "粳稻2205"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.LR205"]
 exchange_id = "CZCE"
@@ -2717,6 +3701,10 @@ product_short_name = "晚稻"
 product_class = "FUTURES"
 id = "LR205"
 name = "晚稻2205"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.MA205"]
 exchange_id = "CZCE"
@@ -2728,6 +3716,10 @@ product_short_name = "甲醇"
 product_class = "FUTURES"
 id = "MA205"
 name = "甲醇2205"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.OI205"]
 exchange_id = "CZCE"
@@ -2739,6 +3731,10 @@ product_short_name = "菜油"
 product_class = "FUTURES"
 id = "OI205"
 name = "菜油2205"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.PF205"]
 exchange_id = "CZCE"
@@ -2750,6 +3746,10 @@ product_short_name = "短纤"
 product_class = "FUTURES"
 id = "PF205"
 name = "短纤2205"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.PM205"]
 exchange_id = "CZCE"
@@ -2761,6 +3761,10 @@ product_short_name = "普麦"
 product_class = "FUTURES"
 id = "PM205"
 name = "普麦2205"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.RI205"]
 exchange_id = "CZCE"
@@ -2772,6 +3776,10 @@ product_short_name = "早稻"
 product_class = "FUTURES"
 id = "RI205"
 name = "早稻2205"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.RM205"]
 exchange_id = "CZCE"
@@ -2783,6 +3791,10 @@ product_short_name = "菜粕"
 product_class = "FUTURES"
 id = "RM205"
 name = "菜粕2205"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.SA205"]
 exchange_id = "CZCE"
@@ -2794,6 +3806,10 @@ product_short_name = "纯碱"
 product_class = "FUTURES"
 id = "SA205"
 name = "纯碱2205"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.SF205"]
 exchange_id = "CZCE"
@@ -2805,6 +3821,10 @@ product_short_name = "硅铁"
 product_class = "FUTURES"
 id = "SF205"
 name = "硅铁2205"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.SM205"]
 exchange_id = "CZCE"
@@ -2816,6 +3836,10 @@ product_short_name = "锰硅"
 product_class = "FUTURES"
 id = "SM205"
 name = "锰硅2205"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.SR205"]
 exchange_id = "CZCE"
@@ -2827,6 +3851,10 @@ product_short_name = "白糖"
 product_class = "FUTURES"
 id = "SR205"
 name = "白糖2205"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.TA205"]
 exchange_id = "CZCE"
@@ -2838,6 +3866,10 @@ product_short_name = "PTA"
 product_class = "FUTURES"
 id = "TA205"
 name = "PTA2205"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.UR205"]
 exchange_id = "CZCE"
@@ -2849,6 +3881,10 @@ product_short_name = "尿素"
 product_class = "FUTURES"
 id = "UR205"
 name = "尿素2205"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.WH205"]
 exchange_id = "CZCE"
@@ -2860,6 +3896,10 @@ product_short_name = "强麦"
 product_class = "FUTURES"
 id = "WH205"
 name = "强麦2205"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.j2205"]
 exchange_id = "DCE"
@@ -2871,6 +3911,10 @@ product_short_name = "焦炭"
 product_class = "FUTURES"
 id = "j2205"
 name = "焦炭2205"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."DCE.i2205"]
 exchange_id = "DCE"
@@ -2882,6 +3926,10 @@ product_short_name = "铁矿"
 product_class = "FUTURES"
 id = "i2205"
 name = "铁矿2205"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.fb2205"]
 exchange_id = "DCE"
@@ -2893,6 +3941,10 @@ product_short_name = "纤板"
 product_class = "FUTURES"
 id = "fb2205"
 name = "纤板2205"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.cs2205"]
 exchange_id = "DCE"
@@ -2904,6 +3956,10 @@ product_short_name = "淀粉"
 product_class = "FUTURES"
 id = "cs2205"
 name = "淀粉2205"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.pp2205"]
 exchange_id = "DCE"
@@ -2915,6 +3971,10 @@ product_short_name = "PP"
 product_class = "FUTURES"
 id = "pp2205"
 name = "PP2205"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.a2205"]
 exchange_id = "DCE"
@@ -2926,6 +3986,10 @@ product_short_name = "豆一"
 product_class = "FUTURES"
 id = "a2205"
 name = "豆一2205"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.bb2205"]
 exchange_id = "DCE"
@@ -2937,6 +4001,10 @@ product_short_name = "胶板"
 product_class = "FUTURES"
 id = "bb2205"
 name = "胶板2205"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.b2205"]
 exchange_id = "DCE"
@@ -2948,6 +4016,10 @@ product_short_name = "豆二"
 product_class = "FUTURES"
 id = "b2205"
 name = "豆二2205"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.c2205"]
 exchange_id = "DCE"
@@ -2959,6 +4031,10 @@ product_short_name = "玉米"
 product_class = "FUTURES"
 id = "c2205"
 name = "玉米2205"
+open_max_order_volume = 2000
+open_min_order_volume = 1
+close_max_order_volume = 2000
+close_min_order_volume = 1
 
 [instruments."DCE.y2205"]
 exchange_id = "DCE"
@@ -2970,6 +4046,10 @@ product_short_name = "豆油"
 product_class = "FUTURES"
 id = "y2205"
 name = "豆油2205"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.v2205"]
 exchange_id = "DCE"
@@ -2981,6 +4061,10 @@ product_short_name = "PVC"
 product_class = "FUTURES"
 id = "v2205"
 name = "PVC2205"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.rr2205"]
 exchange_id = "DCE"
@@ -2992,6 +4076,10 @@ product_short_name = "粳米"
 product_class = "FUTURES"
 id = "rr2205"
 name = "粳米2205"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.p2205"]
 exchange_id = "DCE"
@@ -3003,6 +4091,10 @@ product_short_name = "棕榈"
 product_class = "FUTURES"
 id = "p2205"
 name = "棕榈2205"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.m2205"]
 exchange_id = "DCE"
@@ -3014,6 +4106,10 @@ product_short_name = "豆粕"
 product_class = "FUTURES"
 id = "m2205"
 name = "豆粕2205"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.l2205"]
 exchange_id = "DCE"
@@ -3025,6 +4121,10 @@ product_short_name = "塑料"
 product_class = "FUTURES"
 id = "l2205"
 name = "塑料2205"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.jm2205"]
 exchange_id = "DCE"
@@ -3036,6 +4136,10 @@ product_short_name = "焦煤"
 product_class = "FUTURES"
 id = "jm2205"
 name = "焦煤2205"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.eg2205"]
 exchange_id = "DCE"
@@ -3047,6 +4151,10 @@ product_short_name = "甘醇"
 product_class = "FUTURES"
 id = "eg2205"
 name = "甘醇2205"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.eb2205"]
 exchange_id = "DCE"
@@ -3058,6 +4166,10 @@ product_short_name = "苯乙烯"
 product_class = "FUTURES"
 id = "eb2205"
 name = "苯乙烯2205"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.pg2205"]
 exchange_id = "DCE"
@@ -3069,6 +4181,10 @@ product_short_name = "LPG"
 product_class = "FUTURES"
 id = "pg2205"
 name = "LPG2205"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.lh2205"]
 exchange_id = "DCE"
@@ -3080,6 +4196,10 @@ product_short_name = "生猪"
 product_class = "FUTURES"
 id = "lh2205"
 name = "生猪2205"
+open_max_order_volume = 50
+open_min_order_volume = 1
+close_max_order_volume = 50
+close_min_order_volume = 1
 
 [instruments."DCE.jd2205"]
 exchange_id = "DCE"
@@ -3091,6 +4211,10 @@ product_short_name = "鸡蛋"
 product_class = "FUTURES"
 id = "jd2205"
 name = "鸡蛋2205"
+open_max_order_volume = 300
+open_min_order_volume = 1
+close_max_order_volume = 300
+close_min_order_volume = 1
 
 [instruments."INE.lu2206"]
 exchange_id = "INE"
@@ -3102,6 +4226,10 @@ product_short_name = "低硫燃料油"
 product_class = "FUTURES"
 id = "lu2206"
 name = "低硫燃料油2206"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."INE.sc2406"]
 exchange_id = "INE"
@@ -3113,6 +4241,10 @@ product_short_name = "原油"
 product_class = "FUTURES"
 id = "sc2406"
 name = "原油2406"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.fu2206"]
 exchange_id = "SHFE"
@@ -3124,6 +4256,10 @@ product_short_name = "燃油"
 product_class = "FUTURES"
 id = "fu2206"
 name = "燃油2206"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."CZCE.ZC206"]
 exchange_id = "CZCE"
@@ -3135,6 +4271,10 @@ product_short_name = "郑煤"
 product_class = "FUTURES"
 id = "ZC206"
 name = "郑煤2206"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CFFEX.T2203"]
 exchange_id = "CFFEX"
@@ -3146,6 +4286,10 @@ product_short_name = "债十"
 product_class = "FUTURES"
 id = "T2203"
 name = "债十2203"
+open_max_order_volume = 50
+open_min_order_volume = 1
+close_max_order_volume = 50
+close_min_order_volume = 1
 
 [instruments."CFFEX.TF2203"]
 exchange_id = "CFFEX"
@@ -3157,6 +4301,10 @@ product_short_name = "债五"
 product_class = "FUTURES"
 id = "TF2203"
 name = "债五2203"
+open_max_order_volume = 50
+open_min_order_volume = 1
+close_max_order_volume = 50
+close_min_order_volume = 1
 
 [instruments."CFFEX.TS2203"]
 exchange_id = "CFFEX"
@@ -3168,6 +4316,10 @@ product_short_name = "债二"
 product_class = "FUTURES"
 id = "TS2203"
 name = "债二2203"
+open_max_order_volume = 50
+open_min_order_volume = 1
+close_max_order_volume = 50
+close_min_order_volume = 1
 
 [instruments."CZCE.CY206"]
 exchange_id = "CZCE"
@@ -3179,6 +4331,10 @@ product_short_name = "棉纱"
 product_class = "FUTURES"
 id = "CY206"
 name = "棉纱2206"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.FG206"]
 exchange_id = "CZCE"
@@ -3190,6 +4346,10 @@ product_short_name = "玻璃"
 product_class = "FUTURES"
 id = "FG206"
 name = "玻璃2206"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.MA206"]
 exchange_id = "CZCE"
@@ -3201,6 +4361,10 @@ product_short_name = "甲醇"
 product_class = "FUTURES"
 id = "MA206"
 name = "甲醇2206"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.PF206"]
 exchange_id = "CZCE"
@@ -3212,6 +4376,10 @@ product_short_name = "短纤"
 product_class = "FUTURES"
 id = "PF206"
 name = "短纤2206"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.SA206"]
 exchange_id = "CZCE"
@@ -3223,6 +4391,10 @@ product_short_name = "纯碱"
 product_class = "FUTURES"
 id = "SA206"
 name = "纯碱2206"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.SF206"]
 exchange_id = "CZCE"
@@ -3234,6 +4406,10 @@ product_short_name = "硅铁"
 product_class = "FUTURES"
 id = "SF206"
 name = "硅铁2206"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.SM206"]
 exchange_id = "CZCE"
@@ -3245,6 +4421,10 @@ product_short_name = "锰硅"
 product_class = "FUTURES"
 id = "SM206"
 name = "锰硅2206"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.TA206"]
 exchange_id = "CZCE"
@@ -3256,6 +4436,10 @@ product_short_name = "PTA"
 product_class = "FUTURES"
 id = "TA206"
 name = "PTA2206"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.UR206"]
 exchange_id = "CZCE"
@@ -3267,6 +4451,10 @@ product_short_name = "尿素"
 product_class = "FUTURES"
 id = "UR206"
 name = "尿素2206"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."INE.bc2206"]
 exchange_id = "INE"
@@ -3278,6 +4466,10 @@ product_short_name = "国际铜"
 product_class = "FUTURES"
 id = "bc2206"
 name = "国际铜2206"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."INE.nr2206"]
 exchange_id = "INE"
@@ -3289,6 +4481,10 @@ product_short_name = "20号胶"
 product_class = "FUTURES"
 id = "nr2206"
 name = "20号胶2206"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."DCE.j2206"]
 exchange_id = "DCE"
@@ -3300,6 +4496,10 @@ product_short_name = "焦炭"
 product_class = "FUTURES"
 id = "j2206"
 name = "焦炭2206"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."DCE.i2206"]
 exchange_id = "DCE"
@@ -3311,6 +4511,10 @@ product_short_name = "铁矿"
 product_class = "FUTURES"
 id = "i2206"
 name = "铁矿2206"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.fb2206"]
 exchange_id = "DCE"
@@ -3322,6 +4526,10 @@ product_short_name = "纤板"
 product_class = "FUTURES"
 id = "fb2206"
 name = "纤板2206"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.pp2206"]
 exchange_id = "DCE"
@@ -3333,6 +4541,10 @@ product_short_name = "PP"
 product_class = "FUTURES"
 id = "pp2206"
 name = "PP2206"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.b2206"]
 exchange_id = "DCE"
@@ -3344,6 +4556,10 @@ product_short_name = "豆二"
 product_class = "FUTURES"
 id = "b2206"
 name = "豆二2206"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.bb2206"]
 exchange_id = "DCE"
@@ -3355,6 +4571,10 @@ product_short_name = "胶板"
 product_class = "FUTURES"
 id = "bb2206"
 name = "胶板2206"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."SHFE.ag2206"]
 exchange_id = "SHFE"
@@ -3366,6 +4586,10 @@ product_short_name = "沪银"
 product_class = "FUTURES"
 id = "ag2206"
 name = "沪银2206"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.al2206"]
 exchange_id = "SHFE"
@@ -3377,6 +4601,10 @@ product_short_name = "沪铝"
 product_class = "FUTURES"
 id = "al2206"
 name = "沪铝2206"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.bu2306"]
 exchange_id = "SHFE"
@@ -3388,6 +4616,10 @@ product_short_name = "沥青"
 product_class = "FUTURES"
 id = "bu2306"
 name = "沥青2306"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.cu2206"]
 exchange_id = "SHFE"
@@ -3399,6 +4631,10 @@ product_short_name = "沪铜"
 product_class = "FUTURES"
 id = "cu2206"
 name = "沪铜2206"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.hc2206"]
 exchange_id = "SHFE"
@@ -3410,6 +4646,10 @@ product_short_name = "热卷"
 product_class = "FUTURES"
 id = "hc2206"
 name = "热卷2206"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.ni2206"]
 exchange_id = "SHFE"
@@ -3421,6 +4661,10 @@ product_short_name = "沪镍"
 product_class = "FUTURES"
 id = "ni2206"
 name = "沪镍2206"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.pb2206"]
 exchange_id = "SHFE"
@@ -3432,6 +4676,10 @@ product_short_name = "沪铅"
 product_class = "FUTURES"
 id = "pb2206"
 name = "沪铅2206"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.rb2206"]
 exchange_id = "SHFE"
@@ -3443,6 +4691,10 @@ product_short_name = "螺纹"
 product_class = "FUTURES"
 id = "rb2206"
 name = "螺纹2206"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.ru2206"]
 exchange_id = "SHFE"
@@ -3454,6 +4706,10 @@ product_short_name = "橡胶"
 product_class = "FUTURES"
 id = "ru2206"
 name = "橡胶2206"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.sn2206"]
 exchange_id = "SHFE"
@@ -3465,6 +4721,10 @@ product_short_name = "沪锡"
 product_class = "FUTURES"
 id = "sn2206"
 name = "沪锡2206"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.sp2206"]
 exchange_id = "SHFE"
@@ -3476,6 +4736,10 @@ product_short_name = "纸浆"
 product_class = "FUTURES"
 id = "sp2206"
 name = "纸浆2206"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.ss2206"]
 exchange_id = "SHFE"
@@ -3487,6 +4751,10 @@ product_short_name = "不锈钢"
 product_class = "FUTURES"
 id = "ss2206"
 name = "不锈钢2206"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.wr2206"]
 exchange_id = "SHFE"
@@ -3498,6 +4766,10 @@ product_short_name = "线材"
 product_class = "FUTURES"
 id = "wr2206"
 name = "线材2206"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.zn2206"]
 exchange_id = "SHFE"
@@ -3509,6 +4781,10 @@ product_short_name = "沪锌"
 product_class = "FUTURES"
 id = "zn2206"
 name = "沪锌2206"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."DCE.v2206"]
 exchange_id = "DCE"
@@ -3520,6 +4796,10 @@ product_short_name = "PVC"
 product_class = "FUTURES"
 id = "v2206"
 name = "PVC2206"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.rr2206"]
 exchange_id = "DCE"
@@ -3531,6 +4811,10 @@ product_short_name = "粳米"
 product_class = "FUTURES"
 id = "rr2206"
 name = "粳米2206"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.p2206"]
 exchange_id = "DCE"
@@ -3542,6 +4826,10 @@ product_short_name = "棕榈"
 product_class = "FUTURES"
 id = "p2206"
 name = "棕榈2206"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.l2206"]
 exchange_id = "DCE"
@@ -3553,6 +4841,10 @@ product_short_name = "塑料"
 product_class = "FUTURES"
 id = "l2206"
 name = "塑料2206"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.jm2206"]
 exchange_id = "DCE"
@@ -3564,6 +4856,10 @@ product_short_name = "焦煤"
 product_class = "FUTURES"
 id = "jm2206"
 name = "焦煤2206"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.eg2206"]
 exchange_id = "DCE"
@@ -3575,6 +4871,10 @@ product_short_name = "甘醇"
 product_class = "FUTURES"
 id = "eg2206"
 name = "甘醇2206"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.eb2206"]
 exchange_id = "DCE"
@@ -3586,6 +4886,10 @@ product_short_name = "苯乙烯"
 product_class = "FUTURES"
 id = "eb2206"
 name = "苯乙烯2206"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.jd2206"]
 exchange_id = "DCE"
@@ -3597,6 +4901,10 @@ product_short_name = "鸡蛋"
 product_class = "FUTURES"
 id = "jd2206"
 name = "鸡蛋2206"
+open_max_order_volume = 300
+open_min_order_volume = 1
+close_max_order_volume = 300
+close_min_order_volume = 1
 
 [instruments."DCE.pg2206"]
 exchange_id = "DCE"
@@ -3608,6 +4916,10 @@ product_short_name = "LPG"
 product_class = "FUTURES"
 id = "pg2206"
 name = "LPG2206"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."INE.lu2207"]
 exchange_id = "INE"
@@ -3619,6 +4931,10 @@ product_short_name = "低硫燃料油"
 product_class = "FUTURES"
 id = "lu2207"
 name = "低硫燃料油2207"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."INE.sc2207"]
 exchange_id = "INE"
@@ -3630,6 +4946,10 @@ product_short_name = "原油"
 product_class = "FUTURES"
 id = "sc2207"
 name = "原油2207"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.fu2207"]
 exchange_id = "SHFE"
@@ -3641,6 +4961,10 @@ product_short_name = "燃油"
 product_class = "FUTURES"
 id = "fu2207"
 name = "燃油2207"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."CZCE.ZC207"]
 exchange_id = "CZCE"
@@ -3652,6 +4976,10 @@ product_short_name = "郑煤"
 product_class = "FUTURES"
 id = "ZC207"
 name = "郑煤2207"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.CF207"]
 exchange_id = "CZCE"
@@ -3663,6 +4991,10 @@ product_short_name = "棉花"
 product_class = "FUTURES"
 id = "CF207"
 name = "棉花2207"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.CJ207"]
 exchange_id = "CZCE"
@@ -3674,6 +5006,10 @@ product_short_name = "红枣"
 product_class = "FUTURES"
 id = "CJ207"
 name = "红枣2207"
+open_max_order_volume = 100
+open_min_order_volume = 4
+close_max_order_volume = 100
+close_min_order_volume = 1
 
 [instruments."CZCE.CY207"]
 exchange_id = "CZCE"
@@ -3685,6 +5021,10 @@ product_short_name = "棉纱"
 product_class = "FUTURES"
 id = "CY207"
 name = "棉纱2207"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.FG207"]
 exchange_id = "CZCE"
@@ -3696,6 +5036,10 @@ product_short_name = "玻璃"
 product_class = "FUTURES"
 id = "FG207"
 name = "玻璃2207"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.JR207"]
 exchange_id = "CZCE"
@@ -3707,6 +5051,10 @@ product_short_name = "粳稻"
 product_class = "FUTURES"
 id = "JR207"
 name = "粳稻2207"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.LR207"]
 exchange_id = "CZCE"
@@ -3718,6 +5066,10 @@ product_short_name = "晚稻"
 product_class = "FUTURES"
 id = "LR207"
 name = "晚稻2207"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.MA207"]
 exchange_id = "CZCE"
@@ -3729,6 +5081,10 @@ product_short_name = "甲醇"
 product_class = "FUTURES"
 id = "MA207"
 name = "甲醇2207"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.OI207"]
 exchange_id = "CZCE"
@@ -3740,6 +5096,10 @@ product_short_name = "菜油"
 product_class = "FUTURES"
 id = "OI207"
 name = "菜油2207"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.PF207"]
 exchange_id = "CZCE"
@@ -3751,6 +5111,10 @@ product_short_name = "短纤"
 product_class = "FUTURES"
 id = "PF207"
 name = "短纤2207"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.PM207"]
 exchange_id = "CZCE"
@@ -3762,6 +5126,10 @@ product_short_name = "普麦"
 product_class = "FUTURES"
 id = "PM207"
 name = "普麦2207"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.RI207"]
 exchange_id = "CZCE"
@@ -3773,6 +5141,10 @@ product_short_name = "早稻"
 product_class = "FUTURES"
 id = "RI207"
 name = "早稻2207"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.RM207"]
 exchange_id = "CZCE"
@@ -3784,6 +5156,10 @@ product_short_name = "菜粕"
 product_class = "FUTURES"
 id = "RM207"
 name = "菜粕2207"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.RS207"]
 exchange_id = "CZCE"
@@ -3795,6 +5171,10 @@ product_short_name = "菜籽"
 product_class = "FUTURES"
 id = "RS207"
 name = "菜籽2207"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.SA207"]
 exchange_id = "CZCE"
@@ -3806,6 +5186,10 @@ product_short_name = "纯碱"
 product_class = "FUTURES"
 id = "SA207"
 name = "纯碱2207"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.SF207"]
 exchange_id = "CZCE"
@@ -3817,6 +5201,10 @@ product_short_name = "硅铁"
 product_class = "FUTURES"
 id = "SF207"
 name = "硅铁2207"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.SM207"]
 exchange_id = "CZCE"
@@ -3828,6 +5216,10 @@ product_short_name = "锰硅"
 product_class = "FUTURES"
 id = "SM207"
 name = "锰硅2207"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.SR207"]
 exchange_id = "CZCE"
@@ -3839,6 +5231,10 @@ product_short_name = "白糖"
 product_class = "FUTURES"
 id = "SR207"
 name = "白糖2207"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.TA207"]
 exchange_id = "CZCE"
@@ -3850,6 +5246,10 @@ product_short_name = "PTA"
 product_class = "FUTURES"
 id = "TA207"
 name = "PTA2207"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.UR207"]
 exchange_id = "CZCE"
@@ -3861,6 +5261,10 @@ product_short_name = "尿素"
 product_class = "FUTURES"
 id = "UR207"
 name = "尿素2207"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.WH207"]
 exchange_id = "CZCE"
@@ -3872,6 +5276,10 @@ product_short_name = "强麦"
 product_class = "FUTURES"
 id = "WH207"
 name = "强麦2207"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.j2207"]
 exchange_id = "DCE"
@@ -3883,6 +5291,10 @@ product_short_name = "焦炭"
 product_class = "FUTURES"
 id = "j2207"
 name = "焦炭2207"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."DCE.i2207"]
 exchange_id = "DCE"
@@ -3894,6 +5306,10 @@ product_short_name = "铁矿"
 product_class = "FUTURES"
 id = "i2207"
 name = "铁矿2207"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.fb2207"]
 exchange_id = "DCE"
@@ -3905,6 +5321,10 @@ product_short_name = "纤板"
 product_class = "FUTURES"
 id = "fb2207"
 name = "纤板2207"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.cs2207"]
 exchange_id = "DCE"
@@ -3916,6 +5336,10 @@ product_short_name = "淀粉"
 product_class = "FUTURES"
 id = "cs2207"
 name = "淀粉2207"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.c2207"]
 exchange_id = "DCE"
@@ -3927,6 +5351,10 @@ product_short_name = "玉米"
 product_class = "FUTURES"
 id = "c2207"
 name = "玉米2207"
+open_max_order_volume = 2000
+open_min_order_volume = 1
+close_max_order_volume = 2000
+close_min_order_volume = 1
 
 [instruments."DCE.bb2207"]
 exchange_id = "DCE"
@@ -3938,6 +5366,10 @@ product_short_name = "胶板"
 product_class = "FUTURES"
 id = "bb2207"
 name = "胶板2207"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.b2207"]
 exchange_id = "DCE"
@@ -3949,6 +5381,10 @@ product_short_name = "豆二"
 product_class = "FUTURES"
 id = "b2207"
 name = "豆二2207"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.a2207"]
 exchange_id = "DCE"
@@ -3960,6 +5396,10 @@ product_short_name = "豆一"
 product_class = "FUTURES"
 id = "a2207"
 name = "豆一2207"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.pp2207"]
 exchange_id = "DCE"
@@ -3971,6 +5411,10 @@ product_short_name = "PP"
 product_class = "FUTURES"
 id = "pp2207"
 name = "PP2207"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.y2207"]
 exchange_id = "DCE"
@@ -3982,6 +5426,10 @@ product_short_name = "豆油"
 product_class = "FUTURES"
 id = "y2207"
 name = "豆油2207"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.v2207"]
 exchange_id = "DCE"
@@ -3993,6 +5441,10 @@ product_short_name = "PVC"
 product_class = "FUTURES"
 id = "v2207"
 name = "PVC2207"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.rr2207"]
 exchange_id = "DCE"
@@ -4004,6 +5456,10 @@ product_short_name = "粳米"
 product_class = "FUTURES"
 id = "rr2207"
 name = "粳米2207"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.p2207"]
 exchange_id = "DCE"
@@ -4015,6 +5471,10 @@ product_short_name = "棕榈"
 product_class = "FUTURES"
 id = "p2207"
 name = "棕榈2207"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.m2207"]
 exchange_id = "DCE"
@@ -4026,6 +5486,10 @@ product_short_name = "豆粕"
 product_class = "FUTURES"
 id = "m2207"
 name = "豆粕2207"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.l2207"]
 exchange_id = "DCE"
@@ -4037,6 +5501,10 @@ product_short_name = "塑料"
 product_class = "FUTURES"
 id = "l2207"
 name = "塑料2207"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.jm2207"]
 exchange_id = "DCE"
@@ -4048,6 +5516,10 @@ product_short_name = "焦煤"
 product_class = "FUTURES"
 id = "jm2207"
 name = "焦煤2207"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."INE.bc2207"]
 exchange_id = "INE"
@@ -4059,6 +5531,10 @@ product_short_name = "国际铜"
 product_class = "FUTURES"
 id = "bc2207"
 name = "国际铜2207"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."INE.nr2207"]
 exchange_id = "INE"
@@ -4070,6 +5546,10 @@ product_short_name = "20号胶"
 product_class = "FUTURES"
 id = "nr2207"
 name = "20号胶2207"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.ag2207"]
 exchange_id = "SHFE"
@@ -4081,6 +5561,10 @@ product_short_name = "沪银"
 product_class = "FUTURES"
 id = "ag2207"
 name = "沪银2207"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.al2207"]
 exchange_id = "SHFE"
@@ -4092,6 +5576,10 @@ product_short_name = "沪铝"
 product_class = "FUTURES"
 id = "al2207"
 name = "沪铝2207"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.au2208"]
 exchange_id = "SHFE"
@@ -4103,6 +5591,10 @@ product_short_name = "沪金"
 product_class = "FUTURES"
 id = "au2208"
 name = "沪金2208"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.bu2201"]
 exchange_id = "SHFE"
@@ -4114,6 +5606,10 @@ product_short_name = "沥青"
 product_class = "FUTURES"
 id = "bu2201"
 name = "沥青2201"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.cu2207"]
 exchange_id = "SHFE"
@@ -4125,6 +5621,10 @@ product_short_name = "沪铜"
 product_class = "FUTURES"
 id = "cu2207"
 name = "沪铜2207"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.hc2207"]
 exchange_id = "SHFE"
@@ -4136,6 +5636,10 @@ product_short_name = "热卷"
 product_class = "FUTURES"
 id = "hc2207"
 name = "热卷2207"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.ni2207"]
 exchange_id = "SHFE"
@@ -4147,6 +5651,10 @@ product_short_name = "沪镍"
 product_class = "FUTURES"
 id = "ni2207"
 name = "沪镍2207"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.pb2207"]
 exchange_id = "SHFE"
@@ -4158,6 +5666,10 @@ product_short_name = "沪铅"
 product_class = "FUTURES"
 id = "pb2207"
 name = "沪铅2207"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.rb2207"]
 exchange_id = "SHFE"
@@ -4169,6 +5681,10 @@ product_short_name = "螺纹"
 product_class = "FUTURES"
 id = "rb2207"
 name = "螺纹2207"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.ru2207"]
 exchange_id = "SHFE"
@@ -4180,6 +5696,10 @@ product_short_name = "橡胶"
 product_class = "FUTURES"
 id = "ru2207"
 name = "橡胶2207"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.sn2207"]
 exchange_id = "SHFE"
@@ -4191,6 +5711,10 @@ product_short_name = "沪锡"
 product_class = "FUTURES"
 id = "sn2207"
 name = "沪锡2207"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.sp2207"]
 exchange_id = "SHFE"
@@ -4202,6 +5726,10 @@ product_short_name = "纸浆"
 product_class = "FUTURES"
 id = "sp2207"
 name = "纸浆2207"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.ss2207"]
 exchange_id = "SHFE"
@@ -4213,6 +5741,10 @@ product_short_name = "不锈钢"
 product_class = "FUTURES"
 id = "ss2207"
 name = "不锈钢2207"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.wr2207"]
 exchange_id = "SHFE"
@@ -4224,6 +5756,10 @@ product_short_name = "线材"
 product_class = "FUTURES"
 id = "wr2207"
 name = "线材2207"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.zn2207"]
 exchange_id = "SHFE"
@@ -4235,6 +5771,10 @@ product_short_name = "沪锌"
 product_class = "FUTURES"
 id = "zn2207"
 name = "沪锌2207"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."CFFEX.IC2203"]
 exchange_id = "CFFEX"
@@ -4246,6 +5786,10 @@ product_short_name = "中证"
 product_class = "FUTURES"
 id = "IC2203"
 name = "中证2203"
+open_max_order_volume = 20
+open_min_order_volume = 1
+close_max_order_volume = 20
+close_min_order_volume = 1
 
 [instruments."CFFEX.IF2203"]
 exchange_id = "CFFEX"
@@ -4257,6 +5801,10 @@ product_short_name = "沪深"
 product_class = "FUTURES"
 id = "IF2203"
 name = "沪深2203"
+open_max_order_volume = 20
+open_min_order_volume = 1
+close_max_order_volume = 20
+close_min_order_volume = 1
 
 [instruments."CFFEX.IH2203"]
 exchange_id = "CFFEX"
@@ -4268,6 +5816,10 @@ product_short_name = "上证"
 product_class = "FUTURES"
 id = "IH2203"
 name = "上证2203"
+open_max_order_volume = 20
+open_min_order_volume = 1
+close_max_order_volume = 20
+close_min_order_volume = 1
 
 [instruments."DCE.eg2207"]
 exchange_id = "DCE"
@@ -4279,6 +5831,10 @@ product_short_name = "甘醇"
 product_class = "FUTURES"
 id = "eg2207"
 name = "甘醇2207"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.eb2207"]
 exchange_id = "DCE"
@@ -4290,6 +5846,10 @@ product_short_name = "苯乙烯"
 product_class = "FUTURES"
 id = "eb2207"
 name = "苯乙烯2207"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.jd2207"]
 exchange_id = "DCE"
@@ -4301,6 +5861,10 @@ product_short_name = "鸡蛋"
 product_class = "FUTURES"
 id = "jd2207"
 name = "鸡蛋2207"
+open_max_order_volume = 300
+open_min_order_volume = 1
+close_max_order_volume = 300
+close_min_order_volume = 1
 
 [instruments."DCE.pg2207"]
 exchange_id = "DCE"
@@ -4312,6 +5876,10 @@ product_short_name = "LPG"
 product_class = "FUTURES"
 id = "pg2207"
 name = "LPG2207"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.lh2207"]
 exchange_id = "DCE"
@@ -4323,6 +5891,10 @@ product_short_name = "生猪"
 product_class = "FUTURES"
 id = "lh2207"
 name = "生猪2207"
+open_max_order_volume = 50
+open_min_order_volume = 1
+close_max_order_volume = 50
+close_min_order_volume = 1
 
 [instruments."INE.lu2208"]
 exchange_id = "INE"
@@ -4334,6 +5906,10 @@ product_short_name = "低硫燃料油"
 product_class = "FUTURES"
 id = "lu2208"
 name = "低硫燃料油2208"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."INE.sc2208"]
 exchange_id = "INE"
@@ -4345,6 +5921,10 @@ product_short_name = "原油"
 product_class = "FUTURES"
 id = "sc2208"
 name = "原油2208"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.fu2208"]
 exchange_id = "SHFE"
@@ -4356,6 +5936,10 @@ product_short_name = "燃油"
 product_class = "FUTURES"
 id = "fu2208"
 name = "燃油2208"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."CZCE.ZC208"]
 exchange_id = "CZCE"
@@ -4367,6 +5951,10 @@ product_short_name = "郑煤"
 product_class = "FUTURES"
 id = "ZC208"
 name = "郑煤2208"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.CY208"]
 exchange_id = "CZCE"
@@ -4378,6 +5966,10 @@ product_short_name = "棉纱"
 product_class = "FUTURES"
 id = "CY208"
 name = "棉纱2208"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.FG208"]
 exchange_id = "CZCE"
@@ -4389,6 +5981,10 @@ product_short_name = "玻璃"
 product_class = "FUTURES"
 id = "FG208"
 name = "玻璃2208"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.MA208"]
 exchange_id = "CZCE"
@@ -4400,6 +5996,10 @@ product_short_name = "甲醇"
 product_class = "FUTURES"
 id = "MA208"
 name = "甲醇2208"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.PF208"]
 exchange_id = "CZCE"
@@ -4411,6 +6011,10 @@ product_short_name = "短纤"
 product_class = "FUTURES"
 id = "PF208"
 name = "短纤2208"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.RM208"]
 exchange_id = "CZCE"
@@ -4422,6 +6026,10 @@ product_short_name = "菜粕"
 product_class = "FUTURES"
 id = "RM208"
 name = "菜粕2208"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.RS208"]
 exchange_id = "CZCE"
@@ -4433,6 +6041,10 @@ product_short_name = "菜籽"
 product_class = "FUTURES"
 id = "RS208"
 name = "菜籽2208"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.SA208"]
 exchange_id = "CZCE"
@@ -4444,6 +6056,10 @@ product_short_name = "纯碱"
 product_class = "FUTURES"
 id = "SA208"
 name = "纯碱2208"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.SF208"]
 exchange_id = "CZCE"
@@ -4455,6 +6071,10 @@ product_short_name = "硅铁"
 product_class = "FUTURES"
 id = "SF208"
 name = "硅铁2208"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.SM208"]
 exchange_id = "CZCE"
@@ -4466,6 +6086,10 @@ product_short_name = "锰硅"
 product_class = "FUTURES"
 id = "SM208"
 name = "锰硅2208"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.TA208"]
 exchange_id = "CZCE"
@@ -4477,6 +6101,10 @@ product_short_name = "PTA"
 product_class = "FUTURES"
 id = "TA208"
 name = "PTA2208"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.UR208"]
 exchange_id = "CZCE"
@@ -4488,6 +6116,10 @@ product_short_name = "尿素"
 product_class = "FUTURES"
 id = "UR208"
 name = "尿素2208"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.j2208"]
 exchange_id = "DCE"
@@ -4499,6 +6131,10 @@ product_short_name = "焦炭"
 product_class = "FUTURES"
 id = "j2208"
 name = "焦炭2208"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."DCE.i2208"]
 exchange_id = "DCE"
@@ -4510,6 +6146,10 @@ product_short_name = "铁矿"
 product_class = "FUTURES"
 id = "i2208"
 name = "铁矿2208"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.fb2208"]
 exchange_id = "DCE"
@@ -4521,6 +6161,10 @@ product_short_name = "纤板"
 product_class = "FUTURES"
 id = "fb2208"
 name = "纤板2208"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.bb2208"]
 exchange_id = "DCE"
@@ -4532,6 +6176,10 @@ product_short_name = "胶板"
 product_class = "FUTURES"
 id = "bb2208"
 name = "胶板2208"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.b2208"]
 exchange_id = "DCE"
@@ -4543,6 +6191,10 @@ product_short_name = "豆二"
 product_class = "FUTURES"
 id = "b2208"
 name = "豆二2208"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.pp2208"]
 exchange_id = "DCE"
@@ -4554,6 +6206,10 @@ product_short_name = "PP"
 product_class = "FUTURES"
 id = "pp2208"
 name = "PP2208"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.y2208"]
 exchange_id = "DCE"
@@ -4565,6 +6221,10 @@ product_short_name = "豆油"
 product_class = "FUTURES"
 id = "y2208"
 name = "豆油2208"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.v2208"]
 exchange_id = "DCE"
@@ -4576,6 +6236,10 @@ product_short_name = "PVC"
 product_class = "FUTURES"
 id = "v2208"
 name = "PVC2208"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.rr2208"]
 exchange_id = "DCE"
@@ -4587,6 +6251,10 @@ product_short_name = "粳米"
 product_class = "FUTURES"
 id = "rr2208"
 name = "粳米2208"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.p2208"]
 exchange_id = "DCE"
@@ -4598,6 +6266,10 @@ product_short_name = "棕榈"
 product_class = "FUTURES"
 id = "p2208"
 name = "棕榈2208"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.m2208"]
 exchange_id = "DCE"
@@ -4609,6 +6281,10 @@ product_short_name = "豆粕"
 product_class = "FUTURES"
 id = "m2208"
 name = "豆粕2208"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.l2208"]
 exchange_id = "DCE"
@@ -4620,6 +6296,10 @@ product_short_name = "塑料"
 product_class = "FUTURES"
 id = "l2208"
 name = "塑料2208"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.jm2208"]
 exchange_id = "DCE"
@@ -4631,6 +6311,10 @@ product_short_name = "焦煤"
 product_class = "FUTURES"
 id = "jm2208"
 name = "焦煤2208"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."INE.bc2208"]
 exchange_id = "INE"
@@ -4642,6 +6326,10 @@ product_short_name = "国际铜"
 product_class = "FUTURES"
 id = "bc2208"
 name = "国际铜2208"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."INE.nr2208"]
 exchange_id = "INE"
@@ -4653,6 +6341,10 @@ product_short_name = "20号胶"
 product_class = "FUTURES"
 id = "nr2208"
 name = "20号胶2208"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.ag2208"]
 exchange_id = "SHFE"
@@ -4664,6 +6356,10 @@ product_short_name = "沪银"
 product_class = "FUTURES"
 id = "ag2208"
 name = "沪银2208"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.al2208"]
 exchange_id = "SHFE"
@@ -4675,6 +6371,10 @@ product_short_name = "沪铝"
 product_class = "FUTURES"
 id = "al2208"
 name = "沪铝2208"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.bu2202"]
 exchange_id = "SHFE"
@@ -4686,6 +6386,10 @@ product_short_name = "沥青"
 product_class = "FUTURES"
 id = "bu2202"
 name = "沥青2202"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.cu2208"]
 exchange_id = "SHFE"
@@ -4697,6 +6401,10 @@ product_short_name = "沪铜"
 product_class = "FUTURES"
 id = "cu2208"
 name = "沪铜2208"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.hc2208"]
 exchange_id = "SHFE"
@@ -4708,6 +6416,10 @@ product_short_name = "热卷"
 product_class = "FUTURES"
 id = "hc2208"
 name = "热卷2208"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.ni2208"]
 exchange_id = "SHFE"
@@ -4719,6 +6431,10 @@ product_short_name = "沪镍"
 product_class = "FUTURES"
 id = "ni2208"
 name = "沪镍2208"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.pb2208"]
 exchange_id = "SHFE"
@@ -4730,6 +6446,10 @@ product_short_name = "沪铅"
 product_class = "FUTURES"
 id = "pb2208"
 name = "沪铅2208"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.rb2208"]
 exchange_id = "SHFE"
@@ -4741,6 +6461,10 @@ product_short_name = "螺纹"
 product_class = "FUTURES"
 id = "rb2208"
 name = "螺纹2208"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.ru2208"]
 exchange_id = "SHFE"
@@ -4752,6 +6476,10 @@ product_short_name = "橡胶"
 product_class = "FUTURES"
 id = "ru2208"
 name = "橡胶2208"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.sn2208"]
 exchange_id = "SHFE"
@@ -4763,6 +6491,10 @@ product_short_name = "沪锡"
 product_class = "FUTURES"
 id = "sn2208"
 name = "沪锡2208"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.sp2208"]
 exchange_id = "SHFE"
@@ -4774,6 +6506,10 @@ product_short_name = "纸浆"
 product_class = "FUTURES"
 id = "sp2208"
 name = "纸浆2208"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.ss2208"]
 exchange_id = "SHFE"
@@ -4785,6 +6521,10 @@ product_short_name = "不锈钢"
 product_class = "FUTURES"
 id = "ss2208"
 name = "不锈钢2208"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.wr2208"]
 exchange_id = "SHFE"
@@ -4796,6 +6536,10 @@ product_short_name = "线材"
 product_class = "FUTURES"
 id = "wr2208"
 name = "线材2208"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.zn2208"]
 exchange_id = "SHFE"
@@ -4807,6 +6551,10 @@ product_short_name = "沪锌"
 product_class = "FUTURES"
 id = "zn2208"
 name = "沪锌2208"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."DCE.eg2208"]
 exchange_id = "DCE"
@@ -4818,6 +6566,10 @@ product_short_name = "甘醇"
 product_class = "FUTURES"
 id = "eg2208"
 name = "甘醇2208"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.eb2208"]
 exchange_id = "DCE"
@@ -4829,6 +6581,10 @@ product_short_name = "苯乙烯"
 product_class = "FUTURES"
 id = "eb2208"
 name = "苯乙烯2208"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.jd2208"]
 exchange_id = "DCE"
@@ -4840,6 +6596,10 @@ product_short_name = "鸡蛋"
 product_class = "FUTURES"
 id = "jd2208"
 name = "鸡蛋2208"
+open_max_order_volume = 300
+open_min_order_volume = 1
+close_max_order_volume = 300
+close_min_order_volume = 1
 
 [instruments."DCE.pg2208"]
 exchange_id = "DCE"
@@ -4851,6 +6611,10 @@ product_short_name = "LPG"
 product_class = "FUTURES"
 id = "pg2208"
 name = "LPG2208"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."INE.lu2209"]
 exchange_id = "INE"
@@ -4862,6 +6626,10 @@ product_short_name = "低硫燃料油"
 product_class = "FUTURES"
 id = "lu2209"
 name = "低硫燃料油2209"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."INE.sc2409"]
 exchange_id = "INE"
@@ -4873,6 +6641,10 @@ product_short_name = "原油"
 product_class = "FUTURES"
 id = "sc2409"
 name = "原油2409"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.fu2209"]
 exchange_id = "SHFE"
@@ -4884,6 +6656,10 @@ product_short_name = "燃油"
 product_class = "FUTURES"
 id = "fu2209"
 name = "燃油2209"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."CZCE.ZC209"]
 exchange_id = "CZCE"
@@ -4895,6 +6671,10 @@ product_short_name = "郑煤"
 product_class = "FUTURES"
 id = "ZC209"
 name = "郑煤2209"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CFFEX.T2206"]
 exchange_id = "CFFEX"
@@ -4906,6 +6686,10 @@ product_short_name = "债十"
 product_class = "FUTURES"
 id = "T2206"
 name = "债十2206"
+open_max_order_volume = 50
+open_min_order_volume = 1
+close_max_order_volume = 50
+close_min_order_volume = 1
 
 [instruments."CFFEX.TF2206"]
 exchange_id = "CFFEX"
@@ -4917,6 +6701,10 @@ product_short_name = "债五"
 product_class = "FUTURES"
 id = "TF2206"
 name = "债五2206"
+open_max_order_volume = 50
+open_min_order_volume = 1
+close_max_order_volume = 50
+close_min_order_volume = 1
 
 [instruments."CFFEX.TS2206"]
 exchange_id = "CFFEX"
@@ -4928,6 +6716,10 @@ product_short_name = "债二"
 product_class = "FUTURES"
 id = "TS2206"
 name = "债二2206"
+open_max_order_volume = 50
+open_min_order_volume = 1
+close_max_order_volume = 50
+close_min_order_volume = 1
 
 [instruments."CZCE.CF209"]
 exchange_id = "CZCE"
@@ -4939,6 +6731,10 @@ product_short_name = "棉花"
 product_class = "FUTURES"
 id = "CF209"
 name = "棉花2209"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.CJ209"]
 exchange_id = "CZCE"
@@ -4950,6 +6746,10 @@ product_short_name = "红枣"
 product_class = "FUTURES"
 id = "CJ209"
 name = "红枣2209"
+open_max_order_volume = 100
+open_min_order_volume = 4
+close_max_order_volume = 100
+close_min_order_volume = 1
 
 [instruments."CZCE.CY209"]
 exchange_id = "CZCE"
@@ -4961,6 +6761,10 @@ product_short_name = "棉纱"
 product_class = "FUTURES"
 id = "CY209"
 name = "棉纱2209"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.FG209"]
 exchange_id = "CZCE"
@@ -4972,6 +6776,10 @@ product_short_name = "玻璃"
 product_class = "FUTURES"
 id = "FG209"
 name = "玻璃2209"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.JR209"]
 exchange_id = "CZCE"
@@ -4983,6 +6791,10 @@ product_short_name = "粳稻"
 product_class = "FUTURES"
 id = "JR209"
 name = "粳稻2209"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.LR209"]
 exchange_id = "CZCE"
@@ -4994,6 +6806,10 @@ product_short_name = "晚稻"
 product_class = "FUTURES"
 id = "LR209"
 name = "晚稻2209"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.MA209"]
 exchange_id = "CZCE"
@@ -5005,6 +6821,10 @@ product_short_name = "甲醇"
 product_class = "FUTURES"
 id = "MA209"
 name = "甲醇2209"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.OI209"]
 exchange_id = "CZCE"
@@ -5016,6 +6836,10 @@ product_short_name = "菜油"
 product_class = "FUTURES"
 id = "OI209"
 name = "菜油2209"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.PF209"]
 exchange_id = "CZCE"
@@ -5027,6 +6851,10 @@ product_short_name = "短纤"
 product_class = "FUTURES"
 id = "PF209"
 name = "短纤2209"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.PM209"]
 exchange_id = "CZCE"
@@ -5038,6 +6866,10 @@ product_short_name = "普麦"
 product_class = "FUTURES"
 id = "PM209"
 name = "普麦2209"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.RI209"]
 exchange_id = "CZCE"
@@ -5049,6 +6881,10 @@ product_short_name = "早稻"
 product_class = "FUTURES"
 id = "RI209"
 name = "早稻2209"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.RM209"]
 exchange_id = "CZCE"
@@ -5060,6 +6896,10 @@ product_short_name = "菜粕"
 product_class = "FUTURES"
 id = "RM209"
 name = "菜粕2209"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.RS209"]
 exchange_id = "CZCE"
@@ -5071,6 +6911,10 @@ product_short_name = "菜籽"
 product_class = "FUTURES"
 id = "RS209"
 name = "菜籽2209"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.SA209"]
 exchange_id = "CZCE"
@@ -5082,6 +6926,10 @@ product_short_name = "纯碱"
 product_class = "FUTURES"
 id = "SA209"
 name = "纯碱2209"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.SF209"]
 exchange_id = "CZCE"
@@ -5093,6 +6941,10 @@ product_short_name = "硅铁"
 product_class = "FUTURES"
 id = "SF209"
 name = "硅铁2209"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.SM209"]
 exchange_id = "CZCE"
@@ -5104,6 +6956,10 @@ product_short_name = "锰硅"
 product_class = "FUTURES"
 id = "SM209"
 name = "锰硅2209"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.SR209"]
 exchange_id = "CZCE"
@@ -5115,6 +6971,10 @@ product_short_name = "白糖"
 product_class = "FUTURES"
 id = "SR209"
 name = "白糖2209"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.TA209"]
 exchange_id = "CZCE"
@@ -5126,6 +6986,10 @@ product_short_name = "PTA"
 product_class = "FUTURES"
 id = "TA209"
 name = "PTA2209"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.UR209"]
 exchange_id = "CZCE"
@@ -5137,6 +7001,10 @@ product_short_name = "尿素"
 product_class = "FUTURES"
 id = "UR209"
 name = "尿素2209"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.WH209"]
 exchange_id = "CZCE"
@@ -5148,6 +7016,10 @@ product_short_name = "强麦"
 product_class = "FUTURES"
 id = "WH209"
 name = "强麦2209"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.j2209"]
 exchange_id = "DCE"
@@ -5159,6 +7031,10 @@ product_short_name = "焦炭"
 product_class = "FUTURES"
 id = "j2209"
 name = "焦炭2209"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."DCE.i2209"]
 exchange_id = "DCE"
@@ -5170,6 +7046,10 @@ product_short_name = "铁矿"
 product_class = "FUTURES"
 id = "i2209"
 name = "铁矿2209"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.fb2209"]
 exchange_id = "DCE"
@@ -5181,6 +7061,10 @@ product_short_name = "纤板"
 product_class = "FUTURES"
 id = "fb2209"
 name = "纤板2209"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.cs2209"]
 exchange_id = "DCE"
@@ -5192,6 +7076,10 @@ product_short_name = "淀粉"
 product_class = "FUTURES"
 id = "cs2209"
 name = "淀粉2209"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.c2209"]
 exchange_id = "DCE"
@@ -5203,6 +7091,10 @@ product_short_name = "玉米"
 product_class = "FUTURES"
 id = "c2209"
 name = "玉米2209"
+open_max_order_volume = 2000
+open_min_order_volume = 1
+close_max_order_volume = 2000
+close_min_order_volume = 1
 
 [instruments."DCE.bb2209"]
 exchange_id = "DCE"
@@ -5214,6 +7106,10 @@ product_short_name = "胶板"
 product_class = "FUTURES"
 id = "bb2209"
 name = "胶板2209"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.b2209"]
 exchange_id = "DCE"
@@ -5225,6 +7121,10 @@ product_short_name = "豆二"
 product_class = "FUTURES"
 id = "b2209"
 name = "豆二2209"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.a2209"]
 exchange_id = "DCE"
@@ -5236,6 +7136,10 @@ product_short_name = "豆一"
 product_class = "FUTURES"
 id = "a2209"
 name = "豆一2209"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.jm2209"]
 exchange_id = "DCE"
@@ -5247,6 +7151,10 @@ product_short_name = "焦煤"
 product_class = "FUTURES"
 id = "jm2209"
 name = "焦煤2209"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.pp2209"]
 exchange_id = "DCE"
@@ -5258,6 +7166,10 @@ product_short_name = "PP"
 product_class = "FUTURES"
 id = "pp2209"
 name = "PP2209"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.y2209"]
 exchange_id = "DCE"
@@ -5269,6 +7181,10 @@ product_short_name = "豆油"
 product_class = "FUTURES"
 id = "y2209"
 name = "豆油2209"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.v2209"]
 exchange_id = "DCE"
@@ -5280,6 +7196,10 @@ product_short_name = "PVC"
 product_class = "FUTURES"
 id = "v2209"
 name = "PVC2209"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.rr2209"]
 exchange_id = "DCE"
@@ -5291,6 +7211,10 @@ product_short_name = "粳米"
 product_class = "FUTURES"
 id = "rr2209"
 name = "粳米2209"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.p2209"]
 exchange_id = "DCE"
@@ -5302,6 +7226,10 @@ product_short_name = "棕榈"
 product_class = "FUTURES"
 id = "p2209"
 name = "棕榈2209"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.m2209"]
 exchange_id = "DCE"
@@ -5313,6 +7241,10 @@ product_short_name = "豆粕"
 product_class = "FUTURES"
 id = "m2209"
 name = "豆粕2209"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.l2209"]
 exchange_id = "DCE"
@@ -5324,6 +7256,10 @@ product_short_name = "塑料"
 product_class = "FUTURES"
 id = "l2209"
 name = "塑料2209"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."INE.bc2209"]
 exchange_id = "INE"
@@ -5335,6 +7271,10 @@ product_short_name = "国际铜"
 product_class = "FUTURES"
 id = "bc2209"
 name = "国际铜2209"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."INE.nr2209"]
 exchange_id = "INE"
@@ -5346,6 +7286,10 @@ product_short_name = "20号胶"
 product_class = "FUTURES"
 id = "nr2209"
 name = "20号胶2209"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.ag2209"]
 exchange_id = "SHFE"
@@ -5357,6 +7301,10 @@ product_short_name = "沪银"
 product_class = "FUTURES"
 id = "ag2209"
 name = "沪银2209"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.al2209"]
 exchange_id = "SHFE"
@@ -5368,6 +7316,10 @@ product_short_name = "沪铝"
 product_class = "FUTURES"
 id = "al2209"
 name = "沪铝2209"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.au2210"]
 exchange_id = "SHFE"
@@ -5379,6 +7331,10 @@ product_short_name = "沪金"
 product_class = "FUTURES"
 id = "au2210"
 name = "沪金2210"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.bu2309"]
 exchange_id = "SHFE"
@@ -5390,6 +7346,10 @@ product_short_name = "沥青"
 product_class = "FUTURES"
 id = "bu2309"
 name = "沥青2309"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.cu2209"]
 exchange_id = "SHFE"
@@ -5401,6 +7361,10 @@ product_short_name = "沪铜"
 product_class = "FUTURES"
 id = "cu2209"
 name = "沪铜2209"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.hc2209"]
 exchange_id = "SHFE"
@@ -5412,6 +7376,10 @@ product_short_name = "热卷"
 product_class = "FUTURES"
 id = "hc2209"
 name = "热卷2209"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.ni2209"]
 exchange_id = "SHFE"
@@ -5423,6 +7391,10 @@ product_short_name = "沪镍"
 product_class = "FUTURES"
 id = "ni2209"
 name = "沪镍2209"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.pb2209"]
 exchange_id = "SHFE"
@@ -5434,6 +7406,10 @@ product_short_name = "沪铅"
 product_class = "FUTURES"
 id = "pb2209"
 name = "沪铅2209"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.rb2209"]
 exchange_id = "SHFE"
@@ -5445,6 +7421,10 @@ product_short_name = "螺纹"
 product_class = "FUTURES"
 id = "rb2209"
 name = "螺纹2209"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.ru2209"]
 exchange_id = "SHFE"
@@ -5456,6 +7436,10 @@ product_short_name = "橡胶"
 product_class = "FUTURES"
 id = "ru2209"
 name = "橡胶2209"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.sn2209"]
 exchange_id = "SHFE"
@@ -5467,6 +7451,10 @@ product_short_name = "沪锡"
 product_class = "FUTURES"
 id = "sn2209"
 name = "沪锡2209"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.sp2209"]
 exchange_id = "SHFE"
@@ -5478,6 +7466,10 @@ product_short_name = "纸浆"
 product_class = "FUTURES"
 id = "sp2209"
 name = "纸浆2209"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.ss2209"]
 exchange_id = "SHFE"
@@ -5489,6 +7481,10 @@ product_short_name = "不锈钢"
 product_class = "FUTURES"
 id = "ss2209"
 name = "不锈钢2209"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.wr2209"]
 exchange_id = "SHFE"
@@ -5500,6 +7496,10 @@ product_short_name = "线材"
 product_class = "FUTURES"
 id = "wr2209"
 name = "线材2209"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.zn2209"]
 exchange_id = "SHFE"
@@ -5511,6 +7511,10 @@ product_short_name = "沪锌"
 product_class = "FUTURES"
 id = "zn2209"
 name = "沪锌2209"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."INE.lu2210"]
 exchange_id = "INE"
@@ -5522,6 +7526,10 @@ product_short_name = "低硫燃料油"
 product_class = "FUTURES"
 id = "lu2210"
 name = "低硫燃料油2210"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."INE.sc2210"]
 exchange_id = "INE"
@@ -5533,6 +7541,10 @@ product_short_name = "原油"
 product_class = "FUTURES"
 id = "sc2210"
 name = "原油2210"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.fu2210"]
 exchange_id = "SHFE"
@@ -5544,6 +7556,10 @@ product_short_name = "燃油"
 product_class = "FUTURES"
 id = "fu2210"
 name = "燃油2210"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."DCE.eg2209"]
 exchange_id = "DCE"
@@ -5555,6 +7571,10 @@ product_short_name = "甘醇"
 product_class = "FUTURES"
 id = "eg2209"
 name = "甘醇2209"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.eb2209"]
 exchange_id = "DCE"
@@ -5566,6 +7586,10 @@ product_short_name = "苯乙烯"
 product_class = "FUTURES"
 id = "eb2209"
 name = "苯乙烯2209"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.jd2209"]
 exchange_id = "DCE"
@@ -5577,6 +7601,10 @@ product_short_name = "鸡蛋"
 product_class = "FUTURES"
 id = "jd2209"
 name = "鸡蛋2209"
+open_max_order_volume = 300
+open_min_order_volume = 1
+close_max_order_volume = 300
+close_min_order_volume = 1
 
 [instruments."DCE.lh2209"]
 exchange_id = "DCE"
@@ -5588,6 +7616,10 @@ product_short_name = "生猪"
 product_class = "FUTURES"
 id = "lh2209"
 name = "生猪2209"
+open_max_order_volume = 50
+open_min_order_volume = 1
+close_max_order_volume = 50
+close_min_order_volume = 1
 
 [instruments."DCE.pg2209"]
 exchange_id = "DCE"
@@ -5599,6 +7631,10 @@ product_short_name = "LPG"
 product_class = "FUTURES"
 id = "pg2209"
 name = "LPG2209"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.ZC210"]
 exchange_id = "CZCE"
@@ -5610,6 +7646,10 @@ product_short_name = "郑煤"
 product_class = "FUTURES"
 id = "ZC210"
 name = "郑煤2210"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."INE.bc2210"]
 exchange_id = "INE"
@@ -5621,6 +7661,10 @@ product_short_name = "国际铜"
 product_class = "FUTURES"
 id = "bc2210"
 name = "国际铜2210"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."INE.nr2210"]
 exchange_id = "INE"
@@ -5632,6 +7676,10 @@ product_short_name = "20号胶"
 product_class = "FUTURES"
 id = "nr2210"
 name = "20号胶2210"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.ag2210"]
 exchange_id = "SHFE"
@@ -5643,6 +7691,10 @@ product_short_name = "沪银"
 product_class = "FUTURES"
 id = "ag2210"
 name = "沪银2210"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.al2210"]
 exchange_id = "SHFE"
@@ -5654,6 +7706,10 @@ product_short_name = "沪铝"
 product_class = "FUTURES"
 id = "al2210"
 name = "沪铝2210"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.au2201"]
 exchange_id = "SHFE"
@@ -5665,6 +7721,10 @@ product_short_name = "沪金"
 product_class = "FUTURES"
 id = "au2201"
 name = "沪金2201"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.bu2204"]
 exchange_id = "SHFE"
@@ -5676,6 +7736,10 @@ product_short_name = "沥青"
 product_class = "FUTURES"
 id = "bu2204"
 name = "沥青2204"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.cu2210"]
 exchange_id = "SHFE"
@@ -5687,6 +7751,10 @@ product_short_name = "沪铜"
 product_class = "FUTURES"
 id = "cu2210"
 name = "沪铜2210"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.hc2210"]
 exchange_id = "SHFE"
@@ -5698,6 +7766,10 @@ product_short_name = "热卷"
 product_class = "FUTURES"
 id = "hc2210"
 name = "热卷2210"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.ni2210"]
 exchange_id = "SHFE"
@@ -5709,6 +7781,10 @@ product_short_name = "沪镍"
 product_class = "FUTURES"
 id = "ni2210"
 name = "沪镍2210"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.pb2210"]
 exchange_id = "SHFE"
@@ -5720,6 +7796,10 @@ product_short_name = "沪铅"
 product_class = "FUTURES"
 id = "pb2210"
 name = "沪铅2210"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.rb2210"]
 exchange_id = "SHFE"
@@ -5731,6 +7811,10 @@ product_short_name = "螺纹"
 product_class = "FUTURES"
 id = "rb2210"
 name = "螺纹2210"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.ru2210"]
 exchange_id = "SHFE"
@@ -5742,6 +7826,10 @@ product_short_name = "橡胶"
 product_class = "FUTURES"
 id = "ru2210"
 name = "橡胶2210"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.sn2210"]
 exchange_id = "SHFE"
@@ -5753,6 +7841,10 @@ product_short_name = "沪锡"
 product_class = "FUTURES"
 id = "sn2210"
 name = "沪锡2210"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.sp2210"]
 exchange_id = "SHFE"
@@ -5764,6 +7856,10 @@ product_short_name = "纸浆"
 product_class = "FUTURES"
 id = "sp2210"
 name = "纸浆2210"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.ss2210"]
 exchange_id = "SHFE"
@@ -5775,6 +7871,10 @@ product_short_name = "不锈钢"
 product_class = "FUTURES"
 id = "ss2210"
 name = "不锈钢2210"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.wr2210"]
 exchange_id = "SHFE"
@@ -5786,6 +7886,10 @@ product_short_name = "线材"
 product_class = "FUTURES"
 id = "wr2210"
 name = "线材2210"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.zn2210"]
 exchange_id = "SHFE"
@@ -5797,6 +7901,10 @@ product_short_name = "沪锌"
 product_class = "FUTURES"
 id = "zn2210"
 name = "沪锌2210"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."CFFEX.IC2206"]
 exchange_id = "CFFEX"
@@ -5808,6 +7916,10 @@ product_short_name = "中证"
 product_class = "FUTURES"
 id = "IC2206"
 name = "中证2206"
+open_max_order_volume = 20
+open_min_order_volume = 1
+close_max_order_volume = 20
+close_min_order_volume = 1
 
 [instruments."CFFEX.IF2206"]
 exchange_id = "CFFEX"
@@ -5819,6 +7931,10 @@ product_short_name = "沪深"
 product_class = "FUTURES"
 id = "IF2206"
 name = "沪深2206"
+open_max_order_volume = 20
+open_min_order_volume = 1
+close_max_order_volume = 20
+close_min_order_volume = 1
 
 [instruments."CFFEX.IH2206"]
 exchange_id = "CFFEX"
@@ -5830,6 +7946,10 @@ product_short_name = "上证"
 product_class = "FUTURES"
 id = "IH2206"
 name = "上证2206"
+open_max_order_volume = 20
+open_min_order_volume = 1
+close_max_order_volume = 20
+close_min_order_volume = 1
 
 [instruments."CZCE.AP210"]
 exchange_id = "CZCE"
@@ -5841,6 +7961,10 @@ product_short_name = "苹果"
 product_class = "FUTURES"
 id = "AP210"
 name = "苹果2210"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.CY210"]
 exchange_id = "CZCE"
@@ -5852,6 +7976,10 @@ product_short_name = "棉纱"
 product_class = "FUTURES"
 id = "CY210"
 name = "棉纱2210"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.FG210"]
 exchange_id = "CZCE"
@@ -5863,6 +7991,10 @@ product_short_name = "玻璃"
 product_class = "FUTURES"
 id = "FG210"
 name = "玻璃2210"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.MA210"]
 exchange_id = "CZCE"
@@ -5874,6 +8006,10 @@ product_short_name = "甲醇"
 product_class = "FUTURES"
 id = "MA210"
 name = "甲醇2210"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.PF210"]
 exchange_id = "CZCE"
@@ -5885,6 +8021,10 @@ product_short_name = "短纤"
 product_class = "FUTURES"
 id = "PF210"
 name = "短纤2210"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.PK210"]
 exchange_id = "CZCE"
@@ -5896,6 +8036,10 @@ product_short_name = "花生仁"
 product_class = "FUTURES"
 id = "PK210"
 name = "花生仁2210"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.SA210"]
 exchange_id = "CZCE"
@@ -5907,6 +8051,10 @@ product_short_name = "纯碱"
 product_class = "FUTURES"
 id = "SA210"
 name = "纯碱2210"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.SF210"]
 exchange_id = "CZCE"
@@ -5918,6 +8066,10 @@ product_short_name = "硅铁"
 product_class = "FUTURES"
 id = "SF210"
 name = "硅铁2210"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.SM210"]
 exchange_id = "CZCE"
@@ -5929,6 +8081,10 @@ product_short_name = "锰硅"
 product_class = "FUTURES"
 id = "SM210"
 name = "锰硅2210"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.TA210"]
 exchange_id = "CZCE"
@@ -5940,6 +8096,10 @@ product_short_name = "PTA"
 product_class = "FUTURES"
 id = "TA210"
 name = "PTA2210"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.UR210"]
 exchange_id = "CZCE"
@@ -5951,6 +8111,10 @@ product_short_name = "尿素"
 product_class = "FUTURES"
 id = "UR210"
 name = "尿素2210"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.j2210"]
 exchange_id = "DCE"
@@ -5962,6 +8126,10 @@ product_short_name = "焦炭"
 product_class = "FUTURES"
 id = "j2210"
 name = "焦炭2210"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."DCE.i2210"]
 exchange_id = "DCE"
@@ -5973,6 +8141,10 @@ product_short_name = "铁矿"
 product_class = "FUTURES"
 id = "i2210"
 name = "铁矿2210"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.fb2210"]
 exchange_id = "DCE"
@@ -5984,6 +8156,10 @@ product_short_name = "纤板"
 product_class = "FUTURES"
 id = "fb2210"
 name = "纤板2210"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.bb2210"]
 exchange_id = "DCE"
@@ -5995,6 +8171,10 @@ product_short_name = "胶板"
 product_class = "FUTURES"
 id = "bb2210"
 name = "胶板2210"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.b2210"]
 exchange_id = "DCE"
@@ -6006,6 +8186,10 @@ product_short_name = "豆二"
 product_class = "FUTURES"
 id = "b2210"
 name = "豆二2210"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.jm2210"]
 exchange_id = "DCE"
@@ -6017,6 +8201,10 @@ product_short_name = "焦煤"
 product_class = "FUTURES"
 id = "jm2210"
 name = "焦煤2210"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.l2210"]
 exchange_id = "DCE"
@@ -6028,6 +8216,10 @@ product_short_name = "塑料"
 product_class = "FUTURES"
 id = "l2210"
 name = "塑料2210"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.pp2210"]
 exchange_id = "DCE"
@@ -6039,6 +8231,10 @@ product_short_name = "PP"
 product_class = "FUTURES"
 id = "pp2210"
 name = "PP2210"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.rr2210"]
 exchange_id = "DCE"
@@ -6050,6 +8246,10 @@ product_short_name = "粳米"
 product_class = "FUTURES"
 id = "rr2210"
 name = "粳米2210"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.v2210"]
 exchange_id = "DCE"
@@ -6061,6 +8261,10 @@ product_short_name = "PVC"
 product_class = "FUTURES"
 id = "v2210"
 name = "PVC2210"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.p2210"]
 exchange_id = "DCE"
@@ -6072,6 +8276,10 @@ product_short_name = "棕榈"
 product_class = "FUTURES"
 id = "p2210"
 name = "棕榈2210"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.eg2210"]
 exchange_id = "DCE"
@@ -6083,6 +8291,10 @@ product_short_name = "甘醇"
 product_class = "FUTURES"
 id = "eg2210"
 name = "甘醇2210"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.eb2210"]
 exchange_id = "DCE"
@@ -6094,6 +8306,10 @@ product_short_name = "苯乙烯"
 product_class = "FUTURES"
 id = "eb2210"
 name = "苯乙烯2210"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.jd2210"]
 exchange_id = "DCE"
@@ -6105,6 +8321,10 @@ product_short_name = "鸡蛋"
 product_class = "FUTURES"
 id = "jd2210"
 name = "鸡蛋2210"
+open_max_order_volume = 300
+open_min_order_volume = 1
+close_max_order_volume = 300
+close_min_order_volume = 1
 
 [instruments."DCE.pg2210"]
 exchange_id = "DCE"
@@ -6116,6 +8336,10 @@ product_short_name = "LPG"
 product_class = "FUTURES"
 id = "pg2210"
 name = "LPG2210"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."INE.lu2211"]
 exchange_id = "INE"
@@ -6127,6 +8351,10 @@ product_short_name = "低硫燃料油"
 product_class = "FUTURES"
 id = "lu2211"
 name = "低硫燃料油2211"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."INE.sc2211"]
 exchange_id = "INE"
@@ -6138,6 +8366,10 @@ product_short_name = "原油"
 product_class = "FUTURES"
 id = "sc2211"
 name = "原油2211"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.fu2211"]
 exchange_id = "SHFE"
@@ -6149,6 +8381,10 @@ product_short_name = "燃油"
 product_class = "FUTURES"
 id = "fu2211"
 name = "燃油2211"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."CZCE.ZC211"]
 exchange_id = "CZCE"
@@ -6160,6 +8396,10 @@ product_short_name = "郑煤"
 product_class = "FUTURES"
 id = "ZC211"
 name = "郑煤2211"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.AP211"]
 exchange_id = "CZCE"
@@ -6171,6 +8411,10 @@ product_short_name = "苹果"
 product_class = "FUTURES"
 id = "AP211"
 name = "苹果2211"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.CF211"]
 exchange_id = "CZCE"
@@ -6182,6 +8426,10 @@ product_short_name = "棉花"
 product_class = "FUTURES"
 id = "CF211"
 name = "棉花2211"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.CY211"]
 exchange_id = "CZCE"
@@ -6193,6 +8441,10 @@ product_short_name = "棉纱"
 product_class = "FUTURES"
 id = "CY211"
 name = "棉纱2211"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.FG211"]
 exchange_id = "CZCE"
@@ -6204,6 +8456,10 @@ product_short_name = "玻璃"
 product_class = "FUTURES"
 id = "FG211"
 name = "玻璃2211"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.JR211"]
 exchange_id = "CZCE"
@@ -6215,6 +8471,10 @@ product_short_name = "粳稻"
 product_class = "FUTURES"
 id = "JR211"
 name = "粳稻2211"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.LR211"]
 exchange_id = "CZCE"
@@ -6226,6 +8486,10 @@ product_short_name = "晚稻"
 product_class = "FUTURES"
 id = "LR211"
 name = "晚稻2211"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.MA211"]
 exchange_id = "CZCE"
@@ -6237,6 +8501,10 @@ product_short_name = "甲醇"
 product_class = "FUTURES"
 id = "MA211"
 name = "甲醇2211"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.OI211"]
 exchange_id = "CZCE"
@@ -6248,6 +8516,10 @@ product_short_name = "菜油"
 product_class = "FUTURES"
 id = "OI211"
 name = "菜油2211"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.PF211"]
 exchange_id = "CZCE"
@@ -6259,6 +8531,10 @@ product_short_name = "短纤"
 product_class = "FUTURES"
 id = "PF211"
 name = "短纤2211"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.PK211"]
 exchange_id = "CZCE"
@@ -6270,6 +8546,10 @@ product_short_name = "花生仁"
 product_class = "FUTURES"
 id = "PK211"
 name = "花生仁2211"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.PM211"]
 exchange_id = "CZCE"
@@ -6281,6 +8561,10 @@ product_short_name = "普麦"
 product_class = "FUTURES"
 id = "PM211"
 name = "普麦2211"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.RI211"]
 exchange_id = "CZCE"
@@ -6292,6 +8576,10 @@ product_short_name = "早稻"
 product_class = "FUTURES"
 id = "RI211"
 name = "早稻2211"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.RM211"]
 exchange_id = "CZCE"
@@ -6303,6 +8591,10 @@ product_short_name = "菜粕"
 product_class = "FUTURES"
 id = "RM211"
 name = "菜粕2211"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.RS211"]
 exchange_id = "CZCE"
@@ -6314,6 +8606,10 @@ product_short_name = "菜籽"
 product_class = "FUTURES"
 id = "RS211"
 name = "菜籽2211"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.SA211"]
 exchange_id = "CZCE"
@@ -6325,6 +8621,10 @@ product_short_name = "纯碱"
 product_class = "FUTURES"
 id = "SA211"
 name = "纯碱2211"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.SF211"]
 exchange_id = "CZCE"
@@ -6336,6 +8636,10 @@ product_short_name = "硅铁"
 product_class = "FUTURES"
 id = "SF211"
 name = "硅铁2211"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.SM211"]
 exchange_id = "CZCE"
@@ -6347,6 +8651,10 @@ product_short_name = "锰硅"
 product_class = "FUTURES"
 id = "SM211"
 name = "锰硅2211"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.SR211"]
 exchange_id = "CZCE"
@@ -6358,6 +8666,10 @@ product_short_name = "白糖"
 product_class = "FUTURES"
 id = "SR211"
 name = "白糖2211"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.TA211"]
 exchange_id = "CZCE"
@@ -6369,6 +8681,10 @@ product_short_name = "PTA"
 product_class = "FUTURES"
 id = "TA211"
 name = "PTA2211"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.UR211"]
 exchange_id = "CZCE"
@@ -6380,6 +8696,10 @@ product_short_name = "尿素"
 product_class = "FUTURES"
 id = "UR211"
 name = "尿素2211"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.WH211"]
 exchange_id = "CZCE"
@@ -6391,6 +8711,10 @@ product_short_name = "强麦"
 product_class = "FUTURES"
 id = "WH211"
 name = "强麦2211"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.j2211"]
 exchange_id = "DCE"
@@ -6402,6 +8726,10 @@ product_short_name = "焦炭"
 product_class = "FUTURES"
 id = "j2211"
 name = "焦炭2211"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."DCE.i2211"]
 exchange_id = "DCE"
@@ -6413,6 +8741,10 @@ product_short_name = "铁矿"
 product_class = "FUTURES"
 id = "i2211"
 name = "铁矿2211"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.fb2211"]
 exchange_id = "DCE"
@@ -6424,6 +8756,10 @@ product_short_name = "纤板"
 product_class = "FUTURES"
 id = "fb2211"
 name = "纤板2211"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.cs2211"]
 exchange_id = "DCE"
@@ -6435,6 +8771,10 @@ product_short_name = "淀粉"
 product_class = "FUTURES"
 id = "cs2211"
 name = "淀粉2211"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.c2211"]
 exchange_id = "DCE"
@@ -6446,6 +8786,10 @@ product_short_name = "玉米"
 product_class = "FUTURES"
 id = "c2211"
 name = "玉米2211"
+open_max_order_volume = 2000
+open_min_order_volume = 1
+close_max_order_volume = 2000
+close_min_order_volume = 1
 
 [instruments."DCE.bb2211"]
 exchange_id = "DCE"
@@ -6457,6 +8801,10 @@ product_short_name = "胶板"
 product_class = "FUTURES"
 id = "bb2211"
 name = "胶板2211"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.b2211"]
 exchange_id = "DCE"
@@ -6468,6 +8816,10 @@ product_short_name = "豆二"
 product_class = "FUTURES"
 id = "b2211"
 name = "豆二2211"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.a2211"]
 exchange_id = "DCE"
@@ -6479,6 +8831,10 @@ product_short_name = "豆一"
 product_class = "FUTURES"
 id = "a2211"
 name = "豆一2211"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.jm2211"]
 exchange_id = "DCE"
@@ -6490,6 +8846,10 @@ product_short_name = "焦煤"
 product_class = "FUTURES"
 id = "jm2211"
 name = "焦煤2211"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.l2211"]
 exchange_id = "DCE"
@@ -6501,6 +8861,10 @@ product_short_name = "塑料"
 product_class = "FUTURES"
 id = "l2211"
 name = "塑料2211"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.pp2211"]
 exchange_id = "DCE"
@@ -6512,6 +8876,10 @@ product_short_name = "PP"
 product_class = "FUTURES"
 id = "pp2211"
 name = "PP2211"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.rr2211"]
 exchange_id = "DCE"
@@ -6523,6 +8891,10 @@ product_short_name = "粳米"
 product_class = "FUTURES"
 id = "rr2211"
 name = "粳米2211"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.v2211"]
 exchange_id = "DCE"
@@ -6534,6 +8906,10 @@ product_short_name = "PVC"
 product_class = "FUTURES"
 id = "v2211"
 name = "PVC2211"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.y2211"]
 exchange_id = "DCE"
@@ -6545,6 +8921,10 @@ product_short_name = "豆油"
 product_class = "FUTURES"
 id = "y2211"
 name = "豆油2211"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.p2211"]
 exchange_id = "DCE"
@@ -6556,6 +8936,10 @@ product_short_name = "棕榈"
 product_class = "FUTURES"
 id = "p2211"
 name = "棕榈2211"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.m2211"]
 exchange_id = "DCE"
@@ -6567,6 +8951,10 @@ product_short_name = "豆粕"
 product_class = "FUTURES"
 id = "m2211"
 name = "豆粕2211"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."INE.bc2211"]
 exchange_id = "INE"
@@ -6578,6 +8966,10 @@ product_short_name = "国际铜"
 product_class = "FUTURES"
 id = "bc2211"
 name = "国际铜2211"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."INE.nr2211"]
 exchange_id = "INE"
@@ -6589,6 +8981,10 @@ product_short_name = "20号胶"
 product_class = "FUTURES"
 id = "nr2211"
 name = "20号胶2211"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.ag2211"]
 exchange_id = "SHFE"
@@ -6600,6 +8996,10 @@ product_short_name = "沪银"
 product_class = "FUTURES"
 id = "ag2211"
 name = "沪银2211"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.al2211"]
 exchange_id = "SHFE"
@@ -6611,6 +9011,10 @@ product_short_name = "沪铝"
 product_class = "FUTURES"
 id = "al2211"
 name = "沪铝2211"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.au2212"]
 exchange_id = "SHFE"
@@ -6622,6 +9026,10 @@ product_short_name = "沪金"
 product_class = "FUTURES"
 id = "au2212"
 name = "沪金2212"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.bu2205"]
 exchange_id = "SHFE"
@@ -6633,6 +9041,10 @@ product_short_name = "沥青"
 product_class = "FUTURES"
 id = "bu2205"
 name = "沥青2205"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.cu2211"]
 exchange_id = "SHFE"
@@ -6644,6 +9056,10 @@ product_short_name = "沪铜"
 product_class = "FUTURES"
 id = "cu2211"
 name = "沪铜2211"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.hc2211"]
 exchange_id = "SHFE"
@@ -6655,6 +9071,10 @@ product_short_name = "热卷"
 product_class = "FUTURES"
 id = "hc2211"
 name = "热卷2211"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.ni2211"]
 exchange_id = "SHFE"
@@ -6666,6 +9086,10 @@ product_short_name = "沪镍"
 product_class = "FUTURES"
 id = "ni2211"
 name = "沪镍2211"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.pb2211"]
 exchange_id = "SHFE"
@@ -6677,6 +9101,10 @@ product_short_name = "沪铅"
 product_class = "FUTURES"
 id = "pb2211"
 name = "沪铅2211"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.rb2211"]
 exchange_id = "SHFE"
@@ -6688,6 +9116,10 @@ product_short_name = "螺纹"
 product_class = "FUTURES"
 id = "rb2211"
 name = "螺纹2211"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.ru2211"]
 exchange_id = "SHFE"
@@ -6699,6 +9131,10 @@ product_short_name = "橡胶"
 product_class = "FUTURES"
 id = "ru2211"
 name = "橡胶2211"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.sn2211"]
 exchange_id = "SHFE"
@@ -6710,6 +9146,10 @@ product_short_name = "沪锡"
 product_class = "FUTURES"
 id = "sn2211"
 name = "沪锡2211"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.sp2211"]
 exchange_id = "SHFE"
@@ -6721,6 +9161,10 @@ product_short_name = "纸浆"
 product_class = "FUTURES"
 id = "sp2211"
 name = "纸浆2211"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.ss2211"]
 exchange_id = "SHFE"
@@ -6732,6 +9176,10 @@ product_short_name = "不锈钢"
 product_class = "FUTURES"
 id = "ss2211"
 name = "不锈钢2211"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.wr2211"]
 exchange_id = "SHFE"
@@ -6743,6 +9191,10 @@ product_short_name = "线材"
 product_class = "FUTURES"
 id = "wr2211"
 name = "线材2211"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.zn2211"]
 exchange_id = "SHFE"
@@ -6754,6 +9206,10 @@ product_short_name = "沪锌"
 product_class = "FUTURES"
 id = "zn2211"
 name = "沪锌2211"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."CFFEX.IC2201"]
 exchange_id = "CFFEX"
@@ -6765,6 +9221,10 @@ product_short_name = "中证"
 product_class = "FUTURES"
 id = "IC2201"
 name = "中证2201"
+open_max_order_volume = 20
+open_min_order_volume = 1
+close_max_order_volume = 20
+close_min_order_volume = 1
 
 [instruments."CFFEX.IF2201"]
 exchange_id = "CFFEX"
@@ -6776,6 +9236,10 @@ product_short_name = "沪深"
 product_class = "FUTURES"
 id = "IF2201"
 name = "沪深2201"
+open_max_order_volume = 20
+open_min_order_volume = 1
+close_max_order_volume = 20
+close_min_order_volume = 1
 
 [instruments."CFFEX.IH2201"]
 exchange_id = "CFFEX"
@@ -6787,6 +9251,10 @@ product_short_name = "上证"
 product_class = "FUTURES"
 id = "IH2201"
 name = "上证2201"
+open_max_order_volume = 20
+open_min_order_volume = 1
+close_max_order_volume = 20
+close_min_order_volume = 1
 
 [instruments."DCE.eg2211"]
 exchange_id = "DCE"
@@ -6798,6 +9266,10 @@ product_short_name = "甘醇"
 product_class = "FUTURES"
 id = "eg2211"
 name = "甘醇2211"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.eb2211"]
 exchange_id = "DCE"
@@ -6809,6 +9281,10 @@ product_short_name = "苯乙烯"
 product_class = "FUTURES"
 id = "eb2211"
 name = "苯乙烯2211"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.jd2211"]
 exchange_id = "DCE"
@@ -6820,6 +9296,10 @@ product_short_name = "鸡蛋"
 product_class = "FUTURES"
 id = "jd2211"
 name = "鸡蛋2211"
+open_max_order_volume = 300
+open_min_order_volume = 1
+close_max_order_volume = 300
+close_min_order_volume = 1
 
 [instruments."DCE.lh2211"]
 exchange_id = "DCE"
@@ -6831,6 +9311,10 @@ product_short_name = "生猪"
 product_class = "FUTURES"
 id = "lh2211"
 name = "生猪2211"
+open_max_order_volume = 50
+open_min_order_volume = 1
+close_max_order_volume = 50
+close_min_order_volume = 1
 
 [instruments."DCE.pg2211"]
 exchange_id = "DCE"
@@ -6842,6 +9326,10 @@ product_short_name = "LPG"
 product_class = "FUTURES"
 id = "pg2211"
 name = "LPG2211"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."INE.lu2212"]
 exchange_id = "INE"
@@ -6853,6 +9341,10 @@ product_short_name = "低硫燃料油"
 product_class = "FUTURES"
 id = "lu2212"
 name = "低硫燃料油2212"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."INE.sc2412"]
 exchange_id = "INE"
@@ -6864,6 +9356,10 @@ product_short_name = "原油"
 product_class = "FUTURES"
 id = "sc2412"
 name = "原油2412"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.fu2212"]
 exchange_id = "SHFE"
@@ -6875,6 +9371,10 @@ product_short_name = "燃油"
 product_class = "FUTURES"
 id = "fu2212"
 name = "燃油2212"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."CZCE.ZC212"]
 exchange_id = "CZCE"
@@ -6886,6 +9386,10 @@ product_short_name = "郑煤"
 product_class = "FUTURES"
 id = "ZC212"
 name = "郑煤2212"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CFFEX.T2209"]
 exchange_id = "CFFEX"
@@ -6897,6 +9401,10 @@ product_short_name = "债十"
 product_class = "FUTURES"
 id = "T2209"
 name = "债十2209"
+open_max_order_volume = 50
+open_min_order_volume = 1
+close_max_order_volume = 50
+close_min_order_volume = 1
 
 [instruments."CFFEX.TF2209"]
 exchange_id = "CFFEX"
@@ -6908,6 +9416,10 @@ product_short_name = "债五"
 product_class = "FUTURES"
 id = "TF2209"
 name = "债五2209"
+open_max_order_volume = 50
+open_min_order_volume = 1
+close_max_order_volume = 50
+close_min_order_volume = 1
 
 [instruments."CFFEX.TS2209"]
 exchange_id = "CFFEX"
@@ -6919,6 +9431,10 @@ product_short_name = "债二"
 product_class = "FUTURES"
 id = "TS2209"
 name = "债二2209"
+open_max_order_volume = 50
+open_min_order_volume = 1
+close_max_order_volume = 50
+close_min_order_volume = 1
 
 [instruments."CZCE.AP212"]
 exchange_id = "CZCE"
@@ -6930,6 +9446,10 @@ product_short_name = "苹果"
 product_class = "FUTURES"
 id = "AP212"
 name = "苹果2212"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.CJ212"]
 exchange_id = "CZCE"
@@ -6941,6 +9461,10 @@ product_short_name = "红枣"
 product_class = "FUTURES"
 id = "CJ212"
 name = "红枣2212"
+open_max_order_volume = 100
+open_min_order_volume = 4
+close_max_order_volume = 100
+close_min_order_volume = 1
 
 [instruments."CZCE.CY212"]
 exchange_id = "CZCE"
@@ -6952,6 +9476,10 @@ product_short_name = "棉纱"
 product_class = "FUTURES"
 id = "CY212"
 name = "棉纱2212"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.FG212"]
 exchange_id = "CZCE"
@@ -6963,6 +9491,10 @@ product_short_name = "玻璃"
 product_class = "FUTURES"
 id = "FG212"
 name = "玻璃2212"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.MA212"]
 exchange_id = "CZCE"
@@ -6974,6 +9506,10 @@ product_short_name = "甲醇"
 product_class = "FUTURES"
 id = "MA212"
 name = "甲醇2212"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.PF212"]
 exchange_id = "CZCE"
@@ -6985,6 +9521,10 @@ product_short_name = "短纤"
 product_class = "FUTURES"
 id = "PF212"
 name = "短纤2212"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.PK212"]
 exchange_id = "CZCE"
@@ -6996,6 +9536,10 @@ product_short_name = "花生仁"
 product_class = "FUTURES"
 id = "PK212"
 name = "花生仁2212"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.SA212"]
 exchange_id = "CZCE"
@@ -7007,6 +9551,10 @@ product_short_name = "纯碱"
 product_class = "FUTURES"
 id = "SA212"
 name = "纯碱2212"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.SF212"]
 exchange_id = "CZCE"
@@ -7018,6 +9566,10 @@ product_short_name = "硅铁"
 product_class = "FUTURES"
 id = "SF212"
 name = "硅铁2212"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.SM212"]
 exchange_id = "CZCE"
@@ -7029,6 +9581,10 @@ product_short_name = "锰硅"
 product_class = "FUTURES"
 id = "SM212"
 name = "锰硅2212"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.TA212"]
 exchange_id = "CZCE"
@@ -7040,6 +9596,10 @@ product_short_name = "PTA"
 product_class = "FUTURES"
 id = "TA212"
 name = "PTA2212"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.UR212"]
 exchange_id = "CZCE"
@@ -7051,6 +9611,10 @@ product_short_name = "尿素"
 product_class = "FUTURES"
 id = "UR212"
 name = "尿素2212"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.j2212"]
 exchange_id = "DCE"
@@ -7062,6 +9626,10 @@ product_short_name = "焦炭"
 product_class = "FUTURES"
 id = "j2212"
 name = "焦炭2212"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."DCE.i2212"]
 exchange_id = "DCE"
@@ -7073,6 +9641,10 @@ product_short_name = "铁矿"
 product_class = "FUTURES"
 id = "i2212"
 name = "铁矿2212"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.fb2212"]
 exchange_id = "DCE"
@@ -7084,6 +9656,10 @@ product_short_name = "纤板"
 product_class = "FUTURES"
 id = "fb2212"
 name = "纤板2212"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.bb2212"]
 exchange_id = "DCE"
@@ -7095,6 +9671,10 @@ product_short_name = "胶板"
 product_class = "FUTURES"
 id = "bb2212"
 name = "胶板2212"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.b2212"]
 exchange_id = "DCE"
@@ -7106,6 +9686,10 @@ product_short_name = "豆二"
 product_class = "FUTURES"
 id = "b2212"
 name = "豆二2212"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.jm2212"]
 exchange_id = "DCE"
@@ -7117,6 +9701,10 @@ product_short_name = "焦煤"
 product_class = "FUTURES"
 id = "jm2212"
 name = "焦煤2212"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.l2212"]
 exchange_id = "DCE"
@@ -7128,6 +9716,10 @@ product_short_name = "塑料"
 product_class = "FUTURES"
 id = "l2212"
 name = "塑料2212"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.pp2212"]
 exchange_id = "DCE"
@@ -7139,6 +9731,10 @@ product_short_name = "PP"
 product_class = "FUTURES"
 id = "pp2212"
 name = "PP2212"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.rr2212"]
 exchange_id = "DCE"
@@ -7150,6 +9746,10 @@ product_short_name = "粳米"
 product_class = "FUTURES"
 id = "rr2212"
 name = "粳米2212"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.v2212"]
 exchange_id = "DCE"
@@ -7161,6 +9761,10 @@ product_short_name = "PVC"
 product_class = "FUTURES"
 id = "v2212"
 name = "PVC2212"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.y2212"]
 exchange_id = "DCE"
@@ -7172,6 +9776,10 @@ product_short_name = "豆油"
 product_class = "FUTURES"
 id = "y2212"
 name = "豆油2212"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.p2212"]
 exchange_id = "DCE"
@@ -7183,6 +9791,10 @@ product_short_name = "棕榈"
 product_class = "FUTURES"
 id = "p2212"
 name = "棕榈2212"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.m2212"]
 exchange_id = "DCE"
@@ -7194,6 +9806,10 @@ product_short_name = "豆粕"
 product_class = "FUTURES"
 id = "m2212"
 name = "豆粕2212"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."INE.bc2212"]
 exchange_id = "INE"
@@ -7205,6 +9821,10 @@ product_short_name = "国际铜"
 product_class = "FUTURES"
 id = "bc2212"
 name = "国际铜2212"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."INE.nr2212"]
 exchange_id = "INE"
@@ -7216,6 +9836,10 @@ product_short_name = "20号胶"
 product_class = "FUTURES"
 id = "nr2212"
 name = "20号胶2212"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.ag2212"]
 exchange_id = "SHFE"
@@ -7227,6 +9851,10 @@ product_short_name = "沪银"
 product_class = "FUTURES"
 id = "ag2212"
 name = "沪银2212"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.al2212"]
 exchange_id = "SHFE"
@@ -7238,6 +9866,10 @@ product_short_name = "沪铝"
 product_class = "FUTURES"
 id = "al2212"
 name = "沪铝2212"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.au2203"]
 exchange_id = "SHFE"
@@ -7249,6 +9881,10 @@ product_short_name = "沪金"
 product_class = "FUTURES"
 id = "au2203"
 name = "沪金2203"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.bu2312"]
 exchange_id = "SHFE"
@@ -7260,6 +9896,10 @@ product_short_name = "沥青"
 product_class = "FUTURES"
 id = "bu2312"
 name = "沥青2312"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.cu2212"]
 exchange_id = "SHFE"
@@ -7271,6 +9911,10 @@ product_short_name = "沪铜"
 product_class = "FUTURES"
 id = "cu2212"
 name = "沪铜2212"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.hc2212"]
 exchange_id = "SHFE"
@@ -7282,6 +9926,10 @@ product_short_name = "热卷"
 product_class = "FUTURES"
 id = "hc2212"
 name = "热卷2212"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.ni2212"]
 exchange_id = "SHFE"
@@ -7293,6 +9941,10 @@ product_short_name = "沪镍"
 product_class = "FUTURES"
 id = "ni2212"
 name = "沪镍2212"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.pb2212"]
 exchange_id = "SHFE"
@@ -7304,6 +9956,10 @@ product_short_name = "沪铅"
 product_class = "FUTURES"
 id = "pb2212"
 name = "沪铅2212"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.rb2212"]
 exchange_id = "SHFE"
@@ -7315,6 +9971,10 @@ product_short_name = "螺纹"
 product_class = "FUTURES"
 id = "rb2212"
 name = "螺纹2212"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.sn2212"]
 exchange_id = "SHFE"
@@ -7326,6 +9986,10 @@ product_short_name = "沪锡"
 product_class = "FUTURES"
 id = "sn2212"
 name = "沪锡2212"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.sp2212"]
 exchange_id = "SHFE"
@@ -7337,6 +10001,10 @@ product_short_name = "纸浆"
 product_class = "FUTURES"
 id = "sp2212"
 name = "纸浆2212"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.ss2212"]
 exchange_id = "SHFE"
@@ -7348,6 +10016,10 @@ product_short_name = "不锈钢"
 product_class = "FUTURES"
 id = "ss2212"
 name = "不锈钢2212"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.wr2212"]
 exchange_id = "SHFE"
@@ -7359,6 +10031,10 @@ product_short_name = "线材"
 product_class = "FUTURES"
 id = "wr2212"
 name = "线材2212"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.zn2212"]
 exchange_id = "SHFE"
@@ -7370,6 +10046,10 @@ product_short_name = "沪锌"
 product_class = "FUTURES"
 id = "zn2212"
 name = "沪锌2212"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."CFFEX.IC2202"]
 exchange_id = "CFFEX"
@@ -7381,6 +10061,10 @@ product_short_name = "中证"
 product_class = "FUTURES"
 id = "IC2202"
 name = "中证2202"
+open_max_order_volume = 20
+open_min_order_volume = 1
+close_max_order_volume = 20
+close_min_order_volume = 1
 
 [instruments."CFFEX.IF2202"]
 exchange_id = "CFFEX"
@@ -7392,6 +10076,10 @@ product_short_name = "沪深"
 product_class = "FUTURES"
 id = "IF2202"
 name = "沪深2202"
+open_max_order_volume = 20
+open_min_order_volume = 1
+close_max_order_volume = 20
+close_min_order_volume = 1
 
 [instruments."CFFEX.IH2202"]
 exchange_id = "CFFEX"
@@ -7403,6 +10091,10 @@ product_short_name = "上证"
 product_class = "FUTURES"
 id = "IH2202"
 name = "上证2202"
+open_max_order_volume = 20
+open_min_order_volume = 1
+close_max_order_volume = 20
+close_min_order_volume = 1
 
 [instruments."INE.lu2301"]
 exchange_id = "INE"
@@ -7414,6 +10106,10 @@ product_short_name = "低硫燃料油"
 product_class = "FUTURES"
 id = "lu2301"
 name = "低硫燃料油2301"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."INE.sc2301"]
 exchange_id = "INE"
@@ -7425,6 +10121,10 @@ product_short_name = "原油"
 product_class = "FUTURES"
 id = "sc2301"
 name = "原油2301"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."SHFE.fu2301"]
 exchange_id = "SHFE"
@@ -7436,6 +10136,10 @@ product_short_name = "燃油"
 product_class = "FUTURES"
 id = "fu2301"
 name = "燃油2301"
+open_max_order_volume = 500
+open_min_order_volume = 1
+close_max_order_volume = 500
+close_min_order_volume = 1
 
 [instruments."DCE.eg2212"]
 exchange_id = "DCE"
@@ -7447,6 +10151,10 @@ product_short_name = "甘醇"
 product_class = "FUTURES"
 id = "eg2212"
 name = "甘醇2212"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.eb2212"]
 exchange_id = "DCE"
@@ -7458,6 +10166,10 @@ product_short_name = "苯乙烯"
 product_class = "FUTURES"
 id = "eb2212"
 name = "苯乙烯2212"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."DCE.jd2212"]
 exchange_id = "DCE"
@@ -7469,6 +10181,10 @@ product_short_name = "鸡蛋"
 product_class = "FUTURES"
 id = "jd2212"
 name = "鸡蛋2212"
+open_max_order_volume = 300
+open_min_order_volume = 1
+close_max_order_volume = 300
+close_min_order_volume = 1
 
 [instruments."DCE.pg2212"]
 exchange_id = "DCE"
@@ -7480,6 +10196,10 @@ product_short_name = "LPG"
 product_class = "FUTURES"
 id = "pg2212"
 name = "LPG2212"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."CZCE.ZC301"]
 exchange_id = "CZCE"
@@ -7491,6 +10211,10 @@ product_short_name = "郑煤"
 product_class = "FUTURES"
 id = "ZC301"
 name = "郑煤2301"
+open_max_order_volume = 1000
+open_min_order_volume = 1
+close_max_order_volume = 1000
+close_min_order_volume = 1
 
 [instruments."INE.sc2203".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
