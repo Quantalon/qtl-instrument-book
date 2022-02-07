@@ -2,8 +2,16 @@ import itertools
 from pathlib import Path
 from datetime import datetime
 import warnings
+import urllib.request
 
 import toml
+
+
+def load_toml_by_url(url):
+    response = urllib.request.urlopen(url)
+    content = response.read().decode('utf-8')
+    data = toml.loads(content)
+    return data
 
 
 def time_to_marked_ts(t):
@@ -31,10 +39,28 @@ def to_trading_periods(trading_time_config):
 
 
 class BaseInstrumentBook:
-    config_file_path = None
+    meta_url = 'https://quantalon.gd2.qingstor.com/instrument-book/meta.toml'
 
     def __init__(self):
-        config = toml.load(self.config_file_path)
+        self.data_file_path = None
+        self.current_dir = Path(__file__).parent
+        self.meta = load_toml_by_url(self.meta_url)
+        if self.type is not None:
+            self.download_data_file()
+            self.load_data()
+
+    def download_data_file(self):
+        filename = self.meta[self.type]['filename']
+        self.data_file_path = self.current_dir / filename
+        if self.data_file_path.exists():
+            return
+        url = self.meta[self.type]['url']
+        response = urllib.request.urlopen(url)
+        data = response.read()
+        self.data_file_path.write_bytes(data)
+
+    def load_data(self):
+        config = toml.load(self.data_file_path)
         self.instruments = config['instruments']
         expire_date = config['expire_date']
         now = datetime.now()
@@ -77,8 +103,8 @@ class BaseInstrumentBook:
 
 
 class FuturesInstrumentBook(BaseInstrumentBook):
-    config_file_path = Path(__file__).parent / 'data' / 'futures.toml'
+    type = 'futures'
 
 
 class OptionsInstrumentBook(BaseInstrumentBook):
-    config_file_path = Path(__file__).parent / 'data' / 'options.toml'
+    type = 'options'
