@@ -1,0 +1,7 @@
+[futures]
+filename = 'futures-20220220.toml'
+url = 'https://quantalon.gd2.qingstor.com/instrument-book/futures-20220220.toml'
+
+[options]
+filename = 'options-20220220.toml'
+url = 'https://quantalon.gd2.qingstor.com/instrument-book/options-20220220.toml'
