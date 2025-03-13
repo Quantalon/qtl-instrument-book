@@ -2,5 +2,8 @@
 name = "qtl-instrument-book"
 version = "20250225"
 description = "Quantalon Instrument Book"
-requires-python = ">=3.10"
+requires-python = ">=3.9"
 readme = "readme.md"
+dependencies = [
+    "toml==0.10.2"
+]
