@@ -2,8 +2,7 @@ import itertools
 from pathlib import Path
 from datetime import datetime
 import warnings
-
-import toml
+import tomllib
 
 
 def time_to_marked_ts(t):
@@ -34,7 +33,8 @@ class BaseInstrumentBook:
     config_file_path = None
 
     def __init__(self):
-        config = toml.load(self.config_file_path)
+        with open(self.config_file_path, 'rb') as f:
+            config = tomllib.load(f)
         self.instruments = config['instruments']
         expire_date = config['expire_date']
         now = datetime.now()
