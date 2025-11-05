@@ -1,5 +1,5 @@
-last_update_date = 2025-09-23
-expire_date = 2025-10-23
+last_update_date = 2025-11-05
+expire_date = 2025-12-05
 
 [instruments."CZCE.CF605"]
 exchange_id = "CZCE"
@@ -11,7 +11,7 @@ py_wh = "mh,mianhua"
 product_id = "CF"
 product_short_name = "棉花"
 product_short_name_wh = "棉花"
-position_limit = 20000
+position_limit = 47774
 product_class = "FUTURES"
 id = "CF605"
 name = "棉花2605"
@@ -49,7 +49,7 @@ py_wh = "bl,boli"
 product_id = "FG"
 product_short_name = "玻璃"
 product_short_name_wh = "玻璃"
-position_limit = 25966
+position_limit = 48252
 product_class = "FUTURES"
 id = "FG605"
 name = "玻璃2605"
@@ -87,7 +87,7 @@ py_wh = "jc,jiachun"
 product_id = "MA"
 product_short_name = "甲醇"
 product_short_name_wh = "甲醇"
-position_limit = 33694
+position_limit = 56430
 product_class = "FUTURES"
 id = "MA605"
 name = "甲醇2605"
@@ -125,7 +125,7 @@ py_wh = "cy,caiyou,czy,cz"
 product_id = "OI"
 product_short_name = "菜油"
 product_short_name_wh = "菜油"
-position_limit = 10000
+position_limit = 13243
 product_class = "FUTURES"
 id = "OI605"
 name = "菜油2605"
@@ -144,7 +144,7 @@ py_wh = "cp,caipo,czp,cz"
 product_id = "RM"
 product_short_name = "菜粕"
 product_short_name_wh = "菜粕"
-position_limit = 37962
+position_limit = 54577
 product_class = "FUTURES"
 id = "RM605"
 name = "菜粕2605"
@@ -315,7 +315,7 @@ py_wh = "pta"
 product_id = "TA"
 product_short_name = "PTA"
 product_short_name_wh = "PTA"
-position_limit = 222566
+position_limit = 206645
 product_class = "FUTURES"
 id = "TA601"
 name = "PTA2601"
@@ -353,7 +353,7 @@ py_wh = "mh,mianhua"
 product_id = "CF"
 product_short_name = "棉花"
 product_short_name_wh = "棉花"
-position_limit = 104455
+position_limit = 113565
 product_class = "FUTURES"
 id = "CF601"
 name = "棉花2601"
@@ -372,7 +372,7 @@ py_wh = "bt,baitang"
 product_id = "SR"
 product_short_name = "白糖"
 product_short_name_wh = "白糖"
-position_limit = 91366
+position_limit = 73764
 product_class = "FUTURES"
 id = "SR601"
 name = "白糖2601"
@@ -410,7 +410,7 @@ py_wh = "bl,boli"
 product_id = "FG"
 product_short_name = "玻璃"
 product_short_name_wh = "玻璃"
-position_limit = 254815
+position_limit = 329027
 product_class = "FUTURES"
 id = "FG601"
 name = "玻璃2601"
@@ -448,7 +448,7 @@ py_wh = "cp,caipo,czp,cz"
 product_id = "RM"
 product_short_name = "菜粕"
 product_short_name_wh = "菜粕"
-position_limit = 78252
+position_limit = 75062
 product_class = "FUTURES"
 id = "RM601"
 name = "菜粕2601"
@@ -486,7 +486,7 @@ py_wh = "jc,jiachun"
 product_id = "MA"
 product_short_name = "甲醇"
 product_short_name_wh = "甲醇"
-position_limit = 189398
+position_limit = 282084
 product_class = "FUTURES"
 id = "MA601"
 name = "甲醇2601"
@@ -714,7 +714,7 @@ py_wh = "cy,caiyou,czy,cz"
 product_id = "OI"
 product_short_name = "菜油"
 product_short_name_wh = "菜油"
-position_limit = 73295
+position_limit = 42608
 product_class = "FUTURES"
 id = "OI601"
 name = "菜油2601"
@@ -913,6 +913,44 @@ min_open_volume = 1
 max_close_volume = 1000
 min_close_volume = 1
 
+[instruments."CZCE.TA610"]
+exchange_id = "CZCE"
+ins_name_wh = "PTA2610"
+volume_multiple = 5
+price_tick = 2
+price_decs = 0
+py_wh = "pta"
+product_id = "TA"
+product_short_name = "PTA"
+product_short_name_wh = "PTA"
+position_limit = 50000
+product_class = "FUTURES"
+id = "TA610"
+name = "PTA2610"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."CZCE.FG610"]
+exchange_id = "CZCE"
+ins_name_wh = "玻璃2610"
+volume_multiple = 20
+price_tick = 1
+price_decs = 0
+py_wh = "bl,boli"
+product_id = "FG"
+product_short_name = "玻璃"
+product_short_name_wh = "玻璃"
+position_limit = 20000
+product_class = "FUTURES"
+id = "FG610"
+name = "玻璃2610"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
 [instruments."CZCE.MA608"]
 exchange_id = "CZCE"
 ins_name_wh = "甲醇2608"
@@ -930,6 +968,25 @@ name = "甲醇2608"
 max_open_volume = 1000
 min_open_volume = 1
 max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."CZCE.ZC610"]
+exchange_id = "CZCE"
+ins_name_wh = "动力煤2610"
+volume_multiple = 100
+price_tick = 0.2
+price_decs = 1
+py_wh = "zm,zhengmei,dlm,donglimei"
+product_id = "ZC"
+product_short_name = "郑煤"
+product_short_name_wh = "动力煤"
+position_limit = 2000
+product_class = "FUTURES"
+id = "ZC610"
+name = "郑煤2610"
+max_open_volume = 50
+min_open_volume = 4
+max_close_volume = 50
 min_close_volume = 1
 
 [instruments."CZCE.RI601"]
@@ -1274,6 +1331,25 @@ min_open_volume = 10
 max_close_volume = 1000
 min_close_volume = 1
 
+[instruments."CZCE.MA610"]
+exchange_id = "CZCE"
+ins_name_wh = "甲醇2610"
+volume_multiple = 10
+price_tick = 1
+price_decs = 0
+py_wh = "jc,jiachun"
+product_id = "MA"
+product_short_name = "甲醇"
+product_short_name_wh = "甲醇"
+position_limit = 30000
+product_class = "FUTURES"
+id = "MA610"
+name = "甲醇2610"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
 [instruments."CZCE.PM603"]
 exchange_id = "CZCE"
 ins_name_wh = "普麦2603"
@@ -1322,7 +1398,7 @@ py_wh = "cy,caiyou,czy,cz"
 product_id = "OI"
 product_short_name = "菜油"
 product_short_name_wh = "菜油"
-position_limit = 10000
+position_limit = 14159
 product_class = "FUTURES"
 id = "OI603"
 name = "菜油2603"
@@ -1426,6 +1502,25 @@ min_open_volume = 10
 max_close_volume = 1000
 min_close_volume = 1
 
+[instruments."CZCE.SF610"]
+exchange_id = "CZCE"
+ins_name_wh = "硅铁2610"
+volume_multiple = 5
+price_tick = 2
+price_decs = 0
+py_wh = "gt,guitie"
+product_id = "SF"
+product_short_name = "硅铁"
+product_short_name_wh = "硅铁"
+position_limit = 10000
+product_class = "FUTURES"
+id = "SF610"
+name = "硅铁2610"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
 [instruments."CZCE.PM607"]
 exchange_id = "CZCE"
 ins_name_wh = "普麦2607"
@@ -1474,7 +1569,7 @@ py_wh = "yy,yuanyou"
 product_id = "sc"
 product_short_name = "原油"
 product_short_name_wh = "原油"
-position_limit = 3000
+position_limit = 500
 product_class = "FUTURES"
 id = "sc2512"
 name = "原油2512"
@@ -1569,7 +1664,7 @@ py_wh = "lq,liqing"
 product_id = "bu"
 product_short_name = "沥青"
 product_short_name_wh = "沥青"
-position_limit = 8000
+position_limit = 1500
 product_class = "FUTURES"
 id = "bu2512"
 name = "沥青2512"
@@ -1673,25 +1768,6 @@ min_open_volume = 1
 max_close_volume = 500
 min_close_volume = 1
 
-[instruments."SHFE.au2510"]
-exchange_id = "SHFE"
-ins_name_wh = "沪金2510"
-volume_multiple = 1000
-price_tick = 0.02
-price_decs = 2
-py_wh = "hj,hujin"
-product_id = "au"
-product_short_name = "沪金"
-product_short_name_wh = "沪金"
-position_limit = 2700
-product_class = "FUTURES"
-id = "au2510"
-name = "沪金2510"
-max_open_volume = 500
-min_open_volume = 1
-max_close_volume = 500
-min_close_volume = 1
-
 [instruments."SHFE.bu2609"]
 exchange_id = "SHFE"
 ins_name_wh = "沥青2609"
@@ -1711,1165 +1787,6 @@ min_open_volume = 1
 max_close_volume = 500
 min_close_volume = 1
 
-[instruments."DCE.eb2509"]
-exchange_id = "DCE"
-ins_name_wh = "苯乙烯2509"
-volume_multiple = 5
-price_tick = 1
-price_decs = 0
-py_wh = "byx,benyixi"
-product_id = "eb"
-product_short_name = "苯乙烯"
-product_short_name_wh = "苯乙烯"
-position_limit = 0
-product_class = "FUTURES"
-id = "eb2509"
-name = "苯乙烯2509"
-max_open_volume = 1000
-min_open_volume = 1
-max_close_volume = 1000
-min_close_volume = 1
-
-[instruments."DCE.eg2509"]
-exchange_id = "DCE"
-ins_name_wh = "乙二醇2509"
-volume_multiple = 10
-price_tick = 1
-price_decs = 0
-py_wh = "gc,ganchun,yec,yierchun"
-product_id = "eg"
-product_short_name = "甘醇"
-product_short_name_wh = "乙二醇"
-position_limit = 0
-product_class = "FUTURES"
-id = "eg2509"
-name = "甘醇2509"
-max_open_volume = 1000
-min_open_volume = 1
-max_close_volume = 1000
-min_close_volume = 1
-
-[instruments."DCE.jd2509"]
-exchange_id = "DCE"
-ins_name_wh = "鸡蛋2509"
-volume_multiple = 10
-price_tick = 1
-price_decs = 0
-py_wh = "jd,jidan"
-product_id = "jd"
-product_short_name = "鸡蛋"
-product_short_name_wh = "鸡蛋"
-position_limit = 0
-product_class = "FUTURES"
-id = "jd2509"
-name = "鸡蛋2509"
-max_open_volume = 300
-min_open_volume = 1
-max_close_volume = 300
-min_close_volume = 1
-
-[instruments."DCE.lh2509"]
-exchange_id = "DCE"
-ins_name_wh = "生猪2509"
-volume_multiple = 16
-price_tick = 5
-price_decs = 0
-py_wh = "sz,shengzhu"
-product_id = "lh"
-product_short_name = "生猪"
-product_short_name_wh = "生猪"
-position_limit = 0
-product_class = "FUTURES"
-id = "lh2509"
-name = "生猪2509"
-max_open_volume = 50
-min_open_volume = 1
-max_close_volume = 50
-min_close_volume = 1
-
-[instruments."DCE.pg2509"]
-exchange_id = "DCE"
-ins_name_wh = "液化气2509"
-volume_multiple = 20
-price_tick = 1
-price_decs = 0
-py_wh = "yhq,yehuaqi,yehuashiyouqi,yhsyq,shiyouqi"
-product_id = "pg"
-product_short_name = "LPG"
-product_short_name_wh = "液化气"
-position_limit = 0
-product_class = "FUTURES"
-id = "pg2509"
-name = "LPG2509"
-max_open_volume = 1000
-min_open_volume = 1
-max_close_volume = 1000
-min_close_volume = 1
-
-[instruments."INE.lu2510"]
-exchange_id = "INE"
-ins_name_wh = "低硫油2510"
-volume_multiple = 10
-price_tick = 1
-price_decs = 0
-py_wh = "dly,diliuyou"
-product_id = "lu"
-product_short_name = "低硫燃料油"
-product_short_name_wh = "低硫油"
-position_limit = 500
-product_class = "FUTURES"
-id = "lu2510"
-name = "低硫燃料油2510"
-max_open_volume = 500
-min_open_volume = 1
-max_close_volume = 500
-min_close_volume = 1
-
-[instruments."INE.sc2510"]
-exchange_id = "INE"
-ins_name_wh = "原油2510"
-volume_multiple = 1000
-price_tick = 0.1
-price_decs = 1
-py_wh = "yy,yuanyou"
-product_id = "sc"
-product_short_name = "原油"
-product_short_name_wh = "原油"
-position_limit = 500
-product_class = "FUTURES"
-id = "sc2510"
-name = "原油2510"
-max_open_volume = 500
-min_open_volume = 1
-max_close_volume = 500
-min_close_volume = 1
-
-[instruments."SHFE.fu2510"]
-exchange_id = "SHFE"
-ins_name_wh = "燃油2510"
-volume_multiple = 10
-price_tick = 1
-price_decs = 0
-py_wh = "ry,ranyou,rly"
-product_id = "fu"
-product_short_name = "燃油"
-product_short_name_wh = "燃油"
-position_limit = 500
-product_class = "FUTURES"
-id = "fu2510"
-name = "燃油2510"
-max_open_volume = 500
-min_open_volume = 1
-max_close_volume = 500
-min_close_volume = 1
-
-[instruments."CZCE.ZC510"]
-exchange_id = "CZCE"
-ins_name_wh = "动力煤2510"
-volume_multiple = 100
-price_tick = 0.2
-price_decs = 1
-py_wh = "zm,zhengmei,dlm,donglimei"
-product_id = "ZC"
-product_short_name = "郑煤"
-product_short_name_wh = "动力煤"
-position_limit = 400
-product_class = "FUTURES"
-id = "ZC510"
-name = "郑煤2510"
-max_open_volume = 50
-min_open_volume = 4
-max_close_volume = 50
-min_close_volume = 1
-
-[instruments."INE.bc2510"]
-exchange_id = "INE"
-ins_name_wh = "国际铜2510"
-volume_multiple = 5
-price_tick = 10
-price_decs = 0
-py_wh = "gjt,guojitong"
-product_id = "bc"
-product_short_name = "国际铜"
-product_short_name_wh = "国际铜"
-position_limit = 3500
-product_class = "FUTURES"
-id = "bc2510"
-name = "国际铜2510"
-max_open_volume = 500
-min_open_volume = 1
-max_close_volume = 500
-min_close_volume = 1
-
-[instruments."INE.nr2510"]
-exchange_id = "INE"
-ins_name_wh = "20号胶2510"
-volume_multiple = 10
-price_tick = 5
-price_decs = 0
-py_wh = "eshj,ershihaojiao,20"
-product_id = "nr"
-product_short_name = "20号胶"
-product_short_name_wh = "20号胶"
-position_limit = 600
-product_class = "FUTURES"
-id = "nr2510"
-name = "20号胶2510"
-max_open_volume = 500
-min_open_volume = 1
-max_close_volume = 500
-min_close_volume = 1
-
-[instruments."SHFE.ag2510"]
-exchange_id = "SHFE"
-ins_name_wh = "沪银2510"
-volume_multiple = 15
-price_tick = 1
-price_decs = 0
-py_wh = "hy,huyin"
-product_id = "ag"
-product_short_name = "沪银"
-product_short_name_wh = "沪银"
-position_limit = 2700
-product_class = "FUTURES"
-id = "ag2510"
-name = "沪银2510"
-max_open_volume = 500
-min_open_volume = 1
-max_close_volume = 500
-min_close_volume = 1
-
-[instruments."SHFE.al2510"]
-exchange_id = "SHFE"
-ins_name_wh = "沪铝2510"
-volume_multiple = 5
-price_tick = 5
-price_decs = 0
-py_wh = "hl,hulv"
-product_id = "al"
-product_short_name = "沪铝"
-product_short_name_wh = "沪铝"
-position_limit = 3000
-product_class = "FUTURES"
-id = "al2510"
-name = "沪铝2510"
-max_open_volume = 500
-min_open_volume = 1
-max_close_volume = 500
-min_close_volume = 1
-
-[instruments."SHFE.ao2510"]
-exchange_id = "SHFE"
-ins_name_wh = "氧化铝2510"
-volume_multiple = 20
-price_tick = 1
-price_decs = 0
-py_wh = "yhl,yanghualv"
-product_id = "ao"
-product_short_name = "氧化铝"
-product_short_name_wh = "氧化铝"
-position_limit = 1800
-product_class = "FUTURES"
-id = "ao2510"
-name = "氧化铝2510"
-max_open_volume = 500
-min_open_volume = 1
-max_close_volume = 500
-min_close_volume = 1
-
-[instruments."SHFE.br2510"]
-exchange_id = "SHFE"
-ins_name_wh = "丁橡胶2510"
-volume_multiple = 5
-price_tick = 5
-price_decs = 0
-py_wh = "dingerxixiangjiao,dexxj,dingxiangjiao,dxj,shundingxiangjiao,sdxj"
-product_id = "br"
-product_short_name = "丁橡胶"
-product_short_name_wh = "丁橡胶"
-position_limit = 300
-product_class = "FUTURES"
-id = "br2510"
-name = "丁橡胶2510"
-max_open_volume = 500
-min_open_volume = 1
-max_close_volume = 500
-min_close_volume = 1
-
-[instruments."SHFE.bu2510"]
-exchange_id = "SHFE"
-ins_name_wh = "沥青2510"
-volume_multiple = 10
-price_tick = 1
-price_decs = 0
-py_wh = "lq,liqing"
-product_id = "bu"
-product_short_name = "沥青"
-product_short_name_wh = "沥青"
-position_limit = 1500
-product_class = "FUTURES"
-id = "bu2510"
-name = "沥青2510"
-max_open_volume = 500
-min_open_volume = 1
-max_close_volume = 500
-min_close_volume = 1
-
-[instruments."SHFE.cu2510"]
-exchange_id = "SHFE"
-ins_name_wh = "沪铜2510"
-volume_multiple = 5
-price_tick = 10
-price_decs = 0
-py_wh = "ht,hutong"
-product_id = "cu"
-product_short_name = "沪铜"
-product_short_name_wh = "沪铜"
-position_limit = 3000
-product_class = "FUTURES"
-id = "cu2510"
-name = "沪铜2510"
-max_open_volume = 500
-min_open_volume = 1
-max_close_volume = 500
-min_close_volume = 1
-
-[instruments."SHFE.pb2510"]
-exchange_id = "SHFE"
-ins_name_wh = "沪铅2510"
-volume_multiple = 5
-price_tick = 5
-price_decs = 0
-py_wh = "hq,huqian"
-product_id = "pb"
-product_short_name = "沪铅"
-product_short_name_wh = "沪铅"
-position_limit = 1800
-product_class = "FUTURES"
-id = "pb2510"
-name = "沪铅2510"
-max_open_volume = 500
-min_open_volume = 1
-max_close_volume = 500
-min_close_volume = 1
-
-[instruments."SHFE.ni2510"]
-exchange_id = "SHFE"
-ins_name_wh = "沪镍2510"
-volume_multiple = 1
-price_tick = 10
-price_decs = 0
-py_wh = "hn,hunie"
-product_id = "ni"
-product_short_name = "沪镍"
-product_short_name_wh = "沪镍"
-position_limit = 1800
-product_class = "FUTURES"
-id = "ni2510"
-name = "沪镍2510"
-max_open_volume = 500
-min_open_volume = 1
-max_close_volume = 500
-min_close_volume = 1
-
-[instruments."SHFE.hc2510"]
-exchange_id = "SHFE"
-ins_name_wh = "热卷2510"
-volume_multiple = 10
-price_tick = 1
-price_decs = 0
-py_wh = "rj,rejuan"
-product_id = "hc"
-product_short_name = "热卷"
-product_short_name_wh = "热卷"
-position_limit = 9000
-product_class = "FUTURES"
-id = "hc2510"
-name = "热卷2510"
-max_open_volume = 500
-min_open_volume = 1
-max_close_volume = 500
-min_close_volume = 1
-
-[instruments."SHFE.rb2510"]
-exchange_id = "SHFE"
-ins_name_wh = "螺纹2510"
-volume_multiple = 10
-price_tick = 1
-price_decs = 0
-py_wh = "lw,luoweng"
-product_id = "rb"
-product_short_name = "螺纹"
-product_short_name_wh = "螺纹"
-position_limit = 4500
-product_class = "FUTURES"
-id = "rb2510"
-name = "螺纹2510"
-max_open_volume = 500
-min_open_volume = 1
-max_close_volume = 500
-min_close_volume = 1
-
-[instruments."SHFE.sn2510"]
-exchange_id = "SHFE"
-ins_name_wh = "沪锡2510"
-volume_multiple = 1
-price_tick = 10
-price_decs = 0
-py_wh = "hx,huxi"
-product_id = "sn"
-product_short_name = "沪锡"
-product_short_name_wh = "沪锡"
-position_limit = 600
-product_class = "FUTURES"
-id = "sn2510"
-name = "沪锡2510"
-max_open_volume = 500
-min_open_volume = 1
-max_close_volume = 500
-min_close_volume = 1
-
-[instruments."SHFE.sp2510"]
-exchange_id = "SHFE"
-ins_name_wh = "纸浆2510"
-volume_multiple = 10
-price_tick = 2
-price_decs = 0
-py_wh = "zj,zhijiang"
-product_id = "sp"
-product_short_name = "纸浆"
-product_short_name_wh = "纸浆"
-position_limit = 900
-product_class = "FUTURES"
-id = "sp2510"
-name = "纸浆2510"
-max_open_volume = 500
-min_open_volume = 1
-max_close_volume = 500
-min_close_volume = 1
-
-[instruments."SHFE.ss2510"]
-exchange_id = "SHFE"
-ins_name_wh = "不锈钢2510"
-volume_multiple = 5
-price_tick = 5
-price_decs = 0
-py_wh = "bxg,buxiugang"
-product_id = "ss"
-product_short_name = "不锈钢"
-product_short_name_wh = "不锈钢"
-position_limit = 1800
-product_class = "FUTURES"
-id = "ss2510"
-name = "不锈钢2510"
-max_open_volume = 500
-min_open_volume = 1
-max_close_volume = 500
-min_close_volume = 1
-
-[instruments."SHFE.wr2510"]
-exchange_id = "SHFE"
-ins_name_wh = "线材2510"
-volume_multiple = 10
-price_tick = 1
-price_decs = 0
-py_wh = "xc,xiancai"
-product_id = "wr"
-product_short_name = "线材"
-product_short_name_wh = "线材"
-position_limit = 1800
-product_class = "FUTURES"
-id = "wr2510"
-name = "线材2510"
-max_open_volume = 500
-min_open_volume = 1
-max_close_volume = 500
-min_close_volume = 1
-
-[instruments."SHFE.ru2510"]
-exchange_id = "SHFE"
-ins_name_wh = "橡胶2510"
-volume_multiple = 10
-price_tick = 5
-price_decs = 0
-py_wh = "xj,xiangjiao"
-product_id = "ru"
-product_short_name = "橡胶"
-product_short_name_wh = "橡胶"
-position_limit = 150
-product_class = "FUTURES"
-id = "ru2510"
-name = "橡胶2510"
-max_open_volume = 500
-min_open_volume = 1
-max_close_volume = 500
-min_close_volume = 1
-
-[instruments."SHFE.zn2510"]
-exchange_id = "SHFE"
-ins_name_wh = "沪锌2510"
-volume_multiple = 5
-price_tick = 5
-price_decs = 0
-py_wh = "hx,huxin"
-product_id = "zn"
-product_short_name = "沪锌"
-product_short_name_wh = "沪锌"
-position_limit = 2400
-product_class = "FUTURES"
-id = "zn2510"
-name = "沪锌2510"
-max_open_volume = 500
-min_open_volume = 1
-max_close_volume = 500
-min_close_volume = 1
-
-[instruments."CZCE.AP510"]
-exchange_id = "CZCE"
-ins_name_wh = "苹果2510"
-volume_multiple = 10
-price_tick = 1
-price_decs = 0
-py_wh = "pg,pingguo"
-product_id = "AP"
-product_short_name = "苹果"
-product_short_name_wh = "苹果"
-position_limit = 40
-product_class = "FUTURES"
-id = "AP510"
-name = "苹果2510"
-max_open_volume = 1000
-min_open_volume = 1
-max_close_volume = 1000
-min_close_volume = 1
-
-[instruments."CZCE.CY510"]
-exchange_id = "CZCE"
-ins_name_wh = "棉纱2510"
-volume_multiple = 5
-price_tick = 5
-price_decs = 0
-py_wh = "ms,miansha"
-product_id = "CY"
-product_short_name = "棉纱"
-product_short_name_wh = "棉纱"
-position_limit = 500
-product_class = "FUTURES"
-id = "CY510"
-name = "棉纱2510"
-max_open_volume = 1000
-min_open_volume = 1
-max_close_volume = 1000
-min_close_volume = 1
-
-[instruments."CZCE.FG510"]
-exchange_id = "CZCE"
-ins_name_wh = "玻璃2510"
-volume_multiple = 20
-price_tick = 1
-price_decs = 0
-py_wh = "bl,boli"
-product_id = "FG"
-product_short_name = "玻璃"
-product_short_name_wh = "玻璃"
-position_limit = 5000
-product_class = "FUTURES"
-id = "FG510"
-name = "玻璃2510"
-max_open_volume = 1000
-min_open_volume = 1
-max_close_volume = 1000
-min_close_volume = 1
-
-[instruments."CZCE.MA510"]
-exchange_id = "CZCE"
-ins_name_wh = "甲醇2510"
-volume_multiple = 10
-price_tick = 1
-price_decs = 0
-py_wh = "jc,jiachun"
-product_id = "MA"
-product_short_name = "甲醇"
-product_short_name_wh = "甲醇"
-position_limit = 3000
-product_class = "FUTURES"
-id = "MA510"
-name = "甲醇2510"
-max_open_volume = 1000
-min_open_volume = 1
-max_close_volume = 1000
-min_close_volume = 1
-
-[instruments."CZCE.PF510"]
-exchange_id = "CZCE"
-ins_name_wh = "短纤2510"
-volume_multiple = 5
-price_tick = 2
-price_decs = 0
-py_wh = "dx,duanxian"
-product_id = "PF"
-product_short_name = "短纤"
-product_short_name_wh = "短纤"
-position_limit = 1500
-product_class = "FUTURES"
-id = "PF510"
-name = "短纤2510"
-max_open_volume = 1000
-min_open_volume = 1
-max_close_volume = 1000
-min_close_volume = 1
-
-[instruments."CZCE.PK510"]
-exchange_id = "CZCE"
-ins_name_wh = "花生仁2510"
-volume_multiple = 5
-price_tick = 2
-price_decs = 0
-py_wh = "hsr,huashengren"
-product_id = "PK"
-product_short_name = "花生仁"
-product_short_name_wh = "花生仁"
-position_limit = 500
-product_class = "FUTURES"
-id = "PK510"
-name = "花生仁2510"
-max_open_volume = 1000
-min_open_volume = 1
-max_close_volume = 1000
-min_close_volume = 1
-
-[instruments."CZCE.PR510"]
-exchange_id = "CZCE"
-ins_name_wh = "瓶片2510"
-volume_multiple = 15
-price_tick = 2
-price_decs = 0
-py_wh = "pingpian,pp,pjz"
-product_id = "PR"
-product_short_name = "瓶片"
-product_short_name_wh = "瓶片"
-position_limit = 500
-product_class = "FUTURES"
-id = "PR510"
-name = "瓶片2510"
-max_open_volume = 1000
-min_open_volume = 1
-max_close_volume = 1000
-min_close_volume = 1
-
-[instruments."CZCE.PX510"]
-exchange_id = "CZCE"
-ins_name_wh = "对二甲苯2510"
-volume_multiple = 5
-price_tick = 2
-price_decs = 0
-py_wh = "duierjiaben,dejb"
-product_id = "PX"
-product_short_name = "对二甲苯"
-product_short_name_wh = "对二甲苯"
-position_limit = 3000
-product_class = "FUTURES"
-id = "PX510"
-name = "对二甲苯2510"
-max_open_volume = 1000
-min_open_volume = 1
-max_close_volume = 1000
-min_close_volume = 1
-
-[instruments."CZCE.SA510"]
-exchange_id = "CZCE"
-ins_name_wh = "纯碱2510"
-volume_multiple = 20
-price_tick = 1
-price_decs = 0
-py_wh = "cj,chunjian"
-product_id = "SA"
-product_short_name = "纯碱"
-product_short_name_wh = "纯碱"
-position_limit = 4000
-product_class = "FUTURES"
-id = "SA510"
-name = "纯碱2510"
-max_open_volume = 1000
-min_open_volume = 1
-max_close_volume = 1000
-min_close_volume = 1
-
-[instruments."CZCE.SF510"]
-exchange_id = "CZCE"
-ins_name_wh = "硅铁2510"
-volume_multiple = 5
-price_tick = 2
-price_decs = 0
-py_wh = "gt,guitie"
-product_id = "SF"
-product_short_name = "硅铁"
-product_short_name_wh = "硅铁"
-position_limit = 2000
-product_class = "FUTURES"
-id = "SF510"
-name = "硅铁2510"
-max_open_volume = 1000
-min_open_volume = 1
-max_close_volume = 1000
-min_close_volume = 1
-
-[instruments."CZCE.SH510"]
-exchange_id = "CZCE"
-ins_name_wh = "烧碱2510"
-volume_multiple = 30
-price_tick = 1
-price_decs = 0
-py_wh = "shaojian,sj"
-product_id = "SH"
-product_short_name = "烧碱"
-product_short_name_wh = "烧碱"
-position_limit = 600
-product_class = "FUTURES"
-id = "SH510"
-name = "烧碱2510"
-max_open_volume = 1000
-min_open_volume = 1
-max_close_volume = 1000
-min_close_volume = 1
-
-[instruments."CZCE.SM510"]
-exchange_id = "CZCE"
-ins_name_wh = "锰硅2510"
-volume_multiple = 5
-price_tick = 2
-price_decs = 0
-py_wh = "mg,menggui"
-product_id = "SM"
-product_short_name = "锰硅"
-product_short_name_wh = "锰硅"
-position_limit = 5000
-product_class = "FUTURES"
-id = "SM510"
-name = "锰硅2510"
-max_open_volume = 1000
-min_open_volume = 1
-max_close_volume = 1000
-min_close_volume = 1
-
-[instruments."CZCE.TA510"]
-exchange_id = "CZCE"
-ins_name_wh = "PTA2510"
-volume_multiple = 5
-price_tick = 2
-price_decs = 0
-py_wh = "pta"
-product_id = "TA"
-product_short_name = "PTA"
-product_short_name_wh = "PTA"
-position_limit = 10000
-product_class = "FUTURES"
-id = "TA510"
-name = "PTA2510"
-max_open_volume = 1000
-min_open_volume = 1
-max_close_volume = 1000
-min_close_volume = 1
-
-[instruments."CZCE.UR510"]
-exchange_id = "CZCE"
-ins_name_wh = "尿素2510"
-volume_multiple = 20
-price_tick = 1
-price_decs = 0
-py_wh = "ns,niaosu"
-product_id = "UR"
-product_short_name = "尿素"
-product_short_name_wh = "尿素"
-position_limit = 3000
-product_class = "FUTURES"
-id = "UR510"
-name = "尿素2510"
-max_open_volume = 1000
-min_open_volume = 1
-max_close_volume = 1000
-min_close_volume = 1
-
-[instruments."DCE.b2510"]
-exchange_id = "DCE"
-ins_name_wh = "豆二2510"
-volume_multiple = 10
-price_tick = 1
-price_decs = 0
-py_wh = "de,douer"
-product_id = "b"
-product_short_name = "豆二"
-product_short_name_wh = "豆二"
-position_limit = 3000
-product_class = "FUTURES"
-id = "b2510"
-name = "豆二2510"
-max_open_volume = 1000
-min_open_volume = 1
-max_close_volume = 1000
-min_close_volume = 1
-
-[instruments."DCE.fb2510"]
-exchange_id = "DCE"
-ins_name_wh = "纤板2510"
-volume_multiple = 10
-price_tick = 0.5
-price_decs = 1
-py_wh = "xb,xianban,xwb,xianweiban"
-product_id = "fb"
-product_short_name = "纤板"
-product_short_name_wh = "纤板"
-position_limit = 800
-product_class = "FUTURES"
-id = "fb2510"
-name = "纤板2510"
-max_open_volume = 1000
-min_open_volume = 1
-max_close_volume = 1000
-min_close_volume = 1
-
-[instruments."DCE.i2510"]
-exchange_id = "DCE"
-ins_name_wh = "铁矿2510"
-volume_multiple = 100
-price_tick = 0.5
-price_decs = 1
-py_wh = "tk,tiekuang"
-product_id = "i"
-product_short_name = "铁矿"
-product_short_name_wh = "铁矿"
-position_limit = 6000
-product_class = "FUTURES"
-id = "i2510"
-name = "铁矿2510"
-max_open_volume = 1000
-min_open_volume = 1
-max_close_volume = 1000
-min_close_volume = 1
-
-[instruments."DCE.j2510"]
-exchange_id = "DCE"
-ins_name_wh = "焦炭2510"
-volume_multiple = 100
-price_tick = 0.5
-price_decs = 1
-py_wh = "jt,jiaotan"
-product_id = "j"
-product_short_name = "焦炭"
-product_short_name_wh = "焦炭"
-position_limit = 300
-product_class = "FUTURES"
-id = "j2510"
-name = "焦炭2510"
-max_open_volume = 500
-min_open_volume = 1
-max_close_volume = 500
-min_close_volume = 1
-
-[instruments."DCE.jm2510"]
-exchange_id = "DCE"
-ins_name_wh = "焦煤2510"
-volume_multiple = 60
-price_tick = 0.5
-price_decs = 1
-py_wh = "jm,jiaomei"
-product_id = "jm"
-product_short_name = "焦煤"
-product_short_name_wh = "焦煤"
-position_limit = 500
-product_class = "FUTURES"
-id = "jm2510"
-name = "焦煤2510"
-max_open_volume = 1000
-min_open_volume = 1
-max_close_volume = 1000
-min_close_volume = 1
-
-[instruments."DCE.l2510"]
-exchange_id = "DCE"
-ins_name_wh = "塑料2510"
-volume_multiple = 5
-price_tick = 1
-price_decs = 0
-py_wh = "sl,suliao"
-product_id = "l"
-product_short_name = "塑料"
-product_short_name_wh = "塑料"
-position_limit = 5000
-product_class = "FUTURES"
-id = "l2510"
-name = "塑料2510"
-max_open_volume = 1000
-min_open_volume = 1
-max_close_volume = 1000
-min_close_volume = 1
-
-[instruments."DCE.p2510"]
-exchange_id = "DCE"
-ins_name_wh = "棕榈2510"
-volume_multiple = 10
-price_tick = 2
-price_decs = 0
-py_wh = "zl,zonglv"
-product_id = "p"
-product_short_name = "棕榈"
-product_short_name_wh = "棕榈"
-position_limit = 1500
-product_class = "FUTURES"
-id = "p2510"
-name = "棕榈2510"
-max_open_volume = 1000
-min_open_volume = 1
-max_close_volume = 1000
-min_close_volume = 1
-
-[instruments."DCE.pp2510"]
-exchange_id = "DCE"
-ins_name_wh = "聚丙烯2510"
-volume_multiple = 5
-price_tick = 1
-price_decs = 0
-py_wh = "jbx, jvbingxi"
-product_id = "pp"
-product_short_name = "PP"
-product_short_name_wh = "聚丙烯"
-position_limit = 5000
-product_class = "FUTURES"
-id = "pp2510"
-name = "PP2510"
-max_open_volume = 1000
-min_open_volume = 1
-max_close_volume = 1000
-min_close_volume = 1
-
-[instruments."DCE.rr2510"]
-exchange_id = "DCE"
-ins_name_wh = "粳米2510"
-volume_multiple = 10
-price_tick = 1
-price_decs = 0
-py_wh = "jm,jingmi"
-product_id = "rr"
-product_short_name = "粳米"
-product_short_name_wh = "粳米"
-position_limit = 2000
-product_class = "FUTURES"
-id = "rr2510"
-name = "粳米2510"
-max_open_volume = 1000
-min_open_volume = 1
-max_close_volume = 1000
-min_close_volume = 1
-
-[instruments."DCE.v2510"]
-exchange_id = "DCE"
-ins_name_wh = "PVC2510"
-volume_multiple = 5
-price_tick = 1
-price_decs = 0
-py_wh = "pvc"
-product_id = "v"
-product_short_name = "PVC"
-product_short_name_wh = "PVC"
-position_limit = 5000
-product_class = "FUTURES"
-id = "v2510"
-name = "PVC2510"
-max_open_volume = 1000
-min_open_volume = 1
-max_close_volume = 1000
-min_close_volume = 1
-
-[instruments."GFEX.lc2510"]
-exchange_id = "GFEX"
-ins_name_wh = "碳酸锂2510"
-volume_multiple = 1
-price_tick = 20
-price_decs = 0
-py_wh = "tsl,tansuanli"
-product_id = "lc"
-product_short_name = "碳酸锂"
-product_short_name_wh = "碳酸锂"
-position_limit = 1000
-product_class = "FUTURES"
-id = "lc2510"
-name = "碳酸锂2510"
-max_open_volume = 1000
-min_open_volume = 1
-max_close_volume = 1000
-min_close_volume = 1
-
-[instruments."GFEX.si2510"]
-exchange_id = "GFEX"
-ins_name_wh = "工业硅2510"
-volume_multiple = 5
-price_tick = 5
-price_decs = 0
-py_wh = "gyg,gongyegui"
-product_id = "si"
-product_short_name = "工业硅"
-product_short_name_wh = "工业硅"
-position_limit = 900
-product_class = "FUTURES"
-id = "si2510"
-name = "工业硅2510"
-max_open_volume = 1000
-min_open_volume = 1
-max_close_volume = 1000
-min_close_volume = 1
-
-[instruments."INE.ec2510"]
-exchange_id = "INE"
-ins_name_wh = "欧线集运2510"
-volume_multiple = 50
-price_tick = 0.1
-price_decs = 1
-py_wh = "jyzs,jiyunzhishu,ozhx,ouzhouhangxian,ouxianjiyunzhishu,oxjyzs，ouxianjiyun,oxjy"
-product_id = "ec"
-product_short_name = "欧线集运"
-product_short_name_wh = "欧线集运"
-position_limit = 1200
-product_class = "FUTURES"
-id = "ec2510"
-name = "欧线集运2510"
-max_open_volume = 500
-min_open_volume = 1
-max_close_volume = 500
-min_close_volume = 1
-
-[instruments."DCE.eb2510"]
-exchange_id = "DCE"
-ins_name_wh = "苯乙烯2510"
-volume_multiple = 5
-price_tick = 1
-price_decs = 0
-py_wh = "byx,benyixi"
-product_id = "eb"
-product_short_name = "苯乙烯"
-product_short_name_wh = "苯乙烯"
-position_limit = 2000
-product_class = "FUTURES"
-id = "eb2510"
-name = "苯乙烯2510"
-max_open_volume = 1000
-min_open_volume = 1
-max_close_volume = 1000
-min_close_volume = 1
-
-[instruments."DCE.eg2510"]
-exchange_id = "DCE"
-ins_name_wh = "乙二醇2510"
-volume_multiple = 10
-price_tick = 1
-price_decs = 0
-py_wh = "gc,ganchun,yec,yierchun"
-product_id = "eg"
-product_short_name = "甘醇"
-product_short_name_wh = "乙二醇"
-position_limit = 3000
-product_class = "FUTURES"
-id = "eg2510"
-name = "甘醇2510"
-max_open_volume = 1000
-min_open_volume = 1
-max_close_volume = 1000
-min_close_volume = 1
-
-[instruments."DCE.jd2510"]
-exchange_id = "DCE"
-ins_name_wh = "鸡蛋2510"
-volume_multiple = 10
-price_tick = 1
-price_decs = 0
-py_wh = "jd,jidan"
-product_id = "jd"
-product_short_name = "鸡蛋"
-product_short_name_wh = "鸡蛋"
-position_limit = 120
-product_class = "FUTURES"
-id = "jd2510"
-name = "鸡蛋2510"
-max_open_volume = 300
-min_open_volume = 1
-max_close_volume = 300
-min_close_volume = 1
-
-[instruments."DCE.pg2510"]
-exchange_id = "DCE"
-ins_name_wh = "液化气2510"
-volume_multiple = 20
-price_tick = 1
-price_decs = 0
-py_wh = "yhq,yehuaqi,yehuashiyouqi,yhsyq,shiyouqi"
-product_id = "pg"
-product_short_name = "LPG"
-product_short_name_wh = "液化气"
-position_limit = 1000
-product_class = "FUTURES"
-id = "pg2510"
-name = "LPG2510"
-max_open_volume = 1000
-min_open_volume = 1
-max_close_volume = 1000
-min_close_volume = 1
-
-[instruments."INE.lu2511"]
-exchange_id = "INE"
-ins_name_wh = "低硫油2511"
-volume_multiple = 10
-price_tick = 1
-price_decs = 0
-py_wh = "dly,diliuyou"
-product_id = "lu"
-product_short_name = "低硫燃料油"
-product_short_name_wh = "低硫油"
-position_limit = 1500
-product_class = "FUTURES"
-id = "lu2511"
-name = "低硫燃料油2511"
-max_open_volume = 500
-min_open_volume = 1
-max_close_volume = 500
-min_close_volume = 1
-
-[instruments."INE.sc2511"]
-exchange_id = "INE"
-ins_name_wh = "原油2511"
-volume_multiple = 1000
-price_tick = 0.1
-price_decs = 1
-py_wh = "yy,yuanyou"
-product_id = "sc"
-product_short_name = "原油"
-product_short_name_wh = "原油"
-position_limit = 1500
-product_class = "FUTURES"
-id = "sc2511"
-name = "原油2511"
-max_open_volume = 500
-min_open_volume = 1
-max_close_volume = 500
-min_close_volume = 1
-
-[instruments."SHFE.fu2511"]
-exchange_id = "SHFE"
-ins_name_wh = "燃油2511"
-volume_multiple = 10
-price_tick = 1
-price_decs = 0
-py_wh = "ry,ranyou,rly"
-product_id = "fu"
-product_short_name = "燃油"
-product_short_name_wh = "燃油"
-position_limit = 7500
-product_class = "FUTURES"
-id = "fu2511"
-name = "燃油2511"
-max_open_volume = 500
-min_open_volume = 1
-max_close_volume = 500
-min_close_volume = 1
-
 [instruments."CZCE.ZC511"]
 exchange_id = "CZCE"
 ins_name_wh = "动力煤2511"
@@ -2880,7 +1797,7 @@ py_wh = "zm,zhengmei,dlm,donglimei"
 product_id = "ZC"
 product_short_name = "郑煤"
 product_short_name_wh = "动力煤"
-position_limit = 2000
+position_limit = 0
 product_class = "FUTURES"
 id = "ZC511"
 name = "郑煤2511"
@@ -2899,7 +1816,7 @@ py_wh = "pg,pingguo"
 product_id = "AP"
 product_short_name = "苹果"
 product_short_name_wh = "苹果"
-position_limit = 1000
+position_limit = 0
 product_class = "FUTURES"
 id = "AP511"
 name = "苹果2511"
@@ -2918,7 +1835,7 @@ py_wh = "mh,mianhua"
 product_id = "CF"
 product_short_name = "棉花"
 product_short_name_wh = "棉花"
-position_limit = 22733
+position_limit = 0
 product_class = "FUTURES"
 id = "CF511"
 name = "棉花2511"
@@ -2937,7 +1854,7 @@ py_wh = "ms,miansha"
 product_id = "CY"
 product_short_name = "棉纱"
 product_short_name_wh = "棉纱"
-position_limit = 5000
+position_limit = 0
 product_class = "FUTURES"
 id = "CY511"
 name = "棉纱2511"
@@ -2956,7 +1873,7 @@ py_wh = "bl,boli"
 product_id = "FG"
 product_short_name = "玻璃"
 product_short_name_wh = "玻璃"
-position_limit = 20000
+position_limit = 0
 product_class = "FUTURES"
 id = "FG511"
 name = "玻璃2511"
@@ -2975,7 +1892,7 @@ py_wh = "jd,jingdao"
 product_id = "JR"
 product_short_name = "粳稻"
 product_short_name_wh = "粳稻"
-position_limit = 20000
+position_limit = 0
 product_class = "FUTURES"
 id = "JR511"
 name = "粳稻2511"
@@ -2994,7 +1911,7 @@ py_wh = "wd,wandao,wxd,wanxiandao"
 product_id = "LR"
 product_short_name = "晚稻"
 product_short_name_wh = "晚稻"
-position_limit = 20000
+position_limit = 0
 product_class = "FUTURES"
 id = "LR511"
 name = "晚稻2511"
@@ -3013,7 +1930,7 @@ py_wh = "jc,jiachun"
 product_id = "MA"
 product_short_name = "甲醇"
 product_short_name_wh = "甲醇"
-position_limit = 30000
+position_limit = 0
 product_class = "FUTURES"
 id = "MA511"
 name = "甲醇2511"
@@ -3032,7 +1949,7 @@ py_wh = "cy,caiyou,czy,cz"
 product_id = "OI"
 product_short_name = "菜油"
 product_short_name_wh = "菜油"
-position_limit = 16762
+position_limit = 0
 product_class = "FUTURES"
 id = "OI511"
 name = "菜油2511"
@@ -3051,7 +1968,7 @@ py_wh = "dx,duanxian"
 product_id = "PF"
 product_short_name = "短纤"
 product_short_name_wh = "短纤"
-position_limit = 34658
+position_limit = 0
 product_class = "FUTURES"
 id = "PF511"
 name = "短纤2511"
@@ -3070,7 +1987,7 @@ py_wh = "hsr,huashengren"
 product_id = "PK"
 product_short_name = "花生仁"
 product_short_name_wh = "花生仁"
-position_limit = 5000
+position_limit = 0
 product_class = "FUTURES"
 id = "PK511"
 name = "花生仁2511"
@@ -3089,7 +2006,7 @@ py_wh = "pm,pumai"
 product_id = "PM"
 product_short_name = "普麦"
 product_short_name_wh = "普麦"
-position_limit = 2000
+position_limit = 0
 product_class = "FUTURES"
 id = "PM511"
 name = "普麦2511"
@@ -3108,7 +2025,7 @@ py_wh = "pingpian,pp,pjz"
 product_id = "PR"
 product_short_name = "瓶片"
 product_short_name_wh = "瓶片"
-position_limit = 7009
+position_limit = 0
 product_class = "FUTURES"
 id = "PR511"
 name = "瓶片2511"
@@ -3127,7 +2044,7 @@ py_wh = "duierjiaben,dejb"
 product_id = "PX"
 product_short_name = "对二甲苯"
 product_short_name_wh = "对二甲苯"
-position_limit = 6000
+position_limit = 0
 product_class = "FUTURES"
 id = "PX511"
 name = "对二甲苯2511"
@@ -3146,7 +2063,7 @@ py_wh = "zd,zaodao,zxd,zaoxiandao"
 product_id = "RI"
 product_short_name = "早稻"
 product_short_name_wh = "早稻"
-position_limit = 7500
+position_limit = 0
 product_class = "FUTURES"
 id = "RI511"
 name = "早稻2511"
@@ -3165,7 +2082,7 @@ py_wh = "cp,caipo,czp,cz"
 product_id = "RM"
 product_short_name = "菜粕"
 product_short_name_wh = "菜粕"
-position_limit = 20000
+position_limit = 0
 product_class = "FUTURES"
 id = "RM511"
 name = "菜粕2511"
@@ -3184,7 +2101,7 @@ py_wh = "cz,caizi,ycz,youcaizi"
 product_id = "RS"
 product_short_name = "菜籽"
 product_short_name_wh = "菜籽"
-position_limit = 10000
+position_limit = 0
 product_class = "FUTURES"
 id = "RS511"
 name = "菜籽2511"
@@ -3203,7 +2120,7 @@ py_wh = "cj,chunjian"
 product_id = "SA"
 product_short_name = "纯碱"
 product_short_name_wh = "纯碱"
-position_limit = 26154
+position_limit = 0
 product_class = "FUTURES"
 id = "SA511"
 name = "纯碱2511"
@@ -3222,7 +2139,7 @@ py_wh = "gt,guitie"
 product_id = "SF"
 product_short_name = "硅铁"
 product_short_name_wh = "硅铁"
-position_limit = 10000
+position_limit = 0
 product_class = "FUTURES"
 id = "SF511"
 name = "硅铁2511"
@@ -3241,7 +2158,7 @@ py_wh = "shaojian,sj"
 product_id = "SH"
 product_short_name = "烧碱"
 product_short_name_wh = "烧碱"
-position_limit = 4000
+position_limit = 0
 product_class = "FUTURES"
 id = "SH511"
 name = "烧碱2511"
@@ -3260,7 +2177,7 @@ py_wh = "mg,menggui"
 product_id = "SM"
 product_short_name = "锰硅"
 product_short_name_wh = "锰硅"
-position_limit = 30000
+position_limit = 0
 product_class = "FUTURES"
 id = "SM511"
 name = "锰硅2511"
@@ -3279,7 +2196,7 @@ py_wh = "bt,baitang"
 product_id = "SR"
 product_short_name = "白糖"
 product_short_name_wh = "白糖"
-position_limit = 30000
+position_limit = 0
 product_class = "FUTURES"
 id = "SR511"
 name = "白糖2511"
@@ -3298,7 +2215,7 @@ py_wh = "pta"
 product_id = "TA"
 product_short_name = "PTA"
 product_short_name_wh = "PTA"
-position_limit = 50000
+position_limit = 0
 product_class = "FUTURES"
 id = "TA511"
 name = "PTA2511"
@@ -3317,7 +2234,7 @@ py_wh = "ns,niaosu"
 product_id = "UR"
 product_short_name = "尿素"
 product_short_name_wh = "尿素"
-position_limit = 10000
+position_limit = 0
 product_class = "FUTURES"
 id = "UR511"
 name = "尿素2511"
@@ -3336,7 +2253,7 @@ py_wh = "qm, qiangmai"
 product_id = "WH"
 product_short_name = "强麦"
 product_short_name_wh = "强麦"
-position_limit = 1000
+position_limit = 0
 product_class = "FUTURES"
 id = "WH511"
 name = "强麦2511"
@@ -3355,7 +2272,7 @@ py_wh = "dy,douyi"
 product_id = "a"
 product_short_name = "豆一"
 product_short_name_wh = "豆一"
-position_limit = 42218
+position_limit = 0
 product_class = "FUTURES"
 id = "a2511"
 name = "豆一2511"
@@ -3374,7 +2291,7 @@ py_wh = "de,douer"
 product_id = "b"
 product_short_name = "豆二"
 product_short_name_wh = "豆二"
-position_limit = 12016
+position_limit = 0
 product_class = "FUTURES"
 id = "b2511"
 name = "豆二2511"
@@ -3393,7 +2310,7 @@ py_wh = "ym,yumi"
 product_id = "c"
 product_short_name = "玉米"
 product_short_name_wh = "玉米"
-position_limit = 79795
+position_limit = 0
 product_class = "FUTURES"
 id = "c2511"
 name = "玉米2511"
@@ -3412,7 +2329,7 @@ py_wh = "df,dianfen"
 product_id = "cs"
 product_short_name = "淀粉"
 product_short_name_wh = "淀粉"
-position_limit = 43421
+position_limit = 0
 product_class = "FUTURES"
 id = "cs2511"
 name = "淀粉2511"
@@ -3431,7 +2348,7 @@ py_wh = "xb,xianban,xwb,xianweiban"
 product_id = "fb"
 product_short_name = "纤板"
 product_short_name_wh = "纤板"
-position_limit = 30000
+position_limit = 0
 product_class = "FUTURES"
 id = "fb2511"
 name = "纤板2511"
@@ -3450,7 +2367,7 @@ py_wh = "tk,tiekuang"
 product_id = "i"
 product_short_name = "铁矿"
 product_short_name_wh = "铁矿"
-position_limit = 15000
+position_limit = 0
 product_class = "FUTURES"
 id = "i2511"
 name = "铁矿2511"
@@ -3469,7 +2386,7 @@ py_wh = "jt,jiaotan"
 product_id = "j"
 product_short_name = "焦炭"
 product_short_name_wh = "焦炭"
-position_limit = 5000
+position_limit = 0
 product_class = "FUTURES"
 id = "j2511"
 name = "焦炭2511"
@@ -3488,7 +2405,7 @@ py_wh = "jm,jiaomei"
 product_id = "jm"
 product_short_name = "焦煤"
 product_short_name_wh = "焦煤"
-position_limit = 8000
+position_limit = 0
 product_class = "FUTURES"
 id = "jm2511"
 name = "焦煤2511"
@@ -3507,7 +2424,7 @@ py_wh = "sl,suliao"
 product_id = "l"
 product_short_name = "塑料"
 product_short_name_wh = "塑料"
-position_limit = 20000
+position_limit = 0
 product_class = "FUTURES"
 id = "l2511"
 name = "塑料2511"
@@ -3526,7 +2443,7 @@ py_wh = "dp,doupo"
 product_id = "m"
 product_short_name = "豆粕"
 product_short_name_wh = "豆粕"
-position_limit = 103060
+position_limit = 0
 product_class = "FUTURES"
 id = "m2511"
 name = "豆粕2511"
@@ -3545,7 +2462,7 @@ py_wh = "zl,zonglv"
 product_id = "p"
 product_short_name = "棕榈"
 product_short_name_wh = "棕榈"
-position_limit = 10000
+position_limit = 0
 product_class = "FUTURES"
 id = "p2511"
 name = "棕榈2511"
@@ -3564,7 +2481,7 @@ py_wh = "jbx, jvbingxi"
 product_id = "pp"
 product_short_name = "PP"
 product_short_name_wh = "聚丙烯"
-position_limit = 20000
+position_limit = 0
 product_class = "FUTURES"
 id = "pp2511"
 name = "PP2511"
@@ -3583,7 +2500,7 @@ py_wh = "jm,jingmi"
 product_id = "rr"
 product_short_name = "粳米"
 product_short_name_wh = "粳米"
-position_limit = 20000
+position_limit = 0
 product_class = "FUTURES"
 id = "rr2511"
 name = "粳米2511"
@@ -3602,7 +2519,7 @@ py_wh = "pvc"
 product_id = "v"
 product_short_name = "PVC"
 product_short_name_wh = "PVC"
-position_limit = 20000
+position_limit = 0
 product_class = "FUTURES"
 id = "v2511"
 name = "PVC2511"
@@ -3621,7 +2538,7 @@ py_wh = "dy,douyou"
 product_id = "y"
 product_short_name = "豆油"
 product_short_name_wh = "豆油"
-position_limit = 20000
+position_limit = 0
 product_class = "FUTURES"
 id = "y2511"
 name = "豆油2511"
@@ -3640,7 +2557,7 @@ py_wh = "tsl,tansuanli"
 product_id = "lc"
 product_short_name = "碳酸锂"
 product_short_name_wh = "碳酸锂"
-position_limit = 27162
+position_limit = 0
 product_class = "FUTURES"
 id = "lc2511"
 name = "碳酸锂2511"
@@ -3659,7 +2576,7 @@ py_wh = "gyg,gongyegui"
 product_id = "si"
 product_short_name = "工业硅"
 product_short_name_wh = "工业硅"
-position_limit = 28549
+position_limit = 0
 product_class = "FUTURES"
 id = "si2511"
 name = "工业硅2511"
@@ -3678,7 +2595,7 @@ py_wh = "gjt,guojitong"
 product_id = "bc"
 product_short_name = "国际铜"
 product_short_name_wh = "国际铜"
-position_limit = 7000
+position_limit = 700
 product_class = "FUTURES"
 id = "bc2511"
 name = "国际铜2511"
@@ -3697,32 +2614,13 @@ py_wh = "eshj,ershihaojiao,20"
 product_id = "nr"
 product_short_name = "20号胶"
 product_short_name_wh = "20号胶"
-position_limit = 2000
+position_limit = 200
 product_class = "FUTURES"
 id = "nr2511"
 name = "20号胶2511"
 max_open_volume = 500
 min_open_volume = 1
 max_close_volume = 500
-min_close_volume = 1
-
-[instruments."DCE.lg2509"]
-exchange_id = "DCE"
-ins_name_wh = "原木2509"
-volume_multiple = 90
-price_tick = 0.5
-price_decs = 1
-py_wh = "yuanmu,ym,lg,log"
-product_id = "lg"
-product_short_name = "原木"
-product_short_name_wh = "原木"
-position_limit = 0
-product_class = "FUTURES"
-id = "lg2509"
-name = "原木2509"
-max_open_volume = 1000
-min_open_volume = 1
-max_close_volume = 1000
 min_close_volume = 1
 
 [instruments."DCE.lg2511"]
@@ -3735,7 +2633,7 @@ py_wh = "yuanmu,ym,lg,log"
 product_id = "lg"
 product_short_name = "原木"
 product_short_name_wh = "原木"
-position_limit = 1500
+position_limit = 0
 product_class = "FUTURES"
 id = "lg2511"
 name = "原木2511"
@@ -3754,7 +2652,7 @@ py_wh = "hy,huyin"
 product_id = "ag"
 product_short_name = "沪银"
 product_short_name_wh = "沪银"
-position_limit = 9000
+position_limit = 900
 product_class = "FUTURES"
 id = "ag2511"
 name = "沪银2511"
@@ -3773,7 +2671,7 @@ py_wh = "hl,hulv"
 product_id = "al"
 product_short_name = "沪铝"
 product_short_name_wh = "沪铝"
-position_limit = 47213
+position_limit = 1000
 product_class = "FUTURES"
 id = "al2511"
 name = "沪铝2511"
@@ -3792,7 +2690,7 @@ py_wh = "yhl,yanghualv"
 product_id = "ao"
 product_short_name = "氧化铝"
 product_short_name_wh = "氧化铝"
-position_limit = 8469
+position_limit = 600
 product_class = "FUTURES"
 id = "ao2511"
 name = "氧化铝2511"
@@ -3811,7 +2709,7 @@ py_wh = "lq,liqing"
 product_id = "bu"
 product_short_name = "沥青"
 product_short_name_wh = "沥青"
-position_limit = 8000
+position_limit = 500
 product_class = "FUTURES"
 id = "bu2511"
 name = "沥青2511"
@@ -3830,7 +2728,7 @@ py_wh = "hj,hujin"
 product_id = "au"
 product_short_name = "沪金"
 product_short_name_wh = "沪金"
-position_limit = 9000
+position_limit = 2700
 product_class = "FUTURES"
 id = "au2512"
 name = "沪金2512"
@@ -3849,7 +2747,7 @@ py_wh = "dingerxixiangjiao,dexxj,dingxiangjiao,dxj,shundingxiangjiao,sdxj"
 product_id = "br"
 product_short_name = "丁橡胶"
 product_short_name_wh = "丁橡胶"
-position_limit = 14061
+position_limit = 60
 product_class = "FUTURES"
 id = "br2511"
 name = "丁橡胶2511"
@@ -3868,7 +2766,7 @@ py_wh = "ht,hutong"
 product_id = "cu"
 product_short_name = "沪铜"
 product_short_name_wh = "沪铜"
-position_limit = 35392
+position_limit = 1000
 product_class = "FUTURES"
 id = "cu2511"
 name = "沪铜2511"
@@ -3887,7 +2785,7 @@ py_wh = "rj,rejuan"
 product_id = "hc"
 product_short_name = "热卷"
 product_short_name_wh = "热卷"
-position_limit = 120000
+position_limit = 1800
 product_class = "FUTURES"
 id = "hc2511"
 name = "热卷2511"
@@ -3906,7 +2804,7 @@ py_wh = "hn,hunie"
 product_id = "ni"
 product_short_name = "沪镍"
 product_short_name_wh = "沪镍"
-position_limit = 15602
+position_limit = 600
 product_class = "FUTURES"
 id = "ni2511"
 name = "沪镍2511"
@@ -3925,7 +2823,7 @@ py_wh = "hq,huqian"
 product_id = "pb"
 product_short_name = "沪铅"
 product_short_name_wh = "沪铅"
-position_limit = 12121
+position_limit = 600
 product_class = "FUTURES"
 id = "pb2511"
 name = "沪铅2511"
@@ -3944,7 +2842,7 @@ py_wh = "xj,xiangjiao"
 product_id = "ru"
 product_short_name = "橡胶"
 product_short_name_wh = "橡胶"
-position_limit = 500
+position_limit = 50
 product_class = "FUTURES"
 id = "ru2511"
 name = "橡胶2511"
@@ -3963,7 +2861,7 @@ py_wh = "lw,luoweng"
 product_id = "rb"
 product_short_name = "螺纹"
 product_short_name_wh = "螺纹"
-position_limit = 90000
+position_limit = 900
 product_class = "FUTURES"
 id = "rb2511"
 name = "螺纹2511"
@@ -3982,7 +2880,7 @@ py_wh = "hx,huxi"
 product_id = "sn"
 product_short_name = "沪锡"
 product_short_name_wh = "沪锡"
-position_limit = 4304
+position_limit = 200
 product_class = "FUTURES"
 id = "sn2511"
 name = "沪锡2511"
@@ -4001,7 +2899,7 @@ py_wh = "zj,zhijiang"
 product_id = "sp"
 product_short_name = "纸浆"
 product_short_name_wh = "纸浆"
-position_limit = 4500
+position_limit = 300
 product_class = "FUTURES"
 id = "sp2511"
 name = "纸浆2511"
@@ -4020,7 +2918,7 @@ py_wh = "bxg,buxiugang"
 product_id = "ss"
 product_short_name = "不锈钢"
 product_short_name_wh = "不锈钢"
-position_limit = 26003
+position_limit = 360
 product_class = "FUTURES"
 id = "ss2511"
 name = "不锈钢2511"
@@ -4039,7 +2937,7 @@ py_wh = "xc,xiancai"
 product_id = "wr"
 product_short_name = "线材"
 product_short_name_wh = "线材"
-position_limit = 22500
+position_limit = 360
 product_class = "FUTURES"
 id = "wr2511"
 name = "线材2511"
@@ -4058,7 +2956,7 @@ py_wh = "hx,huxin"
 product_id = "zn"
 product_short_name = "沪锌"
 product_short_name_wh = "沪锌"
-position_limit = 26085
+position_limit = 800
 product_class = "FUTURES"
 id = "zn2511"
 name = "沪锌2511"
@@ -4077,7 +2975,7 @@ py_wh = "byx,benyixi"
 product_id = "eb"
 product_short_name = "苯乙烯"
 product_short_name_wh = "苯乙烯"
-position_limit = 75922
+position_limit = 0
 product_class = "FUTURES"
 id = "eb2511"
 name = "苯乙烯2511"
@@ -4096,7 +2994,7 @@ py_wh = "gc,ganchun,yec,yierchun"
 product_id = "eg"
 product_short_name = "甘醇"
 product_short_name_wh = "乙二醇"
-position_limit = 8000
+position_limit = 0
 product_class = "FUTURES"
 id = "eg2511"
 name = "甘醇2511"
@@ -4115,7 +3013,7 @@ py_wh = "jd,jidan"
 product_id = "jd"
 product_short_name = "鸡蛋"
 product_short_name_wh = "鸡蛋"
-position_limit = 1200
+position_limit = 0
 product_class = "FUTURES"
 id = "jd2511"
 name = "鸡蛋2511"
@@ -4134,7 +3032,7 @@ py_wh = "sz,shengzhu"
 product_id = "lh"
 product_short_name = "生猪"
 product_short_name_wh = "生猪"
-position_limit = 500
+position_limit = 0
 product_class = "FUTURES"
 id = "lh2511"
 name = "生猪2511"
@@ -4153,7 +3051,7 @@ py_wh = "yhq,yehuaqi,yehuashiyouqi,yhsyq,shiyouqi"
 product_id = "pg"
 product_short_name = "LPG"
 product_short_name_wh = "液化气"
-position_limit = 16235
+position_limit = 0
 product_class = "FUTURES"
 id = "pg2511"
 name = "LPG2511"
@@ -4172,7 +3070,7 @@ py_wh = "dly,diliuyou"
 product_id = "lu"
 product_short_name = "低硫燃料油"
 product_short_name_wh = "低硫油"
-position_limit = 11771
+position_limit = 500
 product_class = "FUTURES"
 id = "lu2512"
 name = "低硫燃料油2512"
@@ -4210,6 +3108,7 @@ py_wh = "ry,ranyou,rly"
 product_id = "fu"
 product_short_name = "燃油"
 product_short_name_wh = "燃油"
+position_limit = 500
 product_class = "FUTURES"
 id = "fu2512"
 name = "燃油2512"
@@ -4228,7 +3127,7 @@ py_wh = "zm,zhengmei,dlm,donglimei"
 product_id = "ZC"
 product_short_name = "郑煤"
 product_short_name_wh = "动力煤"
-position_limit = 2000
+position_limit = 1000
 product_class = "FUTURES"
 id = "ZC512"
 name = "郑煤2512"
@@ -4247,7 +3146,7 @@ py_wh = "pg,pingguo"
 product_id = "AP"
 product_short_name = "苹果"
 product_short_name_wh = "苹果"
-position_limit = 1000
+position_limit = 200
 product_class = "FUTURES"
 id = "AP512"
 name = "苹果2512"
@@ -4266,7 +3165,7 @@ py_wh = "hz,hongzao"
 product_id = "CJ"
 product_short_name = "红枣"
 product_short_name_wh = "红枣"
-position_limit = 600
+position_limit = 200
 product_class = "FUTURES"
 id = "CJ512"
 name = "红枣2512"
@@ -4342,7 +3241,7 @@ py_wh = "dx,duanxian"
 product_id = "PF"
 product_short_name = "短纤"
 product_short_name_wh = "短纤"
-position_limit = 12166
+position_limit = 21310
 product_class = "FUTURES"
 id = "PF512"
 name = "短纤2512"
@@ -4399,7 +3298,7 @@ py_wh = "duierjiaben,dejb"
 product_id = "PX"
 product_short_name = "对二甲苯"
 product_short_name_wh = "对二甲苯"
-position_limit = 6000
+position_limit = 4000
 product_class = "FUTURES"
 id = "PX512"
 name = "对二甲苯2512"
@@ -4570,7 +3469,7 @@ py_wh = "tk,tiekuang"
 product_id = "i"
 product_short_name = "铁矿"
 product_short_name_wh = "铁矿"
-position_limit = 7500
+position_limit = 6000
 product_class = "FUTURES"
 id = "i2512"
 name = "铁矿2512"
@@ -4760,7 +3659,7 @@ py_wh = "tsl,tansuanli"
 product_id = "lc"
 product_short_name = "碳酸锂"
 product_short_name_wh = "碳酸锂"
-position_limit = 8059
+position_limit = 6770
 product_class = "FUTURES"
 id = "lc2512"
 name = "碳酸锂2512"
@@ -4779,7 +3678,7 @@ py_wh = "gyg,gongyegui"
 product_id = "si"
 product_short_name = "工业硅"
 product_short_name_wh = "工业硅"
-position_limit = 9563
+position_limit = 7087
 product_class = "FUTURES"
 id = "si2512"
 name = "工业硅2512"
@@ -4798,7 +3697,7 @@ py_wh = "gjt,guojitong"
 product_id = "bc"
 product_short_name = "国际铜"
 product_short_name_wh = "国际铜"
-position_limit = 7000
+position_limit = 3500
 product_class = "FUTURES"
 id = "bc2512"
 name = "国际铜2512"
@@ -4817,7 +3716,7 @@ py_wh = "eshj,ershihaojiao,20"
 product_id = "nr"
 product_short_name = "20号胶"
 product_short_name_wh = "20号胶"
-position_limit = 2000
+position_limit = 600
 product_class = "FUTURES"
 id = "nr2512"
 name = "20号胶2512"
@@ -4836,7 +3735,7 @@ py_wh = "hy,huyin"
 product_id = "ag"
 product_short_name = "沪银"
 product_short_name_wh = "沪银"
-position_limit = 9000
+position_limit = 2700
 product_class = "FUTURES"
 id = "ag2512"
 name = "沪银2512"
@@ -4855,7 +3754,7 @@ py_wh = "hl,hulv"
 product_id = "al"
 product_short_name = "沪铝"
 product_short_name_wh = "沪铝"
-position_limit = 20175
+position_limit = 3000
 product_class = "FUTURES"
 id = "al2512"
 name = "沪铝2512"
@@ -4874,7 +3773,7 @@ py_wh = "yhl,yanghualv"
 product_id = "ao"
 product_short_name = "氧化铝"
 product_short_name_wh = "氧化铝"
-position_limit = 5000
+position_limit = 1800
 product_class = "FUTURES"
 id = "ao2512"
 name = "氧化铝2512"
@@ -4893,7 +3792,7 @@ py_wh = "ht,hutong"
 product_id = "cu"
 product_short_name = "沪铜"
 product_short_name_wh = "沪铜"
-position_limit = 18895
+position_limit = 3000
 product_class = "FUTURES"
 id = "cu2512"
 name = "沪铜2512"
@@ -4912,7 +3811,7 @@ py_wh = "rj,rejuan"
 product_id = "hc"
 product_short_name = "热卷"
 product_short_name_wh = "热卷"
-position_limit = 120000
+position_limit = 9000
 product_class = "FUTURES"
 id = "hc2512"
 name = "热卷2512"
@@ -4931,7 +3830,7 @@ py_wh = "dingerxixiangjiao,dexxj,dingxiangjiao,dxj,shundingxiangjiao,sdxj"
 product_id = "br"
 product_short_name = "丁橡胶"
 product_short_name_wh = "丁橡胶"
-position_limit = 3148
+position_limit = 300
 product_class = "FUTURES"
 id = "br2512"
 name = "丁橡胶2512"
@@ -4969,7 +3868,7 @@ py_wh = "hn,hunie"
 product_id = "ni"
 product_short_name = "沪镍"
 product_short_name_wh = "沪镍"
-position_limit = 7787
+position_limit = 1800
 product_class = "FUTURES"
 id = "ni2512"
 name = "沪镍2512"
@@ -4988,7 +3887,7 @@ py_wh = "hq,huqian"
 product_id = "pb"
 product_short_name = "沪铅"
 product_short_name_wh = "沪铅"
-position_limit = 5000
+position_limit = 1800
 product_class = "FUTURES"
 id = "pb2512"
 name = "沪铅2512"
@@ -5007,7 +3906,7 @@ py_wh = "lw,luoweng"
 product_id = "rb"
 product_short_name = "螺纹"
 product_short_name_wh = "螺纹"
-position_limit = 90000
+position_limit = 4500
 product_class = "FUTURES"
 id = "rb2512"
 name = "螺纹2512"
@@ -5026,7 +3925,7 @@ py_wh = "hx,huxi"
 product_id = "sn"
 product_short_name = "沪锡"
 product_short_name_wh = "沪锡"
-position_limit = 1796
+position_limit = 600
 product_class = "FUTURES"
 id = "sn2512"
 name = "沪锡2512"
@@ -5045,7 +3944,7 @@ py_wh = "zj,zhijiang"
 product_id = "sp"
 product_short_name = "纸浆"
 product_short_name_wh = "纸浆"
-position_limit = 4500
+position_limit = 900
 product_class = "FUTURES"
 id = "sp2512"
 name = "纸浆2512"
@@ -5064,7 +3963,7 @@ py_wh = "bxg,buxiugang"
 product_id = "ss"
 product_short_name = "不锈钢"
 product_short_name_wh = "不锈钢"
-position_limit = 16224
+position_limit = 1800
 product_class = "FUTURES"
 id = "ss2512"
 name = "不锈钢2512"
@@ -5083,7 +3982,7 @@ py_wh = "xc,xiancai"
 product_id = "wr"
 product_short_name = "线材"
 product_short_name_wh = "线材"
-position_limit = 22500
+position_limit = 1800
 product_class = "FUTURES"
 id = "wr2512"
 name = "线材2512"
@@ -5102,32 +4001,13 @@ py_wh = "hx,huxin"
 product_id = "zn"
 product_short_name = "沪锌"
 product_short_name_wh = "沪锌"
-position_limit = 7534
+position_limit = 2400
 product_class = "FUTURES"
 id = "zn2512"
 name = "沪锌2512"
 max_open_volume = 500
 min_open_volume = 1
 max_close_volume = 500
-min_close_volume = 1
-
-[instruments."GFEX.ps2510"]
-exchange_id = "GFEX"
-ins_name_wh = "多晶硅2510"
-volume_multiple = 3
-price_tick = 5
-price_decs = 0
-py_wh = "duojinggui,djg"
-product_id = "ps"
-product_short_name = "多晶硅"
-product_short_name_wh = "多晶硅"
-position_limit = 900
-product_class = "FUTURES"
-id = "ps2510"
-name = "多晶硅2510"
-max_open_volume = 1000
-min_open_volume = 1
-max_close_volume = 1000
 min_close_volume = 1
 
 [instruments."GFEX.ps2511"]
@@ -5140,7 +4020,7 @@ py_wh = "duojinggui,djg"
 product_id = "ps"
 product_short_name = "多晶硅"
 product_short_name_wh = "多晶硅"
-position_limit = 12391
+position_limit = 0
 product_class = "FUTURES"
 id = "ps2511"
 name = "多晶硅2511"
@@ -5159,7 +4039,7 @@ py_wh = "duojinggui,djg"
 product_id = "ps"
 product_short_name = "多晶硅"
 product_short_name_wh = "多晶硅"
-position_limit = 6035
+position_limit = 4462
 product_class = "FUTURES"
 id = "ps2512"
 name = "多晶硅2512"
@@ -5178,7 +4058,7 @@ py_wh = "byx,benyixi"
 product_id = "eb"
 product_short_name = "苯乙烯"
 product_short_name_wh = "苯乙烯"
-position_limit = 18906
+position_limit = 80205
 product_class = "FUTURES"
 id = "eb2512"
 name = "苯乙烯2512"
@@ -5216,7 +4096,7 @@ py_wh = "jd,jidan"
 product_id = "jd"
 product_short_name = "鸡蛋"
 product_short_name_wh = "鸡蛋"
-position_limit = 1200
+position_limit = 400
 product_class = "FUTURES"
 id = "jd2512"
 name = "鸡蛋2512"
@@ -5235,7 +4115,7 @@ py_wh = "yhq,yehuaqi,yehuashiyouqi,yhsyq,shiyouqi"
 product_id = "pg"
 product_short_name = "LPG"
 product_short_name_wh = "液化气"
-position_limit = 8000
+position_limit = 21276
 product_class = "FUTURES"
 id = "pg2512"
 name = "LPG2512"
@@ -5273,7 +4153,7 @@ py_wh = "dly,diliuyou"
 product_id = "lu"
 product_short_name = "低硫燃料油"
 product_short_name_wh = "低硫油"
-position_limit = 10000
+position_limit = 1500
 product_class = "FUTURES"
 id = "lu2601"
 name = "低硫燃料油2601"
@@ -5292,7 +4172,7 @@ py_wh = "yy,yuanyou"
 product_id = "sc"
 product_short_name = "原油"
 product_short_name_wh = "原油"
-position_limit = 3000
+position_limit = 1500
 product_class = "FUTURES"
 id = "sc2601"
 name = "原油2601"
@@ -5311,7 +4191,7 @@ py_wh = "ry,ranyou,rly"
 product_id = "fu"
 product_short_name = "燃油"
 product_short_name_wh = "燃油"
-position_limit = 7500
+position_limit = 1500
 product_class = "FUTURES"
 id = "fu2601"
 name = "燃油2601"
@@ -5444,7 +4324,7 @@ py_wh = "dx,duanxian"
 product_id = "PF"
 product_short_name = "短纤"
 product_short_name_wh = "短纤"
-position_limit = 10000
+position_limit = 11159
 product_class = "FUTURES"
 id = "PF601"
 name = "短纤2601"
@@ -5482,7 +4362,7 @@ py_wh = "pingpian,pp,pjz"
 product_id = "PR"
 product_short_name = "瓶片"
 product_short_name_wh = "瓶片"
-position_limit = 3000
+position_limit = 7708
 product_class = "FUTURES"
 id = "PR601"
 name = "瓶片2601"
@@ -5520,7 +4400,7 @@ py_wh = "cj,chunjian"
 product_id = "SA"
 product_short_name = "纯碱"
 product_short_name_wh = "纯碱"
-position_limit = 284017
+position_limit = 297605
 product_class = "FUTURES"
 id = "SA601"
 name = "纯碱2601"
@@ -5558,7 +4438,7 @@ py_wh = "ns,niaosu"
 product_id = "UR"
 product_short_name = "尿素"
 product_short_name_wh = "尿素"
-position_limit = 61479
+position_limit = 54454
 product_class = "FUTURES"
 id = "UR601"
 name = "尿素2601"
@@ -5615,7 +4495,7 @@ py_wh = "dy,douyi"
 product_id = "a"
 product_short_name = "豆一"
 product_short_name_wh = "豆一"
-position_limit = 23797
+position_limit = 50290
 product_class = "FUTURES"
 id = "a2601"
 name = "豆一2601"
@@ -5634,7 +4514,7 @@ py_wh = "de,douer"
 product_id = "b"
 product_short_name = "豆二"
 product_short_name_wh = "豆二"
-position_limit = 5412
+position_limit = 13711
 product_class = "FUTURES"
 id = "b2601"
 name = "豆二2601"
@@ -5653,7 +4533,7 @@ py_wh = "ym,yumi"
 product_id = "c"
 product_short_name = "玉米"
 product_short_name_wh = "玉米"
-position_limit = 47639
+position_limit = 92707
 product_class = "FUTURES"
 id = "c2601"
 name = "玉米2601"
@@ -5672,7 +4552,7 @@ py_wh = "df,dianfen"
 product_id = "cs"
 product_short_name = "淀粉"
 product_short_name_wh = "淀粉"
-position_limit = 15005
+position_limit = 42690
 product_class = "FUTURES"
 id = "cs2601"
 name = "淀粉2601"
@@ -5729,7 +4609,7 @@ py_wh = "jt,jiaotan"
 product_id = "j"
 product_short_name = "焦炭"
 product_short_name_wh = "焦炭"
-position_limit = 9059
+position_limit = 7767
 product_class = "FUTURES"
 id = "j2601"
 name = "焦炭2601"
@@ -5748,7 +4628,7 @@ py_wh = "jm,jiaomei"
 product_id = "jm"
 product_short_name = "焦煤"
 product_short_name_wh = "焦煤"
-position_limit = 143253
+position_limit = 129042
 product_class = "FUTURES"
 id = "jm2601"
 name = "焦煤2601"
@@ -5767,7 +4647,7 @@ py_wh = "sl,suliao"
 product_id = "l"
 product_short_name = "塑料"
 product_short_name_wh = "塑料"
-position_limit = 116167
+position_limit = 106627
 product_class = "FUTURES"
 id = "l2601"
 name = "塑料2601"
@@ -5786,7 +4666,7 @@ py_wh = "dp,doupo"
 product_id = "m"
 product_short_name = "豆粕"
 product_short_name_wh = "豆粕"
-position_limit = 389197
+position_limit = 317593
 product_class = "FUTURES"
 id = "m2601"
 name = "豆粕2601"
@@ -5805,7 +4685,7 @@ py_wh = "zl,zonglv"
 product_id = "p"
 product_short_name = "棕榈"
 product_short_name_wh = "棕榈"
-position_limit = 40388
+position_limit = 40597
 product_class = "FUTURES"
 id = "p2601"
 name = "棕榈2601"
@@ -5824,7 +4704,7 @@ py_wh = "jbx, jvbingxi"
 product_id = "pp"
 product_short_name = "PP"
 product_short_name_wh = "聚丙烯"
-position_limit = 129048
+position_limit = 125689
 product_class = "FUTURES"
 id = "pp2601"
 name = "PP2601"
@@ -5862,7 +4742,7 @@ py_wh = "pvc"
 product_id = "v"
 product_short_name = "PVC"
 product_short_name_wh = "PVC"
-position_limit = 225242
+position_limit = 248756
 product_class = "FUTURES"
 id = "v2601"
 name = "PVC2601"
@@ -5881,7 +4761,7 @@ py_wh = "dy,douyou"
 product_id = "y"
 product_short_name = "豆油"
 product_short_name_wh = "豆油"
-position_limit = 113870
+position_limit = 96131
 product_class = "FUTURES"
 id = "y2601"
 name = "豆油2601"
@@ -5919,7 +4799,7 @@ py_wh = "hl,hulv"
 product_id = "al"
 product_short_name = "沪铝"
 product_short_name_wh = "沪铝"
-position_limit = 10135
+position_limit = 52577
 product_class = "FUTURES"
 id = "al2601"
 name = "沪铝2601"
@@ -5938,7 +4818,7 @@ py_wh = "yhl,yanghualv"
 product_id = "ao"
 product_short_name = "氧化铝"
 product_short_name_wh = "氧化铝"
-position_limit = 63504
+position_limit = 84056
 product_class = "FUTURES"
 id = "ao2601"
 name = "氧化铝2601"
@@ -5976,7 +4856,7 @@ py_wh = "dingerxixiangjiao,dexxj,dingxiangjiao,dxj,shundingxiangjiao,sdxj"
 product_id = "br"
 product_short_name = "丁橡胶"
 product_short_name_wh = "丁橡胶"
-position_limit = 4363
+position_limit = 15912
 product_class = "FUTURES"
 id = "br2601"
 name = "丁橡胶2601"
@@ -6014,7 +4894,7 @@ py_wh = "rj,rejuan"
 product_id = "hc"
 product_short_name = "热卷"
 product_short_name_wh = "热卷"
-position_limit = 276553
+position_limit = 279226
 product_class = "FUTURES"
 id = "hc2601"
 name = "热卷2601"
@@ -6033,7 +4913,7 @@ py_wh = "hn,hunie"
 product_id = "ni"
 product_short_name = "沪镍"
 product_short_name_wh = "沪镍"
-position_limit = 6208
+position_limit = 16133
 product_class = "FUTURES"
 id = "ni2601"
 name = "沪镍2601"
@@ -6052,7 +4932,7 @@ py_wh = "ht,hutong"
 product_id = "cu"
 product_short_name = "沪铜"
 product_short_name_wh = "沪铜"
-position_limit = 8000
+position_limit = 30378
 product_class = "FUTURES"
 id = "cu2601"
 name = "沪铜2601"
@@ -6071,7 +4951,7 @@ py_wh = "hq,huqian"
 product_id = "pb"
 product_short_name = "沪铅"
 product_short_name_wh = "沪铅"
-position_limit = 5000
+position_limit = 9660
 product_class = "FUTURES"
 id = "pb2601"
 name = "沪铅2601"
@@ -6090,7 +4970,7 @@ py_wh = "lw,luoweng"
 product_id = "rb"
 product_short_name = "螺纹"
 product_short_name_wh = "螺纹"
-position_limit = 372228
+position_limit = 393308
 product_class = "FUTURES"
 id = "rb2601"
 name = "螺纹2601"
@@ -6128,7 +5008,7 @@ py_wh = "hx,huxi"
 product_id = "sn"
 product_short_name = "沪锡"
 product_short_name_wh = "沪锡"
-position_limit = 1500
+position_limit = 4301
 product_class = "FUTURES"
 id = "sn2601"
 name = "沪锡2601"
@@ -6166,7 +5046,7 @@ py_wh = "bxg,buxiugang"
 product_id = "ss"
 product_short_name = "不锈钢"
 product_short_name_wh = "不锈钢"
-position_limit = 7473
+position_limit = 13995
 product_class = "FUTURES"
 id = "ss2601"
 name = "不锈钢2601"
@@ -6185,7 +5065,7 @@ py_wh = "hx,huxin"
 product_id = "zn"
 product_short_name = "沪锌"
 product_short_name_wh = "沪锌"
-position_limit = 6000
+position_limit = 14066
 product_class = "FUTURES"
 id = "zn2601"
 name = "沪锌2601"
@@ -6223,7 +5103,7 @@ py_wh = "tsl,tansuanli"
 product_id = "lc"
 product_short_name = "碳酸锂"
 product_short_name_wh = "碳酸锂"
-position_limit = 17393
+position_limit = 45737
 product_class = "FUTURES"
 id = "lc2601"
 name = "碳酸锂2601"
@@ -6242,7 +5122,7 @@ py_wh = "duojinggui,djg"
 product_id = "ps"
 product_short_name = "多晶硅"
 product_short_name_wh = "多晶硅"
-position_limit = 3783
+position_limit = 12887
 product_class = "FUTURES"
 id = "ps2601"
 name = "多晶硅2601"
@@ -6261,7 +5141,7 @@ py_wh = "gyg,gongyegui"
 product_id = "si"
 product_short_name = "工业硅"
 product_short_name_wh = "工业硅"
-position_limit = 9869
+position_limit = 24215
 product_class = "FUTURES"
 id = "si2601"
 name = "工业硅2601"
@@ -6280,7 +5160,7 @@ py_wh = "jb,jiaoban,jhb,jiaoheban"
 product_id = "bb"
 product_short_name = "胶板"
 product_short_name_wh = "胶板"
-position_limit = 500
+position_limit = 0
 product_class = "FUTURES"
 id = "bb2511"
 name = "胶板2511"
@@ -6318,7 +5198,7 @@ py_wh = "byx,benyixi"
 product_id = "eb"
 product_short_name = "苯乙烯"
 product_short_name_wh = "苯乙烯"
-position_limit = 12000
+position_limit = 23526
 product_class = "FUTURES"
 id = "eb2601"
 name = "苯乙烯2601"
@@ -6337,7 +5217,7 @@ py_wh = "gc,ganchun,yec,yierchun"
 product_id = "eg"
 product_short_name = "甘醇"
 product_short_name_wh = "乙二醇"
-position_limit = 65921
+position_limit = 71358
 product_class = "FUTURES"
 id = "eg2601"
 name = "甘醇2601"
@@ -6375,7 +5255,7 @@ py_wh = "yuanmu,ym,lg,log"
 product_id = "lg"
 product_short_name = "原木"
 product_short_name_wh = "原木"
-position_limit = 1500
+position_limit = 1770
 product_class = "FUTURES"
 id = "lg2601"
 name = "原木2601"
@@ -6564,7 +5444,7 @@ py_wh = "hl,hulv"
 product_id = "al"
 product_short_name = "沪铝"
 product_short_name_wh = "沪铝"
-position_limit = 10000
+position_limit = 14179
 product_class = "FUTURES"
 id = "al2602"
 name = "沪铝2602"
@@ -6583,7 +5463,7 @@ py_wh = "yhl,yanghualv"
 product_id = "ao"
 product_short_name = "氧化铝"
 product_short_name_wh = "氧化铝"
-position_limit = 5229
+position_limit = 8453
 product_class = "FUTURES"
 id = "ao2602"
 name = "氧化铝2602"
@@ -6602,7 +5482,7 @@ py_wh = "ht,hutong"
 product_id = "cu"
 product_short_name = "沪铜"
 product_short_name_wh = "沪铜"
-position_limit = 8000
+position_limit = 11322
 product_class = "FUTURES"
 id = "cu2602"
 name = "沪铜2602"
@@ -6621,7 +5501,7 @@ py_wh = "dingerxixiangjiao,dexxj,dingxiangjiao,dxj,shundingxiangjiao,sdxj"
 product_id = "br"
 product_short_name = "丁橡胶"
 product_short_name_wh = "丁橡胶"
-position_limit = 1000
+position_limit = 1532
 product_class = "FUTURES"
 id = "br2602"
 name = "丁橡胶2602"
@@ -6849,7 +5729,7 @@ py_wh = "dx,duanxian"
 product_id = "PF"
 product_short_name = "短纤"
 product_short_name_wh = "短纤"
-position_limit = 10000
+position_limit = 15106
 product_class = "FUTURES"
 id = "PF602"
 name = "短纤2602"
@@ -6868,7 +5748,7 @@ py_wh = "pingpian,pp,pjz"
 product_id = "PR"
 product_short_name = "瓶片"
 product_short_name_wh = "瓶片"
-position_limit = 3000
+position_limit = 3135
 product_class = "FUTURES"
 id = "PR602"
 name = "瓶片2602"
@@ -7191,7 +6071,7 @@ py_wh = "tsl,tansuanli"
 product_id = "lc"
 product_short_name = "碳酸锂"
 product_short_name_wh = "碳酸锂"
-position_limit = 3000
+position_limit = 3116
 product_class = "FUTURES"
 id = "lc2602"
 name = "碳酸锂2602"
@@ -7229,7 +6109,7 @@ py_wh = "gyg,gongyegui"
 product_id = "si"
 product_short_name = "工业硅"
 product_short_name_wh = "工业硅"
-position_limit = 3000
+position_limit = 3773
 product_class = "FUTURES"
 id = "si2602"
 name = "工业硅2602"
@@ -7267,7 +6147,7 @@ py_wh = "byx,benyixi"
 product_id = "eb"
 product_short_name = "苯乙烯"
 product_short_name_wh = "苯乙烯"
-position_limit = 12000
+position_limit = 12374
 product_class = "FUTURES"
 id = "eb2602"
 name = "苯乙烯2602"
@@ -7684,7 +6564,7 @@ py_wh = "dy,douyi"
 product_id = "a"
 product_short_name = "豆一"
 product_short_name_wh = "豆一"
-position_limit = 3156
+position_limit = 4556
 product_class = "FUTURES"
 id = "a2603"
 name = "豆一2603"
@@ -7741,7 +6621,7 @@ py_wh = "ym,yumi"
 product_id = "c"
 product_short_name = "玉米"
 product_short_name_wh = "玉米"
-position_limit = 21704
+position_limit = 44591
 product_class = "FUTURES"
 id = "c2603"
 name = "玉米2603"
@@ -7874,7 +6754,7 @@ py_wh = "dp,doupo"
 product_id = "m"
 product_short_name = "豆粕"
 product_short_name_wh = "豆粕"
-position_limit = 34391
+position_limit = 45142
 product_class = "FUTURES"
 id = "m2603"
 name = "豆粕2603"
@@ -7988,7 +6868,7 @@ py_wh = "tsl,tansuanli"
 product_id = "lc"
 product_short_name = "碳酸锂"
 product_short_name_wh = "碳酸锂"
-position_limit = 3753
+position_limit = 4278
 product_class = "FUTURES"
 id = "lc2603"
 name = "碳酸锂2603"
@@ -8197,7 +7077,7 @@ py_wh = "yhl,yanghualv"
 product_id = "ao"
 product_short_name = "氧化铝"
 product_short_name_wh = "氧化铝"
-position_limit = 5000
+position_limit = 5981
 product_class = "FUTURES"
 id = "ao2603"
 name = "氧化铝2603"
@@ -9772,7 +8652,7 @@ py_wh = "yhl,yanghualv"
 product_id = "ao"
 product_short_name = "氧化铝"
 product_short_name_wh = "氧化铝"
-position_limit = 5000
+position_limit = 5228
 product_class = "FUTURES"
 id = "ao2605"
 name = "氧化铝2605"
@@ -10209,7 +9089,7 @@ py_wh = "cj,chunjian"
 product_id = "SA"
 product_short_name = "纯碱"
 product_short_name_wh = "纯碱"
-position_limit = 42525
+position_limit = 54029
 product_class = "FUTURES"
 id = "SA605"
 name = "纯碱2605"
@@ -10323,7 +9203,7 @@ py_wh = "ym,yumi"
 product_id = "c"
 product_short_name = "玉米"
 product_short_name_wh = "玉米"
-position_limit = 20000
+position_limit = 23670
 product_class = "FUTURES"
 id = "c2605"
 name = "玉米2605"
@@ -10418,7 +9298,7 @@ py_wh = "jm,jiaomei"
 product_id = "jm"
 product_short_name = "焦煤"
 product_short_name_wh = "焦煤"
-position_limit = 32603
+position_limit = 45063
 product_class = "FUTURES"
 id = "jm2605"
 name = "焦煤2605"
@@ -10456,7 +9336,7 @@ py_wh = "dp,doupo"
 product_id = "m"
 product_short_name = "豆粕"
 product_short_name_wh = "豆粕"
-position_limit = 98883
+position_limit = 101304
 product_class = "FUTURES"
 id = "m2605"
 name = "豆粕2605"
@@ -10475,7 +9355,7 @@ py_wh = "zl,zonglv"
 product_id = "p"
 product_short_name = "棕榈"
 product_short_name_wh = "棕榈"
-position_limit = 8918
+position_limit = 14922
 product_class = "FUTURES"
 id = "p2605"
 name = "棕榈2605"
@@ -10494,7 +9374,7 @@ py_wh = "jbx, jvbingxi"
 product_id = "pp"
 product_short_name = "PP"
 product_short_name_wh = "聚丙烯"
-position_limit = 16000
+position_limit = 23172
 product_class = "FUTURES"
 id = "pp2605"
 name = "PP2605"
@@ -10532,7 +9412,7 @@ py_wh = "pvc"
 product_id = "v"
 product_short_name = "PVC"
 product_short_name_wh = "PVC"
-position_limit = 19464
+position_limit = 30536
 product_class = "FUTURES"
 id = "v2605"
 name = "PVC2605"
@@ -10551,7 +9431,7 @@ py_wh = "dy,douyou"
 product_id = "y"
 product_short_name = "豆油"
 product_short_name_wh = "豆油"
-position_limit = 22586
+position_limit = 28765
 product_class = "FUTURES"
 id = "y2605"
 name = "豆油2605"
@@ -10570,7 +9450,7 @@ py_wh = "tsl,tansuanli"
 product_id = "lc"
 product_short_name = "碳酸锂"
 product_short_name_wh = "碳酸锂"
-position_limit = 5760
+position_limit = 11828
 product_class = "FUTURES"
 id = "lc2605"
 name = "碳酸锂2605"
@@ -10608,7 +9488,7 @@ py_wh = "gyg,gongyegui"
 product_id = "si"
 product_short_name = "工业硅"
 product_short_name_wh = "工业硅"
-position_limit = 3000
+position_limit = 3420
 product_class = "FUTURES"
 id = "si2605"
 name = "工业硅2605"
@@ -10797,7 +9677,7 @@ py_wh = "zhuzaolvhejin,zzlhj,lvhejin,lhj"
 product_id = "ad"
 product_short_name = "铝合金"
 product_short_name_wh = "铝合金"
-position_limit = 1336
+position_limit = 90
 product_class = "FUTURES"
 id = "ad2511"
 name = "铝合金2511"
@@ -10816,7 +9696,7 @@ py_wh = "zhuzaolvhejin,zzlhj,lvhejin,lhj"
 product_id = "ad"
 product_short_name = "铝合金"
 product_short_name_wh = "铝合金"
-position_limit = 2153
+position_limit = 300
 product_class = "FUTURES"
 id = "ad2512"
 name = "铝合金2512"
@@ -10835,7 +9715,7 @@ py_wh = "zhuzaolvhejin,zzlhj,lvhejin,lhj"
 product_id = "ad"
 product_short_name = "铝合金"
 product_short_name_wh = "铝合金"
-position_limit = 900
+position_limit = 2923
 product_class = "FUTURES"
 id = "ad2601"
 name = "铝合金2601"
@@ -10854,7 +9734,7 @@ py_wh = "zhuzaolvhejin,zzlhj,lvhejin,lhj"
 product_id = "ad"
 product_short_name = "铝合金"
 product_short_name_wh = "铝合金"
-position_limit = 900
+position_limit = 1257
 product_class = "FUTURES"
 id = "ad2602"
 name = "铝合金2602"
@@ -12392,7 +11272,7 @@ py_wh = "dp,doupo"
 product_id = "m"
 product_short_name = "豆粕"
 product_short_name_wh = "豆粕"
-position_limit = 20000
+position_limit = 22603
 product_class = "FUTURES"
 id = "m2607"
 name = "豆粕2607"
@@ -12506,7 +11386,7 @@ py_wh = "tsl,tansuanli"
 product_id = "lc"
 product_short_name = "碳酸锂"
 product_short_name_wh = "碳酸锂"
-position_limit = 3000
+position_limit = 3234
 product_class = "FUTURES"
 id = "lc2607"
 name = "碳酸锂2607"
@@ -13949,7 +12829,7 @@ py_wh = "hj,hujin"
 product_id = "au"
 product_short_name = "沪金"
 product_short_name_wh = "沪金"
-position_limit = 9000
+position_limit = 900
 product_class = "FUTURES"
 id = "au2511"
 name = "沪金2511"
@@ -14203,82 +13083,6 @@ name = "沪锌2608"
 max_open_volume = 500
 min_open_volume = 1
 max_close_volume = 500
-min_close_volume = 1
-
-[instruments."CFFEX.IC2510"]
-exchange_id = "CFFEX"
-ins_name_wh = "中证2510"
-volume_multiple = 200
-price_tick = 0.2
-price_decs = 1
-py_wh = "zz,zhongzheng,500"
-product_id = "IC"
-product_short_name = "中证"
-product_short_name_wh = "中证"
-position_limit = 1200
-product_class = "FUTURES"
-id = "IC2510"
-name = "中证2510"
-max_open_volume = 20
-min_open_volume = 1
-max_close_volume = 20
-min_close_volume = 1
-
-[instruments."CFFEX.IF2510"]
-exchange_id = "CFFEX"
-ins_name_wh = "沪深2510"
-volume_multiple = 300
-price_tick = 0.2
-price_decs = 1
-py_wh = "hs,hushen,300"
-product_id = "IF"
-product_short_name = "沪深"
-product_short_name_wh = "沪深"
-position_limit = 5000
-product_class = "FUTURES"
-id = "IF2510"
-name = "沪深2510"
-max_open_volume = 20
-min_open_volume = 1
-max_close_volume = 20
-min_close_volume = 1
-
-[instruments."CFFEX.IH2510"]
-exchange_id = "CFFEX"
-ins_name_wh = "上证2510"
-volume_multiple = 300
-price_tick = 0.2
-price_decs = 1
-py_wh = "sz,shangzheng,50"
-product_id = "IH"
-product_short_name = "上证"
-product_short_name_wh = "上证"
-position_limit = 1200
-product_class = "FUTURES"
-id = "IH2510"
-name = "上证2510"
-max_open_volume = 20
-min_open_volume = 1
-max_close_volume = 20
-min_close_volume = 1
-
-[instruments."CFFEX.IM2510"]
-exchange_id = "CFFEX"
-ins_name_wh = "IM2510"
-volume_multiple = 200
-price_tick = 0.2
-price_decs = 1
-py_wh = "im,1000"
-product_id = "IM"
-product_short_name = "IM"
-product_short_name_wh = "IM"
-position_limit = 1200
-product_class = "FUTURES"
-id = "IM2510"
-name = "IM2510"
-max_open_volume = 20
-min_open_volume = 1
-max_close_volume = 20
 min_close_volume = 1
 
 [instruments."INE.ec2608"]
@@ -15686,6 +14490,1524 @@ min_open_volume = 1
 max_close_volume = 20
 min_close_volume = 1
 
+[instruments."DCE.bz2609"]
+exchange_id = "DCE"
+ins_name_wh = "纯苯2609"
+volume_multiple = 30
+price_tick = 1
+price_decs = 0
+py_wh = "bz,chunben,cb"
+product_id = "bz"
+product_short_name = "纯苯"
+product_short_name_wh = "纯苯"
+position_limit = 2000
+product_class = "FUTURES"
+id = "bz2609"
+name = "纯苯2609"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."DCE.eb2609"]
+exchange_id = "DCE"
+ins_name_wh = "苯乙烯2609"
+volume_multiple = 5
+price_tick = 1
+price_decs = 0
+py_wh = "byx,benyixi"
+product_id = "eb"
+product_short_name = "苯乙烯"
+product_short_name_wh = "苯乙烯"
+position_limit = 12000
+product_class = "FUTURES"
+id = "eb2609"
+name = "苯乙烯2609"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."DCE.eg2609"]
+exchange_id = "DCE"
+ins_name_wh = "乙二醇2609"
+volume_multiple = 10
+price_tick = 1
+price_decs = 0
+py_wh = "gc,ganchun,yec,yierchun"
+product_id = "eg"
+product_short_name = "甘醇"
+product_short_name_wh = "乙二醇"
+position_limit = 8000
+product_class = "FUTURES"
+id = "eg2609"
+name = "甘醇2609"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."DCE.jd2609"]
+exchange_id = "DCE"
+ins_name_wh = "鸡蛋2609"
+volume_multiple = 10
+price_tick = 1
+price_decs = 0
+py_wh = "jd,jidan"
+product_id = "jd"
+product_short_name = "鸡蛋"
+product_short_name_wh = "鸡蛋"
+position_limit = 1200
+product_class = "FUTURES"
+id = "jd2609"
+name = "鸡蛋2609"
+max_open_volume = 300
+min_open_volume = 1
+max_close_volume = 300
+min_close_volume = 1
+
+[instruments."DCE.lg2609"]
+exchange_id = "DCE"
+ins_name_wh = "原木2609"
+volume_multiple = 90
+price_tick = 0.5
+price_decs = 1
+py_wh = "yuanmu,ym,lg,log"
+product_id = "lg"
+product_short_name = "原木"
+product_short_name_wh = "原木"
+position_limit = 1500
+product_class = "FUTURES"
+id = "lg2609"
+name = "原木2609"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."DCE.lh2609"]
+exchange_id = "DCE"
+ins_name_wh = "生猪2609"
+volume_multiple = 16
+price_tick = 5
+price_decs = 0
+py_wh = "sz,shengzhu"
+product_id = "lh"
+product_short_name = "生猪"
+product_short_name_wh = "生猪"
+position_limit = 500
+product_class = "FUTURES"
+id = "lh2609"
+name = "生猪2609"
+max_open_volume = 50
+min_open_volume = 1
+max_close_volume = 50
+min_close_volume = 1
+
+[instruments."DCE.pg2609"]
+exchange_id = "DCE"
+ins_name_wh = "液化气2609"
+volume_multiple = 20
+price_tick = 1
+price_decs = 0
+py_wh = "yhq,yehuaqi,yehuashiyouqi,yhsyq,shiyouqi"
+product_id = "pg"
+product_short_name = "LPG"
+product_short_name_wh = "液化气"
+position_limit = 8000
+product_class = "FUTURES"
+id = "pg2609"
+name = "LPG2609"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."INE.lu2610"]
+exchange_id = "INE"
+ins_name_wh = "低硫油2610"
+volume_multiple = 10
+price_tick = 1
+price_decs = 0
+py_wh = "dly,diliuyou"
+product_id = "lu"
+product_short_name = "低硫燃料油"
+product_short_name_wh = "低硫油"
+position_limit = 10000
+product_class = "FUTURES"
+id = "lu2610"
+name = "低硫燃料油2610"
+max_open_volume = 500
+min_open_volume = 1
+max_close_volume = 500
+min_close_volume = 1
+
+[instruments."INE.sc2610"]
+exchange_id = "INE"
+ins_name_wh = "原油2610"
+volume_multiple = 1000
+price_tick = 0.1
+price_decs = 1
+py_wh = "yy,yuanyou"
+product_id = "sc"
+product_short_name = "原油"
+product_short_name_wh = "原油"
+position_limit = 3000
+product_class = "FUTURES"
+id = "sc2610"
+name = "原油2610"
+max_open_volume = 500
+min_open_volume = 1
+max_close_volume = 500
+min_close_volume = 1
+
+[instruments."SHFE.fu2610"]
+exchange_id = "SHFE"
+ins_name_wh = "燃油2610"
+volume_multiple = 10
+price_tick = 1
+price_decs = 0
+py_wh = "ry,ranyou,rly"
+product_id = "fu"
+product_short_name = "燃油"
+product_short_name_wh = "燃油"
+product_class = "FUTURES"
+id = "fu2610"
+name = "燃油2610"
+max_open_volume = 500
+min_open_volume = 1
+max_close_volume = 500
+min_close_volume = 1
+
+[instruments."INE.bc2610"]
+exchange_id = "INE"
+ins_name_wh = "国际铜2610"
+volume_multiple = 5
+price_tick = 10
+price_decs = 0
+py_wh = "gjt,guojitong"
+product_id = "bc"
+product_short_name = "国际铜"
+product_short_name_wh = "国际铜"
+position_limit = 7000
+product_class = "FUTURES"
+id = "bc2610"
+name = "国际铜2610"
+max_open_volume = 500
+min_open_volume = 1
+max_close_volume = 500
+min_close_volume = 1
+
+[instruments."INE.nr2610"]
+exchange_id = "INE"
+ins_name_wh = "20号胶2610"
+volume_multiple = 10
+price_tick = 5
+price_decs = 0
+py_wh = "eshj,ershihaojiao,20"
+product_id = "nr"
+product_short_name = "20号胶"
+product_short_name_wh = "20号胶"
+position_limit = 2000
+product_class = "FUTURES"
+id = "nr2610"
+name = "20号胶2610"
+max_open_volume = 500
+min_open_volume = 1
+max_close_volume = 500
+min_close_volume = 1
+
+[instruments."SHFE.ad2610"]
+exchange_id = "SHFE"
+ins_name_wh = "铝合金2610"
+volume_multiple = 10
+price_tick = 5
+price_decs = 0
+py_wh = "zhuzaolvhejin,zzlhj,lvhejin,lhj"
+product_id = "ad"
+product_short_name = "铝合金"
+product_short_name_wh = "铝合金"
+position_limit = 900
+product_class = "FUTURES"
+id = "ad2610"
+name = "铝合金2610"
+max_open_volume = 500
+min_open_volume = 1
+max_close_volume = 500
+min_close_volume = 1
+
+[instruments."SHFE.ag2610"]
+exchange_id = "SHFE"
+ins_name_wh = "沪银2610"
+volume_multiple = 15
+price_tick = 1
+price_decs = 0
+py_wh = "hy,huyin"
+product_id = "ag"
+product_short_name = "沪银"
+product_short_name_wh = "沪银"
+position_limit = 9000
+product_class = "FUTURES"
+id = "ag2610"
+name = "沪银2610"
+max_open_volume = 500
+min_open_volume = 1
+max_close_volume = 500
+min_close_volume = 1
+
+[instruments."SHFE.ao2610"]
+exchange_id = "SHFE"
+ins_name_wh = "氧化铝2610"
+volume_multiple = 20
+price_tick = 1
+price_decs = 0
+py_wh = "yhl,yanghualv"
+product_id = "ao"
+product_short_name = "氧化铝"
+product_short_name_wh = "氧化铝"
+position_limit = 5000
+product_class = "FUTURES"
+id = "ao2610"
+name = "氧化铝2610"
+max_open_volume = 500
+min_open_volume = 1
+max_close_volume = 500
+min_close_volume = 1
+
+[instruments."SHFE.al2610"]
+exchange_id = "SHFE"
+ins_name_wh = "沪铝2610"
+volume_multiple = 5
+price_tick = 5
+price_decs = 0
+py_wh = "hl,hulv"
+product_id = "al"
+product_short_name = "沪铝"
+product_short_name_wh = "沪铝"
+position_limit = 10000
+product_class = "FUTURES"
+id = "al2610"
+name = "沪铝2610"
+max_open_volume = 500
+min_open_volume = 1
+max_close_volume = 500
+min_close_volume = 1
+
+[instruments."SHFE.au2601"]
+exchange_id = "SHFE"
+ins_name_wh = "沪金2601"
+volume_multiple = 1000
+price_tick = 0.02
+price_decs = 2
+py_wh = "hj,hujin"
+product_id = "au"
+product_short_name = "沪金"
+product_short_name_wh = "沪金"
+position_limit = 9000
+product_class = "FUTURES"
+id = "au2601"
+name = "沪金2601"
+max_open_volume = 500
+min_open_volume = 1
+max_close_volume = 500
+min_close_volume = 1
+
+[instruments."SHFE.bu2610"]
+exchange_id = "SHFE"
+ins_name_wh = "沥青2610"
+volume_multiple = 10
+price_tick = 1
+price_decs = 0
+py_wh = "lq,liqing"
+product_id = "bu"
+product_short_name = "沥青"
+product_short_name_wh = "沥青"
+position_limit = 8000
+product_class = "FUTURES"
+id = "bu2610"
+name = "沥青2610"
+max_open_volume = 500
+min_open_volume = 1
+max_close_volume = 500
+min_close_volume = 1
+
+[instruments."SHFE.br2610"]
+exchange_id = "SHFE"
+ins_name_wh = "丁橡胶2610"
+volume_multiple = 5
+price_tick = 5
+price_decs = 0
+py_wh = "dingerxixiangjiao,dexxj,dingxiangjiao,dxj,shundingxiangjiao,sdxj"
+product_id = "br"
+product_short_name = "丁橡胶"
+product_short_name_wh = "丁橡胶"
+position_limit = 1000
+product_class = "FUTURES"
+id = "br2610"
+name = "丁橡胶2610"
+max_open_volume = 500
+min_open_volume = 1
+max_close_volume = 500
+min_close_volume = 1
+
+[instruments."SHFE.cu2610"]
+exchange_id = "SHFE"
+ins_name_wh = "沪铜2610"
+volume_multiple = 5
+price_tick = 10
+price_decs = 0
+py_wh = "ht,hutong"
+product_id = "cu"
+product_short_name = "沪铜"
+product_short_name_wh = "沪铜"
+position_limit = 8000
+product_class = "FUTURES"
+id = "cu2610"
+name = "沪铜2610"
+max_open_volume = 500
+min_open_volume = 1
+max_close_volume = 500
+min_close_volume = 1
+
+[instruments."SHFE.hc2610"]
+exchange_id = "SHFE"
+ins_name_wh = "热卷2610"
+volume_multiple = 10
+price_tick = 1
+price_decs = 0
+py_wh = "rj,rejuan"
+product_id = "hc"
+product_short_name = "热卷"
+product_short_name_wh = "热卷"
+position_limit = 120000
+product_class = "FUTURES"
+id = "hc2610"
+name = "热卷2610"
+max_open_volume = 500
+min_open_volume = 1
+max_close_volume = 500
+min_close_volume = 1
+
+[instruments."SHFE.ni2610"]
+exchange_id = "SHFE"
+ins_name_wh = "沪镍2610"
+volume_multiple = 1
+price_tick = 10
+price_decs = 0
+py_wh = "hn,hunie"
+product_id = "ni"
+product_short_name = "沪镍"
+product_short_name_wh = "沪镍"
+position_limit = 6000
+product_class = "FUTURES"
+id = "ni2610"
+name = "沪镍2610"
+max_open_volume = 500
+min_open_volume = 1
+max_close_volume = 500
+min_close_volume = 1
+
+[instruments."SHFE.pb2610"]
+exchange_id = "SHFE"
+ins_name_wh = "沪铅2610"
+volume_multiple = 5
+price_tick = 5
+price_decs = 0
+py_wh = "hq,huqian"
+product_id = "pb"
+product_short_name = "沪铅"
+product_short_name_wh = "沪铅"
+position_limit = 5000
+product_class = "FUTURES"
+id = "pb2610"
+name = "沪铅2610"
+max_open_volume = 500
+min_open_volume = 1
+max_close_volume = 500
+min_close_volume = 1
+
+[instruments."SHFE.op2610"]
+exchange_id = "SHFE"
+ins_name_wh = "胶版纸2610"
+volume_multiple = 40
+price_tick = 2
+price_decs = 0
+py_wh = "jiaobanzhi,jbz,jiaobanyinshuazhi,jbysz,op"
+product_id = "op"
+product_short_name = "胶版纸"
+product_short_name_wh = "胶版纸"
+position_limit = 2500
+product_class = "FUTURES"
+id = "op2610"
+name = "胶版纸2610"
+max_open_volume = 500
+min_open_volume = 1
+max_close_volume = 500
+min_close_volume = 1
+
+[instruments."SHFE.ru2610"]
+exchange_id = "SHFE"
+ins_name_wh = "橡胶2610"
+volume_multiple = 10
+price_tick = 5
+price_decs = 0
+py_wh = "xj,xiangjiao"
+product_id = "ru"
+product_short_name = "橡胶"
+product_short_name_wh = "橡胶"
+position_limit = 500
+product_class = "FUTURES"
+id = "ru2610"
+name = "橡胶2610"
+max_open_volume = 500
+min_open_volume = 1
+max_close_volume = 500
+min_close_volume = 1
+
+[instruments."SHFE.rb2610"]
+exchange_id = "SHFE"
+ins_name_wh = "螺纹2610"
+volume_multiple = 10
+price_tick = 1
+price_decs = 0
+py_wh = "lw,luoweng"
+product_id = "rb"
+product_short_name = "螺纹"
+product_short_name_wh = "螺纹"
+position_limit = 90000
+product_class = "FUTURES"
+id = "rb2610"
+name = "螺纹2610"
+max_open_volume = 500
+min_open_volume = 1
+max_close_volume = 500
+min_close_volume = 1
+
+[instruments."SHFE.sp2610"]
+exchange_id = "SHFE"
+ins_name_wh = "纸浆2610"
+volume_multiple = 10
+price_tick = 2
+price_decs = 0
+py_wh = "zj,zhijiang"
+product_id = "sp"
+product_short_name = "纸浆"
+product_short_name_wh = "纸浆"
+position_limit = 4500
+product_class = "FUTURES"
+id = "sp2610"
+name = "纸浆2610"
+max_open_volume = 500
+min_open_volume = 1
+max_close_volume = 500
+min_close_volume = 1
+
+[instruments."SHFE.ss2610"]
+exchange_id = "SHFE"
+ins_name_wh = "不锈钢2610"
+volume_multiple = 5
+price_tick = 5
+price_decs = 0
+py_wh = "bxg,buxiugang"
+product_id = "ss"
+product_short_name = "不锈钢"
+product_short_name_wh = "不锈钢"
+position_limit = 7000
+product_class = "FUTURES"
+id = "ss2610"
+name = "不锈钢2610"
+max_open_volume = 500
+min_open_volume = 1
+max_close_volume = 500
+min_close_volume = 1
+
+[instruments."SHFE.wr2610"]
+exchange_id = "SHFE"
+ins_name_wh = "线材2610"
+volume_multiple = 10
+price_tick = 1
+price_decs = 0
+py_wh = "xc,xiancai"
+product_id = "wr"
+product_short_name = "线材"
+product_short_name_wh = "线材"
+position_limit = 22500
+product_class = "FUTURES"
+id = "wr2610"
+name = "线材2610"
+max_open_volume = 500
+min_open_volume = 1
+max_close_volume = 500
+min_close_volume = 1
+
+[instruments."SHFE.sn2610"]
+exchange_id = "SHFE"
+ins_name_wh = "沪锡2610"
+volume_multiple = 1
+price_tick = 10
+price_decs = 0
+py_wh = "hx,huxi"
+product_id = "sn"
+product_short_name = "沪锡"
+product_short_name_wh = "沪锡"
+position_limit = 1500
+product_class = "FUTURES"
+id = "sn2610"
+name = "沪锡2610"
+max_open_volume = 500
+min_open_volume = 1
+max_close_volume = 500
+min_close_volume = 1
+
+[instruments."SHFE.zn2610"]
+exchange_id = "SHFE"
+ins_name_wh = "沪锌2610"
+volume_multiple = 5
+price_tick = 5
+price_decs = 0
+py_wh = "hx,huxin"
+product_id = "zn"
+product_short_name = "沪锌"
+product_short_name_wh = "沪锌"
+position_limit = 6000
+product_class = "FUTURES"
+id = "zn2610"
+name = "沪锌2610"
+max_open_volume = 500
+min_open_volume = 1
+max_close_volume = 500
+min_close_volume = 1
+
+[instruments."CFFEX.IC2606"]
+exchange_id = "CFFEX"
+ins_name_wh = "中证2606"
+volume_multiple = 200
+price_tick = 0.2
+price_decs = 1
+py_wh = "zz,zhongzheng,500"
+product_id = "IC"
+product_short_name = "中证"
+product_short_name_wh = "中证"
+position_limit = 1200
+product_class = "FUTURES"
+id = "IC2606"
+name = "中证2606"
+max_open_volume = 20
+min_open_volume = 1
+max_close_volume = 20
+min_close_volume = 1
+
+[instruments."CFFEX.IF2606"]
+exchange_id = "CFFEX"
+ins_name_wh = "沪深2606"
+volume_multiple = 300
+price_tick = 0.2
+price_decs = 1
+py_wh = "hs,hushen,300"
+product_id = "IF"
+product_short_name = "沪深"
+product_short_name_wh = "沪深"
+position_limit = 5000
+product_class = "FUTURES"
+id = "IF2606"
+name = "沪深2606"
+max_open_volume = 20
+min_open_volume = 1
+max_close_volume = 20
+min_close_volume = 1
+
+[instruments."CFFEX.IH2606"]
+exchange_id = "CFFEX"
+ins_name_wh = "上证2606"
+volume_multiple = 300
+price_tick = 0.2
+price_decs = 1
+py_wh = "sz,shangzheng,50"
+product_id = "IH"
+product_short_name = "上证"
+product_short_name_wh = "上证"
+position_limit = 1200
+product_class = "FUTURES"
+id = "IH2606"
+name = "上证2606"
+max_open_volume = 20
+min_open_volume = 1
+max_close_volume = 20
+min_close_volume = 1
+
+[instruments."CFFEX.IM2606"]
+exchange_id = "CFFEX"
+ins_name_wh = "IM2606"
+volume_multiple = 200
+price_tick = 0.2
+price_decs = 1
+py_wh = "im,1000"
+product_id = "IM"
+product_short_name = "IM"
+product_short_name_wh = "IM"
+position_limit = 1200
+product_class = "FUTURES"
+id = "IM2606"
+name = "IM2606"
+max_open_volume = 20
+min_open_volume = 1
+max_close_volume = 20
+min_close_volume = 1
+
+[instruments."CZCE.AP610"]
+exchange_id = "CZCE"
+ins_name_wh = "苹果2610"
+volume_multiple = 10
+price_tick = 1
+price_decs = 0
+py_wh = "pg,pingguo"
+product_id = "AP"
+product_short_name = "苹果"
+product_short_name_wh = "苹果"
+position_limit = 1000
+product_class = "FUTURES"
+id = "AP610"
+name = "苹果2610"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."CZCE.CY610"]
+exchange_id = "CZCE"
+ins_name_wh = "棉纱2610"
+volume_multiple = 5
+price_tick = 5
+price_decs = 0
+py_wh = "ms,miansha"
+product_id = "CY"
+product_short_name = "棉纱"
+product_short_name_wh = "棉纱"
+position_limit = 5000
+product_class = "FUTURES"
+id = "CY610"
+name = "棉纱2610"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."CZCE.PF610"]
+exchange_id = "CZCE"
+ins_name_wh = "短纤2610"
+volume_multiple = 5
+price_tick = 2
+price_decs = 0
+py_wh = "dx,duanxian"
+product_id = "PF"
+product_short_name = "短纤"
+product_short_name_wh = "短纤"
+position_limit = 10000
+product_class = "FUTURES"
+id = "PF610"
+name = "短纤2610"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."CZCE.PK610"]
+exchange_id = "CZCE"
+ins_name_wh = "花生仁2610"
+volume_multiple = 5
+price_tick = 2
+price_decs = 0
+py_wh = "hsr,huashengren"
+product_id = "PK"
+product_short_name = "花生仁"
+product_short_name_wh = "花生仁"
+position_limit = 5000
+product_class = "FUTURES"
+id = "PK610"
+name = "花生仁2610"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."CZCE.PL610"]
+exchange_id = "CZCE"
+ins_name_wh = "丙烯2610"
+volume_multiple = 20
+price_tick = 1
+price_decs = 0
+py_wh = "pl,bingxi,bx"
+product_id = "PL"
+product_short_name = "丙烯"
+product_short_name_wh = "丙烯"
+position_limit = 2000
+product_class = "FUTURES"
+id = "PL610"
+name = "丙烯2610"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."CZCE.PR610"]
+exchange_id = "CZCE"
+ins_name_wh = "瓶片2610"
+volume_multiple = 15
+price_tick = 2
+price_decs = 0
+py_wh = "pingpian,pp,pjz"
+product_id = "PR"
+product_short_name = "瓶片"
+product_short_name_wh = "瓶片"
+position_limit = 3000
+product_class = "FUTURES"
+id = "PR610"
+name = "瓶片2610"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."CZCE.PX610"]
+exchange_id = "CZCE"
+ins_name_wh = "对二甲苯2610"
+volume_multiple = 5
+price_tick = 2
+price_decs = 0
+py_wh = "duierjiaben,dejb"
+product_id = "PX"
+product_short_name = "对二甲苯"
+product_short_name_wh = "对二甲苯"
+position_limit = 6000
+product_class = "FUTURES"
+id = "PX610"
+name = "对二甲苯2610"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."CZCE.SA610"]
+exchange_id = "CZCE"
+ins_name_wh = "纯碱2610"
+volume_multiple = 20
+price_tick = 1
+price_decs = 0
+py_wh = "cj,chunjian"
+product_id = "SA"
+product_short_name = "纯碱"
+product_short_name_wh = "纯碱"
+position_limit = 20000
+product_class = "FUTURES"
+id = "SA610"
+name = "纯碱2610"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."CZCE.SH610"]
+exchange_id = "CZCE"
+ins_name_wh = "烧碱2610"
+volume_multiple = 30
+price_tick = 1
+price_decs = 0
+py_wh = "shaojian,sj"
+product_id = "SH"
+product_short_name = "烧碱"
+product_short_name_wh = "烧碱"
+position_limit = 4000
+product_class = "FUTURES"
+id = "SH610"
+name = "烧碱2610"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."CZCE.SM610"]
+exchange_id = "CZCE"
+ins_name_wh = "锰硅2610"
+volume_multiple = 5
+price_tick = 2
+price_decs = 0
+py_wh = "mg,menggui"
+product_id = "SM"
+product_short_name = "锰硅"
+product_short_name_wh = "锰硅"
+position_limit = 30000
+product_class = "FUTURES"
+id = "SM610"
+name = "锰硅2610"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."CZCE.UR610"]
+exchange_id = "CZCE"
+ins_name_wh = "尿素2610"
+volume_multiple = 20
+price_tick = 1
+price_decs = 0
+py_wh = "ns,niaosu"
+product_id = "UR"
+product_short_name = "尿素"
+product_short_name_wh = "尿素"
+position_limit = 10000
+product_class = "FUTURES"
+id = "UR610"
+name = "尿素2610"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."DCE.b2610"]
+exchange_id = "DCE"
+ins_name_wh = "豆二2610"
+volume_multiple = 10
+price_tick = 1
+price_decs = 0
+py_wh = "de,douer"
+product_id = "b"
+product_short_name = "豆二"
+product_short_name_wh = "豆二"
+position_limit = 5000
+product_class = "FUTURES"
+id = "b2610"
+name = "豆二2610"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."DCE.fb2610"]
+exchange_id = "DCE"
+ins_name_wh = "纤板2610"
+volume_multiple = 10
+price_tick = 0.5
+price_decs = 1
+py_wh = "xb,xianban,xwb,xianweiban"
+product_id = "fb"
+product_short_name = "纤板"
+product_short_name_wh = "纤板"
+position_limit = 30000
+product_class = "FUTURES"
+id = "fb2610"
+name = "纤板2610"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."DCE.i2610"]
+exchange_id = "DCE"
+ins_name_wh = "铁矿2610"
+volume_multiple = 100
+price_tick = 0.5
+price_decs = 1
+py_wh = "tk,tiekuang"
+product_id = "i"
+product_short_name = "铁矿"
+product_short_name_wh = "铁矿"
+position_limit = 7500
+product_class = "FUTURES"
+id = "i2610"
+name = "铁矿2610"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."DCE.j2610"]
+exchange_id = "DCE"
+ins_name_wh = "焦炭2610"
+volume_multiple = 100
+price_tick = 0.5
+price_decs = 1
+py_wh = "jt,jiaotan"
+product_id = "j"
+product_short_name = "焦炭"
+product_short_name_wh = "焦炭"
+position_limit = 5000
+product_class = "FUTURES"
+id = "j2610"
+name = "焦炭2610"
+max_open_volume = 500
+min_open_volume = 1
+max_close_volume = 500
+min_close_volume = 1
+
+[instruments."DCE.jm2610"]
+exchange_id = "DCE"
+ins_name_wh = "焦煤2610"
+volume_multiple = 60
+price_tick = 0.5
+price_decs = 1
+py_wh = "jm,jiaomei"
+product_id = "jm"
+product_short_name = "焦煤"
+product_short_name_wh = "焦煤"
+position_limit = 8000
+product_class = "FUTURES"
+id = "jm2610"
+name = "焦煤2610"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."DCE.l2610"]
+exchange_id = "DCE"
+ins_name_wh = "塑料2610"
+volume_multiple = 5
+price_tick = 1
+price_decs = 0
+py_wh = "sl,suliao"
+product_id = "l"
+product_short_name = "塑料"
+product_short_name_wh = "塑料"
+position_limit = 16000
+product_class = "FUTURES"
+id = "l2610"
+name = "塑料2610"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."DCE.p2610"]
+exchange_id = "DCE"
+ins_name_wh = "棕榈2610"
+volume_multiple = 10
+price_tick = 2
+price_decs = 0
+py_wh = "zl,zonglv"
+product_id = "p"
+product_short_name = "棕榈"
+product_short_name_wh = "棕榈"
+position_limit = 5000
+product_class = "FUTURES"
+id = "p2610"
+name = "棕榈2610"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."DCE.pp2610"]
+exchange_id = "DCE"
+ins_name_wh = "聚丙烯2610"
+volume_multiple = 5
+price_tick = 1
+price_decs = 0
+py_wh = "jbx, jvbingxi"
+product_id = "pp"
+product_short_name = "PP"
+product_short_name_wh = "聚丙烯"
+position_limit = 16000
+product_class = "FUTURES"
+id = "pp2610"
+name = "PP2610"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."DCE.rr2610"]
+exchange_id = "DCE"
+ins_name_wh = "粳米2610"
+volume_multiple = 10
+price_tick = 1
+price_decs = 0
+py_wh = "jm,jingmi"
+product_id = "rr"
+product_short_name = "粳米"
+product_short_name_wh = "粳米"
+position_limit = 20000
+product_class = "FUTURES"
+id = "rr2610"
+name = "粳米2610"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."DCE.v2610"]
+exchange_id = "DCE"
+ins_name_wh = "PVC2610"
+volume_multiple = 5
+price_tick = 1
+price_decs = 0
+py_wh = "pvc"
+product_id = "v"
+product_short_name = "PVC"
+product_short_name_wh = "PVC"
+position_limit = 16000
+product_class = "FUTURES"
+id = "v2610"
+name = "PVC2610"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."GFEX.lc2610"]
+exchange_id = "GFEX"
+ins_name_wh = "碳酸锂2610"
+volume_multiple = 1
+price_tick = 20
+price_decs = 0
+py_wh = "tsl,tansuanli"
+product_id = "lc"
+product_short_name = "碳酸锂"
+product_short_name_wh = "碳酸锂"
+position_limit = 3000
+product_class = "FUTURES"
+id = "lc2610"
+name = "碳酸锂2610"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."GFEX.ps2610"]
+exchange_id = "GFEX"
+ins_name_wh = "多晶硅2610"
+volume_multiple = 3
+price_tick = 5
+price_decs = 0
+py_wh = "duojinggui,djg"
+product_id = "ps"
+product_short_name = "多晶硅"
+product_short_name_wh = "多晶硅"
+position_limit = 3000
+product_class = "FUTURES"
+id = "ps2610"
+name = "多晶硅2610"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."GFEX.si2610"]
+exchange_id = "GFEX"
+ins_name_wh = "工业硅2610"
+volume_multiple = 5
+price_tick = 5
+price_decs = 0
+py_wh = "gyg,gongyegui"
+product_id = "si"
+product_short_name = "工业硅"
+product_short_name_wh = "工业硅"
+position_limit = 3000
+product_class = "FUTURES"
+id = "si2610"
+name = "工业硅2610"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."INE.ec2610"]
+exchange_id = "INE"
+ins_name_wh = "欧线集运2610"
+volume_multiple = 50
+price_tick = 0.1
+price_decs = 1
+py_wh = "jyzs,jiyunzhishu,ozhx,ouzhouhangxian,ouxianjiyunzhishu,oxjyzs，ouxianjiyun,oxjy"
+product_id = "ec"
+product_short_name = "欧线集运"
+product_short_name_wh = "欧线集运"
+position_limit = 1200
+product_class = "FUTURES"
+id = "ec2610"
+name = "欧线集运2610"
+max_open_volume = 500
+min_open_volume = 1
+max_close_volume = 500
+min_close_volume = 1
+
+[instruments."DCE.bz2610"]
+exchange_id = "DCE"
+ins_name_wh = "纯苯2610"
+volume_multiple = 30
+price_tick = 1
+price_decs = 0
+py_wh = "bz,chunben,cb"
+product_id = "bz"
+product_short_name = "纯苯"
+product_short_name_wh = "纯苯"
+position_limit = 2000
+product_class = "FUTURES"
+id = "bz2610"
+name = "纯苯2610"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."DCE.eb2610"]
+exchange_id = "DCE"
+ins_name_wh = "苯乙烯2610"
+volume_multiple = 5
+price_tick = 1
+price_decs = 0
+py_wh = "byx,benyixi"
+product_id = "eb"
+product_short_name = "苯乙烯"
+product_short_name_wh = "苯乙烯"
+position_limit = 12000
+product_class = "FUTURES"
+id = "eb2610"
+name = "苯乙烯2610"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."DCE.eg2610"]
+exchange_id = "DCE"
+ins_name_wh = "乙二醇2610"
+volume_multiple = 10
+price_tick = 1
+price_decs = 0
+py_wh = "gc,ganchun,yec,yierchun"
+product_id = "eg"
+product_short_name = "甘醇"
+product_short_name_wh = "乙二醇"
+position_limit = 8000
+product_class = "FUTURES"
+id = "eg2610"
+name = "甘醇2610"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."DCE.jd2610"]
+exchange_id = "DCE"
+ins_name_wh = "鸡蛋2610"
+volume_multiple = 10
+price_tick = 1
+price_decs = 0
+py_wh = "jd,jidan"
+product_id = "jd"
+product_short_name = "鸡蛋"
+product_short_name_wh = "鸡蛋"
+position_limit = 1200
+product_class = "FUTURES"
+id = "jd2610"
+name = "鸡蛋2610"
+max_open_volume = 300
+min_open_volume = 1
+max_close_volume = 300
+min_close_volume = 1
+
+[instruments."DCE.l2602F"]
+exchange_id = "DCE"
+ins_name_wh = "月均塑料2602"
+volume_multiple = 5
+price_tick = 1
+price_decs = 0
+py_wh = "sl,suliao"
+product_id = "l"
+product_short_name = "月均塑料"
+product_short_name_wh = "月均塑料"
+position_limit = 4000
+product_class = "FUTURES"
+id = "l2602F"
+name = "月均塑料2602"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."DCE.l2603F"]
+exchange_id = "DCE"
+ins_name_wh = "月均塑料2603"
+volume_multiple = 5
+price_tick = 1
+price_decs = 0
+py_wh = "sl,suliao"
+product_id = "l"
+product_short_name = "月均塑料"
+product_short_name_wh = "月均塑料"
+position_limit = 4000
+product_class = "FUTURES"
+id = "l2603F"
+name = "月均塑料2603"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."DCE.l2604F"]
+exchange_id = "DCE"
+ins_name_wh = "月均塑料2604"
+volume_multiple = 5
+price_tick = 1
+price_decs = 0
+py_wh = "sl,suliao"
+product_id = "l"
+product_short_name = "月均塑料"
+product_short_name_wh = "月均塑料"
+position_limit = 4000
+product_class = "FUTURES"
+id = "l2604F"
+name = "月均塑料2604"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."DCE.pg2610"]
+exchange_id = "DCE"
+ins_name_wh = "液化气2610"
+volume_multiple = 20
+price_tick = 1
+price_decs = 0
+py_wh = "yhq,yehuaqi,yehuashiyouqi,yhsyq,shiyouqi"
+product_id = "pg"
+product_short_name = "LPG"
+product_short_name_wh = "液化气"
+position_limit = 8000
+product_class = "FUTURES"
+id = "pg2610"
+name = "LPG2610"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."DCE.pp2602F"]
+exchange_id = "DCE"
+ins_name_wh = "月均聚丙烯2602"
+volume_multiple = 5
+price_tick = 1
+price_decs = 0
+py_wh = "jbx, jvbingxi"
+product_id = "pp"
+product_short_name = "月均PP"
+product_short_name_wh = "月均聚丙烯"
+position_limit = 4000
+product_class = "FUTURES"
+id = "pp2602F"
+name = "月均PP2602"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."DCE.pp2603F"]
+exchange_id = "DCE"
+ins_name_wh = "月均聚丙烯2603"
+volume_multiple = 5
+price_tick = 1
+price_decs = 0
+py_wh = "jbx, jvbingxi"
+product_id = "pp"
+product_short_name = "月均PP"
+product_short_name_wh = "月均聚丙烯"
+position_limit = 4000
+product_class = "FUTURES"
+id = "pp2603F"
+name = "月均PP2603"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."DCE.pp2604F"]
+exchange_id = "DCE"
+ins_name_wh = "月均聚丙烯2604"
+volume_multiple = 5
+price_tick = 1
+price_decs = 0
+py_wh = "jbx, jvbingxi"
+product_id = "pp"
+product_short_name = "月均PP"
+product_short_name_wh = "月均聚丙烯"
+position_limit = 4000
+product_class = "FUTURES"
+id = "pp2604F"
+name = "月均PP2604"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."DCE.v2602F"]
+exchange_id = "DCE"
+ins_name_wh = "月均PVC2602"
+volume_multiple = 5
+price_tick = 1
+price_decs = 0
+py_wh = "pvc"
+product_id = "v"
+product_short_name = "月均PVC"
+product_short_name_wh = "月均PVC"
+position_limit = 4000
+product_class = "FUTURES"
+id = "v2602F"
+name = "月均PVC2602"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."DCE.v2603F"]
+exchange_id = "DCE"
+ins_name_wh = "月均PVC2603"
+volume_multiple = 5
+price_tick = 1
+price_decs = 0
+py_wh = "pvc"
+product_id = "v"
+product_short_name = "月均PVC"
+product_short_name_wh = "月均PVC"
+position_limit = 4000
+product_class = "FUTURES"
+id = "v2603F"
+name = "月均PVC2603"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."DCE.v2604F"]
+exchange_id = "DCE"
+ins_name_wh = "月均PVC2604"
+volume_multiple = 5
+price_tick = 1
+price_decs = 0
+py_wh = "pvc"
+product_id = "v"
+product_short_name = "月均PVC"
+product_short_name_wh = "月均PVC"
+position_limit = 4000
+product_class = "FUTURES"
+id = "v2604F"
+name = "月均PVC2604"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."INE.lu2611"]
+exchange_id = "INE"
+ins_name_wh = "低硫油2611"
+volume_multiple = 10
+price_tick = 1
+price_decs = 0
+py_wh = "dly,diliuyou"
+product_id = "lu"
+product_short_name = "低硫燃料油"
+product_short_name_wh = "低硫油"
+position_limit = 10000
+product_class = "FUTURES"
+id = "lu2611"
+name = "低硫燃料油2611"
+max_open_volume = 500
+min_open_volume = 1
+max_close_volume = 500
+min_close_volume = 1
+
+[instruments."INE.sc2611"]
+exchange_id = "INE"
+ins_name_wh = "原油2611"
+volume_multiple = 1000
+price_tick = 0.1
+price_decs = 1
+py_wh = "yy,yuanyou"
+product_id = "sc"
+product_short_name = "原油"
+product_short_name_wh = "原油"
+position_limit = 3000
+product_class = "FUTURES"
+id = "sc2611"
+name = "原油2611"
+max_open_volume = 500
+min_open_volume = 1
+max_close_volume = 500
+min_close_volume = 1
+
+[instruments."DCE.l2605F"]
+exchange_id = "DCE"
+ins_name_wh = "月均塑料2605"
+volume_multiple = 5
+price_tick = 1
+price_decs = 0
+py_wh = "sl,suliao"
+product_id = "l"
+product_short_name = "月均塑料"
+product_short_name_wh = "月均塑料"
+position_limit = 4000
+product_class = "FUTURES"
+id = "l2605F"
+name = "月均塑料2605"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."DCE.pp2605F"]
+exchange_id = "DCE"
+ins_name_wh = "月均聚丙烯2605"
+volume_multiple = 5
+price_tick = 1
+price_decs = 0
+py_wh = "jbx, jvbingxi"
+product_id = "pp"
+product_short_name = "月均PP"
+product_short_name_wh = "月均聚丙烯"
+position_limit = 4000
+product_class = "FUTURES"
+id = "pp2605F"
+name = "月均PP2605"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."DCE.v2605F"]
+exchange_id = "DCE"
+ins_name_wh = "月均PVC2605"
+volume_multiple = 5
+price_tick = 1
+price_decs = 0
+py_wh = "pvc"
+product_id = "v"
+product_short_name = "月均PVC"
+product_short_name_wh = "月均PVC"
+position_limit = 4000
+product_class = "FUTURES"
+id = "v2605F"
+name = "月均PVC2605"
+max_open_volume = 1000
+min_open_volume = 1
+max_close_volume = 1000
+min_close_volume = 1
+
+[instruments."SHFE.fu2611"]
+exchange_id = "SHFE"
+ins_name_wh = "燃油2611"
+volume_multiple = 10
+price_tick = 1
+price_decs = 0
+py_wh = "ry,ranyou,rly"
+product_id = "fu"
+product_short_name = "燃油"
+product_short_name_wh = "燃油"
+product_class = "FUTURES"
+id = "fu2611"
+name = "燃油2611"
+max_open_volume = 500
+min_open_volume = 1
+max_close_volume = 500
+min_close_volume = 1
+
 [instruments."CZCE.CF605".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 night = [ [ "21:00:00", "23:00:00",],]
@@ -15869,7 +16191,19 @@ night = [ [ "21:00:00", "23:00:00",],]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 night = [ [ "21:00:00", "23:00:00",],]
 
+[instruments."CZCE.TA610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."CZCE.FG610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
 [instruments."CZCE.MA608".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."CZCE.ZC610".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 night = [ [ "21:00:00", "23:00:00",],]
 
@@ -15938,6 +16272,10 @@ night = [ [ "21:00:00", "23:00:00",],]
 [instruments."CZCE.RI609".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
+[instruments."CZCE.MA610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
 [instruments."CZCE.PM603".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
@@ -15962,6 +16300,9 @@ day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "1
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."CZCE.RI607".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+
+[instruments."CZCE.SF610".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."CZCE.PM607".trading_time]
@@ -16014,242 +16355,7 @@ night = [ [ "21:00:00", "23:00:00",],]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 night = [ [ "21:00:00", "26:30:00",],]
 
-[instruments."SHFE.au2510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
-
 [instruments."SHFE.bu2609".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."DCE.eb2509".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."DCE.eg2509".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."DCE.jd2509".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-
-[instruments."DCE.lh2509".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-
-[instruments."DCE.pg2509".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."INE.lu2510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."INE.sc2510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
-
-[instruments."SHFE.fu2510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."CZCE.ZC510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."INE.bc2510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
-
-[instruments."INE.nr2510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."SHFE.ag2510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
-
-[instruments."SHFE.al2510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
-
-[instruments."SHFE.ao2510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
-
-[instruments."SHFE.br2510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."SHFE.bu2510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."SHFE.cu2510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
-
-[instruments."SHFE.pb2510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
-
-[instruments."SHFE.ni2510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
-
-[instruments."SHFE.hc2510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."SHFE.rb2510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."SHFE.sn2510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
-
-[instruments."SHFE.sp2510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."SHFE.ss2510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
-
-[instruments."SHFE.wr2510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-
-[instruments."SHFE.ru2510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."SHFE.zn2510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "25:00:00",],]
-
-[instruments."CZCE.AP510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-
-[instruments."CZCE.CY510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."CZCE.FG510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."CZCE.MA510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."CZCE.PF510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."CZCE.PK510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-
-[instruments."CZCE.PR510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."CZCE.PX510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."CZCE.SA510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."CZCE.SF510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-
-[instruments."CZCE.SH510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."CZCE.SM510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-
-[instruments."CZCE.TA510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."CZCE.UR510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-
-[instruments."DCE.b2510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."DCE.fb2510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-
-[instruments."DCE.i2510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."DCE.j2510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."DCE.jm2510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."DCE.l2510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."DCE.p2510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."DCE.pp2510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."DCE.rr2510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."DCE.v2510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."GFEX.lc2510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-
-[instruments."GFEX.si2510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-
-[instruments."INE.ec2510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-
-[instruments."DCE.eb2510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."DCE.eg2510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."DCE.jd2510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-
-[instruments."DCE.pg2510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."INE.lu2511".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."INE.sc2511".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
-night = [ [ "21:00:00", "26:30:00",],]
-
-[instruments."SHFE.fu2511".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 night = [ [ "21:00:00", "23:00:00",],]
 
@@ -16414,9 +16520,6 @@ night = [ [ "21:00:00", "25:00:00",],]
 [instruments."INE.nr2511".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 night = [ [ "21:00:00", "23:00:00",],]
-
-[instruments."DCE.lg2509".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."DCE.lg2511".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
@@ -16695,9 +16798,6 @@ day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "1
 [instruments."SHFE.zn2512".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 night = [ [ "21:00:00", "25:00:00",],]
-
-[instruments."GFEX.ps2510".trading_time]
-day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
 [instruments."GFEX.ps2511".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
@@ -18490,18 +18590,6 @@ night = [ [ "21:00:00", "23:00:00",],]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 night = [ [ "21:00:00", "25:00:00",],]
 
-[instruments."CFFEX.IC2510".trading_time]
-day = [ [ "09:30:00", "11:30:00",], [ "13:00:00", "15:00:00",],]
-
-[instruments."CFFEX.IF2510".trading_time]
-day = [ [ "09:30:00", "11:30:00",], [ "13:00:00", "15:00:00",],]
-
-[instruments."CFFEX.IH2510".trading_time]
-day = [ [ "09:30:00", "11:30:00",], [ "13:00:00", "15:00:00",],]
-
-[instruments."CFFEX.IM2510".trading_time]
-day = [ [ "09:30:00", "11:30:00",], [ "13:00:00", "15:00:00",],]
-
 [instruments."INE.ec2608".trading_time]
 day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
 
@@ -18779,3 +18867,305 @@ day = [ [ "09:30:00", "11:30:00",], [ "13:00:00", "15:00:00",],]
 
 [instruments."CFFEX.IM2511".trading_time]
 day = [ [ "09:30:00", "11:30:00",], [ "13:00:00", "15:00:00",],]
+
+[instruments."DCE.bz2609".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."DCE.eb2609".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."DCE.eg2609".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."DCE.jd2609".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+
+[instruments."DCE.lg2609".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+
+[instruments."DCE.lh2609".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+
+[instruments."DCE.pg2609".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."INE.lu2610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."INE.sc2610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "26:30:00",],]
+
+[instruments."SHFE.fu2610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."INE.bc2610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "25:00:00",],]
+
+[instruments."INE.nr2610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."SHFE.ad2610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "25:00:00",],]
+
+[instruments."SHFE.ag2610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "26:30:00",],]
+
+[instruments."SHFE.ao2610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "25:00:00",],]
+
+[instruments."SHFE.al2610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "25:00:00",],]
+
+[instruments."SHFE.au2601".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "26:30:00",],]
+
+[instruments."SHFE.bu2610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."SHFE.br2610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."SHFE.cu2610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "25:00:00",],]
+
+[instruments."SHFE.hc2610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."SHFE.ni2610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "25:00:00",],]
+
+[instruments."SHFE.pb2610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "25:00:00",],]
+
+[instruments."SHFE.op2610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."SHFE.ru2610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."SHFE.rb2610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."SHFE.sp2610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."SHFE.ss2610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "25:00:00",],]
+
+[instruments."SHFE.wr2610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+
+[instruments."SHFE.sn2610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "25:00:00",],]
+
+[instruments."SHFE.zn2610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "25:00:00",],]
+
+[instruments."CFFEX.IC2606".trading_time]
+day = [ [ "09:30:00", "11:30:00",], [ "13:00:00", "15:00:00",],]
+
+[instruments."CFFEX.IF2606".trading_time]
+day = [ [ "09:30:00", "11:30:00",], [ "13:00:00", "15:00:00",],]
+
+[instruments."CFFEX.IH2606".trading_time]
+day = [ [ "09:30:00", "11:30:00",], [ "13:00:00", "15:00:00",],]
+
+[instruments."CFFEX.IM2606".trading_time]
+day = [ [ "09:30:00", "11:30:00",], [ "13:00:00", "15:00:00",],]
+
+[instruments."CZCE.AP610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+
+[instruments."CZCE.CY610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."CZCE.PF610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."CZCE.PK610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+
+[instruments."CZCE.PL610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."CZCE.PR610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."CZCE.PX610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."CZCE.SA610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."CZCE.SH610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."CZCE.SM610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+
+[instruments."CZCE.UR610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+
+[instruments."DCE.b2610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."DCE.fb2610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+
+[instruments."DCE.i2610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."DCE.j2610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."DCE.jm2610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."DCE.l2610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."DCE.p2610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."DCE.pp2610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."DCE.rr2610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."DCE.v2610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."GFEX.lc2610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+
+[instruments."GFEX.ps2610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+
+[instruments."GFEX.si2610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+
+[instruments."INE.ec2610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+
+[instruments."DCE.bz2610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."DCE.eb2610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."DCE.eg2610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."DCE.jd2610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+
+[instruments."DCE.l2602F".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."DCE.l2603F".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."DCE.l2604F".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."DCE.pg2610".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."DCE.pp2602F".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."DCE.pp2603F".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."DCE.pp2604F".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."DCE.v2602F".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."DCE.v2603F".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."DCE.v2604F".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."INE.lu2611".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."INE.sc2611".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "26:30:00",],]
+
+[instruments."DCE.l2605F".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."DCE.pp2605F".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."DCE.v2605F".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
+
+[instruments."SHFE.fu2611".trading_time]
+day = [ [ "09:00:00", "10:15:00",], [ "10:30:00", "11:30:00",], [ "13:30:00", "15:00:00",],]
+night = [ [ "21:00:00", "23:00:00",],]
